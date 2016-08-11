@@ -40,28 +40,7 @@ Plug 'tpope/vim-unimpaired'
 Plug 'tpope/vim-fugitive'
 let g:fugitive_github_domains = ['github.com', 'git.musta.ch']
 
-" ctrlp fuzzy matcher
-" ----------------------------------------------------------------------
-Plug 'ctrlpvim/ctrlp.vim'
-" use ag to index
-let g:ctrlp_user_command = 'ag %s -i --nocolor --nogroup --hidden
-      \ --ignore .git
-      \ --ignore .svn
-      \ --ignore .hg
-      \ --ignore .DS_Store
-      \ --ignore "**/*.pyc"
-      \ -g ""'
-
-" faster python-based matcher for ctrlp
-Plug 'FelikZ/ctrlp-py-matcher'
-let g:ctrlp_match_func = { 'match': 'pymatcher#PyMatch' }
-
-" Only refreshes the results every 100ms so if you
-" you type fast searches don't pile up
-let g:ctrlp_lazy_update = 100 
-
-" Trying out fzf
-" ----------------------------------------------------------------------
+" fzf ------------------------------------------------------------------
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 
@@ -117,13 +96,21 @@ autocmd VimEnter * command! -nargs=* -bang FzfAg call s:ag_with_opts(<q-args>, <
 " ag word under cursor
 nnoremap <silent> <Leader>ag :FzfAg <C-R><C-W><CR>
 
-" fzf leader bindings
+" respect .gitignore
+let $FZF_DEFAULT_COMMAND = 'ag -g ""'
+
+" fzf leader bindings and other shortcuts
 nnoremap <silent> <Leader>f :FzfFiles<CR>
 nnoremap <silent> <Leader>b :FzfBuffers<CR>
 nnoremap <silent> <Leader>l :FzfLines<CR>
-nnoremap <silent> <Leader>a :FzfAg 
+" re-enable after figuring out how to use 'gag' operator to call FzfAg
+" nnoremap <silent> <Leader>a :FzfAg
+CommandCabbr ag FzfAg
 
 " ----------------------------------------------------------------------
+
+" Use gag operator to do a FzfAg search
+Plug 'owenlin0/vim-action-ag'
 
 Plug 'pangloss/vim-javascript' " required for vim-jsx plugin to work
 Plug 'mxw/vim-jsx' " syntax highlighting for JSX files
@@ -195,22 +182,26 @@ let g:syntastic_ruby_rubocop_args = "-c /Users/owen_lin/repos/airbnb/.rubocop.ym
 " Debug syntastic
 " let g:syntastic_debug=1
 
-" Fzf still somehow overrides this: https://github.com/junegunn/fzf.vim/issues/83
-Plug 'rking/ag.vim' | Plug 'Chun-Yang/vim-action-ag'
-" This plugin is GARBAGE
-" Need to:
-" 1) Don't open the first result by default
-" 2) On e or <CR>, open in the last focused window
-" 3) On h or v, open to the right or bottom of last focused window
-" Related issue, but no real resolution:
-" https://github.com/rking/ag.vim/issues/92
-
 " Easily define new text objects
 Plug 'kana/vim-textobj-user'
 
+" ------ Custom text objects (requires kana/vim-textobj-user) ------
 " Ruby text objects (method text objects already work, but this adds support
 " for Ruby blocks)
-Plug 'nelstrom/vim-textobj-rubyblock' " requires kana/vim-textobj-user
+" ir/ar
+Plug 'nelstrom/vim-textobj-rubyblock'
+
+" Improved text objects and allows forward/backward seeking
+Plug 'wellle/targets.vim'
+
+" Comment text object
+" ic/ac
+Plug 'glts/vim-textobj-comment'
+
+" Text object for sections of camelCase or snake_case
+" iv/av
+Plug 'Julian/vim-textobj-variable-segment'
+" ------ end custom text objects ------
 
 " Hive syntax highlighting
 Plug 'autowitch/hive.vim'
@@ -256,6 +247,16 @@ set expandtab
 set modifiable " to create files/directories in NERDTree
 set splitbelow
 set splitright
+
+" Improve automatic formatting
+if v:version > 703 || v:version == 703 && has('patch541')
+  set formatoptions+=j " remove comment leader when joining comment lines
+endif
+
+set formatoptions+=c " auto-wrap comments using textwidth
+set formatoptions+=n " smart auto-indenting inside numbered lists
+set formatoptions+=q " allow formatting of comments with `gq`
+set nojoinspaces " don't autoinsert two spaces after '.', '?', '!' for join command
 
 " *** strip trailing whitespace for certain files
 fun! <SID>StripTrailingWhitespaces()
@@ -339,6 +340,9 @@ noremap H ^
 noremap L $
 
 " ------ Leader mappings ------
+" Easy save
+nnoremap <Leader>w :w<CR>
+
 " Simplify system clipboard interaction
 nnoremap <Leader>y "+y
 vnoremap <Leader>y "+y
