@@ -162,7 +162,6 @@ let g:syntastic_enable_signs = 1
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
-let g:syntastic_check_on_open = 1
 " custom settings
 let g:syntastic_mode_map = {
   \ "mode": "active",
@@ -208,6 +207,12 @@ Plug 'autowitch/hive.vim'
 
 Plug 'justinmk/vim-sneak'
 
+" Easy window swapping
+Plug 'wesQ3/vim-windowswap'
+
+let g:windowswap_map_keys = 0 "prevent default bindings
+nnoremap <silent> <leader>mw :call WindowSwap#EasyWindowSwap()<CR>
+
 " ------ Ultisnips ------
 Plug 'SirVer/ultisnips'
 " Trigger configuration
@@ -219,10 +224,17 @@ let g:UltiSnipsEditSplit="vertical"
 let g:UltiSnipsSnippetDirectories=[$HOME.'/.vim/ultisnips']
 " ------ end Ultisnips ------
 
+" color schemes
+Plug 'junegunn/seoul256.vim'
+
 call plug#end()            " required
 
 " Non-plugin related setup 
-color desert
+
+" color desert
+let g:seoul256_background = 233
+color seoul256
+
 filetype plugin indent on
 set nu
 set backspace=indent,eol,start
@@ -328,9 +340,10 @@ xnoremap & :&&<CR>
 " Set up omni complete, accessed with <C-x><C-o> in insert mode
 set omnifunc=syntaxcomplete#Complete
 
-" Trying out jj/jk to exit insert mode
+" Trying out jj/jk/fd to exit insert mode
 inoremap jj <Esc>
 inoremap jk <Esc>
+inoremap fd <Esc>
 
 " Make Y yank to end of line
 nnoremap Y y$
@@ -338,6 +351,19 @@ nnoremap Y y$
 " Remap H and L to be ^ and $ respectively
 noremap H ^
 noremap L $
+
+" Use gj and gk by default
+nnoremap j gj
+nnoremap k gk
+
+" Easily apply a macro over lines in a visual selection
+" Highlight then type @<register
+xnoremap @ :<C-u>call ExecuteMacroOverVisualRange()<CR>
+
+function! ExecuteMacroOverVisualRange()
+  echo "@".getcmdline()
+  execute ":'<,'>normal @".nr2char(getchar())
+endfunction
 
 " ------ Leader mappings ------
 " Easy save
@@ -374,9 +400,7 @@ nnoremap <leader>er :vsplit $HOME/.vim/searchreplace.vim<cr>
 
 " Nice feature for .txt files, set wrap and only break on whitespace
 " http://stackoverflow.com/questions/19624105/how-can-i-make-vim-break-lines-only-on-whitespace
-" :set nolist wrap linebreak breakat&vim
-" nnoremap j gj
-" nnoremap k gk
+autocmd BufNewFile,BufRead *.txt setlocal tw=80 nolist wrap linebreak breakat&vim
 
 " Hive syntax highlighting (using autowitch/hive.vim plugin)
 " .hql
