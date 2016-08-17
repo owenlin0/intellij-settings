@@ -46,7 +46,8 @@ alias prune='git remote prune origin'
 alias undo='git reset --soft HEAD~ && git reset HEAD'
 alias lerf="vagrant ssh -c \"'cd ~/repos/data/airflow/metrics_repo/deploy && ./dev_load_redis'\""
 alias bluetooth="sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport && sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
-alias gat="ctags -R --languages=-javascript"
+alias gat="ctags -R --languages=-javascript --exclude=.git --exclude=node_modules --exclude=*.txt"
+alias egat="ctags -e -R --languages=ruby --exclude=.git --exclude=node_modules --exclude=log ."
 # alias tmuxa="tmux attach -d"
 alias rc1="ssh owen_lin@rc1.musta.ch"
 alias hive="ssh owen_lin@gw1.silver.musta.ch"

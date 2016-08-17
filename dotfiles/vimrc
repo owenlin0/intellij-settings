@@ -345,6 +345,9 @@ inoremap jj <Esc>
 inoremap jk <Esc>
 inoremap fd <Esc>
 
+" Use fd to exit visual mode (like spacemacs)
+vnoremap fd <Esc>
+
 " Make Y yank to end of line
 nnoremap Y y$
 
