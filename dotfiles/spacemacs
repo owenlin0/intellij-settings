@@ -143,7 +143,7 @@ values."
    ;; and TAB or <C-m> and RET.
    ;; In the terminal, these pairs are generally indistinguishable, so this only
    ;; works in the GUI. (default nil)
-   dotspacemacs-distinguish-gui-tab 1
+   dotspacemacs-distinguish-gui-tab t
    ;; (Not implemented) dotspacemacs-distinguish-gui-ret nil
    ;; The command key used for Evil commands (ex-commands) and
    ;; Emacs commands (M-x).
@@ -245,7 +245,7 @@ values."
    ;; `trailing' to delete only the whitespace at end of lines, `changed'to
    ;; delete only whitespace for changed lines or `nil' to disable cleanup.
    ;; (default nil)
-   dotspacemacs-whitespace-cleanup nil
+   dotspacemacs-whitespace-cleanup 'trailing
    ))
 
 (defun dotspacemacs/user-init ()
@@ -298,23 +298,20 @@ you should place your code here."
    web-mode-attr-indent-offset 2)
 
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
-  ;; (superword-mode 1) ;; this should set it for Emacs bindings
+  (superword-mode 1) ;; this should set it for Emacs bindings
   ;; For python
   (add-hook 'python-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   ;; For ruby
   (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  ;; For Javascript
+  ;; For javascript
   (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
+  ;; For yaml
+  (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
 
-  ;; Use C-] to jump to tag with more features (?)
-  ;; http://emacs.stackexchange.com/questions/608/evil-map-keybindings-the-vim-way
-  ;; (defun my-jump-to-tag ()
-  ;;   (interactive)
-  ;;   (evil-emacs-state)
-  ;;   (call-interactively (key-binding (kbd "M-.")))
-  ;;   (evil-change-to-previous-state (other-buffer))
-  ;;   (evil-change-to-previous-state (current-buffer)))
-  ;; (define-key evil-normal-state-map (kbd "C-]") 'my-jump-to-tag)
+  ;; clear search highlighting with <C-l>
+  ;; For now, clear it with SPC s c
+  ;; (with-eval-after-load 'evil-maps
+  ;;   (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all))
 
   )
 
