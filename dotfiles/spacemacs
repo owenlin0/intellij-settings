@@ -266,6 +266,11 @@ explicitly specified that a variable should be set before a package is loaded,
 you should place your code here."
   (use-package discover-my-major
     :defer t)
+
+  ;; start maximized
+  (custom-set-variables
+   '(initial-frame-alist (quote ((fullscreen . maximized)))))
+
   (setq-default evil-escape-key-sequence "fd")
 
   ;; These bindings don't work
@@ -276,15 +281,27 @@ you should place your code here."
 
   (setq-default evil-search-module 'evil-search)
 
-  ;; Normal mode mappings
-  (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
-  (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
-  (define-key evil-normal-state-map (kbd "H") 'back-to-indentation)
-  (define-key evil-normal-state-map (kbd "L") 'end-of-line)
+  (with-eval-after-load 'evil-maps
+    ;; Normal mode mappings
+    (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
+    (define-key evil-normal-state-map (kbd "k") 'evil-previous-visual-line)
+    (define-key evil-normal-state-map (kbd "H") 'back-to-indentation)
+    (define-key evil-normal-state-map (kbd "L") 'end-of-line)
+    (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all)
 
-  ;; Insert mode mappings
-  (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
-  (define-key evil-motion-state-map (kbd "L") 'end-of-line)
+    ;; Insert mode mappings
+    (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
+    (define-key evil-motion-state-map (kbd "L") 'end-of-line)
+
+    ;; Window mappings (commands prefixed with <C-w>)
+    ;; <C-w> h/j/k/l work by default.
+    ;; To be less nitpicky, bind <C-w> <C-h/j/k/l> as well.
+    (define-key evil-window-map (kbd "C-h") 'evil-window-left)
+    (define-key evil-window-map (kbd "C-j") 'evil-window-down)
+    (define-key evil-window-map (kbd "C-k") 'evil-window-up)
+    (define-key evil-window-map (kbd "C-l") 'evil-window-right)
+    )
+
 
   ;; To have a consistent 2 spaces indenting both on js and jsx
   (setq-default
@@ -307,11 +324,6 @@ you should place your code here."
   (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   ;; For yaml
   (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-
-  ;; clear search highlighting with <C-l>
-  ;; For now, clear it with SPC s c
-  ;; (with-eval-after-load 'evil-maps
-  ;;   (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all))
 
   )
 
