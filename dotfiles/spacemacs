@@ -39,6 +39,7 @@ values."
      html
      react
      yaml
+     sql
 
      ;; (shell :variables
      ;;        shell-default-height 30
@@ -133,7 +134,7 @@ values."
    dotspacemacs-emacs-leader-key "M-m"
    ;; Major mode leader key is a shortcut key which is the equivalent of
    ;; pressing `<leader> m`. Set it to `nil` to disable it. (default ",")
-   dotspacemacs-major-mode-leader-key ","
+   dotspacemacs-major-mode-leader-key nil
    ;; Major mode leader key accessible in `emacs state' and `insert state'.
    ;; (default "C-M-m)
    dotspacemacs-major-mode-emacs-leader-key "C-M-m"
@@ -203,7 +204,7 @@ values."
    ;; If non nil the frame is maximized when Emacs starts up.
    ;; Takes effect only if `dotspacemacs-fullscreen-at-startup' is nil.
    ;; (default nil) (Emacs 24.4+ only)
-   dotspacemacs-maximized-at-startup nil
+   dotspacemacs-maximized-at-startup t
    ;; A value from the range (0..100), in increasing opacity, which describes
    ;; the transparency level of a frame when it's active or selected.
    ;; Transparency can be toggled through `toggle-transparency'. (default 90)
@@ -267,17 +268,11 @@ you should place your code here."
   (use-package discover-my-major
     :defer t)
 
-  ;; start maximized
-  (custom-set-variables
-   '(initial-frame-alist (quote ((fullscreen . maximized)))))
+  ;; ;; start maximized
+  ;; (custom-set-variables
+  ;;  '(initial-frame-alist (quote ((fullscreen . maximized)))))
 
   (setq-default evil-escape-key-sequence "fd")
-
-  ;; These bindings don't work
-  ;; (global-set-key (kbd "C-w C-h") 'evil-window-left)
-  ;; (global-set-key (kbd "C-w C-j") 'evil-window-down)
-  ;; (global-set-key (kbd "C-w C-k") 'evil-window-up)
-  ;; (global-set-key (kbd "C-w C-l") 'evil-window-right)
 
   (setq-default evil-search-module 'evil-search)
 
@@ -300,8 +295,8 @@ you should place your code here."
     (define-key evil-window-map (kbd "C-j") 'evil-window-down)
     (define-key evil-window-map (kbd "C-k") 'evil-window-up)
     (define-key evil-window-map (kbd "C-l") 'evil-window-right)
-    )
 
+    )
 
   ;; To have a consistent 2 spaces indenting both on js and jsx
   (setq-default
@@ -316,15 +311,32 @@ you should place your code here."
 
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
   (superword-mode 1) ;; this should set it for Emacs bindings
-  ;; For python
   (add-hook 'python-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  ;; For ruby
   (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  ;; For javascript
   (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  ;; For yaml
   (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'sql-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
 
+  ;; Apply sql-mode to .hql files
+  (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
+
+  ;; Until I figure out how to fix Rubocop, disable it.
+  (setq flycheck-disabled-checkers '(ruby ruby-rubocop))
+
+  ;; Flycheck configuration
+  (with-eval-after-load 'flycheck
+    ;; Display errors at the bottom bar instead of in a GUI tooltip
+    (setq flycheck-display-errors-function #'flycheck-display-error-messages)
+
+    ;; Don't delay showing the error message
+    (setq flycheck-display-errors-delay 0)
+    )
+
+  ;; --- User bindings ---
+  ;; According to spacemacs documentation, SPC o is reserved for the user
+  ;; Use SPC o n/p to move to next/previous errors
+  (spacemacs/set-leader-keys "on" 'flycheck-next-error)
+  (spacemacs/set-leader-keys "op" 'flycheck-previous-error)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will

@@ -77,6 +77,7 @@ function load-erf {
 
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
 
+# This is also duplicated in .zshenv to get spacemacs to work with scss-lint
 eval "$(rbenv init -)" # This loads rbenv
 
 export EDITOR=vim
