@@ -268,13 +268,13 @@ you should place your code here."
   (use-package discover-my-major
     :defer t)
 
-  ;; ;; start maximized
-  ;; (custom-set-variables
-  ;;  '(initial-frame-alist (quote ((fullscreen . maximized)))))
-
   (setq-default evil-escape-key-sequence "fd")
 
+  ;; Use vim-like search
   (setq-default evil-search-module 'evil-search)
+
+  ;; Follow symlinks automatically without asking to confirm
+  (setq-default vc-follow-symlinks t)
 
   (with-eval-after-load 'evil-maps
     ;; Normal mode mappings
@@ -337,6 +337,9 @@ you should place your code here."
   ;; Use SPC o n/p to move to next/previous errors
   (spacemacs/set-leader-keys "on" 'flycheck-next-error)
   (spacemacs/set-leader-keys "op" 'flycheck-previous-error)
+  (spacemacs/set-leader-keys "o/" 'helm-ag-project-root)
+  ;; TODO figure out how to pass thing at point or visual selection to helm-ag-project-root
+  ;; see spacemacs//helm-do-ag-region-or-symbol
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
