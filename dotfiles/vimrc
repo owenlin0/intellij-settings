@@ -255,7 +255,6 @@ nnoremap <silent> <C-l> :nohl<CR><C-l>
 " Indent options
 set tabstop=2
 set shiftwidth=2
-set expandtab
 set modifiable " to create files/directories in NERDTree
 set splitbelow
 set splitright

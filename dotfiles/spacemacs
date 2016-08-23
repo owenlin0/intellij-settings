@@ -222,7 +222,7 @@ values."
    ;; If non nil line numbers are turned on in all `prog-mode' and `text-mode'
    ;; derivatives. If set to `relative', also turns on relative line numbers.
    ;; (default nil)
-   dotspacemacs-line-numbers nil
+   dotspacemacs-line-numbers t
    ;; If non-nil smartparens-strict-mode will be enabled in programming modes.
    ;; (default nil)
    dotspacemacs-smartparens-strict-mode nil
@@ -276,6 +276,75 @@ you should place your code here."
   ;; Follow symlinks automatically without asking to confirm
   (setq-default vc-follow-symlinks t)
 
+  ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
+  ;; ripped from packages.el
+  (defun owen//helm-ag-region-or-symbol (func &optional dir)
+    "Search with `ag' with a default input."
+    (require 'helm-ag)
+    (cl-letf* (((symbol-value 'helm-ag-insert-at-point) 'symbol)
+                ;; make thing-at-point choosing the active region first
+                ((symbol-function 'this-fn) (symbol-function 'thing-at-point))
+                ((symbol-function 'thing-at-point)
+                (lambda (thing)
+                  (let ((res (if (region-active-p)
+                                  (buffer-substring-no-properties
+                                  (region-beginning) (region-end))
+                                (this-fn thing))))
+                    (when res (rxt-quote-pcre res))))))
+      (funcall func dir)))
+
+  ;; ripped from packages.el and modified to use helm-ag instead of helm-do-ag
+  (defun owen/helm-ag-project-root-region-or-symbol ()
+    "Search in current project with `ag' using a default input."
+    (interactive)
+    (let ((dir (projectile-project-root)))
+      (if dir
+          (owen//helm-ag-region-or-symbol 'helm-ag dir)
+        (message "error: Not in a project."))))
+
+  (with-eval-after-load 'helm-ag
+    ;; See https://github.com/syohex/emacs-helm-ag#helm-ag-insert-at-pointdefault-nil
+    ;; (setq helm-ag-insert-at-point 'symbol)
+    )
+  ;; --- End hack ---
+
+  ;; (defcustom evil-operator-helm-ag-project-root-key (kbd "gag")
+  ;;   "Default binding for evil-operator-helm-ag-project-root."
+  ;;   :type 'key-sequence
+  ;;   :group 'evil-extra-operator)
+
+  ;; hack not working! see: https://github.com/Dewdrops/evil-extra-operator/blob/master/evil-extra-operator.el
+
+  ;; (defgroup evil-owen-operator nil
+  ;;   "Owen's custom operators for evil"
+  ;;   :prefix "evil-owen-operator"
+  ;;   :group 'evil)
+
+  ;; (defcustom evil-owen-operator-helm-ag-project-root (kbd "gag")
+  ;;   "Default binding for evil-operator-helm-ag-project-root."
+  ;;   :type 'key-sequence
+  ;;   :group 'evil-owen-operator)
+
+  ;; ;;;###autoload
+  ;; (autoload 'evil-owen-operator-helm-ag-project-root "evil-owen-operator"
+  ;;   "Evil operator for helm-ag search in project root." t)
+
+  ;; (evil-define-operator evil-operator-helm-ag-project-root (beg end type)
+  ;;   "Evil operator for helm-ag search in project root"
+  ;;   :move-point nil
+  ;;   (interactive "<R>")
+  ;;   (require 'helm-ag)
+  ;;   (if (eq type 'block)
+  ;;       (evil-apply-on-block #'owen/helm-ag-project-root-region-or-symbol beg end nil)
+  ;;     (hlt-highlight-region beg end)))
+
+  ;; ;;###autoload
+  ;; (define-minor-mode evil-owen-operator-mode
+  ;;   "Buffer local minor mode to enable Owen's custom operators for Evil."
+  ;;   :lighter ""
+  ;;   :keymap (make-sparse-keymap)
+  ;;   (evil-normalize-keymaps))
+
   (with-eval-after-load 'evil-maps
     ;; Normal mode mappings
     (define-key evil-normal-state-map (kbd "j") 'evil-next-visual-line)
@@ -283,10 +352,15 @@ you should place your code here."
     (define-key evil-normal-state-map (kbd "H") 'back-to-indentation)
     (define-key evil-normal-state-map (kbd "L") 'end-of-line)
     (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all)
+    (define-key evil-normal-state-map (kbd "g]") 'helm-etags-select)
 
     ;; Insert mode mappings
     (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
     (define-key evil-motion-state-map (kbd "L") 'end-of-line)
+
+    ;; gag hack
+    ;; (define-key evil-normal-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
+    ;; (define-key evil-motion-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
 
     ;; Window mappings (commands prefixed with <C-w>)
     ;; <C-w> h/j/k/l work by default.
@@ -310,12 +384,14 @@ you should place your code here."
    web-mode-attr-indent-offset 2)
 
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
-  (superword-mode 1) ;; this should set it for Emacs bindings
   (add-hook 'python-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'sql-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
+
+  ;; Fix for evil-jump-to-tag on something like Foo::Bar in ruby
+  (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?: ".")))
 
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
@@ -332,14 +408,22 @@ you should place your code here."
     (setq flycheck-display-errors-delay 0)
     )
 
+  ;; ;; Use ggtags not generic evil-jump-to-tag
+  ;; (define-key evil-normal-state-map (kbd "C-]") 'evil-jump-to-tag)
+  ;; ;; Map it everywhere else as well.
+  ;; (global-set-key (kbd "C-]") 'evil-jump-to-tag)
+
+  ;; Enable helm-gtags key bindings for certain modes
+  (spacemacs/helm-gtags-define-keys-for-mode 'ruby-mode)
+  (spacemacs/helm-gtags-define-keys-for-mode 'rspec-mode)
+
   ;; --- User bindings ---
   ;; According to spacemacs documentation, SPC o is reserved for the user
   ;; Use SPC o n/p to move to next/previous errors
   (spacemacs/set-leader-keys "on" 'flycheck-next-error)
   (spacemacs/set-leader-keys "op" 'flycheck-previous-error)
   (spacemacs/set-leader-keys "o/" 'helm-ag-project-root)
-  ;; TODO figure out how to pass thing at point or visual selection to helm-ag-project-root
-  ;; see spacemacs//helm-do-ag-region-or-symbol
+  (spacemacs/set-leader-keys "oag" 'owen/helm-ag-project-root-region-or-symbol)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
