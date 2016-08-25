@@ -23,7 +23,12 @@ values."
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
      ;; <M-m f e R> (Emacs style) to install them.
      ;; ----------------------------------------------------------------
-     ;; auto-completion
+     (auto-completion :variables
+                      auto-completion-complete-with-key-sequence "jk"
+                      auto-completion-tab-key-behavior 'complete
+                      auto-completion-enter-key-behavior nil
+                      auto-completion-enable-sort-by-usage t
+                      auto-completion-enable-snippets-in-popup t)
      ;; better-defaults
      emacs-lisp
      git
@@ -354,9 +359,13 @@ you should place your code here."
     (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all)
     (define-key evil-normal-state-map (kbd "g]") 'helm-etags-select)
 
-    ;; Insert mode mappings
+    ;; Operator-pending mode mappings
     (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
     (define-key evil-motion-state-map (kbd "L") 'end-of-line)
+
+    ;; Insert mode mappings
+    ;; Easier way to expand yasnippets (default is M-/)
+    (define-key evil-insert-state-map (kbd "<S-SPC>") 'hippie-expand)
 
     ;; gag hack
     ;; (define-key evil-normal-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
@@ -369,7 +378,6 @@ you should place your code here."
     (define-key evil-window-map (kbd "C-j") 'evil-window-down)
     (define-key evil-window-map (kbd "C-k") 'evil-window-up)
     (define-key evil-window-map (kbd "C-l") 'evil-window-right)
-
     )
 
   ;; To have a consistent 2 spaces indenting both on js and jsx
@@ -396,9 +404,6 @@ you should place your code here."
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
 
-  ;; Until I figure out how to fix Rubocop, disable it.
-  (setq flycheck-disabled-checkers '(ruby ruby-rubocop))
-
   ;; Flycheck configuration
   (with-eval-after-load 'flycheck
     ;; Display errors at the bottom bar instead of in a GUI tooltip
@@ -408,10 +413,41 @@ you should place your code here."
     (setq flycheck-display-errors-delay 0)
     )
 
-  ;; ;; Use ggtags not generic evil-jump-to-tag
-  ;; (define-key evil-normal-state-map (kbd "C-]") 'evil-jump-to-tag)
-  ;; ;; Map it everywhere else as well.
-  ;; (global-set-key (kbd "C-]") 'evil-jump-to-tag)
+  ;; Easily copy buffer's filename to clipboard. Function could be improved.
+  (defun owen/copy-filepath-to-clipboard ()
+    "Copy the current buffer file name to the clipboard."
+    (interactive)
+    (let ((filename (if (equal major-mode 'dired-mode)
+                        default-directory
+                      (buffer-file-name)))
+          (project-root (projectile-project-root)))
+      (cond ((and filename project-root)
+             (kill-new (file-relative-name filename project-root))
+             (message "Copied buffer relative path '%s' to clipboard." (file-relative-name filename project-root)))
+            ((filename)
+             (kill-new filename)
+             (message "Copied buffer absolute path '%s' to clipboard." filename)))))
+
+  ;; Easily copy buffer's filename to clipboard. Function could be improved.
+  (defun owen/copy-relative-filepath-to-clipboard ()
+    "Copy the current buffer file name to the clipboard."
+    (interactive)
+    (let ((filename (if (equal major-mode 'dired-mode)
+                        default-directory
+                      (buffer-file-name)))
+          (project-root (projectile-project-root)))
+      (kill-new (file-relative-name filename project-root))
+      (message "Copied buffer relative path '%s' to clipboard." (file-relative-name filename project-root))))
+
+  ;; Easily copy buffer's filename to clipboard. Function could be improved.
+  (defun owen/copy-absolute-filepath-to-clipboard ()
+    "Copy the current buffer file name to the clipboard."
+    (interactive)
+    (let ((filename (if (equal major-mode 'dired-mode)
+                        default-directory
+                      (buffer-file-name))))
+      (kill-new filename)
+      (message "Copied buffer absolute path '%s' to clipboard." filename)))
 
   ;; Enable helm-gtags key bindings for certain modes
   (spacemacs/helm-gtags-define-keys-for-mode 'ruby-mode)
@@ -424,6 +460,8 @@ you should place your code here."
   (spacemacs/set-leader-keys "op" 'flycheck-previous-error)
   (spacemacs/set-leader-keys "o/" 'helm-ag-project-root)
   (spacemacs/set-leader-keys "oag" 'owen/helm-ag-project-root-region-or-symbol)
+  (spacemacs/set-leader-keys "of" 'owen/copy-relative-filepath-to-clipboard)
+  (spacemacs/set-leader-keys "oF" 'owen/copy-absolute-filepath-to-clipboard)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will

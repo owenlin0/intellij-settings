@@ -12,6 +12,9 @@ SPC f r - open recent file
 " is the default register (both d and y write to this)
 0 is the yank register (only y writes to this)
 
+Using yasnippets:
+- After adding a new snippet, run yas-recompile-all
+
 Magit tutorial:
 https://www.reddit.com/r/spacemacs/comments/4a62la/magit_tutorial/
 
@@ -31,16 +34,26 @@ Built-in elisp manual:
 eval-expression (info "elisp") or M-: (info "elisp")
 
 Things to fix:
--  owen/helm-ag-project-root-region-or-symbol should automatically run Ag without prompting
-   - good reference: http://stackoverflow.com/questions/10147686/how-to-automatically-navigate-to-default-found-tag
+- * search should work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes.
+- Find a good auto-complete like Vim's omnicomplete (buffer omnicomplete high pri)
+Project-wide AG:
+  - Escape parens for owen/helm-ag-project-root-region-or-symbol
+  -  owen/helm-ag-project-root-region-or-symbol should automatically run Ag without prompting
+    - good reference: http://stackoverflow.com/questions/10147686/how-to-automatically-navigate-to-default-found-tag
+- * search on stub_experiment! works until quitting and then hitting 'n'
+- smart parens should add spaces around curly brackets in ruby-mode
+- surround could be improved in ruby-mode (changing from string to symbol doesn't work)
+  - also csw'X doesn't work as it does in Vim (https://github.com/tpope/vim-surround/issues/145)
+- figure out a way to get relative / abs filepath of buffer and copy it to clipboard
 - helm-etags-select should filter from results. Instead when you type it does some dumb ass thing.
+- fugitive git-blame is so much better than magit's git blame (vc-annotate works but not as good as fugitive)
+- set up nice word-wrapping on .txt files
 - add "gag" operator
 - add snippets (yasnippet)
 - super slow performance on global commands
   - https://bitbucket.org/lyro/evil/issues/446/filter-lines-in-buffer-extremely-slow
   - https://www.reddit.com/r/emacs/comments/2rdvev/spacemacs_windows_poor_performance_on_global/
   - Solution: use emacs keep-lines and flush-lines
-- * search on stub_experiment! works until quitting and then hitting 'n'
 - add in 'm' text object for ruby methods
 - gn doesn't seem to work (https://github.com/syl20bnr/spacemacs/issues/6636)
 - jumpy scrolling with ctrl-f and ctrl-b
@@ -70,3 +83,6 @@ https://github.com/syl20bnr/spacemacs/issues/3920#issuecomment-158881129
 Although there are valid reasons to have different PATHs for interactive
 vs. non-interactive:
 https://github.com/purcell/exec-path-from-shell/issues/34#issuecomment-158928554
+
+Notes on Ruby "::" symbol (needed to modify-syntax-entry to get evil-jump-to-tag to work):
+https://lists.gnu.org/archive/html/emacs-devel/2016-01/msg00125.html
