@@ -34,8 +34,27 @@ Built-in elisp manual:
 eval-expression (info "elisp") or M-: (info "elisp")
 
 Things to fix:
+- a workflow for copying a string from another app into spacemacs
+- find evil operator to camelcase / snakecase words
+- '' text object doesn't work on nrlp_menu_show_credit_cache_fix:
+function showTravelCreditInAvatarDropdown() {
+  const available_travel_credit = AirbnbUser.current().available_travel_credit;
+  if ($('.travel-credit-item').length > 0 &&
+    available_travel_credit &&
+    Trebuchet.getBootstrap('nrlp_menu_show_credit') &&
+    ERF.deliverExperiment('nrlp_menu_show_credit_cache_fix', {
+      control: () => false,
+      treatment: () => true,
+      treatment_unknown: () => false,
+    })
+  ) {
+    const menu_text =
+      `${$('.travel-credit-item > .hover-item__content').text()} (${available_travel_credit})`;
+    $('.travel-credit-item > .hover-item__content').text(menu_text);
+  }
+}
+
 - * search should work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes.
-- Find a good auto-complete like Vim's omnicomplete (buffer omnicomplete high pri)
 Project-wide AG:
   - Escape parens for owen/helm-ag-project-root-region-or-symbol
   -  owen/helm-ag-project-root-region-or-symbol should automatically run Ag without prompting
@@ -49,7 +68,6 @@ Project-wide AG:
 - fugitive git-blame is so much better than magit's git blame (vc-annotate works but not as good as fugitive)
 - set up nice word-wrapping on .txt files
 - add "gag" operator
-- add snippets (yasnippet)
 - super slow performance on global commands
   - https://bitbucket.org/lyro/evil/issues/446/filter-lines-in-buffer-extremely-slow
   - https://www.reddit.com/r/emacs/comments/2rdvev/spacemacs_windows_poor_performance_on_global/
