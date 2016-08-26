@@ -36,35 +36,16 @@ eval-expression (info "elisp") or M-: (info "elisp")
 Things to fix:
 - a workflow for copying a string from another app into spacemacs
 - find evil operator to camelcase / snakecase words
-- '' text object doesn't work on nrlp_menu_show_credit_cache_fix:
-function showTravelCreditInAvatarDropdown() {
-  const available_travel_credit = AirbnbUser.current().available_travel_credit;
-  if ($('.travel-credit-item').length > 0 &&
-    available_travel_credit &&
-    Trebuchet.getBootstrap('nrlp_menu_show_credit') &&
-    ERF.deliverExperiment('nrlp_menu_show_credit_cache_fix', {
-      control: () => false,
-      treatment: () => true,
-      treatment_unknown: () => false,
-    })
-  ) {
-    const menu_text =
-      `${$('.travel-credit-item > .hover-item__content').text()} (${available_travel_credit})`;
-    $('.travel-credit-item > .hover-item__content').text(menu_text);
-  }
-}
 
-- * search should work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes.
+- Fix * search (spacemacs/enter-ahs-forward) to work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes. Also, fix it so that it also enters it into the search history (so that it could be repeated by pressing n/N)
 Project-wide AG:
   - Escape parens for owen/helm-ag-project-root-region-or-symbol
   -  owen/helm-ag-project-root-region-or-symbol should automatically run Ag without prompting
     - good reference: http://stackoverflow.com/questions/10147686/how-to-automatically-navigate-to-default-found-tag
-- * search on stub_experiment! works until quitting and then hitting 'n'
 - smart parens should add spaces around curly brackets in ruby-mode
 - surround could be improved in ruby-mode (changing from string to symbol doesn't work)
   - also csw'X doesn't work as it does in Vim (https://github.com/tpope/vim-surround/issues/145)
-- figure out a way to get relative / abs filepath of buffer and copy it to clipboard
-- helm-etags-select should filter from results. Instead when you type it does some dumb ass thing.
+- helm-etags-select (g]) should filter from results. Instead when you type it does some dumb ass thing.
 - fugitive git-blame is so much better than magit's git blame (vc-annotate works but not as good as fugitive)
 - set up nice word-wrapping on .txt files
 - add "gag" operator
@@ -73,7 +54,6 @@ Project-wide AG:
   - https://www.reddit.com/r/emacs/comments/2rdvev/spacemacs_windows_poor_performance_on_global/
   - Solution: use emacs keep-lines and flush-lines
 - add in 'm' text object for ruby methods
-- gn doesn't seem to work (https://github.com/syl20bnr/spacemacs/issues/6636)
 - jumpy scrolling with ctrl-f and ctrl-b
 - jumping to tag on something like Neon::Core::Body tries to look for the whole of
 Neon::Core::Body and can't find anything
