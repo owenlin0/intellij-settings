@@ -23,12 +23,14 @@ values."
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
      ;; <M-m f e R> (Emacs style) to install them.
      ;; ----------------------------------------------------------------
-     (auto-completion :variables
-                      auto-completion-complete-with-key-sequence "jk"
-                      auto-completion-tab-key-behavior 'complete
-                      auto-completion-enter-key-behavior nil
-                      auto-completion-enable-sort-by-usage t
-                      auto-completion-enable-snippets-in-popup t)
+
+     ;; (auto-completion :variables
+     ;;                  auto-completion-complete-with-key-sequence "jk"
+     ;;                  auto-completion-tab-key-behavior 'complete
+     ;;                  auto-completion-enter-key-behavior nil
+     ;;                  auto-completion-enable-sort-by-usage t
+     ;;                  auto-completion-enable-snippets-in-popup t)
+
      ;; better-defaults
      emacs-lisp
      git
@@ -362,7 +364,8 @@ you should place your code here."
 
     ;; Insert mode mappings
     ;; Easier way to expand yasnippets (default is M-/)
-    (define-key evil-insert-state-map (kbd "<S-SPC>") 'hippie-expand)
+    ;; (define-key evil-insert-state-map (kbd "<S-tab>") 'hippie-expand)
+    ;; (define-key evil-insert-state-map (kbd "<backtab>") 'hippie-expand)
 
     ;; gag hack
     ;; (define-key evil-normal-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
@@ -397,6 +400,9 @@ you should place your code here."
 
   ;; Fix for evil-jump-to-tag on something like Foo::Bar in ruby
   (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?: ".")))
+
+  ;; Word wrap for org mode
+  (add-hook 'org-mode-hook #'turn-on-visual-line-mode)
 
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
