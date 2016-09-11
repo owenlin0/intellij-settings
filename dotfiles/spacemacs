@@ -280,6 +280,11 @@ you should place your code here."
   ;; Follow symlinks automatically without asking to confirm
   (setq-default vc-follow-symlinks t)
 
+  (with-eval-after-load 'org
+    (setq org-agenda-files '("~/personal/org/everything.org"
+                             "~/personal/org/scratch.org"))
+    )
+
   ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
   ;; ripped from packages.el
   (defun owen//helm-ag-region-or-symbol (func &optional dir)
@@ -397,6 +402,7 @@ you should place your code here."
   (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'sql-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'fundamental-mode-hook #'(lambda () (modify-syntax-entry ?_ "w"))) ;; for something like helm-swoop-edit
 
   ;; Fix for evil-jump-to-tag on something like Foo::Bar in ruby
   (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?: ".")))
