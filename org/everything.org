@@ -1,0 +1,206 @@
+* Work
+** Referrals cleanup & fraud
+*** Current plan: Rate limit (figure out how sophisticated we want), potentially ditch lifetime invite limit
+*** Rate limit Referrals invite sends (https://airbnb.hackpad.com/Rate-Limiting-in-Monorail-s2B6j4keYAI)
+*** Or, reduce invite limit to < 5000
+*** Connect with Referral fraud TnS specialists
+** Document Mario server-side rendering and provide a way to programmatically access Mario keys using i18n-js
+** Get in touch with Cindy/Sonic on how mario-fying phrases will reduce efficacy of phrase bundle caching
+
+** Work on "Inflated referral credit trend” email
+** Fix shared itinerary profile linking before accept
+** Fix shared itinerary “see host’s recommendations" link
+** Fix https://airbnb.slack.com/archives/growth-co-travelers/p1464810674000163
+
+* Geneva notes
+** Significant PRs:
+*** (Cathy) Referral credit creation (and expiry job): https://git.musta.ch/airbnb/airbnb/pull/54453
+*** (Cathy) Checking referral credits in payments: https://git.musta.ch/airbnb/airbnb/pull/52979
+*** (Cathy) Update user_extensions.referral_credit_available to check for geneva credit: https://git.musta.ch/airbnb/airbnb/pull/54932
+*** (Kevin Sun) Big refactor for more accurate P4 currency conversion: https://git.musta.ch/airbnb/airbnb/pull/57190
+** Research
+*** SELECT * FROM db_exports.geneva_production_accounts_v01 WHERE account_type LIKE '%airbnb_%' AND ds = '2016-08-24';
+*** Checking production Geneva balances for referral_credit_source, used_referral_credit_sink, expired_referral_credit_sink
+SELECT * FROM db_exports.geneva_production_balances_v01
+WHERE ds = '2016-08-24'
+AND account_id IN (129856, 129857, 129858)
+;
+** Coupons are applied on reservation create. reservation2#setup_payment is responsible for applying geneva credit properly.
+** Spending Geneva credit doesn't actually transfer credit from the user's account to the airbnb_referral_credit_source geneva account.
+** TODO Refunds are handled properly.
+** TODO Ensure expiring credit only expires when necessary.
+** TODO Update growth's user_extensions to use Geneva credit.
+*** #sent_referrals
+
+* Personal
+** Return Amazon packages (Goggles)
+** Splitwise
+*** Hawaii
+** TODO Withdraw E*trade and put into Vanguard
+** TODO Cancel Audible membership
+** TODO Replace right custom earplug
+** TODO Schedule Eyedare appointment to pick up contacts
+** TODO Book studio dental
+** TODO Schedule wisdom teeth
+** TODO Migrate Dropbox -> Google Photos
+*** Cancel Dropbox subscription
+** Recurring payments
+*** Rent
+[[https://docs.google.com/spreadsheets/d/1aiL4p4wrNhPgGyvFGG5ELM4XvpbMUt50k3hMdB0JtVI/edit#gid=1232166207][Rent schedule]]
+**** Mail December 2016 rent check
+SCHEDULED: <2016-11-23 Wed>
+**** Mail March 2017 rent check
+SCHEDULED: <2017-02-22 Wed>
+*** Internet ($64.22 as of 9/1/2016)
+[[https://wave.convergentcare.com/wave/goToLogin.action?navStep=#ContextMenu/dashboard][Wave payment portal]]
+**** TODO Charge Wave internet bill
+SCHEDULED: <2016-09-14 Wed +1m>
+
+* Org mode
+** Tutorials
+http://orgmode.org/worg/org-tutorials/
+http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html
+http://orgmode.org/manual/Deadlines-and-scheduling.html
+https://github.com/sachac/emacs-notes/blob/gh-pages/baby-steps-org.org
+** Useful areas to explore
+*** [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Map for learning org mode by Sacha Chua]]
+*** org-agenda
+*** org-capture
+** Literate programming
+*** https://en.wikipedia.org/wiki/Literate_programming
+
+* Emacs
+** Tips
+SPC h SPC - general help and also list available layers
+SPC h d m - show what modes are running and all the key bindings associated with a buffer
+SPC h d K - show bindings for keymap (e.g. evil-window-map)
+SPC h d b - inspect function at binding, search by escaping spaces: "SPC\ s\ p"
+SPC p p - helm projectile switch project
+SPC / - smart search (using ag)
+SPC s a p - ag search
+SPC * / SPC s P - project-wide ag word under cursor or visual selection
+SPC f r - open recent file
+<C-w> o - zoom/unzoom buffer
+" is the default register (both d and y write to this)
+0 is the yank register (only y writes to this)
+
+** Evaluating elisp in *scratch*
+*** Enter lisp-interaction-mode (SPC : lisp-interaction-mode)
+*** Place cursor after sexp, SPC m e e to evaluate
+*** https://www.emacswiki.org/emacs/LearnEmacsLisp
+*** http://steve-yegge.blogspot.com/2008/01/emergency-elisp.html
+
+** Using yasnippets:
+*** After adding a new snippet, run yas-recompile-all
+
+** [[https://www.reddit.com/r/spacemacs/comments/4a62la/magit_tutorial/][Magit tutorial]]
+
+** Layouts:
+SPC l
+
+** Projectile:
+SPC p
+
+** Helm:
+C-c ? - shows help while in a helm session
+SPC h l - resumes previous helm session
+
+** File-wide search and replace:
+SPC s S, then C-c C-e
+
+** Project-wide search and replace:
+helm-ag, then C-c C-e
+
+** Check out helm-swoop:
+project wide search and replace? (https://github.com/syl20bnr/spacemacs/issues/2311)
+
+** Built-in elisp manual:
+eval-expression (info "elisp") or M-: (info "elisp")
+
+** Things to fix:
+*** a workflow for copying a string from another app into spacemacs
+*** find evil operator to camelcase / snakecase words
+*** Fix * search (spacemacs/enter-ahs-forward) to work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes. Also, fix it so that it also enters it into the search history (so that it could be repeated by pressing n/N)
+*** Project-wide AG:
+**** Do a search like `gd` in file (goes to definition)?
+**** Escape parens for owen/helm-ag-project-root-region-or-symbol
+****  owen/helm-ag-project-root-region-or-symbol should automatically run Ag without prompting
+***** [[http://stackoverflow.com/questions/10147686/how-to-automatically-navigate-to-default-found-tag][Good Reference]]
+*** smart parens should add spaces around curly brackets in ruby-mode
+*** surround could be improved in ruby-mode (changing from string to symbol doesn't work)
+**** also csw'X doesn't work as it does in Vim (https://github.com/tpope/vim-surround/issues/145)
+*** helm-etags-select (g]) should filter from results. Instead when you type it does some dumb ass thing.
+*** fugitive git-blame is so much better than magit's git blame (vc-annotate works but not as good as fugitive)
+*** set up nice word-wrapping on .txt files
+*** add "gag" operator
+*** super slow performance on global commands
+**** https://bitbucket.org/lyro/evil/issues/446/filter-lines-in-buffer-extremely-slow
+**** https://www.reddit.com/r/emacs/comments/2rdvev/spacemacs_windows_poor_performance_on_global/
+**** Solution: use emacs keep-lines and flush-lines
+*** add in 'm' text object for ruby methods
+*** jumpy scrolling with ctrl-f and ctrl-b
+*** unbind CMD-w (deletes buffer)
+*** figure out how to increase font size globally (cmd =/- just modifies current buffer)
+*** an equivalent of targets.vim
+
+** Nice to have:
+*** async command to generate tags file
+
+*** Debugged scss_lint:
+:flycheck-verify-checker
+**** May be due to running the wrong ruby version:
+SPC ! ruby -v
+SPC ! which ruby
+
+Related to shell environment not being set (using the wrong version of ruby)
+https://github.com/flycheck/flycheck/issues/677#issuecomment-119899599
+https://github.com/syl20bnr/spacemacs/issues/3920
+
+Move to PATH stuff from .zshrc to .zshenv?
+.zshrc is only for interactive shells and .zshenv is for both (?)
+https://github.com/syl20bnr/spacemacs/issues/3920#issuecomment-158881129
+
+Although there are valid reasons to have different PATHs for interactive
+vs. non-interactive:
+https://github.com/purcell/exec-path-from-shell/issues/34#issuecomment-158928554
+
+Notes on Ruby "::" symbol (needed to modify-syntax-entry to get evil-jump-to-tag to work):
+https://lists.gnu.org/archive/html/emacs-devel/2016-01/msg00125.html
+* Queries
+** Figuring out a reasonable referral email invite limit
+*** User ID <-> Number of sent email referrals, successful referrals
+SELECT t0.user_id, num_email_referrals, num_redeemed_email_referrals
+FROM
+(
+  SELECT user_id, COUNT(*) as num_email_referrals
+  FROM db_exports.airbed3_production_referrals_v01
+  WHERE ds = '2016-09-08'
+  AND channel in (1, 22)
+  GROUP BY user_id
+  ORDER BY num_email_referrals DESC
+) t0
+JOIN (
+  SELECT user_id, COUNT(*) as num_redeemed_email_referrals
+  FROM db_exports.airbed3_production_referrals_v01
+  WHERE ds = '2016-09-08'
+  AND channel in (1, 22)
+  AND status > 1
+  GROUP BY user_id
+  ORDER BY num_redeemed_email_referrals DESC
+) t1
+ON
+t0.user_id = t1.user_id
+;
+*** Number of email referrers
+SELECT COUNT(DISTINCT user_id) AS number_of_email_referrers
+FROM db_exports.airbed3_production_referrals_v01
+WHERE ds = '2016-09-08'
+AND channel in (1, 22)
+;
+*** Number of global successful referrals
+SELECT COUNT(*)
+FROM db_exports.airbed3_production_referrals_v01
+WHERE ds = '2016-09-08'
+AND channel in (1, 22)
+AND status > 1
+;
