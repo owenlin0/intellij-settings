@@ -11,7 +11,6 @@
 ** Fix shared itinerary profile linking before accept
 ** Fix shared itinerary “see host’s recommendations" link
 ** Fix https://airbnb.slack.com/archives/growth-co-travelers/p1464810674000163
-
 * Geneva notes
 ** Significant PRs:
 *** (Cathy) Referral credit creation (and expiry job): https://git.musta.ch/airbnb/airbnb/pull/54453
@@ -38,12 +37,15 @@ AND account_id IN (129856, 129857, 129858)
 *** Hawaii
 ** TODO Withdraw E*trade and put into Vanguard
 ** TODO Cancel Audible membership
-** TODO Replace right custom earplug
-** TODO Schedule Eyedare appointment to pick up contacts
-** TODO Book studio dental
-** TODO Schedule wisdom teeth
 ** TODO Migrate Dropbox -> Google Photos
 *** Cancel Dropbox subscription
+** TODO Call to replace right custom earplug
+SCHEDULED: <2016-09-12 Mon>
+** TODO Try to re-schedule Eyedare appt earlier
+SCHEDULED: <2016-09-12 Mon>
+*** Currently scheduled 9/26
+** TODO Book studio dental
+** TODO Schedule wisdom teeth
 ** Recurring payments
 *** Rent
 [[https://docs.google.com/spreadsheets/d/1aiL4p4wrNhPgGyvFGG5ELM4XvpbMUt50k3hMdB0JtVI/edit#gid=1232166207][Rent schedule]]
@@ -57,18 +59,29 @@ SCHEDULED: <2017-02-22 Wed>
 SCHEDULED: <2016-09-14 Wed +1m>
 
 * Org mode
+** Tips
+`< s TAB` inserts a code snippet
+SPC m - lots of org commands
+*** org-agenda
+f - forward 1 week
+b - backward 1 week
+[[http://orgmode.org/manual/Agenda-commands.html#Agenda-commands][Org agenda commands]]
 ** Tutorials
 http://orgmode.org/worg/org-tutorials/
 http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html
 http://orgmode.org/manual/Deadlines-and-scheduling.html
 https://github.com/sachac/emacs-notes/blob/gh-pages/baby-steps-org.org
+** Manual
+http://orgmode.org/manual/index.html#Top
 ** Useful areas to explore
 *** [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Map for learning org mode by Sacha Chua]]
 *** org-agenda
 *** org-capture
+*** org-gcal (sync google calendar to org agenda)
+**** https://github.com/myuhe/org-gcal.el
+**** http://jameswilliams.be/blog/2016/01/11/Taming-Your-GCal.html
 ** Literate programming
 *** https://en.wikipedia.org/wiki/Literate_programming
-
 * Emacs
 ** Tips
 SPC h SPC - general help and also list available layers
@@ -84,9 +97,10 @@ SPC f r - open recent file
 " is the default register (both d and y write to this)
 0 is the yank register (only y writes to this)
 
-** Evaluating elisp in *scratch*
-*** Enter lisp-interaction-mode (SPC : lisp-interaction-mode)
-*** Place cursor after sexp, SPC m e e to evaluate
+** Elisp
+*** Evaluating elisp in *scratch*
+**** Enter lisp-interaction-mode (SPC : lisp-interaction-mode)
+**** Place cursor after sexp, SPC m e e to evaluate
 *** https://www.emacswiki.org/emacs/LearnEmacsLisp
 *** http://steve-yegge.blogspot.com/2008/01/emergency-elisp.html
 
@@ -204,3 +218,11 @@ WHERE ds = '2016-09-08'
 AND channel in (1, 22)
 AND status > 1
 ;
+* Hawaii
+** Ziplining
+** Tours
+* Movies to watch
+** Jerry Maguire
+* Interesting reading
+** Steve Yegge's blog (http://steve-yegge.blogspot.com/)
+*** https://en.wikipedia.org/wiki/Steve_Yegge

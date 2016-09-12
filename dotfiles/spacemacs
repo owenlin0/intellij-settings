@@ -285,6 +285,11 @@ you should place your code here."
                              "~/personal/org/scratch.org"))
     )
 
+  (defun owen/find-orgfile ()
+    "Open `everything.org' in the current window."
+    (interactive)
+    (find-file-existing "~/personal/org/everything.org"))
+
   ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
   ;; ripped from packages.el
   (defun owen//helm-ag-region-or-symbol (func &optional dir)
@@ -471,6 +476,7 @@ you should place your code here."
   (spacemacs/set-leader-keys "oag" 'owen/helm-ag-project-root-region-or-symbol)
   (spacemacs/set-leader-keys "of" 'owen/copy-relative-filepath-to-clipboard)
   (spacemacs/set-leader-keys "oF" 'owen/copy-absolute-filepath-to-clipboard)
+  (spacemacs/set-leader-keys "org" 'owen/find-orgfile)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
