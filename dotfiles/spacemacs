@@ -408,6 +408,13 @@ you should place your code here."
    web-mode-code-indent-offset 2
    web-mode-attr-indent-offset 2)
 
+  ;; Highlight characters past column 100
+  (with-eval-after-load 'whitespace
+    (setq whitespace-line-column 101
+          whitespace-style '(face lines-tail)))
+
+  (add-hook 'prog-mode-hook 'whitespace-mode)
+
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
   (add-hook 'python-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
   (add-hook 'ruby-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
