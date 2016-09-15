@@ -52,7 +52,15 @@ values."
             shell-default-height 30
             shell-default-position 'bottom)
      ;; spell-checking
-     syntax-checking
+
+     (syntax-checking :variables
+                      ;; Display errors at the bottom bar instead of in a GUI tooltip
+                      syntax-checking-enable-tooltips nil
+
+                      ;; Don't delay showing the error message
+                      flycheck-display-errors-delay 0
+                      )
+
      ;; version-control
 
      ;; --- additional Vim stuff ---
@@ -100,7 +108,7 @@ values."
    ;; If non nil output loading progress in `*Messages*' buffer. (default nil)
    dotspacemacs-verbose-loading nil
    ;; Specify the startup banner. Default value is `official', it displays
-   ;; the official spacemacs logo. An integer value is the index of text
+   ;; the official spacemacs logo. An integer value is the index of
    ;; banner, `random' chooses a random text banner in `core/banners'
    ;; directory. A string value must be a path to an image format supported
    ;; by your Emacs build.
@@ -281,14 +289,13 @@ you should place your code here."
   (setq-default vc-follow-symlinks t)
 
   (with-eval-after-load 'org
-    (setq org-agenda-files '("~/personal/org/everything.org"
-                             "~/personal/org/scratch.org"))
-    )
+    (setq org-agenda-files '("~/personal/org/main.org"
+                             "~/personal/org/scratch.org")))
 
   (defun owen/find-orgfile ()
-    "Open `everything.org' in the current window."
+    "Open `main.org' in the current window."
     (interactive)
-    (find-file-existing "~/personal/org/everything.org"))
+    (find-file-existing "~/personal/org/main.org"))
 
   ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
   ;; ripped from packages.el
@@ -402,30 +409,22 @@ you should place your code here."
    web-mode-attr-indent-offset 2)
 
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
-  (add-hook 'python-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'js2-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'yaml-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'sql-mode-hook #'(lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'fundamental-mode-hook #'(lambda () (modify-syntax-entry ?_ "w"))) ;; for something like helm-swoop-edit
+  (add-hook 'python-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'ruby-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'js2-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'yaml-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'sql-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'react-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'fundamental-mode-hook (lambda () (modify-syntax-entry ?_ "w"))) ;; for something like helm-swoop-edit
 
   ;; Fix for evil-jump-to-tag on something like Foo::Bar in ruby
-  (add-hook 'ruby-mode-hook #'(lambda () (modify-syntax-entry ?: ".")))
+  (add-hook 'ruby-mode-hook (lambda () (modify-syntax-entry ?: ".")))
 
   ;; Word wrap for org mode
   (add-hook 'org-mode-hook #'turn-on-visual-line-mode)
 
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
-
-  ;; Flycheck configuration
-  (with-eval-after-load 'flycheck
-    ;; Display errors at the bottom bar instead of in a GUI tooltip
-    (setq flycheck-display-errors-function #'flycheck-display-error-messages)
-
-    ;; Don't delay showing the error message
-    (setq flycheck-display-errors-delay 0)
-    )
 
   ;; Easily copy buffer's filename to clipboard. Function could be improved.
   (defun owen/copy-filepath-to-clipboard ()
@@ -466,6 +465,19 @@ you should place your code here."
   ;; Enable helm-gtags key bindings for certain modes
   (spacemacs/helm-gtags-define-keys-for-mode 'ruby-mode)
   (spacemacs/helm-gtags-define-keys-for-mode 'rspec-mode)
+
+  ;; Automatically set Flycheck's eslint checker to project's node_modules directory
+  (defun owen/use-eslint-from-node-modules ()
+    (let* ((root (locate-dominating-file
+                  (or (buffer-file-name) default-directory)
+                  "node_modules"))
+           (eslint (and root
+                        (expand-file-name "node_modules/.bin/eslint"
+                                          root))))
+      (when (and eslint (file-executable-p eslint))
+        (setq-local flycheck-javascript-eslint-executable eslint))))
+
+  (add-hook 'flycheck-mode-hook #'owen/use-eslint-from-node-modules)
 
   ;; --- User bindings ---
   ;; According to spacemacs documentation, SPC o is reserved for the user

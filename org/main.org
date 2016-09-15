@@ -1,10 +1,13 @@
 * Work
+** TODO Document Mario
+** TODO Geneva
 ** Referrals cleanup & fraud
 *** Current plan: Rate limit (figure out how sophisticated we want), potentially ditch lifetime invite limit
 *** Rate limit Referrals invite sends (https://airbnb.hackpad.com/Rate-Limiting-in-Monorail-s2B6j4keYAI)
+[[https://airbnb.hackpad.com/Risk-Frameworks-AirlockAdapter-in-Monorail-sNENhRRW1tb][Risk Frameworks (Airlock/Adapter) in Monorail]]
+https://airbnb.hackpad.com/Velocity-Defenders-rate-limiting-NYaNJIdICST
 *** Or, reduce invite limit to < 5000
 *** Connect with Referral fraud TnS specialists
-** Document Mario server-side rendering and provide a way to programmatically access Mario keys using i18n-js
 ** Get in touch with Cindy/Sonic on how mario-fying phrases will reduce efficacy of phrase bundle caching
 
 ** Work on "Inflated referral credit trend” email
@@ -30,7 +33,6 @@ AND account_id IN (129856, 129857, 129858)
 ** TODO Ensure expiring credit only expires when necessary.
 ** TODO Update growth's user_extensions to use Geneva credit.
 *** #sent_referrals
-
 * Personal
 ** Return Amazon packages (Goggles)
 ** Splitwise
@@ -39,12 +41,9 @@ AND account_id IN (129856, 129857, 129858)
 ** TODO Cancel Audible membership
 ** TODO Migrate Dropbox -> Google Photos
 *** Cancel Dropbox subscription
-** TODO Call to replace right custom earplug
-SCHEDULED: <2016-09-12 Mon>
 ** TODO Try to re-schedule Eyedare appt earlier
-SCHEDULED: <2016-09-12 Mon>
+SCHEDULED: <2016-09-14 Wed>
 *** Currently scheduled 9/26
-** TODO Book studio dental
 ** TODO Schedule wisdom teeth
 ** Recurring payments
 *** Rent
@@ -114,7 +113,6 @@ SPC l
 
 ** Projectile:
 SPC p
-
 ** Helm:
 C-c ? - shows help while in a helm session
 SPC h l - resumes previous helm session
@@ -132,8 +130,11 @@ project wide search and replace? (https://github.com/syl20bnr/spacemacs/issues/2
 eval-expression (info "elisp") or M-: (info "elisp")
 
 ** Things to fix:
+*** lingering minibuffer message (http://stackoverflow.com/questions/28830990/how-to-empty-or-clear-the-emacs-minibuffer)
 *** a workflow for copying a string from another app into spacemacs
-*** find evil operator to camelcase / snakecase words
+*** TODO find evil operator to camelcase / snakecase words
+*** TODO Display column number or vertical rule
+*** Fix indenting idiosyncracies
 *** Fix * search (spacemacs/enter-ahs-forward) to work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes. Also, fix it so that it also enters it into the search history (so that it could be repeated by pressing n/N)
 *** Project-wide AG:
 **** Do a search like `gd` in file (goes to definition)?
@@ -219,10 +220,16 @@ AND channel in (1, 22)
 AND status > 1
 ;
 * Hawaii
-** Ziplining
+[[https://docs.google.com/document/d/1jV_at-S3ZvlcRUBufRtag8AtFoQfcIfmvHV-gUfJdOE/edit][Google doc for old trip]]
+[[https://docs.google.com/spreadsheets/d/1-PZg3NkjKZIb3u30-oBe6Z1Qxj1v_bM-8EjbhNZipUs/edit#gid=311785238][Google sheet for new trip]]
+[[https://secure.splitwise.com/#/groups/2254158][Splitwise]]
 ** Tours
 * Movies to watch
 ** Jerry Maguire
 * Interesting reading
 ** Steve Yegge's blog (http://steve-yegge.blogspot.com/)
 *** https://en.wikipedia.org/wiki/Steve_Yegge
+* Mario documentation
+** TODO Document Mario server-side rendering and provide a way to programmatically access Mario keys using i18n-js
+** Clay's Mario experiment on the Book-It button on P3 requires both bootstrap_mario and Mario.get_all_phrases.
+*** Why? P3 is cached. get_all_phrases ensures that we won't get an ugly mario placeholder on initial page load, and bootstrap_mario ensures that the Mario component actually delivers the experiment client-side.

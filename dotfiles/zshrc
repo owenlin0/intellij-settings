@@ -34,6 +34,7 @@ alias jsclean="npm cache clean && rm -r ~/repos/airbnb/tmp/cache && sudo service
 
 alias sup="git fetch && git rebase origin/master && vagrant ssh -c \"'cd ~/airbnb && /usr/local/bin/owen-post-merge && sudo service unicorn restart && sudo service nginx restart'\""
 alias bounce="vagrant ssh -c 'sudo service monorail restart && sudo service nginx restart'"
+alias newbundle="vagrant ssh -c 'sudo service monorail-mystique restart && sudo service monorail-webpack restart'"
 alias mystique="vagrant ssh -c 'sudo service monorail-mystique restart'"
 alias freb="git fetch && git rebase origin/master"
 alias sinstall="vagrant ssh -c \"'cd ~/airbnb && bundle install && npm install && bundle exec rake db:migrate && bundle exec rake db:test:prepare && git submodule update --init --recursive'\""

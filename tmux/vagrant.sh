@@ -17,27 +17,28 @@ tmux send-keys -t $SESSION_NAME 'cd repos/airbnb && bundle install && zeus start
 
 # second pane
 tmux split-window -h -t $SESSION_NAME
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 5 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
+tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 tmux send-keys -t $SESSION_NAME 'cd repos/airbnb' C-m
 
 # third pane
 tmux select-pane -L
 tmux split-window -v -t $SESSION_NAME
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 5 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
+tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 tmux send-keys -t $SESSION_NAME 'cd repos/airbnb' C-m
 
 ### Rookery
 tmux new-window -n rookery
 # first pane
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 5 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
+tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 tmux send-keys -t $SESSION_NAME 'cd repos/rookery' C-m
 # second pane
 tmux split-window -h -t $SESSION_NAME
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 5 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
+tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 tmux send-keys -t $SESSION_NAME 'cd repos/rookery' C-m
 
 ### Open window
 tmux new-window
+tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 
 ### Select 1st window
 tmux next-window -t $SESSION_NAME
