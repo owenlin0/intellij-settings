@@ -1,4 +1,5 @@
 * Work
+** TODO Change Rails.cache to Rails.virality_cache in growth/user_extensions.rb
 ** TODO Document Mario
 ** TODO Geneva
 ** Referrals cleanup & fraud
@@ -15,11 +16,17 @@ https://airbnb.hackpad.com/Velocity-Defenders-rate-limiting-NYaNJIdICST
 ** Fix shared itinerary “see host’s recommendations" link
 ** Fix https://airbnb.slack.com/archives/growth-co-travelers/p1464810674000163
 * Geneva notes
+[[https://docs.google.com/document/d/1m6PWD4vZJLnyFmYm1jNKHXQe0iRZPOPDleRLwJS3cLU/edit#][Google Doc: Migrating Referrer Credit Program to Geneva (Cathy)]]
+[[https://docs.google.com/document/d/1kJOt-j28e5k3XM02T10csUzCIgc_WSx2LML_EnfF3QQ/edit#heading=h.2q0yhvqkjcrj][Google Doc: Booking with Airbnb/Geneva Credit (Kevin Sun)]]
 ** Significant PRs:
-*** (Cathy) Referral credit creation (and expiry job): https://git.musta.ch/airbnb/airbnb/pull/54453
-*** (Cathy) Checking referral credits in payments: https://git.musta.ch/airbnb/airbnb/pull/52979
-*** (Cathy) Update user_extensions.referral_credit_available to check for geneva credit: https://git.musta.ch/airbnb/airbnb/pull/54932
-*** (Kevin Sun) Big refactor for more accurate P4 currency conversion: https://git.musta.ch/airbnb/airbnb/pull/57190
+*** (Cathy) Referral credit creation (and expiry job)
+https://git.musta.ch/airbnb/airbnb/pull/54453
+*** (Cathy) Checking referral credits in payments
+https://git.musta.ch/airbnb/airbnb/pull/52979
+*** (Cathy) Update user_extensions.referral_credit_available to check for geneva credit
+https://git.musta.ch/airbnb/airbnb/pull/54932
+*** (Kevin Sun) Big refactor for more accurate P4 currency conversion
+https://git.musta.ch/airbnb/airbnb/pull/57190
 ** Research
 *** SELECT * FROM db_exports.geneva_production_accounts_v01 WHERE account_type LIKE '%airbnb_%' AND ds = '2016-08-24';
 *** Checking production Geneva balances for referral_credit_source, used_referral_credit_sink, expired_referral_credit_sink
@@ -33,6 +40,249 @@ AND account_id IN (129856, 129857, 129858)
 ** TODO Ensure expiring credit only expires when necessary.
 ** TODO Update growth's user_extensions to use Geneva credit.
 *** #sent_referrals
+* Social Connections notes
+** https://airbnb.hackpad.com/List-of-Possible-Tech-Debt-to-Improve-XOy5ueYqjnf
+At one point I remember it was so slow that we just cut out social data from P2. It appears to be doing about 4500rpm these days, so something is still using it, but not Search. It's reasonably fast at that scale, but it can't support the broader product usage we'd like it to.
+* Owen: Facepile + social proof in axioms idea
+** Not logged into TripAdvisor with FB (https://www.facebook.com/settings?tab=applications)
+** Clicked on 'x' in incognito OR removing the app from www.facebook.com/bookmarks/apps stopped the banner from showing up again
+** Suspect functionality is tied to "fbsr_<id>" cookie
+** https://www.facebook.com/bookmarks/apps had TripAdvisor though
+** TripAdvisor cookie dump
+[
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "BEPIN",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "%1%15734fc9c19%3Bhac21a%3A10023%3B",
+    "id": 1
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1789422782.855943,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "CM",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%1%HanaPersist%2C%2C-1%7Cpu_vr2%2C%2C-1%7Ct4b-pc%2C%2C-1%7CHanaSession%2C%2C-1%7CRCPers%2C%2C-1%7CWShadeSeen%2C2%2C-1%7Cpv%2C7%2C-1%7Cpu_vr1%2C%2C-1%7CFtrPers%2C%2C-1%7CHomeASess%2C2%2C-1%7CAWPUPers%2C%2C-1%7CPCBSess%2C-1%2C-1%7Ctvsess%2C1%2C-1%7Ccatchsess%2C7%2C-1%7Cbrandsess%2C%2C-1%7Csesscoestorem%2C%2C-1%7CCCSess%2C%2C-1%7CCpmPopunder_2%2C1%2C-1%7CViatorMCPers%2C%2C-1%7Csesssticker%2C%2C-1%7C%24%2C%2C-1%7Ct4b-sc%2C%2C-1%7CMC_IB_UPSELL_IB_LOGOS2%2C%2C-1%7Cb2bmcpers%2C%2C-1%7CMC_IB_UPSELL_IB_LOGOS%2C%2C-1%7Csess_rev%2C3%2C-1%7Csessamex%2C%2C-1%7Cperscoestorem%2C%2C-1%7Chac_ua_rd%2C%2C-1%7CSaveFtrPers%2C%2C-1%7Cpers_rev%2C%2C-1%7CMetaFtrSess%2C%2C-1%7CRBAPers%2C%2C-1%7CWAR_RESTAURANT_FOOTER_PERSISTANT%2C%2C-1%7CFtrSess%2C13%2C-1%7CHomeAPers%2C%2C-1%7C+r_lf_1%2C%2C-1%7CRCSess%2C%2C-1%7C+r_lf_2%2C%2C-1%7Ccatchpers%2C3%2C1474578896%7CPCBPers%2C1%2C1476253010%7CAWPUSess%2C%2C-1%7Cvr_npu2%2C%2C-1%7CLastPopunderId%2C104-771-null%2C-1%7Csh%2C%2C-1%7Cpssamex%2C%2C-1%7C2016sticksess%2C%2C-1%7Cvr_npu1%2C%2C-1%7CCCPers%2C%2C-1%7Ctvpers%2C%2C-1%7CWAR_RESTAURANT_FOOTER_SESSION%2C%2C-1%7Cbrandpers%2C%2C-1%7Cb2bmcsess%2C%2C-1%7C2016stickpers%2C%2C-1%7CViatorMCSess%2C%2C-1%7CWarPopunder_Session%2C%2C-1%7CWarPopunder_Persist%2C%2C-1%7CTakeOver%2C%2C-1%7Cr_ta_2%2C%2C-1%7Cr_ta_1%2C%2C-1%7CSaveFtrSess%2C%2C-1%7CRBASess%2C%2C-1%7Cperssticker%2C%2C-1%7CMetaFtrPers%2C%2C-1%7C",
+    "id": 2
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1505196311,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "fbm_162729813767876",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "base_domain=.tripadvisor.com",
+    "id": 3
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1474066800,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "fbsr_162729813767876",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "SsiVO8lhM8D21JtY0UYPp8wKsLfiHpR8_aOOVWHEK6o.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImNvZGUiOiJBUUF6Z2ZEOGhwa0dYMDJwSnJONVpGVVJiMGlwR1RTMFRBNXhCWXFWblREcEwyUFNoVXVOdE1sWHcxNFRsNDlyNGdUdTZyR1FqeWxmMzNMMWJGU01kMHJCU19LNDhpd25mb2NpWmFqcDB6RlFxeFRpTXJRdE5tb1liZ2dSdFQycmVfU1Z2ZFRjVERLRGF5ZEZxdkhSYjlCelRveHpYM2xWZnQ2aEZCNE8wS0VjWFR3RF9IVVdPNVB6c0REUmV3NDJVUlFUNTM2eVlXU21Ndkg3VVRmYXA4S2lOaFhoQ3JXYXdHakNkdV80VDNDTnM1dFFmQy1TVHZ0QnItZGNzZ2otT1hKNE1Xb2MyaWNualFMRU1keERuV1pHTHR5ODQ1U0doWWdzN0pmd2N5NmpjVDNRVFlIMzZmMXdES0J5QjhWMXRYZnBJVTM5c3FoWXlxV25JZDhRMVhYTyIsImlzc3VlZF9hdCI6MTQ3NDA2Mjk1MiwidXNlcl9pZCI6IjExMjc3ODY3MTEifQ",
+    "id": 4
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "NPID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "",
+    "id": 5
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "roybatty",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "TNI1625!AMsOqx8eHlSNQjn3ZfIbxkZlDKK73aAWntQn9ivlXOnz3HWJLYURTav61VjrCX%2B83OMCejVfvPGhY5YbjmJ5kSTpLtmpsyzHgfzIIO6uvnfB3Kg%2F2Cttjn%2F41Z9ci9p7a4RODhBWuJrvw4Ws21P%2BJu69fYip%2BBDDqJ%2BB0pUJiOwV%2C1",
+    "id": 6
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "ServerPool",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "B",
+    "id": 7
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "TACds",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "C.1.14348.2.2016-09-11",
+    "id": 8
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "TAReturnTo",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "%1%%2FHotels-g186338-London_England-Hotels.html",
+    "id": 9
+},
+{
+    "domain": ".tripadvisor.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "TASession",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "%1%V2ID.CD680749033731760B95E9AF66946FF0*SQ.125*MC.10568*PR.39415%7C*LS.ModuleAjax*GR.55*TCPAR.39*TBR.53*EXEX.4*ABTR.75*PPRP.6*PHTB.14*FS.8*CPU.36*HS.friends*ES.popularity*AS.popularity*DS.5*SAS.popularity*FPS.oldFirst*LF.en*FA.1*DF.0*LR.https%3A%2F%2Fwww%5C.google%5C.com%2F*LP.%2FHotel_Review-g60634-d101357-Reviews-Kaanapali_Beach_Hotel-Lahaina_Maui_Hawaii%5C.html*FBH.2*MS.6*RMS.-1*TRA.true*LD.186338*BG.186338*BT.hs4wu6",
+    "id": 10
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1475272352.444582,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "TATravelInfo",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "V2*AC.SFO*A.2*MG.-1*HP.2*FL.3*RVL.2005093_256l2189106_256l101357_259*RS.1",
+    "id": 11
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1475272552.359132,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "TAUD",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "LA-1473660307879-1*LG-402644833-2.1.F.*LD-402644834-.....",
+    "id": 12
+},
+{
+    "domain": ".tripadvisor.com",
+    "expirationDate": 1536732307.629877,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "TAUnique",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%1%enc%3AP8uqbdQPsLTG5jPbBbjUMfmLSYyIrZbTDKWYOVJ7SZ82jHwltRJPGQ%3D%3D",
+    "id": 13
+},
+{
+    "domain": ".www.tripadvisor.com",
+    "expirationDate": 1537046092.215122,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "PAC",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "ACcFgdwtpAv6lBHGullO6phAMz30wEWXwsRxBku94KZvuxoEIYGfk8BFH4Ang803JsUof7ADUAeNSZS20od_agpvmRJqbZos4xaqtoEO0Vdc",
+    "id": 14
+},
+{
+    "domain": ".www.tripadvisor.com",
+    "expirationDate": 1474092311.528327,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "TART",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%1%enc%3AxuYz2wW41DHDPmTzKvx48fZAtIkst1cbWFMdEBPw2FzvVuyM7xn7pJVh%2FOLf9XDTZQnMIP2Q3mY%3D",
+    "id": 15
+},
+{
+    "domain": ".www.tripadvisor.com",
+    "expirationDate": 1489212307.926262,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "TASSK",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "enc%3AG09%2BzpWcE0Kp%2BiLF66erYQelXOiT9b3k%2BeLm62X2ZE7eF0hyhCyWf%2FrRdsycMR1v",
+    "id": 16
+},
+{
+    "domain": "www.tripadvisor.com",
+    "expirationDate": 1474149180,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CommercePopunder",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "SuppressAll*1474062780471",
+    "id": 17
+}
+]
+
 * Personal
 ** Return Amazon packages (Goggles)
 ** Splitwise
@@ -42,7 +292,7 @@ AND account_id IN (129856, 129857, 129858)
 ** TODO Migrate Dropbox -> Google Photos
 *** Cancel Dropbox subscription
 ** TODO Try to re-schedule Eyedare appt earlier
-SCHEDULED: <2016-09-14 Wed>
+SCHEDULED: <2016-09-19 Mon>
 *** Currently scheduled 9/26
 ** TODO Schedule wisdom teeth
 ** Recurring payments
@@ -55,8 +305,11 @@ SCHEDULED: <2017-02-22 Wed>
 *** Internet ($64.22 as of 9/1/2016)
 [[https://wave.convergentcare.com/wave/goToLogin.action?navStep=#ContextMenu/dashboard][Wave payment portal]]
 **** TODO Charge Wave internet bill
-SCHEDULED: <2016-09-14 Wed +1m>
-
+SCHEDULED: <2016-10-14 Fri +1m>
+:PROPERTIES:
+:LAST_REPEAT: [2016-09-14 Wed 23:56]
+:END:
+- State "DONE"       from "TODO"       [2016-09-14 Wed 23:56]
 * Org mode
 ** Tips
 `< s TAB` inserts a code snippet
@@ -79,6 +332,8 @@ http://orgmode.org/manual/index.html#Top
 *** org-gcal (sync google calendar to org agenda)
 **** https://github.com/myuhe/org-gcal.el
 **** http://jameswilliams.be/blog/2016/01/11/Taming-Your-GCal.html
+*** Pasting a screenshot into org file without saving it first
+https://www.reddit.com/r/emacs/comments/52q70g/paste_an_image_on_clipboard_to_emacs_org_mode/
 ** Literate programming
 *** https://en.wikipedia.org/wiki/Literate_programming
 * Emacs
@@ -95,6 +350,9 @@ SPC f r - open recent file
 <C-w> o - zoom/unzoom buffer
 " is the default register (both d and y write to this)
 0 is the yank register (only y writes to this)
+
+** Evil-Surround
+Wrap with arbitrary function use 'sf'
 
 ** Elisp
 *** Evaluating elisp in *scratch*
@@ -113,6 +371,7 @@ SPC l
 
 ** Projectile:
 SPC p
+
 ** Helm:
 C-c ? - shows help while in a helm session
 SPC h l - resumes previous helm session
@@ -132,10 +391,9 @@ eval-expression (info "elisp") or M-: (info "elisp")
 ** Things to fix:
 *** lingering minibuffer message (http://stackoverflow.com/questions/28830990/how-to-empty-or-clear-the-emacs-minibuffer)
 *** a workflow for copying a string from another app into spacemacs
+*** 't' text object for JSX tags aren't great. Figure out a good HTML workflow.
 *** TODO find evil operator to camelcase / snakecase words
-*** TODO Display column number or vertical rule
 *** Fix indenting idiosyncracies
-*** Fix * search (spacemacs/enter-ahs-forward) to work on visual selection. Also it's jank, for some reason it opens a minibuffer at the bottom sometimes. Also, fix it so that it also enters it into the search history (so that it could be repeated by pressing n/N)
 *** Project-wide AG:
 **** Do a search like `gd` in file (goes to definition)?
 **** Escape parens for owen/helm-ag-project-root-region-or-symbol
@@ -157,6 +415,9 @@ eval-expression (info "elisp") or M-: (info "elisp")
 *** unbind CMD-w (deletes buffer)
 *** figure out how to increase font size globally (cmd =/- just modifies current buffer)
 *** an equivalent of targets.vim
+*** code folding
+https://github.com/syl20bnr/spacemacs/issues/3226
+https://github.com/mrkkrp/vimish-fold
 
 ** Nice to have:
 *** async command to generate tags file
@@ -219,13 +480,284 @@ WHERE ds = '2016-09-08'
 AND channel in (1, 22)
 AND status > 1
 ;
-* Hawaii
-[[https://docs.google.com/document/d/1jV_at-S3ZvlcRUBufRtag8AtFoQfcIfmvHV-gUfJdOE/edit][Google doc for old trip]]
-[[https://docs.google.com/spreadsheets/d/1-PZg3NkjKZIb3u30-oBe6Z1Qxj1v_bM-8EjbhNZipUs/edit#gid=311785238][Google sheet for new trip]]
-[[https://secure.splitwise.com/#/groups/2254158][Splitwise]]
-** Tours
-* Movies to watch
-** Jerry Maguire
+* Helpful Links
+Query Caching:
+https://airbnb.hackpad.com/Caching-Guide-tbUvhy01KoO
+https://airbnb.hackpad.com/Pipette-Service-D1dfpKncTTE
+https://airbnb.hackpad.com/Query-Cache-Invalidation-Service-Pipette-4WGX0NjPgB8
+
+CDN caching:
+https://airbnb.hackpad.com/Should-we-stop-CDN-caching-on-P3-yMVXQgAUV6p
+https://airbnb.hackpad.com/Caching-Guide-tbUvhy01KoO#:h=Writing-cache-safe-code-for-pr
+
+Architecture Tenets:
+https://airbnb.hackpad.com/The-Architecture-of-Airbnb-Engineering-yQ57rkRo2IW#:h=Tenets
+
+New Hire Codelab:
+https://airbnb.hackpad.com/ep/group/ubrlamuI2t4
+
+Airbnbootcamp hackpad:
+https://airbnb.hackpad.com/Airbnbootcamp-HGkUgxJZhue
+
+Monorail and the Rails Stack:
+https://airbnb.hackpad.com/Monorail-and-the-Rails-Stack-looYpI17gTC
+
+Dev MySQL password:
+https://git.musta.ch/airbnb/chef/blob/production/cookbooks/monorail/attributes/development.rb#L1
+ewKyQimUuUJ7vEz8bvOJavsc6Q0G0fgE
+
+Resque locally:
+https://airbnb.hackpad.com/Monorail-and-the-Rails-Stack-looYpI17gTC#:h=Running-Jobs-in-Vagrant
+
+One-offs:
+https://git.musta.ch/airbnb/one-offs
+https://airbnb.hackpad.com/How-to-write-and-run-one-offs-0Mt9FvSYUOx
+
+Contributing and Deploying:
+https://airbnb.hackpad.com/Contributing-and-Deploying-yHYpTIH4BrB
+https://rpm.newrelic.com/
+https://rpm.newrelic.com/accounts/7358/custom_dashboards/26/pages/36282
+https://sentry.d.musta.ch/monorail/production/
+
+Technical Outcomes:
+https://airbnb.hackpad.com/Technical-Outcomes-Jr64MjpdfBW
+
+Monorail and the Rails Stack:
+https://airbnb.hackpad.com/Monorail-and-the-Rails-Stack-looYpI17gTC
+
+Front End Engineering:
+https://airbnb.hackpad.com/Front-End-Engineering-HZTB8BXt0ud
+
+Internationalization:
+https://airbnb.hackpad.com/Internationalization-Engineering-i18n-pSn5YhAxbDu
+
+Secret translations page (scroll to bottom, useful for adding keys to phrase collection):
+https://admin.airbnb.com/translate/translate_per_page_stats?locales=fr
+
+Data Stores:
+https://airbnb.hackpad.com/Data-Stores-FcJoCvha8rg
+
+Writing Scalable, Resilient Code:
+https://airbnb.hackpad.com/Writing-Scalable-Resilient-Code-bfH32I879H2
+
+Engineering Culture:
+http://nerds.airbnb.com/engineering-culture-airbnb/
+
+Optica for deployment/machine information:
+https://airbnb.hackpad.com/Optica-d1Kxt5vRxEw
+
+Airbnb sysops:
+https://git.musta.ch/airbnb/sysops
+
+Airbnb 3rd party services:
+https://git.musta.ch/airbnb/sysops/blob/master/docs/3rd_party_services.md
+
+Airpal:
+air/airpal
+
+Core data documentation:
+https://core-data.d.musta.ch/
+
+Web UI for inspecting production boxes:
+https://quilt.d.musta.ch/
+
+PrestoDB at Airbnb:
+https://airbnb.hackpad.com/PrestoDB-at-Airbnb-21j8eNDOsLA
+
+Airbnb bootstrap (O2):
+https://pages.git.musta.ch/airbnb/o2/
+
+O2 Playground:
+air/o2/playground
+
+Style guides:
+https://github.com/airbnb/ruby
+https://github.com/airbnb/javascript
+https://github.com/airbnb/javascript/tree/master/react
+https://github.com/airbnb/css
+
+Curly quote:
+’
+
+Monitoring and introspection:
+https://airbnb.hackpad.com/Monitoring-and-Introspection-Airbnb-GG47V1DVPSm
+
+Airbnb Glossary:
+https://airbnb.hackpad.com/Glossary-Content-az4rI2A8CqH
+
+Frontend engineering:
+https://airbnb.hackpad.com/Front-End-Engineering-HZTB8BXt0ud
+https://airbnb.hackpad.com/Frontend-Best-Practices-oKPP4z7F1kW
+
+Writing scalable, resilient code:
+https://airbnb.hackpad.com/Writing-Scalable-Resilient-Code-bfH32I879H2
+
+Rspec expect syntax:
+http://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers
+
+Dev productivity tips:
+https://airbnb.hackpad.com/Engineer-Productivity-Tools-g4azlc98JNb
+
+Braintree sample payment info (for localhost testing):
+https://www.braintreepayments.com/docs/ruby/reference/sandbox
+
+Publishing private gems:
+https://airbnb.hackpad.com/Publishing-Private-Gems-via-geminabox-a.k.a-Deploying-Gems-78zO5GDwKNY
+
+Airbnb SF recommendations:
+https://hackpad.com/Airbnb-Recommendations-for-Living-in-San-Francisco-IertxKS3BvX#:h=Dentists
+
+tmux tutorial:
+https://git.musta.ch/airbnb/airbnb/wiki/tmux
+
+Production rails console:
+ssh owen_lin@rc1.musta.ch
+rc
+
+Interactive debugging:
+Insert “binding.pry” into code
+Start zeus server and hit localhost.airbnb.com:3000
+
+Javascript tutorials:
+http://www.quora.com/What-books-and-podcasts-are-good-for-learning-JavaScript-front-end-development
+http://jqfundamentals.com/
+
+Rookery local setup:
+https://airbnb.hackpad.com/Email-Development-OO4YV4nt2yO
+
+New Relic in vagrant:
+https://airbnb.hackpad.com/New-Relic-Developer-Mode-jHxgx9yupP0
+
+Local gitignore:
+http://stackoverflow.com/questions/1753070/git-ignore-files-only-locally
+
+Event logging / Air Events / tracking:
+https://airbnb.hackpad.com/Event-Logging?r=0#Air-Events-Event-Logging
+https://airbnb.hackpad.com/Air-Events-Schema-and-Best-Practices-DxUajy9bTsj
+
+Vertical dividers in CSS:
+http://philhoyt.com/2014/09/19/pure-css-vertical-divider/
+
+All about floats in CSS:
+https://css-tricks.com/all-about-floats/
+
+Setting up for O2 development:
+https://airbnb.hackpad.com/Setting-up-for-O2-Development-ujwg643RBGE
+
+How to publish a new version of O2:
+https://airbnb.hackpad.com/How-to-publish-a-new-version-of-O2-master-to-npm-87vaEhtPb8M
+
+How to run npm shrink-wrap (like updating Gemfile.lock):
+https://airbnb.hackpad.com/How-to-npm-shrinkwrap-nxscdxwQyJc
+
+Javascript JS unit testing:
+https://airbnb.hackpad.com/Javascript-Testing-evUaCVDSOqW
+
+CSS reference:
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Webdev / frontend / CSS / JS / React Can I use?:
+air/caniuse
+
+Browser compatibility / support:
+http://caniuse.com/
+
+Box interview link:
+https://airbnb.app.box.com/codinginterviews
+
+Frontend Linting:
+https://airbnb.hackpad.com/Frontend-linting-JS-JavaScript-CSS-SCSS-JSX-React-etc.-front-end-JayRbNT8ByE
+
+Vim hackpad:
+https://airbnb.hackpad.com/Vim-8pcLTHeF3Kx#:h=Syntax-checking/Linting
+
+Alt best practices:
+https://airbnb.hackpad.com/Alt-Best-Practices-oC42thgbHW3
+
+React resources:
+https://airbnb.hackpad.com/React-resources-6DLJDvb1m5o
+
+React & Mystique:
+https://airbnb.hackpad.com/How-to-write-Isomorphic-Javascript-using-React-and-Hypernova-wYAxy8iiHrd
+
+Some decent React initialization:
+https://git.musta.ch/airbnb/airbnb/blob/master/app/assets/javascripts/rooms/list_your_space/index.jsx
+https://git.musta.ch/airbnb/airbnb/blob/master/app/assets/javascripts/guidebook_new/components/App.jsx
+
+API v2:
+https://airbnb.hackpad.com/API-V2-Development-Guide-vY18EgTTZrr
+
+————————————————————
+To see what queries your code is generating, you can run your code in the rails console and look for the generated queries in the `development.log` file, or you can add the following snippet to your `~/.irbrc` and/or`~/.pryrc` files to have the queries printed directly in the rails console.
+
+if defined?(Rails) && !Rails.env.nil?
+  if Rails.logger
+    Rails.logger = Logger.new(STDOUT)
+    ActiveRecord::Base.logger = Rails.logger
+  end
+end
+
+Sometimes a relatively innocent line of code will generate a large number of queries due to ActiveRecord callbacks. If you're unclear where a query is coming from, you can turn on backtrace logging after each query by adding the following snippet to your `~/.irbrc` and/or `~/.pryrc` files.
+
+if defined?(SqlBacktrace)
+  SqlBacktrace.mode = :filtered
+end
+——————————————————
+
+growth referral tracking:
+rookery
+tungsten
+
+Referrals roadmap & experiments spreadsheet:
+https://docs.google.com/a/airbnb.com/spreadsheets/d/1uktk78Yspyt6VgyW2EVrwT2ZJPRonec6v7gDEqpyzNo/edit#gid=0
+
+ERF force bucket (only for admin users, local and prod):
+<url>?erf_experiment=referral_banner_inline&erf_treatment=control
+<url>?erf_experiment=contact_importer_cloudsponge&erf_treatment=cloudsponge
+
+sudo /Library/StartupItems/VirtualBox/VirtualBox restart
+
+To skip or bypass git precommit hook:
+git commit --no-verify
+
+jq pretty print JSON:
+jq . <<< ‘<paste json here>’
+
+To generate API v2 Oauth token:
+Airbnb::OAuth2Client.generate_main_site_token_for_user(User.find_by_email("notifications@airbnb.com"))
+
+To test API v2 calls in a session:
+- log in, then run in Chrome console:
+Airbnb.Api.put('/v2/users/1603257', {data: {referrals_disabled: false}})
+
+To dump airbed3_development DB:
+mysqldump -uvagrant -pewKyQimUuUJ7vEz8bvOJavsc6Q0G0fgE airbed3_development > dumpfilename.sql
+
+To load mysqldump:
+mysql -uvagrant -pewKyQimUuUJ7vEz8bvOJavsc6Q0G0fgE airbed3_development < dumpfilename.sql
+
+http://localhost.airbnb.com/import_contacts?source=gmail
+
+s:\(\s\+\)\(.\+\)\(\.should\):\1expect(\2)\.to:gc
+
+CHANNEL_EMAIL_DIRECT_DASHBOARD_BANNER
+CHANNEL_EMAIL_DIRECT_POST_BOOKING
+
+# Log into a box running the admin version of the site:
+$ optica role=monorail-admin-util .hostname
+i-4db0c2a0
+$ ssh first_last@i-4db0c2a0.inst.aws.airbnb.com
+
+# Running eslint locally
+nom run eslint <path to file>
+
+Increasing # of DB connections locally:
+$ mysql -u vagrant
+
+UPDATE mysql.user SET max_user_connections = 100;
+FLUSH PRIVILEGES;
+select user, max_user_connections  FROM mysql.user;
+
 * Interesting reading
 ** Steve Yegge's blog (http://steve-yegge.blogspot.com/)
 *** https://en.wikipedia.org/wiki/Steve_Yegge
@@ -233,3 +765,9 @@ AND status > 1
 ** TODO Document Mario server-side rendering and provide a way to programmatically access Mario keys using i18n-js
 ** Clay's Mario experiment on the Book-It button on P3 requires both bootstrap_mario and Mario.get_all_phrases.
 *** Why? P3 is cached. get_all_phrases ensures that we won't get an ugly mario placeholder on initial page load, and bootstrap_mario ensures that the Mario component actually delivers the experiment client-side.
+* Hawaii
+[[https://docs.google.com/document/d/1jV_at-S3ZvlcRUBufRtag8AtFoQfcIfmvHV-gUfJdOE/edit][Google doc for old trip]]
+[[https://docs.google.com/spreadsheets/d/1-PZg3NkjKZIb3u30-oBe6Z1Qxj1v_bM-8EjbhNZipUs/edit#gid=311785238][Google sheet for new trip]]
+[[https://secure.splitwise.com/#/groups/2254158][Splitwise]]
+** Tours
+** Resort Dive (scuba)

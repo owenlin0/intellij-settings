@@ -24,12 +24,12 @@ values."
      ;; <M-m f e R> (Emacs style) to install them.
      ;; ----------------------------------------------------------------
 
-     ;; (auto-completion :variables
-     ;;                  auto-completion-complete-with-key-sequence "jk"
-     ;;                  auto-completion-tab-key-behavior 'complete
-     ;;                  auto-completion-enter-key-behavior nil
-     ;;                  auto-completion-enable-sort-by-usage t
-     ;;                  auto-completion-enable-snippets-in-popup t)
+     (auto-completion :variables
+                      auto-completion-complete-with-key-sequence "jk"
+                      auto-completion-tab-key-behavior 'complete
+                      auto-completion-return-key-behavior nil
+                      auto-completion-enable-sort-by-usage t
+                      auto-completion-enable-snippets-in-popup t)
 
      ;; better-defaults
      emacs-lisp
@@ -66,6 +66,7 @@ values."
      ;; --- additional Vim stuff ---
      unimpaired
      evil-snipe
+     evil-cleverparens
      )
    ;; List of additional packages that will be installed without being
    ;; wrapped in a layer. If you need some configuration for these
@@ -379,11 +380,6 @@ you should place your code here."
     (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
     (define-key evil-motion-state-map (kbd "L") 'end-of-line)
 
-    ;; Insert mode mappings
-    ;; Easier way to expand yasnippets (default is M-/)
-    ;; (define-key evil-insert-state-map (kbd "<S-tab>") 'hippie-expand)
-    ;; (define-key evil-insert-state-map (kbd "<backtab>") 'hippie-expand)
-
     ;; gag hack
     ;; (define-key evil-normal-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
     ;; (define-key evil-motion-state-map (kbd "gag") 'evil-operator-helm-ag-project-root)
@@ -430,8 +426,62 @@ you should place your code here."
   ;; Word wrap for org mode
   (add-hook 'org-mode-hook #'turn-on-visual-line-mode)
 
+  ;; Use evil-cleverparens for Emacs lisp files
+  (spacemacs/toggle-evil-cleverparens-on)
+  (add-hook 'emacs-lisp-mode-hook #'evil-cleverparens-mode)
+
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
+
+  ;; Toggle between camel and snake case.
+  ;; (defun owen/toggle-camelcase-snakecase ()
+  ;;   "Toggle between camelCase and snake_case for the symbol at point. Relies on s.el."
+  ;;   (interactive)
+  ;;   (save-excursion
+  ;;     (let* ((bounds (bounds-of-thing-at-point 'symbol))
+  ;;            (start (car bounds))
+  ;;            (end (cdr bounds))
+  ;;            (word (buffer-substring start end))
+  ;;            (currently-using-underscores-p (progn (goto-char start)
+  ;;                                                  (re-search-forward "_" end t))))
+  ;;       (if currently-using-underscores-p
+  ;;           (progn
+  ;;             (delete-region start end)
+  ;;             (insert (s-lower-camel-case word)))
+  ;;         (delete-region start end)
+  ;;         (insert (s-snake-case word))))))
+
+  (defun owen/convert-symbol-to-snake-case ()
+    "Convert symbol at point to snake_case. Relies on s.el."
+    (interactive)
+    (save-excursion
+      (let* ((bounds (bounds-of-thing-at-point 'symbol))
+             (start (car bounds))
+             (end (cdr bounds))
+             (word (buffer-substring start end)))
+        (delete-region start end)
+        (insert (s-snake-case word)))))
+
+  ;; weird ass bug, it seems like s-lower-camel-case doesn't work after calling this
+  ;; function for the first time
+  (defun owen/convert-symbol-to-camel-case ()
+    "Convert symbol at point to camelCase. Relies on s.el."
+    (interactive)
+    (save-excursion
+      (let* ((bounds (bounds-of-thing-at-point 'symbol))
+             (start (car bounds))
+             (end (cdr bounds))
+             (word (buffer-substring start end)))
+        (message (s-lower-camel-case word))
+        (delete-region start end)
+        (insert (s-lower-camel-case word)))))
+
+  (defun underscore-region (begin end) (interactive "r")
+         (let* ((word (buffer-substring begin end))
+                (underscored (underscore-string word)))
+           (save-excursion
+             (widen) ; break out of the subregion so we can fix every usage of the function
+             (replace-string word underscored nil (point-min) (point-max)))))
 
   ;; Easily copy buffer's filename to clipboard. Function could be improved.
   (defun owen/copy-filepath-to-clipboard ()
@@ -505,7 +555,6 @@ you should place your code here."
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(evil-search-module (quote evil-search))
  '(js2-strict-trailing-comma-warning nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
