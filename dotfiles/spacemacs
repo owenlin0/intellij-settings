@@ -290,13 +290,13 @@ you should place your code here."
   (setq-default vc-follow-symlinks t)
 
   (with-eval-after-load 'org
-    (setq org-agenda-files '("~/personal/org/main.org"
-                             "~/personal/org/scratch.org")))
+    (setq org-agenda-files '("~/Dropbox/org/main.org"
+                             "~/Dropbox/org/scratch.org")))
 
   (defun owen/find-orgfile ()
     "Open `main.org' in the current window."
     (interactive)
-    (find-file-existing "~/personal/org/main.org"))
+    (find-file-existing "~/Dropbox/org/main.org"))
 
   ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
   ;; ripped from packages.el
