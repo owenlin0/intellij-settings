@@ -351,6 +351,9 @@ SPC f r - open recent file
 " is the default register (both d and y write to this)
 0 is the yank register (only y writes to this)
 
+Instead of using 'm' as a ruby text object, can use 'i' to select all lines with the
+same identation level. (Uses the evil-indent-plus package)
+
 ** Evil-Surround
 Wrap with arbitrary function use 'sf'
 
@@ -392,7 +395,6 @@ eval-expression (info "elisp") or M-: (info "elisp")
 *** lingering minibuffer message (http://stackoverflow.com/questions/28830990/how-to-empty-or-clear-the-emacs-minibuffer)
 *** a workflow for copying a string from another app into spacemacs
 *** 't' text object for JSX tags aren't great. Figure out a good HTML workflow.
-*** TODO find evil operator to camelcase / snakecase words
 *** Fix indenting idiosyncracies
 *** Project-wide AG:
 **** Do a search like `gd` in file (goes to definition)?
@@ -404,13 +406,11 @@ eval-expression (info "elisp") or M-: (info "elisp")
 **** also csw'X doesn't work as it does in Vim (https://github.com/tpope/vim-surround/issues/145)
 *** helm-etags-select (g]) should filter from results. Instead when you type it does some dumb ass thing.
 *** fugitive git-blame is so much better than magit's git blame (vc-annotate works but not as good as fugitive)
-*** set up nice word-wrapping on .txt files
 *** add "gag" operator
 *** super slow performance on global commands
 **** https://bitbucket.org/lyro/evil/issues/446/filter-lines-in-buffer-extremely-slow
 **** https://www.reddit.com/r/emacs/comments/2rdvev/spacemacs_windows_poor_performance_on_global/
 **** Solution: use emacs keep-lines and flush-lines
-*** add in 'm' text object for ruby methods
 *** jumpy scrolling with ctrl-f and ctrl-b
 *** unbind CMD-w (deletes buffer)
 *** figure out how to increase font size globally (cmd =/- just modifies current buffer)
@@ -761,6 +761,7 @@ select user, max_user_connections  FROM mysql.user;
 * Interesting reading
 ** Steve Yegge's blog (http://steve-yegge.blogspot.com/)
 *** https://en.wikipedia.org/wiki/Steve_Yegge
+** Aaron Bieber's blog (http://blog.aaronbieber.com/2016/01/30/dig-into-org-mode.html)
 * Mario documentation
 ** TODO Document Mario server-side rendering and provide a way to programmatically access Mario keys using i18n-js
 ** Clay's Mario experiment on the Book-It button on P3 requires both bootstrap_mario and Mario.get_all_phrases.

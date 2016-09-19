@@ -433,26 +433,16 @@ you should place your code here."
   ;; Apply sql-mode to .hql files
   (add-to-list 'auto-mode-alist '("\\.hql\\'" . sql-mode))
 
-  ;; Toggle between camel and snake case.
-  ;; (defun owen/toggle-camelcase-snakecase ()
-  ;;   "Toggle between camelCase and snake_case for the symbol at point. Relies on s.el."
-  ;;   (interactive)
-  ;;   (save-excursion
-  ;;     (let* ((bounds (bounds-of-thing-at-point 'symbol))
-  ;;            (start (car bounds))
-  ;;            (end (cdr bounds))
-  ;;            (word (buffer-substring start end))
-  ;;            (currently-using-underscores-p (progn (goto-char start)
-  ;;                                                  (re-search-forward "_" end t))))
-  ;;       (if currently-using-underscores-p
-  ;;           (progn
-  ;;             (delete-region start end)
-  ;;             (insert (s-lower-camel-case word)))
-  ;;         (delete-region start end)
-  ;;         (insert (s-snake-case word))))))
+  ;; Can't use s-lower-camel-case because I modified the syntax entry to not count "_" as
+  ;; a word delimiter.
+  (defun owen//s-lower-camel-case (s)
+    (if (s-contains-p "_" s)
+        (s-join "" (s--mapcar-head 'downcase 'capitalize (s-split "_" s)))
+      (s-lower-camel-case s)))
 
   (defun owen/convert-symbol-to-snake-case ()
     "Convert symbol at point to snake_case. Relies on s.el."
+    (require 's)
     (interactive)
     (save-excursion
       (let* ((bounds (bounds-of-thing-at-point 'symbol))
@@ -462,26 +452,17 @@ you should place your code here."
         (delete-region start end)
         (insert (s-snake-case word)))))
 
-  ;; weird ass bug, it seems like s-lower-camel-case doesn't work after calling this
-  ;; function for the first time
   (defun owen/convert-symbol-to-camel-case ()
     "Convert symbol at point to camelCase. Relies on s.el."
+    (require 's)
     (interactive)
     (save-excursion
       (let* ((bounds (bounds-of-thing-at-point 'symbol))
              (start (car bounds))
              (end (cdr bounds))
              (word (buffer-substring start end)))
-        (message (s-lower-camel-case word))
         (delete-region start end)
-        (insert (s-lower-camel-case word)))))
-
-  (defun underscore-region (begin end) (interactive "r")
-         (let* ((word (buffer-substring begin end))
-                (underscored (underscore-string word)))
-           (save-excursion
-             (widen) ; break out of the subregion so we can fix every usage of the function
-             (replace-string word underscored nil (point-min) (point-max)))))
+        (insert (owen//s-lower-camel-case word)))))
 
   ;; Easily copy buffer's filename to clipboard. Function could be improved.
   (defun owen/copy-filepath-to-clipboard ()
@@ -546,6 +527,8 @@ you should place your code here."
   (spacemacs/set-leader-keys "of" 'owen/copy-relative-filepath-to-clipboard)
   (spacemacs/set-leader-keys "oF" 'owen/copy-absolute-filepath-to-clipboard)
   (spacemacs/set-leader-keys "org" 'owen/find-orgfile)
+  (spacemacs/set-leader-keys "orc" 'owen/convert-symbol-to-camel-case)
+  (spacemacs/set-leader-keys "ors" 'owen/convert-symbol-to-snake-case)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
