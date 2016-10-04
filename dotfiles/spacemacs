@@ -298,6 +298,9 @@ you should place your code here."
     (interactive)
     (find-file-existing "~/Dropbox/org/main.org"))
 
+  (with-eval-after-load 'projectile
+    (setq projectile-switch-project-action #'projectile-dired))
+
   ;; --- All this is a hack to enable passing in a symbol or visual selection to helm-ag ---
   ;; ripped from packages.el
   (defun owen//helm-ag-region-or-symbol (func &optional dir)
@@ -406,19 +409,16 @@ you should place your code here."
 
   ;; Highlight characters past column 100
   (with-eval-after-load 'whitespace
-    (setq whitespace-line-column 101
+    (setq whitespace-line-column 100
           whitespace-style '(face lines-tail)))
 
   (add-hook 'prog-mode-hook 'whitespace-mode)
 
   ;; Vim-like word boundaries (don't allow _ to denote separate words)
-  (add-hook 'python-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'ruby-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'js2-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'yaml-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'sql-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
-  (add-hook 'react-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+  (add-hook 'prog-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
+
   (add-hook 'fundamental-mode-hook (lambda () (modify-syntax-entry ?_ "w"))) ;; for something like helm-swoop-edit
+  (add-hook 'org-mode-hook (lambda () (modify-syntax-entry ?_ "w")))
 
   ;; Fix for evil-jump-to-tag on something like Foo::Bar in ruby
   (add-hook 'ruby-mode-hook (lambda () (modify-syntax-entry ?: ".")))
