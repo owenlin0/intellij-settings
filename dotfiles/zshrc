@@ -23,7 +23,6 @@ export LS_COLORS='di=36;40:ln=35;40:so=32;40:pi=33;40:ex=31;40:bd=34;46:cd=34;43
 zstyle -e ':completion:*:default' list-colors 'reply=("${PREFIX:+=(#bi)($PREFIX:t)(?)*==02=01}:${(s.:.)LS_COLORS}")'
 
 # Use ctags as backend for GNU Global
-export GTAGSCONF=/usr/local/share/gtags/gtags.conf
 export GTAGSLABEL=ctags
 
 alias zreload="exec zsh"
@@ -48,6 +47,7 @@ alias lerf="vagrant ssh -c \"'cd ~/repos/data/airflow/metrics_repo/deploy && ./d
 alias bluetooth="sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport && sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
 alias gat="ctags -R --languages=-javascript --exclude=.git --exclude=node_modules --exclude=*.txt"
 alias egat="ctags -e -R --languages=ruby --exclude=.git --exclude=node_modules --exclude=log ."
+alias ggat="rm /tmp/gtags_source_files && ag -l -g \"\" --ruby > /tmp/gtags_source_files && gtags -v -f /tmp/gtags_source_files"
 # alias tmuxa="tmux attach -d"
 alias rc1="ssh owen_lin@rc1.musta.ch"
 alias hive="ssh owen_lin@gw1.silver.musta.ch"

@@ -48,7 +48,7 @@ values."
      emacs-lisp
      git
      github
-     ;; (gtags :variables gtags-enable-by-default nil)
+     (gtags :variables gtags-enable-by-default nil)
      org
      osx
 
