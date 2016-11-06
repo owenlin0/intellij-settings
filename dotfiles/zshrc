@@ -22,10 +22,9 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 export LS_COLORS='di=36;40:ln=35;40:so=32;40:pi=33;40:ex=31;40:bd=34;46:cd=34;43:su=0;41:sg=0;46:tw=0;42:ow=0;43:'
 zstyle -e ':completion:*:default' list-colors 'reply=("${PREFIX:+=(#bi)($PREFIX:t)(?)*==02=01}:${(s.:.)LS_COLORS}")'
 
-export DATA_DIR=/Users/owen_lin/repos/data/
-export ROOKERY_DIR=/Users/owen_lin/repos/rookery/
-export TUNGSTEN_DIR=/Users/owen_lin/repos/tungsten-support/
-export OMGPRO_DIR=/Users/owen_lin/repos/omgpro/
+# Use ctags as backend for GNU Global
+export GTAGSCONF=/usr/local/share/gtags/gtags.conf
+export GTAGSLABEL=ctags
 
 alias zreload="exec zsh"
 

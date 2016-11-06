@@ -48,7 +48,7 @@ values."
      emacs-lisp
      git
      github
-     gtags
+     ;; (gtags :variables gtags-enable-by-default nil)
      org
      osx
 
@@ -186,7 +186,7 @@ values."
    ;; works in the GUI. (default nil)
    dotspacemacs-distinguish-gui-tab t
    ;; If non nil `Y' is remapped to `y$' in Evil states. (default nil)
-   dotspacemacs-remap-Y-to-y$ nil
+   dotspacemacs-remap-Y-to-y$ t
    ;; If non-nil, the shift mappings `<' and `>' retain visual state if used
    ;; there. (default t)
    dotspacemacs-retain-visual-state-on-shift t
@@ -333,6 +333,10 @@ you should place your code here."
   ;; Follow symlinks automatically without asking to confirm
   (setq-default vc-follow-symlinks t)
 
+  ;; Disable company autocompletion for specific modes
+  (spacemacs|disable-company ruby-mode)
+  (spacemacs|disable-company org-mode)
+
   (with-eval-after-load 'org
     (setq org-agenda-files '("~/Dropbox/org/main.org"
                              "~/Dropbox/org/scratch.org")))
@@ -378,7 +382,7 @@ you should place your code here."
     (define-key evil-normal-state-map (kbd "H") 'back-to-indentation)
     (define-key evil-normal-state-map (kbd "L") 'end-of-line)
     (define-key evil-normal-state-map (kbd "C-l") 'evil-search-highlight-persist-remove-all)
-    (define-key evil-normal-state-map (kbd "g]") 'helm-etags-select)
+    ;; (define-key evil-normal-state-map (kbd "g]") 'helm-etags-select)
 
     ;; Operator-pending mode mappings
     (define-key evil-motion-state-map (kbd "H") 'back-to-indentation)
@@ -561,6 +565,13 @@ region."
       (github-browse--save-and-view url)))
   ;;--- END git.musta.ch github-browse-file hacks ---
 
+  ;; Debug this.
+  (defun owen/neotree-open-yasnippet-dir ()
+    "Open the private yasnippet directory in Neotree."
+    (require 'neotree)
+    (interactive)
+    (neotree-dir "~/emacs.d/private/snippets"))
+
   ;; --- User bindings ---
   ;; According to spacemacs documentation, SPC o is reserved for the user
   ;; Use SPC o n/p to move to next/previous errors
@@ -575,6 +586,7 @@ region."
   (spacemacs/set-leader-keys "ors" #'owen/convert-symbol-to-snake-case)
   (spacemacs/set-leader-keys "ogho" #'owen/github-browse-file)
   (spacemacs/set-leader-keys "ogb" #'owen/github-browse-file-blame)
+  (spacemacs/set-leader-keys "oy" #'owen/neotree-open-yasnippet-dir)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
@@ -587,7 +599,7 @@ region."
  '(js2-strict-trailing-comma-warning nil)
  '(package-selected-packages
    (quote
-    (dash helm-open-github anzu undo-tree ht async mmm-mode markdown-toc markdown-mode gh-md pug-mode smartparens yasnippet magit-popup git-commit with-editor flycheck helm helm-core projectile magit evil-snipe evil-cleverparens paredit yaml-mode web-mode web-beautify tagedit sql-indent slim-mode scss-mode sass-mode rvm ruby-tools ruby-test-mode rubocop rspec-mode robe rbenv rake livid-mode skewer-mode simple-httpd less-css-mode json-mode json-snatcher json-reformat js2-refactor multiple-cursors js2-mode js-doc jade-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data company-tern dash-functional tern coffee-mode chruby bundler inf-ruby xterm-color ws-butler window-numbering which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spacemacs-theme spaceline smeargle shell-pop reveal-in-osx-finder restart-emacs rainbow-delimiters quelpa popwin persp-mode pcre2el pbcopy paradox osx-trash osx-dictionary orgit org-projectile org-present org-pomodoro org-plus-contrib org-download org-bullets open-junk-file neotree multi-term move-text magit-gitflow magit-gh-pulls macrostep lorem-ipsum linum-relative link-hint launchctl info+ indent-guide ido-vertical-mode hungry-delete htmlize hl-todo highlight-parentheses highlight-numbers highlight-indentation help-fns+ helm-themes helm-swoop helm-projectile helm-mode-manager helm-make helm-gtags helm-gitignore helm-flx helm-descbinds helm-company helm-c-yasnippet helm-ag google-translate golden-ratio gnuplot github-search github-clone github-browse-file gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link gist ggtags flycheck-pos-tip flx-ido fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-magit evil-lisp-state evil-indent-plus evil-iedit-state evil-exchange evil-escape evil-ediff evil-args evil-anzu eval-sexp-fu eshell-z eshell-prompt-extras esh-help elisp-slime-nav dumb-jump company-statistics column-enforce-mode clean-aindent-mode auto-yasnippet auto-highlight-symbol auto-compile aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line ac-ispell))))
+    (gh auto-complete iedit minitest hide-comnt dash helm-open-github anzu undo-tree ht async mmm-mode markdown-toc markdown-mode gh-md pug-mode smartparens yasnippet magit-popup git-commit with-editor flycheck helm helm-core projectile magit evil-snipe evil-cleverparens paredit yaml-mode web-mode web-beautify tagedit sql-indent slim-mode scss-mode sass-mode rvm ruby-tools ruby-test-mode rubocop rspec-mode robe rbenv rake livid-mode skewer-mode simple-httpd less-css-mode json-mode json-snatcher json-reformat js2-refactor multiple-cursors js2-mode js-doc jade-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data company-tern dash-functional tern coffee-mode chruby bundler inf-ruby xterm-color ws-butler window-numbering which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spacemacs-theme spaceline smeargle shell-pop reveal-in-osx-finder restart-emacs rainbow-delimiters quelpa popwin persp-mode pcre2el pbcopy paradox osx-trash osx-dictionary orgit org-projectile org-present org-pomodoro org-plus-contrib org-download org-bullets open-junk-file neotree multi-term move-text magit-gitflow magit-gh-pulls macrostep lorem-ipsum linum-relative link-hint launchctl info+ indent-guide ido-vertical-mode hungry-delete htmlize hl-todo highlight-parentheses highlight-numbers highlight-indentation help-fns+ helm-themes helm-swoop helm-projectile helm-mode-manager helm-make helm-gtags helm-gitignore helm-flx helm-descbinds helm-company helm-c-yasnippet helm-ag google-translate golden-ratio gnuplot github-search github-clone github-browse-file gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link gist ggtags flycheck-pos-tip flx-ido fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-magit evil-lisp-state evil-indent-plus evil-iedit-state evil-exchange evil-escape evil-ediff evil-args evil-anzu eval-sexp-fu eshell-z eshell-prompt-extras esh-help elisp-slime-nav dumb-jump company-statistics column-enforce-mode clean-aindent-mode auto-yasnippet auto-highlight-symbol auto-compile aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line ac-ispell))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
