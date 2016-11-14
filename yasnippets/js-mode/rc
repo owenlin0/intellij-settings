@@ -1,0 +1,20 @@
+# -*- mode: snippet -*-
+# name: React component
+# key: rc
+# --
+import React from 'react';
+import { Types } from 'react-validators';
+
+const propTypes = {
+};
+
+class ${1:ClassName} extends React.Component {
+  render() {
+    return (
+      $0
+    );
+  }
+}
+
+$1.propTypes = propTypes;
+export default $1;

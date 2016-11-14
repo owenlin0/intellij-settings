@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: ERF.deliverExperiment
+# key: del
+# --
+ERF.deliverExperiment('${1:experiment_name}', {
+  ${2:control}: () => false,
+  ${2:treatment}: () => true,
+  treatment_unknown: () => false,
+});

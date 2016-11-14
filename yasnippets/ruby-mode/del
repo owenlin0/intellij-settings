@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: deliver experiment
+# key: del
+# --
+deliver_experiment(
+  '${1:experiment_name}',
+  :control => lambda { false },
+  :treatment => lambda { true },
+  :treatment_unknown => lambda { false },
+)

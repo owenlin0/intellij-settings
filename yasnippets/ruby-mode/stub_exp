@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stub ERF experiment
+# key: stub_exp
+# --
+ERF::Client::Deliver.stub_experiment!('${1:experiment_name}', :${2:treatment})

@@ -13,7 +13,7 @@ tmux new-session -s $SESSION_NAME -d
 # first pane
 tmux rename-window monorail
 tmux send-keys -t $SESSION_NAME 'cd ~/repos/airbnb && vagrant ssh' C-m
-tmux send-keys -t $SESSION_NAME 'cd repos/airbnb && bundle install && zeus start' C-m
+tmux send-keys -t $SESSION_NAME 'cd repos/airbnb && bundle install && sudo service monorail restart && sudo service nginx restart && rm .zeus.sock && zeus start' C-m
 
 # second pane
 tmux split-window -h -t $SESSION_NAME
@@ -25,16 +25,6 @@ tmux select-pane -L
 tmux split-window -v -t $SESSION_NAME
 tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
 tmux send-keys -t $SESSION_NAME 'cd repos/airbnb' C-m
-
-### Rookery
-tmux new-window -n rookery
-# first pane
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
-tmux send-keys -t $SESSION_NAME 'cd repos/rookery' C-m
-# second pane
-tmux split-window -h -t $SESSION_NAME
-tmux send-keys -t $SESSION_NAME 'sleep $[ ( $RANDOM % 8 ) + 1 ]s; cd ~/repos/airbnb && vagrant ssh' C-m
-tmux send-keys -t $SESSION_NAME 'cd repos/rookery' C-m
 
 ### Open window
 tmux new-window
