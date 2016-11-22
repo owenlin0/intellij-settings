@@ -341,10 +341,18 @@ you should place your code here."
     (setq org-agenda-files '("~/Dropbox/org/main.org"
                              "~/Dropbox/org/scratch.org")))
 
+  (with-eval-after-load 'org-capture
+    (setq org-default-notes-file "~/Dropbox/org/notes.org"))
+
   (defun owen/find-orgfile ()
     "Open `main.org' in the current window."
     (interactive)
     (find-file-existing "~/Dropbox/org/main.org"))
+
+  (defun owen/find-orgfile-notes ()
+    "Open `notes.org' in the current window."
+    (interactive)
+    (find-file-existing "~/Dropbox/org/notes.org"))
 
   (with-eval-after-load 'projectile
     (setq projectile-switch-project-action #'projectile-dired))
@@ -582,6 +590,7 @@ region."
   (spacemacs/set-leader-keys "of" #'owen/copy-relative-filepath-to-clipboard)
   (spacemacs/set-leader-keys "oF" #'owen/copy-relative-filepath-and-line-to-clipboard)
   (spacemacs/set-leader-keys "org" #'owen/find-orgfile)
+  (spacemacs/set-leader-keys "orn" #'owen/find-orgfile-notes)
   (spacemacs/set-leader-keys "orc" #'owen/convert-symbol-to-camel-case)
   (spacemacs/set-leader-keys "ors" #'owen/convert-symbol-to-snake-case)
   (spacemacs/set-leader-keys "ogho" #'owen/github-browse-file)
@@ -599,7 +608,7 @@ region."
  '(js2-strict-trailing-comma-warning nil)
  '(package-selected-packages
    (quote
-    (org highlight gh auto-complete iedit minitest hide-comnt dash helm-open-github anzu undo-tree ht async mmm-mode markdown-toc markdown-mode gh-md pug-mode smartparens yasnippet magit-popup git-commit with-editor flycheck helm helm-core projectile magit evil-snipe evil-cleverparens paredit yaml-mode web-mode web-beautify tagedit sql-indent slim-mode scss-mode sass-mode rvm ruby-tools ruby-test-mode rubocop rspec-mode robe rbenv rake livid-mode skewer-mode simple-httpd less-css-mode json-mode json-snatcher json-reformat js2-refactor multiple-cursors js2-mode js-doc jade-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data company-tern dash-functional tern coffee-mode chruby bundler inf-ruby xterm-color ws-butler window-numbering which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spacemacs-theme spaceline smeargle shell-pop reveal-in-osx-finder restart-emacs rainbow-delimiters quelpa popwin persp-mode pcre2el pbcopy paradox osx-trash osx-dictionary orgit org-projectile org-present org-pomodoro org-plus-contrib org-download org-bullets open-junk-file neotree multi-term move-text magit-gitflow magit-gh-pulls macrostep lorem-ipsum linum-relative link-hint launchctl info+ indent-guide ido-vertical-mode hungry-delete htmlize hl-todo highlight-parentheses highlight-numbers highlight-indentation help-fns+ helm-themes helm-swoop helm-projectile helm-mode-manager helm-make helm-gtags helm-gitignore helm-flx helm-descbinds helm-company helm-c-yasnippet helm-ag google-translate golden-ratio gnuplot github-search github-clone github-browse-file gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link gist ggtags flycheck-pos-tip flx-ido fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-magit evil-lisp-state evil-indent-plus evil-iedit-state evil-exchange evil-escape evil-ediff evil-args evil-anzu eval-sexp-fu eshell-z eshell-prompt-extras esh-help elisp-slime-nav dumb-jump company-statistics column-enforce-mode clean-aindent-mode auto-yasnippet auto-highlight-symbol auto-compile aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line ac-ispell))))
+    (company org highlight gh auto-complete iedit minitest hide-comnt dash helm-open-github anzu undo-tree ht async mmm-mode markdown-toc markdown-mode gh-md pug-mode smartparens yasnippet magit-popup git-commit with-editor flycheck helm helm-core projectile magit evil-snipe evil-cleverparens paredit yaml-mode web-mode web-beautify tagedit sql-indent slim-mode scss-mode sass-mode rvm ruby-tools ruby-test-mode rubocop rspec-mode robe rbenv rake livid-mode skewer-mode simple-httpd less-css-mode json-mode json-snatcher json-reformat js2-refactor multiple-cursors js2-mode js-doc jade-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data company-tern dash-functional tern coffee-mode chruby bundler inf-ruby xterm-color ws-butler window-numbering which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spacemacs-theme spaceline smeargle shell-pop reveal-in-osx-finder restart-emacs rainbow-delimiters quelpa popwin persp-mode pcre2el pbcopy paradox osx-trash osx-dictionary orgit org-projectile org-present org-pomodoro org-plus-contrib org-download org-bullets open-junk-file neotree multi-term move-text magit-gitflow magit-gh-pulls macrostep lorem-ipsum linum-relative link-hint launchctl info+ indent-guide ido-vertical-mode hungry-delete htmlize hl-todo highlight-parentheses highlight-numbers highlight-indentation help-fns+ helm-themes helm-swoop helm-projectile helm-mode-manager helm-make helm-gtags helm-gitignore helm-flx helm-descbinds helm-company helm-c-yasnippet helm-ag google-translate golden-ratio gnuplot github-search github-clone github-browse-file gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link gist ggtags flycheck-pos-tip flx-ido fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-magit evil-lisp-state evil-indent-plus evil-iedit-state evil-exchange evil-escape evil-ediff evil-args evil-anzu eval-sexp-fu eshell-z eshell-prompt-extras esh-help elisp-slime-nav dumb-jump company-statistics column-enforce-mode clean-aindent-mode auto-yasnippet auto-highlight-symbol auto-compile aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line ac-ispell))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
