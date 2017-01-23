@@ -13,25 +13,17 @@ tmux new-session -s $SESSION_NAME -d
 tmux rename-window monorail
 tmux send-keys -t $SESSION_NAME 'cd ~/repos/airbnb' C-m
 
-# window
-tmux new-window
-tmux send-keys -t $SESSION_NAME 'cd ~/repos/airbnb' C-m
+# window: treehouse
+tmux new-window -n treehouse
+tmux send-keys -t $SESSION_NAME 'cd ~/repos/treehouse' C-m
 
-# window: rookery
-tmux new-window -n rookery
-tmux send-keys -t $SESSION_NAME 'cd ~/repos/rookery' C-m
-
-# window
-tmux new-window
-tmux send-keys -t $SESSION_NAME 'cd ~/repos/rookery' C-m
-
-# window: data
-tmux new-window -n data
-tmux send-keys -t $SESSION_NAME 'cd ~/repos/data' C-m
+# window: rolodex
+tmux new-window -n rolodex
+tmux send-keys -t $SESSION_NAME 'cd ~/repos/treehouse/projects/rolodex' C-m
 
 # window
 tmux new-window
-tmux send-keys -t $SESSION_NAME 'cd ~/repos/data' C-m
+tmux send-keys -t $SESSION_NAME 'cd ~/repos/treehouse/projects/rolodex' C-m
 
 ### Select 1st window
 tmux next-window -t $SESSION_NAME

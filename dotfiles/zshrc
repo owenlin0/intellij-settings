@@ -30,12 +30,14 @@ alias zreload="exec zsh"
 # can also try deleting node_modules
 alias jsclean="npm cache clean && rm -r ~/repos/airbnb/tmp/cache && sudo service unicorn restart && rm -r /tmp/phoenix-cache && sudo service phoenix restart"
 
+alias rolo="ssh i-08f665867d21b9ed6.inst.aws.airbnb.com"
 alias sup="git fetch && git rebase origin/master && vagrant ssh -c \"'cd ~/airbnb && /usr/local/bin/owen-post-merge && sudo service unicorn restart && sudo service nginx restart'\""
 alias bounce="vagrant ssh -c 'sudo service monorail restart && sudo service nginx restart'"
 alias newbundle="vagrant ssh -c 'sudo service monorail-mystique restart && sudo service monorail-webpack restart'"
 alias mystique="vagrant ssh -c 'sudo service monorail-mystique restart'"
 alias freb="git fetch && git rebase origin/master"
-alias sinstall="vagrant ssh -c \"'cd ~/airbnb && bundle install && npm install && bundle exec rake db:migrate && bundle exec rake db:test:prepare && git submodule update --init --recursive'\""
+alias frebb="git fetch && git rebase origin/master && monupdate"
+alias monupdate="vagrant ssh -c \"'cd ~/airbnb && bundle install && npm install && sudo service monorail restart && sudo service nginx restart && sudo service monorail-mystique restart && sudo service monorail-webpack restart'\""
 alias faster="vagrant ssh -c \"'sudo sv down bouncer-worker-0 bouncer autopricing; sudo service pricing stop; sudo service pinnacle stop; sudo service discover stop; sudo service search stop'\""
 alias slower="vagrant ssh -c \"'sudo sv down bouncer-worker-0 bouncer autopricing; sudo service pricing start; sudo service pinnacle start; sudo service discover start; sudo service search start'\""
 alias v="vagrant"
@@ -54,6 +56,7 @@ alias hive="ssh owen_lin@gw1.silver.musta.ch"
 alias gold="ssh owen_lin@gw1.gold.musta.ch"
 alias tmuxd="/bin/sh /Users/owen_lin/personal/tmux/default.sh"
 alias tmuxv="/bin/sh /Users/owen_lin/personal/tmux/vagrant.sh"
+alias holi="ssh i-00428d4f16ce1b7f4.inst.aws.airbnb.com"
 
 export JAVA7_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home
 export JAVA8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home

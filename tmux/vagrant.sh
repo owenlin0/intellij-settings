@@ -13,7 +13,7 @@ tmux new-session -s $SESSION_NAME -d
 # first pane
 tmux rename-window monorail
 tmux send-keys -t $SESSION_NAME 'cd ~/repos/airbnb && vagrant ssh' C-m
-tmux send-keys -t $SESSION_NAME 'cd repos/airbnb && bundle install && sudo service monorail restart && sudo service nginx restart && rm .zeus.sock && zeus start' C-m
+tmux send-keys -t $SESSION_NAME 'cd repos/airbnb && bundle install && sudo service monorail restart && sudo service nginx restart || rm .zeus.sock && zeus start' C-m
 
 # second pane
 tmux split-window -h -t $SESSION_NAME
