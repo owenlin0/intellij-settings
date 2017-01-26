@@ -31,13 +31,12 @@
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/hopscotch/src/main/java/com/airbnb/hopscotch/db/dao/AdminActionDAO.java" timestamp="1485411184814" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" timestamp="1485464801012" />
       <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485387320712">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485409861138" />
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
         <mark key="'" line="35" column="0" />
       </file>
@@ -56,8 +55,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/stores/BusinessTravelElasticSearchStore.java" timestamp="1480293797646">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485408919497">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485464715228">
         <mark key="'" line="33" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="40" column="46" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
         <mark key="'" line="132" column="2" />
@@ -99,7 +102,6 @@
       <file name="$USER_HOME$/repos/treehouse/projects/search/common/mysql-util/src/main/java/com/airbnb/search/common/mysql/utils/module/DatabaseModule.java" timestamp="1485377216854">
         <mark key="'" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/model/PictureDatabase.java" timestamp="1485411537936" />
       <file name="/fragment.java" timestamp="1485458598402">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +110,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/dao/InstantPromoDAOImpl.java" timestamp="1485411441036" />
     </filemarks>
     <jumps>
       <jump line="39" column="35" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
@@ -213,8 +214,8 @@
       <jump line="17" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>io.dropwizard.setup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlICdpby5kcm9wd2l6YXJkOmRyb3B3aXphcmQtamRiaTowLjcuMScK</text>
       </register>
       <register name="-" type="4">
         <text>createsqlforinsertro</text>
@@ -226,34 +227,34 @@
         <text>io.dropwizard.setup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlICdpby5kcm9wd2l6YXJkOmRyb3B3aXphcmQtamRiaTowLjcuMScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5za2lmZS5qZGJpLnYyLkRCSTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhZGZhZGZhZDsKICAgIHsKICAgICAgamtqCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzZGZ6eGN2emN2CiAgICBhZnNkZmphO2xrc2FqO2xragoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50LjsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5za2lmZS5qZGJpLnYyLkRCSTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNhZGZhZGZhZDsKICAgIHsKICAgICAgamtqCiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFzZGZ6eGN2emN2CiAgICBhZnNkZmphO2xrc2FqO2xragoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50LjsK</text>
+      </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -299,8 +300,8 @@
         <entry>19</entry>
         <entry>32</entry>
         <entry>21</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
