@@ -58,6 +58,13 @@
       <file name="/Dummy.txt" timestamp="1485458657868">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" timestamp="1485468570377">
+        <mark key="'" line="44" column="48" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="44" column="48" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/stores/BusinessTravelElasticSearchStore.java" timestamp="1480293797646">
         <mark key="'" line="56" column="44" />
       </file>
@@ -78,16 +85,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/config/TardisDBConfiguration.java" timestamp="1485468544441">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="57" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" timestamp="1485454850832">
         <mark key="'" line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1485386008941">
-        <mark key="a" line="16" column="40" />
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
@@ -120,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
       <jump line="8" column="37" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
       <jump line="35" column="0" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaDatabaseModule.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaDatabaseModule.java" />
@@ -220,19 +222,20 @@
       <jump line="35" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
       <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" />
       <jump line="21" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
+      <jump line="44" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ExampleConfiguration</text>
+        <text>tardis_db</text>
       </register>
       <register name="-" type="4">
-        <text>ExampleConfiguration</text>
+        <text>tardis_db</text>
       </register>
       <register name="/" type="4">
         <text>getdatasourcefactory</text>
       </register>
       <register name="0" type="4">
-        <text>RolodexConfiguration</text>
+        <text>jdbc:mysql://localhost/tardis_db</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvb3RzdHJhcC5hZGRCdW5kbGUobmV3IE1pZ3JhdGlvbnNCdW5kbGU8RXhhbXBsZUNvbmZpZ3VyYXRpb24+KCkgewo=</text>
