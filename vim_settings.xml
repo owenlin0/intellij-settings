@@ -21,7 +21,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1482553799880">
+      <file name="/a.dummy" timestamp="1485409722250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/gaia/src/test/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompleteGetOperatorTest.java" timestamp="1477877929101">
@@ -68,6 +68,7 @@
         <mark key="." line="49" column="9" />
         <mark key="^" line="49" column="9" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485409861138" />
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
         <mark key="'" line="35" column="0" />
       </file>
@@ -87,7 +88,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/stores/BusinessTravelElasticSearchStore.java" timestamp="1480293797646">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485394323282">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485408919497">
         <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/utils/Email.java" timestamp="1477884297051">
@@ -111,11 +112,10 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485394285435">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485409679846">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1485386008941">
@@ -143,12 +143,12 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1485393961148">
-        <mark key="'" line="43" column="49" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="49" />
-        <mark key="." line="43" column="49" />
-        <mark key="^" line="43" column="49" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1485410333012">
+        <mark key="'" line="42" column="49" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" timestamp="1485386065572">
         <mark key="'" line="20" column="3" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="20" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/quickstart/HelloWorld.java" />
       <jump line="4" column="51" filename="$USER_HOME$/repos/treehouse/projects/rolodex/README.md" />
       <jump line="7" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/README.md" />
       <jump line="67" column="2" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
@@ -269,10 +268,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="11" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -284,34 +284,34 @@
         <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuc2VhcmNoLmNvbW1vbi5teXNxbC5EYXRhU291cmNlOwppbXBvcnQgY29tLmFpcmJuYi5zZWFyY2guY29tbW9uLm15c3FsLmRiLk15c3FsRGF0YVNvdXJjZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNhZGZhZGZhZDsKICAgIHsKICAgICAgamtqCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzZGZ6eGN2emN2CiAgICBhZnNkZmphO2xrc2FqO2xragoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50LjsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5za2lmZS5qZGJpLnYyLkRCSTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNhZGZhZGZhZDsKICAgIHsKICAgICAgamtqCiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFzZGZ6eGN2emN2CiAgICBhZnNkZmphO2xrc2FqO2xragoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1Y2tra2sKCgogICAgICAgIGFzZGZzYWZhZHNhc2FkZgogICAgICAgIGFzZGZhc2Rmc2EK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50LjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1Y2tra2sKCgogICAgICAgIGFzZGZzYWZhZHNhc2FkZgogICAgICAgIGFzZGZhc2Rmc2EKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -357,8 +357,8 @@
         <entry>19</entry>
         <entry>32</entry>
         <entry>21</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
