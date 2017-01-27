@@ -28,6 +28,17 @@
       <file name="$USER_HOME$/repos/treehouse/projects/gaia-core/src/main/java/com.airbnb.gaia/utils/MysqlConnectionFactory.java" timestamp="1485379510281">
         <mark key="'" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/hopscotch/src/main/resources/migrations/131104_create_tables.sql" timestamp="1485546237308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" timestamp="1485546264451">
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/monorail/logging/monorail_search_v1.thrift" timestamp="1481582308549">
         <mark key="'" line="120" column="0" />
       </file>
@@ -45,6 +56,13 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
         <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485546406081">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hfileservice/src/main/java/com/airbnb/discover/hfileservice/HFileServiceApplication.java" timestamp="1480223025177">
         <mark key="'" line="58" column="13" />
@@ -85,6 +103,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" timestamp="1485454850832">
         <mark key="'" line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1485546407902">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
       </file>
@@ -110,9 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="37" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaDatabaseModule.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaDatabaseModule.java" />
       <jump line="7" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
       <jump line="0" column="39" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" />
@@ -210,46 +232,49 @@
       <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" />
       <jump line="21" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
       <jump line="44" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" />
+      <jump line="1" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" />
+      <jump line="1" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contact-books-table.sql" />
+      <jump line="1" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tardis_db</text>
+        <text>willieyao</text>
       </register>
       <register name="-" type="4">
-        <text>tardis_db</text>
+        <text>willieyao</text>
       </register>
       <register name="/" type="4">
         <text>getdatasourcefactory</text>
       </register>
-      <register name="0" type="4">
-        <text>jdbc:mysql://localhost/tardis_db</text>
+      <register name="0" type="2">
+        <text encoding="base64">LS1saXF1aWJhc2UgZm9ybWF0dGVkIHNxbAoKLS1jaGFuZ2VzZXQgd2lsbGlleWFvOjEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvb3RzdHJhcC5hZGRCdW5kbGUobmV3IE1pZ3JhdGlvbnNCdW5kbGU8RXhhbXBsZUNvbmZpZ3VyYXRpb24+KCkgewo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb21waWxlICdpby5kcm9wd2l6YXJkOmRyb3B3aXphcmQtamRiaTowLjcuMScK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJvb3RzdHJhcC5hZGRCdW5kbGUobmV3IE1pZ3JhdGlvbnNCdW5kbGU8RXhhbXBsZUNvbmZpZ3VyYXRpb24+KCkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb21waWxlICdpby5kcm9wd2l6YXJkOmRyb3B3aXphcmQtamRiaTowLjcuMScK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5za2lmZS5qZGJpLnYyLkRCSTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5za2lmZS5qZGJpLnYyLkRCSTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamRiaS5EQklGYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
+        <text encoding="base64">aW1wb3J0IGlvLmRyb3B3aXphcmQuamtrXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhZGZhZGZhZDsKICAgIHsKICAgICAgamtqCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFzZGZhZiBzYWFzZGYgYXNkZnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
