@@ -19,7 +19,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485552042396">
+      <file name="/a.dummy" timestamp="1485560337940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -51,7 +51,6 @@
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexDatabaseModule.java" timestamp="1485464801012" />
       <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485387320712">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -119,7 +118,6 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1485559750168" />
       <file name="$USER_HOME$/repos/treehouse/projects/search/common/mysql-util/src/main/java/com/airbnb/search/common/mysql/utils/module/DatabaseModule.java" timestamp="1485377216854">
         <mark key="'" line="19" column="28" />
       </file>
@@ -244,7 +242,7 @@
         <text>contact_books</text>
       </register>
       <register name="/" type="4">
-        <text>import_type</text>
+        <text>database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgZGVsZXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAo=</text>
@@ -277,22 +275,21 @@
         <text encoding="base64">ICBgdXBkYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>28</text>
       </register>
     </registers>
     <search>
-      <last-search>import_type</last-search>
+      <last-search>database</last-search>
       <last-offset />
-      <last-pattern>import_type</last-pattern>
+      <last-pattern>database</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>databasemodule</entry>
         <entry>hostingDbQueries</entry>
         <entry>main_database</entry>
-        <entry>database</entry>
         <entry>ENvironment</entry>
         <entry>environment</entry>
         <entry>db</entry>
@@ -309,6 +306,7 @@
         <entry>atasourcefactory</entry>
         <entry>getdatasourcefactory</entry>
         <entry>import_type</entry>
+        <entry>database</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -323,9 +321,10 @@
         <entry>19</entry>
         <entry>32</entry>
         <entry>21</entry>
-        <entry>nohl</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
+        <entry>28</entry>
       </history-cmd>
       <history-expr />
       <history-input />
