@@ -3,52 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/utils/Email.java" timestamp="1480578318088">
-        <mark key="'" line="63" column="10" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompletePostOperator.java" timestamp="1480578346380">
-        <mark key="'" line="61" column="66" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/searchexp_migrations/2015-07-22-create-search-admin.sql" timestamp="1485551387753">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/quickstart/HelloWorld.java" timestamp="1482563140598">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485678445443">
+        <mark key="'" line="17" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485649680698">
+      <file name="/a.dummy" timestamp="1485679712188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/VermeerApplication.java" timestamp="1485466736620">
-        <mark key="'" line="42" column="41" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/test/java/db/TestDB.java" timestamp="1485678815755">
+        <mark key="'" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/test/java/db/DBAccountMutationStoreImplTest.java" timestamp="1485678975736" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/resources/ApolloResource.java" timestamp="1480293726874">
         <mark key="'" line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/treehouse/projects/gaia-core/src/main/java/com.airbnb.gaia/utils/MysqlConnectionFactory.java" timestamp="1485379510281">
-        <mark key="'" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/hopscotch/src/main/resources/migrations/131104_create_tables.sql" timestamp="1485552297017">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="92" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/build.gradle" timestamp="1485648627076">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="41" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" timestamp="1485650449431">
-        <mark key="'" line="26" column="15" />
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" timestamp="1485546264451">
         <mark key="'" line="1" column="18" />
@@ -60,29 +38,16 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/monorail/logging/monorail_search_v1.thrift" timestamp="1481582308549">
         <mark key="'" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485387320712">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
-        <mark key="'" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
-        <mark key="'" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485553664481">
-        <mark key="'" line="19" column="39" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/papaya/build.gradle" timestamp="1485679459516">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hfileservice/src/main/java/com/airbnb/discover/hfileservice/HFileServiceApplication.java" timestamp="1480223025177">
         <mark key="'" line="58" column="13" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/resources/com/airbnb.shareddao.common.testdb/hostings_testdata.sql" timestamp="1485678527166">
+        <mark key="'" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/modules/MicasaModule.java" timestamp="1485385489789">
         <mark key="'" line="86" column="0" />
@@ -90,17 +55,18 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" timestamp="1485412035132">
         <mark key="'" line="92" column="37" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/resources/migrations.xml" timestamp="1485647351546" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/stores/BusinessTravelElasticSearchStore.java" timestamp="1480293797646">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485641711672">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485679437167">
+        <mark key="'" line="42" column="1" />
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+        <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
-        <mark key="'" line="132" column="2" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/java/com/airbnb/shareddao/common/testdb/TestDbUtils.java" timestamp="1485678755003">
+        <mark key="'" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485649543712">
         <mark key="'" line="24" column="0" />
@@ -109,24 +75,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/config/TardisDBConfiguration.java" timestamp="1485672881611">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="58" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" timestamp="1485454850832">
-        <mark key="'" line="104" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1485553453214">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/vermeer/server/build.gradle" timestamp="1485641477725">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
@@ -144,30 +98,80 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/utils/Email.java" timestamp="1480578318088">
+        <mark key="'" line="63" column="10" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompletePostOperator.java" timestamp="1480578346380">
+        <mark key="'" line="61" column="66" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/VermeerApplication.java" timestamp="1485466736620">
+        <mark key="'" line="42" column="41" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/resources/com.airbnb.tardis.common/account_mutations_testdata.sql" timestamp="1485679964147">
+        <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/treehouse/projects/gaia-core/src/main/java/com.airbnb.gaia/utils/MysqlConnectionFactory.java" timestamp="1485379510281">
+        <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/hopscotch/src/main/resources/migrations/131104_create_tables.sql" timestamp="1485552297017">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="92" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" timestamp="1485650449431">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
+        <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
+        <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485553664481">
+        <mark key="'" line="19" column="39" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1485458657868">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/resources/migrations.xml" timestamp="1485647351546" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" timestamp="1485679908303">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="42" column="98" />
+        <mark key="]" line="42" column="29" />
+        <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="29" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
+        <mark key="'" line="132" column="2" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/config/TardisDBConfiguration.java" timestamp="1485672881611">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="58" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" timestamp="1485454850832">
+        <mark key="'" line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/vermeer/server/build.gradle" timestamp="1485641477725">
+        <mark key="'" line="3" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1485679054535">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="7" column="26" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="8" column="27" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="28" column="34" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="15" column="59" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="13" column="28" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="25" column="3" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="27" column="7" filename="$USER_HOME$/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="62" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="54" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="39" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="43" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="71" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.0/961359f8352b791c6443a207c847e25d6d3ca7cd/guice-4.0-sources.jar!/com/google/inject/AbstractModule.java" />
-      <jump line="29" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="132" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" />
@@ -246,19 +250,41 @@
       <jump line="27" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" />
       <jump line="26" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/config/TardisDBConfiguration.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
+      <jump line="78" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/resources/com/airbnb.shareddao.common.testdb/hostings_testdata.sql" />
+      <jump line="80" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/resources/com/airbnb.shareddao.common.testdb/hostings_testdata.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/resources/com/airbnb.shareddao.common.testdb/hostings_testdata.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/java/com/airbnb/shareddao/common/testdb/TestDbUtils.java" />
+      <jump line="27" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/java/com/airbnb/shareddao/common/testdb/TestDbUtils.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/test/java/db/TestDB.java" />
+      <jump line="35" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/papaya/build.gradle" />
+      <jump line="38" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/papaya/build.gradle" />
+      <jump line="43" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="42" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/papaya/build.gradle" />
+      <jump line="41" column="91" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="42" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="156" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/resources/com.airbnb.tardis.common/account_mutations_testdata.sql" />
+      <jump line="45" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="43" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/resources/com.airbnb.tardis.common/account_mutations_testdata.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JzlF3e7aoxiFbc</text>
+        <text>.airbnb.tardis.common</text>
       </register>
       <register name="-" type="4">
-        <text>JzlF3e7aoxiFbc</text>
+        <text>migrations/2017-01-10-add-user-auth-table.sql</text>
       </register>
       <register name="/" type="4">
-        <text>jdbc</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
-        <text>jdbc:mysql://localhost/tardis_db</text>
+        <text>.airbnb.tardis.common</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb20ubXlzcWwuamRiYy5Ecml2ZXIKICBjb20ubXlzcWwuamRiYy5Ecml2ZXIK</text>
@@ -292,16 +318,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jdbc</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>jdbc</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hostingDbQueries</entry>
-        <entry>main_database</entry>
         <entry>ENvironment</entry>
         <entry>environment</entry>
         <entry>db</entry>
@@ -320,6 +344,8 @@
         <entry>import_type</entry>
         <entry>database</entry>
         <entry>jdbc</entry>
+        <entry>h2database</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -372,6 +398,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
