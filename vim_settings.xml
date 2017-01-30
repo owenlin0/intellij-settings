@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485809454336">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485810442416">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1485761889184">
         <mark key="[" line="0" column="0" />
@@ -342,16 +342,16 @@
       <jump line="205" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="49" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="204" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
       <jump line="8" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
-      <jump line="9" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
+      <jump line="18" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
+      <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phone</text>
+        <text>2000</text>
       </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text>phones</text>
@@ -360,33 +360,33 @@
         <text encoding="base64">cGFja2FnZSBjb20uYWlyYm5iLnRhcmRpcy5kYjsKCgppbXBvcnQgY29tLmFpcmJuYi50YXJkaXMubW9kZWwuQWNjb3VudE11dGF0aW9uOwppbXBvcnQgb3JnLnNraWZlLmpkYmkudjIuc3Fsb2JqZWN0LkJpbmQ7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuQmluZEJlYW47CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuU3FsQmF0Y2g7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuU3FsUXVlcnk7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuY3VzdG9taXplcnMuQmF0Y2hDaHVua1NpemU7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuY3VzdG9taXplcnMuUmVnaXN0ZXJNYXBwZXI7CgppbXBvcnQgamF2YS51dGlsLkxpc3Q7CgovKioKICogREFPIGludGVyZmFjZSBmb3IgYWNjb3VudF9tdXRhdGlvbnMgcmVjb3JkcwogKi8KQFJlZ2lzdGVyTWFwcGVyKEFjY291bnRNdXRhdGlvbk1hcHBlci5jbGFzcykKcHVibGljIGludGVyZmFjZSBBY2NvdW50TXV0YXRpb25EQU8gewoKICBAU3FsQmF0Y2goIklOU0VSVCBJTlRPIGFjY291bnRfbXV0YXRpb25zICIKICAgICAgKyAiICAgICAgICAgKGlkLCBjcmVhdGVkX2F0LCB1c2VyX2lkLCByZXZlcnRpbmdfdXNlcl9pZCwgaXAsIGJldiwgc2Vzc2lvbl9pZCwgIgogICAgICArICIgICAgICAgICAgdXNlcl9hZ2VudCwgYWN0aXZpdHlfdHlwZSwgbXV0YXRpb24pICIKICAgICAgKyAiICAgICAgICAgVkFMVUVTICIKICAgICAgKyAiICAgICAgICAgKDppZCwgTk9XKCksIDp1c2VySWQsIDpyZXZlcnRpbmdVc2VySWQsIDppcCwgOmJldiwgOnNlc3Npb25JZCwgIgogICAgICArICIgICAgICAgICAgOnVzZXJBZ2VudCwgOmFjdGl2aXR5VHlwZSwgOm11dGF0aW9uKSIpCiAgQEJhdGNoQ2h1bmtTaXplKDEwMCkKICB2b2lkIGluc2VydChAQmluZEJlYW4gSXRlcmFibGU8QWNjb3VudE11dGF0aW9uPiBtdXRhdGlvbnMpOwoKICBAU3FsUXVlcnkoIlNFTEVDVCAqIEZST00gYWNjb3VudF9tdXRhdGlvbnMgV0hFUkUgaWQgPSA6aWQiKQogIEFjY291bnRNdXRhdGlvbiBmaW5kQnlJZChAQmluZCgiaWQiKSBMb25nIGlkKTsKCiAgQFNxbFF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFjY291bnRfbXV0YXRpb25zICIKICAgICAgKyAiICAgICAgICBXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQgIikKICBMaXN0PEFjY291bnRNdXRhdGlvbj4gZmluZEJ5VXNlcklkKEBCaW5kKCJ1c2VyX2lkIikgTG9uZyB1c2VySWQpOwoKICBAU3FsUXVlcnkoIlNFTEVDVCAqIEZST00gYWNjb3VudF9tdXRhdGlvbnMgIgogICAgICArICIgICAgICAgIFdIRVJFIHVzZXJfaWQgPSA6dXNlcl9pZCAiCiAgICAgICsgIiAgICAgICAgQU5EIHVzZXJfYWdlbnQgPSA6dXNlcl9hZ2VudCAiCiAgICAgICsgIiAgICAgICAgQU5EIGlwID0gOmlwICIKICAgICAgKyAiICAgICAgICBBTkQgYWN0aXZpdHlfdHlwZSA9IDphY3Rpdml0eV90eXBlICIpCiAgTGlzdDxBY2NvdW50TXV0YXRpb24+IGZpbmRNdXRhdGlvbnNUb1JvbGxCYWNrKEBCaW5kKCJ1c2VyX2lkIikgTG9uZyB1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBCaW5kKCJ1c2VyX2FnZW50IikgU3RyaW5nIHVzZXJBZ2VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQEJpbmQoImlwIikgU3RyaW5nIGlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAQmluZCgiYWN0aXZpdHlfdHlwZSIpIFN0cmluZyBhY3Rpdml0eVR5cGUpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCg==</text>
+        <text encoding="base64">ICBgb3RoZXJfZW1haWxzYCB2YXJjaGFyKDEwMDApIERFRkFVTFQgTlVMTCwKICBgb3RoZXJfcGhvbmVzYCB2YXJjaGFyKDEwMDApIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
  * Created by ${USER} on ${DATE}.
  */</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCnB1YmxpYyBjbGFzcyBDb250YWN0Qm9va0RBTyB7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgb3dlbl9saW4gb24gMS8yOS8xNy4KICovCnB1YmxpYyBjbGFzcyBDb250YWN0Qm9va0RBTyB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgQEpzb25Qcm9wZXJ0eQogIHByaXZhdGUgYm9vbGVhbiBkZWxldGVkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgQEpzb25Qcm9wZXJ0eQogIHByaXZhdGUgYm9vbGVhbiBkZWxldGVkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -397,7 +397,7 @@
       <last-offset />
       <last-pattern>phones</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
