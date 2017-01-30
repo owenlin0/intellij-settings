@@ -197,6 +197,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/test/java/com/airbnb/micasa/datawriters/ListingDataWriterTest.java" timestamp="1485716388424">
         <mark key="'" line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/CalendarRuleType.java" timestamp="1485804988679">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" timestamp="1485716151769">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="44" column="0" />
@@ -239,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" />
       <jump line="60" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" />
       <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" />
       <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
@@ -339,6 +341,7 @@
       <jump line="180" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="106" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" />
       <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JdbiPreparedSqlExecutor.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/CalendarRuleType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
