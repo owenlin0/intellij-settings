@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1485808408315">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+      </file>
       <file name="/a.dummy" timestamp="1485761889184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,8 +81,8 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" timestamp="1485803412338">
-        <mark key="'" line="180" column="30" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" timestamp="1485808325632">
+        <mark key="'" line="204" column="0" />
         <mark key="." line="25" column="73" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jackson/0.7.1/72ce3fa086e23400e1f1252fc54a9deaac63cbd7/dropwizard-jackson-0.7.1-sources.jar!/io/dropwizard/jackson/JsonSnakeCase.java" timestamp="1485718221146">
@@ -164,6 +169,9 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="26" column="15" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/MemoriesDAO.java" timestamp="1485808254179">
+        <mark key="'" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
@@ -200,13 +208,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/CalendarRuleType.java" timestamp="1485804988679">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/db/TestDbUtils.java" timestamp="1485716151769">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="43" column="75" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
         <mark key="'" line="132" column="2" />
       </file>
@@ -242,11 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" />
-      <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
-      <jump line="16" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
       <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationMapper.java" />
       <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
       <jump line="26" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" />
@@ -281,10 +277,8 @@
       <jump line="618" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="30" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="48" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
-      <jump line="49" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="52" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="53" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
-      <jump line="61" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="62" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="63" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="66" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
@@ -313,7 +307,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
       <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
       <jump line="7" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
-      <jump line="47" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="133" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="627" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
@@ -342,6 +335,14 @@
       <jump line="106" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" />
       <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JdbiPreparedSqlExecutor.java" />
       <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/CalendarRuleType.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/MemoriesDAO.java" />
+      <jump line="47" column="82" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="61" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="138" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="205" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="49" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -351,7 +352,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb2x1bW5WYWx1ZVw+</text>
+        <text>phones</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSBjb20uYWlyYm5iLnRhcmRpcy5kYjsKCgppbXBvcnQgY29tLmFpcmJuYi50YXJkaXMubW9kZWwuQWNjb3VudE11dGF0aW9uOwppbXBvcnQgb3JnLnNraWZlLmpkYmkudjIuc3Fsb2JqZWN0LkJpbmQ7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuQmluZEJlYW47CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuU3FsQmF0Y2g7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuU3FsUXVlcnk7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuY3VzdG9taXplcnMuQmF0Y2hDaHVua1NpemU7CmltcG9ydCBvcmcuc2tpZmUuamRiaS52Mi5zcWxvYmplY3QuY3VzdG9taXplcnMuUmVnaXN0ZXJNYXBwZXI7CgppbXBvcnQgamF2YS51dGlsLkxpc3Q7CgovKioKICogREFPIGludGVyZmFjZSBmb3IgYWNjb3VudF9tdXRhdGlvbnMgcmVjb3JkcwogKi8KQFJlZ2lzdGVyTWFwcGVyKEFjY291bnRNdXRhdGlvbk1hcHBlci5jbGFzcykKcHVibGljIGludGVyZmFjZSBBY2NvdW50TXV0YXRpb25EQU8gewoKICBAU3FsQmF0Y2goIklOU0VSVCBJTlRPIGFjY291bnRfbXV0YXRpb25zICIKICAgICAgKyAiICAgICAgICAgKGlkLCBjcmVhdGVkX2F0LCB1c2VyX2lkLCByZXZlcnRpbmdfdXNlcl9pZCwgaXAsIGJldiwgc2Vzc2lvbl9pZCwgIgogICAgICArICIgICAgICAgICAgdXNlcl9hZ2VudCwgYWN0aXZpdHlfdHlwZSwgbXV0YXRpb24pICIKICAgICAgKyAiICAgICAgICAgVkFMVUVTICIKICAgICAgKyAiICAgICAgICAgKDppZCwgTk9XKCksIDp1c2VySWQsIDpyZXZlcnRpbmdVc2VySWQsIDppcCwgOmJldiwgOnNlc3Npb25JZCwgIgogICAgICArICIgICAgICAgICAgOnVzZXJBZ2VudCwgOmFjdGl2aXR5VHlwZSwgOm11dGF0aW9uKSIpCiAgQEJhdGNoQ2h1bmtTaXplKDEwMCkKICB2b2lkIGluc2VydChAQmluZEJlYW4gSXRlcmFibGU8QWNjb3VudE11dGF0aW9uPiBtdXRhdGlvbnMpOwoKICBAU3FsUXVlcnkoIlNFTEVDVCAqIEZST00gYWNjb3VudF9tdXRhdGlvbnMgV0hFUkUgaWQgPSA6aWQiKQogIEFjY291bnRNdXRhdGlvbiBmaW5kQnlJZChAQmluZCgiaWQiKSBMb25nIGlkKTsKCiAgQFNxbFF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGFjY291bnRfbXV0YXRpb25zICIKICAgICAgKyAiICAgICAgICBXSEVSRSB1c2VyX2lkID0gOnVzZXJfaWQgIikKICBMaXN0PEFjY291bnRNdXRhdGlvbj4gZmluZEJ5VXNlcklkKEBCaW5kKCJ1c2VyX2lkIikgTG9uZyB1c2VySWQpOwoKICBAU3FsUXVlcnkoIlNFTEVDVCAqIEZST00gYWNjb3VudF9tdXRhdGlvbnMgIgogICAgICArICIgICAgICAgIFdIRVJFIHVzZXJfaWQgPSA6dXNlcl9pZCAiCiAgICAgICsgIiAgICAgICAgQU5EIHVzZXJfYWdlbnQgPSA6dXNlcl9hZ2VudCAiCiAgICAgICsgIiAgICAgICAgQU5EIGlwID0gOmlwICIKICAgICAgKyAiICAgICAgICBBTkQgYWN0aXZpdHlfdHlwZSA9IDphY3Rpdml0eV90eXBlICIpCiAgTGlzdDxBY2NvdW50TXV0YXRpb24+IGZpbmRNdXRhdGlvbnNUb1JvbGxCYWNrKEBCaW5kKCJ1c2VyX2lkIikgTG9uZyB1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBCaW5kKCJ1c2VyX2FnZW50IikgU3RyaW5nIHVzZXJBZ2VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQEJpbmQoImlwIikgU3RyaW5nIGlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAQmluZCgiYWN0aXZpdHlfdHlwZSIpIFN0cmluZyBhY3Rpdml0eVR5cGUpOwp9Cg==</text>
@@ -390,19 +391,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb2x1bW5WYWx1ZVw+</last-search>
+      <last-search>phones</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb2x1bW5WYWx1ZVw+</last-pattern>
+      <last-pattern>phones</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>database</entry>
-        <entry>jdbc</entry>
-        <entry>h2database</entry>
-        <entry>test</entry>
-        <entry>tardis</entry>
         <entry encoding="base64">XDxCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxBbGxBcmdzQ29uc3RydWN0b3JcPg==</entry>
         <entry>contact</entry>
@@ -418,6 +414,11 @@
         <entry>columnvalue</entry>
         <entry>jooqutil</entry>
         <entry encoding="base64">XDxDb2x1bW5WYWx1ZVw+</entry>
+        <entry>memories</entry>
+        <entry>topreparedsql</entry>
+        <entry>select</entry>
+        <entry>column</entry>
+        <entry>phones</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
