@@ -10,7 +10,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1485836716155">
+      <file name="/a.dummy" timestamp="1485839029399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -78,11 +78,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/stores/BusinessTravelElasticSearchStore.java" timestamp="1480293797646">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485837636502">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1485839815719">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="57" column="3" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" timestamp="1485834136403">
         <mark key="'" line="166" column="0" />
@@ -215,8 +216,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
         <mark key="'" line="132" column="2" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" timestamp="1485801686826">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" timestamp="1485839476375">
+        <mark key="'" line="22" column="0" />
+        <mark key="j" line="42" column="38" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="35" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" timestamp="1485803332431">
         <mark key="'" line="137" column="0" />
@@ -241,25 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/experimental/UtilityClass.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="33" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="38" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="48" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="83" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="44" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="168" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
-      <jump line="7" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
-      <jump line="133" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="627" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="22" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="23" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
@@ -338,70 +323,82 @@
       <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/build.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/build.gradle" />
       <jump line="85" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
       <jump line="56" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="30" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="0" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="69" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="44" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="11" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
+      <jump line="58" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="18" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
+      <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmJ1aWxkc2NyaXB0IHsKICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICdvcmcuam9vcTpqb29xLWNvZGVnZW46My45LjEnCiAgICBjbGFzc3BhdGggJ2NvbS5oMmRhdGFiYXNlOmgyOjEuNC4xOTEnCiAgfQp9Ci8vIFVzZSB5b3VyIGZhdm91cml0ZSBYTUwgYnVpbGRlciB0byBjb25zdHJ1Y3QgdGhlIGNvZGUgZ2VuZXJhdGlvbiBjb25maWd1cmF0aW9uIGZpbGUKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpCmRlZiB4bWwgPSBuZXcgZ3Jvb3Z5LnhtbC5NYXJrdXBCdWlsZGVyKHdyaXRlcikKICAgICAgICAuY29uZmlndXJhdGlvbigneG1sbnMnOiAnaHR0cDovL3d3dy5qb29xLm9yZy94c2Qvam9vcS1jb2RlZ2VuLTMuNi4wLnhzZCcpIHsKICBqZGJjKCkgewogICAgZHJpdmVyKCdvcmcuaDIuRHJpdmVyJykKICAgIHVybCgnamRiYzpoMjp+L3Rlc3QtZ3JhZGxlJykKICAgIHVzZXIoJ3NhJykKICAgIHBhc3N3b3JkKCcnKQogIH0KICBnZW5lcmF0b3IoKSB7CiAgICBkYXRhYmFzZSgpIHsKICAgIH0KICAgIGdlbmVyYXRlKCkgewogICAgfQogICAgdGFyZ2V0KCkgewogICAgICBwYWNrYWdlTmFtZSgnb3JnLmpvb3EuZXhhbXBsZS5ncmFkbGUuZGInKQogICAgICBkaXJlY3RvcnkoJ3NyYy9tYWluL2phdmEnKQogICAgfQogIH0KfQoKLy8gUnVuIHRoZSBjb2RlIGdlbmVyYXRvcgovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkdlbmVyYXRpb25Ub29sLm1haW4oCiAgICAgICAgSkFYQi51bm1hcnNoYWwobmV3IFN0cmluZ1JlYWRlcih3cml0ZXIudG9TdHJpbmcoKSksIG9yZy5qb29xLnV0aWwuamF4Yi5Db25maWd1cmF0aW9uLmNsYXNzKQopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>177</text>
+        <text>org.jooq:jooq-codegen:3.7.0</text>
       </register>
       <register name="/" type="4">
-        <text>jooq</text>
+        <text>compile</text>
       </register>
-      <register name="0" type="4">
-        <text>3.9.1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21waWxlIGxpYnJhcmllcy5teXNxbF9jb25uZWN0b3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmJ1aWxkc2NyaXB0IHsKICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICdvcmcuam9vcTpqb29xLWNvZGVnZW46My45LjEnCiAgICBjbGFzc3BhdGggJ2NvbS5oMmRhdGFiYXNlOmgyOjEuNC4xOTEnCiAgfQp9Ci8vIFVzZSB5b3VyIGZhdm91cml0ZSBYTUwgYnVpbGRlciB0byBjb25zdHJ1Y3QgdGhlIGNvZGUgZ2VuZXJhdGlvbiBjb25maWd1cmF0aW9uIGZpbGUKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpCmRlZiB4bWwgPSBuZXcgZ3Jvb3Z5LnhtbC5NYXJrdXBCdWlsZGVyKHdyaXRlcikKICAgICAgICAuY29uZmlndXJhdGlvbigneG1sbnMnOiAnaHR0cDovL3d3dy5qb29xLm9yZy94c2Qvam9vcS1jb2RlZ2VuLTMuNi4wLnhzZCcpIHsKICBqZGJjKCkgewogICAgZHJpdmVyKCdvcmcuaDIuRHJpdmVyJykKICAgIHVybCgnamRiYzpoMjp+L3Rlc3QtZ3JhZGxlJykKICAgIHVzZXIoJ3NhJykKICAgIHBhc3N3b3JkKCcnKQogIH0KICBnZW5lcmF0b3IoKSB7CiAgICBkYXRhYmFzZSgpIHsKICAgIH0KICAgIGdlbmVyYXRlKCkgewogICAgfQogICAgdGFyZ2V0KCkgewogICAgICBwYWNrYWdlTmFtZSgnb3JnLmpvb3EuZXhhbXBsZS5ncmFkbGUuZGInKQogICAgICBkaXJlY3RvcnkoJ3NyYy9tYWluL2phdmEnKQogICAgfQogIH0KfQoKLy8gUnVuIHRoZSBjb2RlIGdlbmVyYXRvcgovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkdlbmVyYXRpb25Ub29sLm1haW4oCiAgICAgICAgSkFYQi51bm1hcnNoYWwobmV3IFN0cmluZ1JlYWRlcih3cml0ZXIudG9TdHJpbmcoKSksIG9yZy5qb29xLnV0aWwuamF4Yi5Db25maWd1cmF0aW9uLmNsYXNzKQopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2tncm91bmQgdGFza3MK</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xLW1ldGE6My45LjEnCiAgY29tcGlsZSAnb3JnLmpvb3E6am9vcS1jb2RlZ2VuOjMuOS4xJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXBvc2l0b3JpZXMgewogICAgbWF2ZW5Mb2NhbCgpCiAgICBtYXZlbkNlbnRyYWwoKQogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xLW1ldGE6My45LjEnCg==</text>
+        <text encoding="base64">CmJ1aWxkc2NyaXB0IHsKICBkZXBlbmRlbmNpZXMgewogICAgY2xhc3NwYXRoICdvcmcuam9vcTpqb29xLWNvZGVnZW46My45LjEnCiAgICBjbGFzc3BhdGggJ2NvbS5oMmRhdGFiYXNlOmgyOjEuNC4xOTEnCiAgfQp9Ci8vIFVzZSB5b3VyIGZhdm91cml0ZSBYTUwgYnVpbGRlciB0byBjb25zdHJ1Y3QgdGhlIGNvZGUgZ2VuZXJhdGlvbiBjb25maWd1cmF0aW9uIGZpbGUKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpCmRlZiB4bWwgPSBuZXcgZ3Jvb3Z5LnhtbC5NYXJrdXBCdWlsZGVyKHdyaXRlcikKICAgICAgICAuY29uZmlndXJhdGlvbigneG1sbnMnOiAnaHR0cDovL3d3dy5qb29xLm9yZy94c2Qvam9vcS1jb2RlZ2VuLTMuNi4wLnhzZCcpIHsKICBqZGJjKCkgewogICAgZHJpdmVyKCdvcmcuaDIuRHJpdmVyJykKICAgIHVybCgnamRiYzpoMjp+L3Rlc3QtZ3JhZGxlJykKICAgIHVzZXIoJ3NhJykKICAgIHBhc3N3b3JkKCcnKQogIH0KICBnZW5lcmF0b3IoKSB7CiAgICBkYXRhYmFzZSgpIHsKICAgIH0KICAgIGdlbmVyYXRlKCkgewogICAgfQogICAgdGFyZ2V0KCkgewogICAgICBwYWNrYWdlTmFtZSgnb3JnLmpvb3EuZXhhbXBsZS5ncmFkbGUuZGInKQogICAgICBkaXJlY3RvcnkoJ3NyYy9tYWluL2phdmEnKQogICAgfQogIH0KfQoKLy8gUnVuIHRoZSBjb2RlIGdlbmVyYXRvcgovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkdlbmVyYXRpb25Ub29sLm1haW4oCiAgICAgICAgSkFYQi51bm1hcnNoYWwobmV3IFN0cmluZ1JlYWRlcih3cml0ZXIudG9TdHJpbmcoKSksIG9yZy5qb29xLnV0aWwuamF4Yi5Db25maWd1cmF0aW9uLmNsYXNzKQopCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xOjMuOS4xJwo=</text>
+        <text encoding="base64">Y2tncm91bmQgdGFza3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xOjMuNC4yJwogIGNvbXBpbGUgJ29yZy5qb29xOmpvb3EtbWV0YTozLjQuMicKICBjb21waWxlICdvcmcuam9vcTpqb29xLWNvZGVnZW46My40LjInCg==</text>
+        <text encoding="base64">ICByZXBvc2l0b3JpZXMgewogICAgbWF2ZW5Mb2NhbCgpCiAgICBtYXZlbkNlbnRyYWwoKQogIH0KCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbnRhY3RCb29rREFPIHsKfQo=</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xLW1ldGE6My45LjEnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>jooq</last-search>
+      <last-search>compile</last-search>
       <last-offset />
-      <last-pattern>jooq</last-pattern>
+      <last-pattern>compile</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getHandle()</entry>
-        <entry encoding="base64">XDxnZXRIYW5kbGVcPg==</entry>
-        <entry>preparedsql</entry>
-        <entry encoding="base64">XDxjcmVhdGVTcWxGb3JTZWFyY2hJbmRleERhdGFDb2x1bW5zQnlMaXN0aW5nSWRzXD4=</entry>
-        <entry>prepared</entry>
-        <entry>columnvalue</entry>
-        <entry>jooqutil</entry>
         <entry encoding="base64">XDxDb2x1bW5WYWx1ZVw+</entry>
         <entry>memories</entry>
         <entry>topreparedsql</entry>
@@ -414,7 +411,14 @@
         <entry>insertrow</entry>
         <entry encoding="base64">XDxHZXRIYW5kbGVcPg==</entry>
         <entry>gethandle</entry>
+        <entry>sitar</entry>
+        <entry>util</entry>
+        <entry encoding="base64">XDxTZXJ2aWNlRmlsZVRyYW5zZm9ybWVyXD4=</entry>
+        <entry>mysql</entry>
+        <entry>jdbi</entry>
+        <entry>generationtool</entry>
         <entry>jooq</entry>
+        <entry>compile</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -432,8 +436,8 @@
         <entry>28</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
