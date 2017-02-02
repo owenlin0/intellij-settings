@@ -10,7 +10,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1486009798965">
+      <file name="/a.dummy" timestamp="1486010113109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,8 +104,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" timestamp="1486009873352">
-        <mark key="'" line="141" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" timestamp="1486010044473">
+        <mark key="'" line="143" column="25" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/testdb/src/main/java/com/airbnb/shareddao/common/testdb/TestDbUtils.java" timestamp="1485678755003">
         <mark key="'" line="27" column="2" />
@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-lifecycle/0.7.1/4b1abdae110952505b949899b8ab54678f928798/dropwizard-lifecycle-0.7.1-sources.jar!/io/dropwizard/lifecycle/Managed.java" timestamp="1486009020881">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1485649543712">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1486010419538">
+        <mark key="'" line="43" column="40" />
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1485553453214">
         <mark key="'" line="14" column="0" />
@@ -136,18 +136,21 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationMapper.java" timestamp="1485760721415">
         <mark key="'" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" timestamp="1486010314625">
+        <mark key="'" line="71" column="17" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1485639620798">
         <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/search/common/mysql-util/src/main/java/com/airbnb/search/common/mysql/utils/module/DatabaseModule.java" timestamp="1485377216854">
         <mark key="'" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486005932642">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486010343035">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/airlab/repos/jitney-examples/javaexamples/src/main/java/com/airbnb/jitney/examples/consumer/ConsumerExample.java" timestamp="1486008309427">
         <mark key="'" line="24" column="0" />
@@ -161,12 +164,12 @@
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/VermeerApplication.java" timestamp="1485466736620">
         <mark key="'" line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" timestamp="1486009929490">
-        <mark key="'" line="14" column="1" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" timestamp="1486010570078">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" timestamp="1486008473140">
         <mark key="'" line="58" column="0" />
@@ -177,6 +180,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" timestamp="1486010583404">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="197" column="2" />
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/gaia-core/src/main/java/com.airbnb.gaia/utils/MysqlConnectionFactory.java" timestamp="1485379510281">
         <mark key="'" line="31" column="0" />
@@ -259,8 +267,8 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" timestamp="1486009867249">
-        <mark key="'" line="11" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" timestamp="1486010799561">
+        <mark key="'" line="47" column="38" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="60" />
       </file>
@@ -288,51 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" />
-      <jump line="6" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactBookDAO.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/build.gradle" />
-      <jump line="7" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/build.gradle" />
-      <jump line="85" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="56" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="30" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="0" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="69" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="44" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="11" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/build.gradle" />
-      <jump line="58" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="18" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="275" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" />
-      <jump line="45" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/RolodexDevelopment.java" />
-      <jump line="17" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/DefaultCatalog.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/jooq-config.xml" />
-      <jump line="14" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="49" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="44" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="47" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="54" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="70" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="72" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" />
-      <jump line="12" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="39" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
-      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/jooq-config.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
@@ -346,7 +309,6 @@
       <jump line="136" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
       <jump line="16" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
       <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerPool.java" />
-      <jump line="143" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
       <jump line="7" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" />
       <jump line="67" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" />
       <jump line="68" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" />
@@ -369,7 +331,6 @@
       <jump line="3" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
       <jump line="27" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="50" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Override.java" />
-      <jump line="61" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="7" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="40" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" />
       <jump line="41" column="87" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" />
@@ -382,77 +343,113 @@
       <jump line="39" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" />
       <jump line="142" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
       <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
-      <jump line="62" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="11" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="141" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
       <jump line="9" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
-      <jump line="14" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="196" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="143" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/modules/JitneyModule.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" />
+      <jump line="37" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/88b177349b719fe0636b50889687b9ed036bfd89/jackson-annotations-2.5.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" />
+      <jump line="218" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
+      <jump line="6" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
+      <jump line="71" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
+      <jump line="18" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="75" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="77" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="83" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="85" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="91" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="93" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="99" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="178" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="185" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="192" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="213" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="211" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="207" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="205" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="201" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="199" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="195" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="43" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
+      <jump line="179" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.0/961359f8352b791c6443a207c847e25d6d3ca7cd/guice-4.0-sources.jar!/com/google/inject/Inject.java" />
+      <jump line="14" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="16" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="18" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="17" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/CloudspongeEmailImportConsumer.java" />
+      <jump line="23" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
+      <jump line="46" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="35" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="62" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="53" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="59" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="61" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="42" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
+      <jump line="47" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>CloudspongeEmailImportConsumer</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>factory</text>
+        <text encoding="base64">XDxsaXN0aW5nRXZlbnRSb3V0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEtlZXBBbGl2ZVNlcnZpY2U8T21uZXNDb25zdW1lclBvb2w+IGNvbnN1bWVyOwo=</text>
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBATmFtZWQoIkNPTlNVTUVSX0NPTkZJRyIpCiAgQFNpbmdsZXRvbgogIHB1YmxpYyBDb25zdW1lclBvb2xDb25maWcgcHJvdmlkZXNDb25zdW1lckNvbmZpZygpIHsKICAgIHJldHVybiBjb25maWcuZ2V0TGlzdGluZ1VwZGF0ZUV2ZW50Q29uc3VtZXJDb25maWd1cmF0aW9uKCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNjaGVtYXRhPgogICAgICAgIDxzY2hlbWE+CiAgICAgICAgICA8IS0tIFVzZSB0aGlzIGFzIHRoZSBkZXZlbG9wZXIncyBzY2hlbWE6IC0tPgogICAgICAgICAgPGlucHV0U2NoZW1hPnJvbG9kZXhfZGV2ZWxvcG1lbnQ8L2lucHV0U2NoZW1hPgoKICAgICAgICAgIDwhLS0gVXNlIHRoaXMgYXMgdGhlIGludGVncmF0aW9uIC8gcHJvZHVjdGlvbiBkYXRhYmFzZTogLS0+CiAgICAgICAgICA8b3V0cHV0U2NoZW1hPnJvbG9kZXhfcHJvZHVjdGlvbjwvb3V0cHV0U2NoZW1hPgogICAgICAgIDwvc2NoZW1hPgogICAgICA8L3NjaGVtYXRhPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24geG1sbnM9Imh0dHBzOi8vd3d3Lmpvb3Eub3JnL3hzZC9qb29xLWNvZGVnZW4tMy45LjAueHNkIj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPHNjaGVtYXRhPgogICAgICAgIDxzY2hlbWE+CiAgICAgICAgICA8IS0tIFVzZSB0aGlzIGFzIHRoZSBkZXZlbG9wZXIncyBzY2hlbWE6IC0tPgogICAgICAgICAgPGlucHV0U2NoZW1hPnJvbG9kZXhfZGV2ZWxvcG1lbnQ8L2lucHV0U2NoZW1hPgoKICAgICAgICAgIDwhLS0gVXNlIHRoaXMgYXMgdGhlIGludGVncmF0aW9uIC8gcHJvZHVjdGlvbiBkYXRhYmFzZTogLS0+CiAgICAgICAgICA8b3V0cHV0U2NoZW1hPnJvbG9kZXhfcHJvZHVjdGlvbjwvb3V0cHV0U2NoZW1hPgogICAgICAgIDwvc2NoZW1hPgogICAgICA8L3NjaGVtYXRhPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21waWxlICdvcmcuam9vcTpqb29xLW1ldGE6My45LjEnCiAgY29tcGlsZSAnb3JnLmpvb3E6am9vcS1jb2RlZ2VuOjMuOS4xJwo=</text>
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24geG1sbnM9Imh0dHBzOi8vd3d3Lmpvb3Eub3JnL3hzZC9qb29xLWNvZGVnZW4tMy45LjAueHNkIj4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>factory</last-search>
+      <last-search encoding="base64">XDxsaXN0aW5nRXZlbnRSb3V0ZVw+</last-search>
       <last-offset />
-      <last-pattern>factory</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0aW5nRXZlbnRSb3V0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rolodex_develop</entry>
-        <entry>schemata</entry>
-        <entry>jooq</entry>
-        <entry encoding="base64">XDxjcmVhdGVQcmljaW5nTXV0YXRpb25Db25zdW1lclw+</entry>
-        <entry>consumerfactory</entry>
-        <entry encoding="base64">XDxKaXRuZXlDb25zdW1lckZhY3RvcnlcPg==</entry>
-        <entry>consumerpool</entry>
-        <entry encoding="base64">XDxPbW5lc0NvbnN1bWVyUG9vbFw+</entry>
-        <entry>consumer</entry>
-        <entry>filename</entry>
-        <entry>run</entry>
         <entry>jitneyrepository</entry>
         <entry encoding="base64">XDxPbW5lc0NvbnN1bWVyRmFjdG9yeVw+</entry>
         <entry>managed</entry>
@@ -462,6 +459,17 @@
         <entry encoding="base64">XDxLZWVwQWxpdmVTZXJ2aWNlXD4=</entry>
         <entry>keepaliveservice</entry>
         <entry>factory</entry>
+        <entry>provideDBI</entry>
+        <entry>named</entry>
+        <entry>omnes</entry>
+        <entry>provide</entry>
+        <entry>provides</entry>
+        <entry>topic_name</entry>
+        <entry encoding="base64">XDxsaXN0aW5nVG9waWNOYW1lXD4=</entry>
+        <entry>consumer</entry>
+        <entry>subscroptions</entry>
+        <entry encoding="base64">XDxzdWJzY3JpcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxsaXN0aW5nRXZlbnRSb3V0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -479,8 +487,8 @@
         <entry>28</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
