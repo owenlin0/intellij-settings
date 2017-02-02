@@ -33,6 +33,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/common/mysql-data-source/src/test/java/com/airbnb/search/common/mysql/TestDbMicasaClient.java" timestamp="1485802184720">
         <mark key="'" line="47" column="6" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486069399104">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" timestamp="1485546264451">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="1" column="12" />
@@ -293,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/jitney-examples/javaexamples/src/main/java/com/airbnb/jitney/examples/consumer/ConsumerExample.java" />
       <jump line="58" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" />
       <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
@@ -393,6 +399,7 @@
       <jump line="52" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingDbUpdateHandler.java" />
       <jump line="80" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingDbUpdateHandler.java" />
       <jump line="4" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" />
+      <jump line="1" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
