@@ -215,11 +215,11 @@
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486072931903">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486077380461">
         <mark key="'" line="5" column="26" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
@@ -402,8 +402,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -414,36 +414,36 @@
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYGNvbnRhY3RzYCAoYGlkYCwgYHVzZXJfaWRgLCBgY29udGFjdF9ib29rX2lkYCwgYGZpcnN0X25hbWVgLCBgbGFzdF9uYW1lYCwgYGVtYWlsYCwgYHBob25lYCwgYG90aGVyX2VtYWlsc2AsIGBvdGhlcl9waG9uZXNgLCBgaGFzX3BpY3R1cmVgLCBgY3JlYXRlZF9hdGAsIGBsYXN0X3N5bmNlZF9hdGApClZBTFVFUwoJKDEsIDEsIDEsICdHZW9yZ2UnLCAnTHVjYXMnLCAnZ2VvcmdlbHVjYXNAZXhhbXBsZS5jb20nLCAnMTk3ODkxNjkyNTYnLCBOVUxMLCBOVUxMLCAwLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicsICcyMDE2LTEyLTA1IDIxOjU2OjQyJyksCgkoMiwgMSwgMSwgJ0NhcnJpZScsICdGaXNoZXInLCAnY2FycmllZmlzaGVyQGV4YW1wbGUuY29tJywgJzE3ODU3ODYzMTM4JywgTlVMTCwgTlVMTCwgMCwgJzIwMTYtMTItMDUgMjE6NTY6NDInLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicpLAoJKDMsIDEsIDIsICdEb25hbGQnLCAnVHJ1bXAnLCAndGhlQGRvbmFsZC5jb20nLCAnMTk0NzcxMzAxMTcnLCAnW1wiZG9uYWxkdHJ1bXBAZ21haWwuY29tXCIsIFwidGhldHJ1bXBzdGVyQHlhaG9vLmNvbVwiXScsIE5VTEwsIDAsICcyMDE2LTEyLTA1IDIxOjU2OjQyJywgJzIwMTYtMTItMDUgMjE6NTY6NDInKSwKCSg0LCAyLCAzLCAnU29tZScsICdHdXknLCAnc29tZWd1eUBleGFtcGxlLmNvbScsICcxMjM0MzA5OTA2OCcsIE5VTEwsICdbMTQwMjI3MDE1MTksIDEyNTM5MDc4MjQzXScsIDEsICcyMDE2LTEyLTA1IDIxOjU2OjQyJywgJzIwMTYtMTItMDUgMjE6NTY6NDInKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">CSgKCSgKCSg=</text>
+        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">CSgKCSgKCSgKCSg=</text>
+        <text encoding="base64">CSgKCSgKCSg=</text>
       </register>
       <register name="4" type="8">
+        <text encoding="base64">CSgKCSgKCSgKCSg=</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">CgoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAoNCwgMiwgMywgJ1NvbWUnLCAnR3V5JywgJ3NvbWVndXlAZXhhbXBsZS5jb20nLCAnMTIzNDMwOTkwNjgnLCBOVUxMLCAnWzE0MDIyNzAxNTE5LCAxMjUzOTA3ODI0M10nLCAxLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicsICcyMDE2LTEyLTA1IDIxOjU2OjQyJyk7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>INSERT INTO `contact_books` (`id`, `user_id`, `import_type`, `account_handle`, `created_at`, `updated_at`, `last_synced_at`, `deleted`)
 VALUES
 	(1, 1, 1, 'tester@airbnb.com', '2016-12-05 21:56:42', '2016-12-05 21:56:42', NULL, NULL),
 	(2, 1, 1, 'tester@gmail.com', '2016-12-06 21:56:42', '2016-12-06 21:56:42', NULL, NULL),
 	(3, 2, 1, 'anothertest@example.com', '2016-12-07 21:56:42', '2016-12-07 21:56:42', NULL, NULL);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
