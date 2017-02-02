@@ -48,8 +48,8 @@
         <mark key="[" line="49" column="2" />
         <mark key="]" line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" timestamp="1485846476146">
-        <mark key="'" line="39" column="28" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" timestamp="1485999282197">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
@@ -264,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="186" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="180" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuilders.java" />
       <jump line="106" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" />
@@ -364,6 +363,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
       <jump line="39" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
       <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/jooq-config.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
