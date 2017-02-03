@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486084731809">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486100996111">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486081054162">
+      <file name="/a.dummy" timestamp="1486101349652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -26,7 +27,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/common/mysql-data-source/src/test/java/com/airbnb/search/common/mysql/TestDbMicasaClient.java" timestamp="1485802184720">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486083854318">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486101104261">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="26" />
@@ -376,7 +377,7 @@
       <jump line="6" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
       <jump line="16" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" />
       <jump line="7" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" />
-      <jump line="15" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
+      <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
