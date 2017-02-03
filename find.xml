@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.yml*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,7 @@
       <mask>*.yml.example</mask>
       <mask>build.gradle</mask>
       <mask>*.gradle</mask>
+      <mask>*.yml*</mask>
     </recentFileMasks>
   </component>
 </application>
