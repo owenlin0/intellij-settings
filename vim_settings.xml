@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486073613585">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486080131768">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486073083363">
+      <file name="/a.dummy" timestamp="1486080958172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -22,23 +22,16 @@
         <mark key="." line="42" column="59" />
         <mark key="^" line="42" column="59" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sitar/sitar-service/jooq-config.xml" timestamp="1485927794954">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="70" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/resources/ApolloResource.java" timestamp="1480293726874">
         <mark key="'" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/common/mysql-data-source/src/test/java/com/airbnb/search/common/mysql/TestDbMicasaClient.java" timestamp="1485802184720">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486073603382">
-        <mark key="'" line="8" column="16" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486080936727">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" timestamp="1485546264451">
         <mark key="'" line="1" column="18" />
@@ -50,22 +43,12 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/monorail/logging/monorail_search_v1.thrift" timestamp="1481582308549">
         <mark key="'" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/papaya/build.gradle" timestamp="1485679459516">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="49" column="2" />
-        <mark key="]" line="49" column="40" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/jooq-config.xml" timestamp="1485999282197">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/RolodexDevelopment.java" timestamp="1485842699928">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="49" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hfileservice/src/main/java/com/airbnb/discover/hfileservice/HFileServiceApplication.java" timestamp="1480223025177">
         <mark key="'" line="58" column="13" />
@@ -82,11 +65,6 @@
       </file>
       <file name="$USER_HOME$/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/modules/MicasaModule.java" timestamp="1485385489789">
         <mark key="'" line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/main/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAO.java" timestamp="1485834654277">
-        <mark key="'" line="198" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="55" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/build.gradle" timestamp="1485836736256">
         <mark key="'" line="7" column="0" />
@@ -168,6 +146,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompletePostOperator.java" timestamp="1480578346380">
         <mark key="'" line="61" column="66" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" timestamp="1486080979373">
+        <mark key="'" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/VermeerApplication.java" timestamp="1485466736620">
         <mark key="'" line="42" column="41" />
       </file>
@@ -215,16 +196,17 @@
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486077380461">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486080420426">
+        <mark key="'" line="6" column="34" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
         <mark key="'" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/migrations/20160616_create_listings_table.sql" timestamp="1486079897451" />
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
         <mark key="'" line="35" column="0" />
       </file>
@@ -293,16 +275,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationDAO.java" timestamp="1485761415887">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="31" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/88b177349b719fe0636b50889687b9ed036bfd89/jackson-annotations-2.5.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" />
-      <jump line="218" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
       <jump line="2" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/module/MedusaModule.java" />
       <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
       <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/config/MedusaConfiguration.java" />
@@ -370,10 +344,7 @@
       <jump line="52" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingDbUpdateHandler.java" />
       <jump line="80" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingDbUpdateHandler.java" />
       <jump line="1" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" />
-      <jump line="6" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
       <jump line="8" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
-      <jump line="13" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
-      <jump line="12" column="105" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
       <jump line="8" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
       <jump line="10" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
       <jump line="11" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" />
@@ -400,65 +371,66 @@
       <jump line="22" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" />
       <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" />
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" />
+      <jump line="11" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" />
+      <jump line="12" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
+      <jump line="11" column="84" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
+      <jump line="6" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
+      <jump line="16" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
+      <register name="&quot;" type="4">
+        <text>DEFAULT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DEFAULT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzTGlzdGluZ0lkc1w+</text>
+        <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYGNvbnRhY3RzYCAoYGlkYCwgYHVzZXJfaWRgLCBgY29udGFjdF9ib29rX2lkYCwgYGZpcnN0X25hbWVgLCBgbGFzdF9uYW1lYCwgYGVtYWlsYCwgYHBob25lYCwgYG90aGVyX2VtYWlsc2AsIGBvdGhlcl9waG9uZXNgLCBgaGFzX3BpY3R1cmVgLCBgY3JlYXRlZF9hdGAsIGBsYXN0X3N5bmNlZF9hdGApClZBTFVFUwoJKDEsIDEsIDEsICdHZW9yZ2UnLCAnTHVjYXMnLCAnZ2VvcmdlbHVjYXNAZXhhbXBsZS5jb20nLCAnMTk3ODkxNjkyNTYnLCBOVUxMLCBOVUxMLCAwLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicsICcyMDE2LTEyLTA1IDIxOjU2OjQyJyksCgkoMiwgMSwgMSwgJ0NhcnJpZScsICdGaXNoZXInLCAnY2FycmllZmlzaGVyQGV4YW1wbGUuY29tJywgJzE3ODU3ODYzMTM4JywgTlVMTCwgTlVMTCwgMCwgJzIwMTYtMTItMDUgMjE6NTY6NDInLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicpLAoJKDMsIDEsIDIsICdEb25hbGQnLCAnVHJ1bXAnLCAndGhlQGRvbmFsZC5jb20nLCAnMTk0NzcxMzAxMTcnLCAnW1wiZG9uYWxkdHJ1bXBAZ21haWwuY29tXCIsIFwidGhldHJ1bXBzdGVyQHlhaG9vLmNvbVwiXScsIE5VTEwsIDAsICcyMDE2LTEyLTA1IDIxOjU2OjQyJywgJzIwMTYtMTItMDUgMjE6NTY6NDInKSwKCSg0LCAyLCAzLCAnU29tZScsICdHdXknLCAnc29tZWd1eUBleGFtcGxlLmNvbScsICcxMjM0MzA5OTA2OCcsIE5VTEwsICdbMTQwMjI3MDE1MTksIDEyNTM5MDc4MjQzXScsIDEsICcyMDE2LTEyLTA1IDIxOjU2OjQyJywgJzIwMTYtMTItMDUgMjE6NTY6NDInKTsK</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
+        <text encoding="base64">ICBLRVkgYGluZGV4X3VzZXJfaWRfYW5kX2ltcG9ydF90eXBlX2FuZF9hY2NvdW50X2hhbmRsZWAgKGB1c2VyX2lkYCwgYGltcG9ydF90eXBlYCwgYGFjY291bnRfaGFuZGxlYCksCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">CSgKCSgKCSg=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">CSgKCSgKCSgKCSg=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">CgoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAoNCwgMiwgMywgJ1NvbWUnLCAnR3V5JywgJ3NvbWVndXlAZXhhbXBsZS5jb20nLCAnMTIzNDMwOTkwNjgnLCBOVUxMLCAnWzE0MDIyNzAxNTE5LCAxMjUzOTA3ODI0M10nLCAxLCAnMjAxNi0xMi0wNSAyMTo1Njo0MicsICcyMDE2LTEyLTA1IDIxOjU2OjQyJyk7Cg==</text>
+        <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKIAogCiAKIAogCiAKIA==</text>
+        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">CSgKCSgKCSg=</text>
       </register>
-      <register name="9" type="4">
-        <text>INSERT INTO `contact_books` (`id`, `user_id`, `import_type`, `account_handle`, `created_at`, `updated_at`, `last_synced_at`, `deleted`)
-VALUES
-	(1, 1, 1, 'tester@airbnb.com', '2016-12-05 21:56:42', '2016-12-05 21:56:42', NULL, NULL),
-	(2, 1, 1, 'tester@gmail.com', '2016-12-06 21:56:42', '2016-12-06 21:56:42', NULL, NULL),
-	(3, 2, 1, 'anothertest@example.com', '2016-12-07 21:56:42', '2016-12-07 21:56:42', NULL, NULL);</text>
+      <register name="9" type="8">
+        <text encoding="base64">CSgKCSgKCSgKCSg=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzTGlzdGluZ0lkc1w+</last-search>
+      <last-search encoding="base64">XDxtb2RpZmllZF9hdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzTGlzdGluZ0lkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RpZmllZF9hdFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>omnes</entry>
         <entry>provide</entry>
         <entry>provides</entry>
         <entry>topic_name</entry>
@@ -478,6 +450,7 @@ VALUES
         <entry>events</entry>
         <entry>messages</entry>
         <entry encoding="base64">XDxwcm9jZXNzTGlzdGluZ0lkc1w+</entry>
+        <entry encoding="base64">XDxtb2RpZmllZF9hdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -494,9 +467,9 @@ VALUES
         <entry>21</entry>
         <entry>28</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>nohl</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
