@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486080131768">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1486082138228">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486080958172">
+      <file name="/a.dummy" timestamp="1486081054162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,10 +28,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/common/mysql-data-source/src/test/java/com/airbnb/search/common/mysql/TestDbMicasaClient.java" timestamp="1485802184720">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486080936727">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1486082150434">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="79" />
+        <mark key="]" line="10" column="37" />
         <mark key="." line="9" column="0" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contacts-tables.sql" timestamp="1485546264451">
         <mark key="'" line="1" column="18" />
@@ -196,11 +197,11 @@
       <file name="$USER_HOME$/airlab/repos/airbnb/import-owen.lin@airbnb.com.json" timestamp="1481577254533">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486080420426">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1486082158984">
         <mark key="'" line="6" column="34" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
@@ -379,47 +380,47 @@
       <jump line="16" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEFAULT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBLRVkgYGluZGV4X3VzZXJfaWRfYW5kX2ltcG9ydF90eXBlX2FuZF9hY2NvdW50X2hhbmRsZWAgKGB1c2VyX2lkYCwgYGltcG9ydF90eXBlYCwgYGFjY291bnRfaGFuZGxlYCksCg==</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZWRfYXRgIFRJTUVTVEFNUCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBLRVkgYGluZGV4X3VzZXJfaWRfYW5kX2ltcG9ydF90eXBlX2FuZF9hY2NvdW50X2hhbmRsZWAgKGB1c2VyX2lkYCwgYGltcG9ydF90eXBlYCwgYGFjY291bnRfaGFuZGxlYCksCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMLAogIGB1cGRhdGVkX2F0YCBkYXRldGltZSBERUZBVUxUIE5VTEwsCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICBgbGFzdF9zeW5jZWRfYXRgIGRhdGV0aW1lIERFRkFVTFQgTlVMTCwK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAoCgkoCiAJKAogCSgKIAkoCiAJKAogCSgKIAko</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">CSgKCSgKCSg=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">CSgKCSgKCSgKCSg=</text>
-      </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -468,8 +469,8 @@
         <entry>28</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
