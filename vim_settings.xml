@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1486273059445">
+      <file name="/a.dummy" timestamp="1486273682377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -150,12 +150,12 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1486250545658">
-        <mark key="'" line="29" column="47" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1486273391732">
+        <mark key="'" line="29" column="62" />
         <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="29" column="47" />
+        <mark key="]" line="29" column="62" />
+        <mark key="^" line="29" column="62" />
+        <mark key="." line="29" column="62" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationMapper.java" timestamp="1485760721415">
         <mark key="'" line="26" column="0" />
@@ -261,6 +261,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" timestamp="1486273681866">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="60" column="25" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/vermeer/server/src/main/java/com/airbnb/vermeer/modules/VermeerModule.java" timestamp="1485467445796">
         <mark key="'" line="47" column="0" />
       </file>
@@ -294,8 +299,11 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" timestamp="1486250656348">
-        <mark key="'" line="118" column="34" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/common/Image.java" timestamp="1486273838392">
+        <mark key="'" line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" timestamp="1486273617225">
+        <mark key="'" line="156" column="40" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" timestamp="1486248858489">
         <mark key="'" line="7" column="11" />
@@ -370,26 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/CleanupMediaMutationsConsumer.java" />
-      <jump line="43" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/CleanupMediaMutationsConsumer.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/EmailContactImportConsumer.java" />
-      <jump line="23" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportConsumer.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportConsumer.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="7" column="91" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportHandler.java" />
-      <jump line="3" column="77" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportHandler.java" />
-      <jump line="4" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportHandler.java" />
-      <jump line="7" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" />
-      <jump line="8" column="113" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactImportHandler.java" />
-      <jump line="17" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BusinessEntityCreateOrUpdateEventHandler.java" />
-      <jump line="3" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BusinessEntityCreateOrUpdateEventHandler.java" />
-      <jump line="34" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="66" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="67" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="87" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="88" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="99" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
-      <jump line="129" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsHandler.java" />
       <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="11" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="12" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
@@ -454,7 +442,6 @@
       <jump line="94" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="92" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="88" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="29" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="131" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="28" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
@@ -463,26 +450,47 @@
       <jump line="47" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="122" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="46" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="156" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="162" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="40" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="61" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="64" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="118" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="29" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="138" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="166" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="134" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="156" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
+      <jump line="84" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="85" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="92" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/config/CrayonConfiguration.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="103" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="107" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="109" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="60" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="67" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="74" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
+      <jump line="55" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/common/Image.java" />
+      <jump line="4" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/common/Image.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q29uc3VtZXJDb25maWc+IGNvbnN1bWVyQ29uZmlnID0gY29uc3VtZXJQb29sQ29uZmlnLmdldENvbnN1bWVyQ29uZmlncygpOwogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>TaggedMetricRegistry</text>
       </register>
       <register name="-" type="4">
         <text>ConsumerConfig</text>
       </register>
       <register name="/" type="4">
-        <text>createPool</text>
+        <text encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>consumerPoolConfig</text>
+        <text>TaggedMetricRegistry</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q29uc3VtZXJDb25maWc+IGNvbnN1bWVyQ29uZmlnID0gY29uc3VtZXJQb29sQ29uZmlnLmdldENvbnN1bWVyQ29uZmlncygpOwogICAgCg==</text>
@@ -516,20 +524,14 @@
       </register>
     </registers>
     <search>
-      <last-search>createPool</last-search>
+      <last-search encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>createPool</last-pattern>
+      <last-pattern encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNZXNzYWdlRGlzcGF0Y2hlclw+</entry>
-        <entry>taggedmetric</entry>
-        <entry encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RJbXBvcnRIYW5kbGVyXD4=</entry>
-        <entry>messag</entry>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry encoding="base64">XDxCdXNpbmVzc0RhdGFFdmVudEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxNZXNzYWdlXD4=</entry>
         <entry>logging</entry>
         <entry>log</entry>
@@ -544,6 +546,12 @@
         <entry>crea</entry>
         <entry>public static</entry>
         <entry>createPool</entry>
+        <entry>consumerservice</entry>
+        <entry>configs</entry>
+        <entry encoding="base64">XDxtZXRyaWNzXD4=</entry>
+        <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
+        <entry>metrics</entry>
+        <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
