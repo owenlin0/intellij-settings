@@ -328,12 +328,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1486410505505">
-        <mark key="'" line="4" column="73" />
-        <mark key="[" line="14" column="90" />
-        <mark key="]" line="14" column="89" />
-        <mark key="." line="14" column="89" />
-        <mark key="^" line="14" column="89" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1486411106794">
+        <mark key="'" line="13" column="29" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="5" column="70" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1485841922015">
         <mark key="'" line="275" column="0" />
@@ -367,8 +367,11 @@
       <file name="$USER_HOME$/airlab/repos/vermeer/server/build.gradle" timestamp="1485641477725">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" timestamp="1486275127624">
-        <mark key="'" line="72" column="6" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/rolodex/v1/CloudspongeContactBookUploadEvent.class" timestamp="1486411109656">
+        <mark key="'" line="94" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" timestamp="1486411036022">
+        <mark key="'" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/CrayonApplication.java" timestamp="1486275780473">
         <mark key="'" line="11" column="0" />
@@ -385,15 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
-      <jump line="60" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
-      <jump line="67" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
-      <jump line="74" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/module/CrayonModule.java" />
-      <jump line="55" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/common/Image.java" />
-      <jump line="4" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/common/Image.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistryFactory.java" />
-      <jump line="33" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
-      <jump line="35" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="28" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsConsumer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsConsumer.java" />
@@ -420,7 +414,6 @@
       <jump line="56" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
       <jump line="40" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
       <jump line="77" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
-      <jump line="13" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="14" column="89" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="93" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
       <jump line="72" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
@@ -485,61 +478,70 @@
       <jump line="15" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
       <jump line="16" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
       <jump line="48" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Data.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
+      <jump line="37" column="92" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/vermeer/v3/PictureMutationEvent.class" />
+      <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
+      <jump line="107" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/jitney/consumer/PictureMutationEventHandler.java" />
+      <jump line="21" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/Message.class" />
+      <jump line="41" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/rolodex/v1/CloudspongeContactBookUploadEvent.class" />
+      <jump line="13" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
+      <jump line="94" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/rolodex/v1/CloudspongeContactBookUploadEvent.class" />
+      <jump line="5" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.122.8/de10c54ff535cb92f9e3df97226513ad42ad3844/jitney-schemas-3.122.8.jar!/com/airbnb/jitney/event/rolodex/v1/CloudspongeContactBookUploadEvent.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBoYW5kbGUoTWVzc2FnZTxDbG91ZHNwb25nZUNvbnRhY3RVcGxvYWRFdmVudD4gbWVzc2FnZSkgewogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>CloudspongeContactBookUploadEvent</text>
       </register>
       <register name="/" type="4">
-        <text>handlerProvider</text>
+        <text>handle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQo=</text>
+      <register name="0" type="4">
+        <text>CloudspongeContactUploadEvent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBoYW5kbGUoTWVzc2FnZTxDbG91ZHNwb25nZUNvbnRhY3RVcGxvYWRFdmVudD4gbWVzc2FnZSkgewogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">ICAgIENsb3Vkc3BvbmdlQ29udGFjdEJvb2tVcGxvYWRFdmVudCBldmVudCA9IG1lc3NhZ2UuZ2V0RXZlbnQoKTsKICAgIGxvZy5kZWJ1ZygiW29tbmVzXSBIYW5kbGluZyBDbG91ZHNwb25nZUNvbnRhY3RCb29rVXBsb2FkRXZlbnQ6IHt9IiwgZXZlbnQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuc3Vic2NyaXB0aW9uLlN1YnNjcmlwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuT21uZXNDb25zdW1lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0Lm5hbWUuTmFtZWQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuc3Vic2NyaXB0aW9uLlN1YnNjcmlwdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuT21uZXNDb25zdW1lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handlerProvider</last-search>
+      <last-search>handle</last-search>
       <last-offset />
-      <last-pattern>handlerProvider</last-pattern>
+      <last-pattern>handle</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>provider</entry>
         <entry>inject</entry>
         <entry>consumerConfig</entry>
         <entry encoding="base64">XDx0YWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
@@ -559,6 +561,7 @@
         <entry>keepalivservice</entry>
         <entry encoding="base64">XDxhaXJtaXNjRGJDb25maWdGYWN0b3J5XD4=</entry>
         <entry>handlerProvider</entry>
+        <entry>handle</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
