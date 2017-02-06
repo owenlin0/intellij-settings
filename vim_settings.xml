@@ -118,12 +118,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-lifecycle/0.7.1/4b1abdae110952505b949899b8ab54678f928798/dropwizard-lifecycle-0.7.1-sources.jar!/io/dropwizard/lifecycle/Managed.java" timestamp="1486009020881">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1486246482114">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="54" column="35" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1486407374766">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/datasource/src/test/java/com/airbnb/shareddao/airbeddb/daos/HostingsDAOStatementBuildersTest.java" timestamp="1486146474697">
         <mark key="'" line="49" column="6" />
@@ -183,10 +182,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/managed/CrayonLifecycleManager.java" timestamp="1486275775272">
         <mark key="'" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486275855912">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486407881156">
         <mark key="'" line="19" column="31" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="31" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="30" />
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
@@ -239,11 +238,11 @@
       <file name="$USER_HOME$/repos/treehouse/projects/gaia-core/src/main/java/com.airbnb.gaia/utils/MysqlConnectionFactory.java" timestamp="1485379510281">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" timestamp="1486248809921">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml" timestamp="1486407298739">
         <mark key="'" line="11" column="3" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/module/SundanceVideoUploaderModule.java" timestamp="1486245839562">
@@ -319,11 +318,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" timestamp="1486273617225">
         <mark key="'" line="156" column="40" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" timestamp="1486248858489">
-        <mark key="'" line="7" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" timestamp="1486407287916">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/DefaultCatalog.java" timestamp="1485842956809">
@@ -395,8 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="28" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="34" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="74" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="47" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
@@ -495,61 +492,62 @@
       <jump line="55" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
       <jump line="58" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
       <jump line="66" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" />
+      <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isOmnesEnabled</text>
       </register>
       <register name="-" type="4">
-        <text>isOmnesEbaled</text>
+        <text>enableOmnes</text>
       </register>
       <register name="/" type="4">
-        <text>isomnes</text>
+        <text>isOmnes</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>isOmnesEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0Lm5hbWUuTmFtZWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBATmFtZWQoIkNMT1VEU1BPTkdFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNDbG91ZHNwb25nZVRvcGljTmFtZSgpIHsKICAgIHJldHVybiBjb25maWcuZ2V0Q2xvdWRzcG9uZ2VUb3BpY05hbWUoKTsKICB9CgogIEBQcm92aWRlcwogIEBOYW1lZCgiTU9CSUxFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNNb2JpbGVUb3BpY05hbWUoKSB7CiAgICByZXR1cm4gY29uZmlnLmdldE1vYmlsZVRvcGljTmFtZSgpOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBldmVudGV2ZW50LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiW29tbmVzXSBIYW5kbGluZyBDbG91ZHNwb25nZUNvbnRhY3RCb29rVXBsb2FkRXZlbnQ6IHt9IiwgKTsK</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q29uc3VtZXJDb25maWc+IGNvbnN1bWVyQ29uZmlnID0gY29uc3VtZXJQb29sQ29uZmlnLmdldENvbnN1bWVyQ29uZmlncygpOwogICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3Vic2NyaXB0aW9uPiBzdWJzY3JpcHRpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBldmVudGV2ZW50LnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiW29tbmVzXSBIYW5kbGluZyBDbG91ZHNwb25nZUNvbnRhY3RCb29rVXBsb2FkRXZlbnQ6IHt9IiwgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2tra2tkCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8Q29uc3VtZXJDb25maWc+IGNvbnN1bWVyQ29uZmlnID0gY29uc3VtZXJQb29sQ29uZmlnLmdldENvbnN1bWVyQ29uZmlncygpOwogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isomnes</last-search>
+      <last-search>isOmnes</last-search>
       <last-offset />
-      <last-pattern>isomnes</last-pattern>
+      <last-pattern>isOmnes</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>consumerservice</entry>
         <entry>configs</entry>
         <entry encoding="base64">XDxtZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
@@ -569,6 +567,7 @@
         <entry>consumerPoo</entry>
         <entry>isomens</entry>
         <entry>isomnes</entry>
+        <entry>isOmnes</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
