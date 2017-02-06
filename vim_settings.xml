@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1486275697087">
-        <mark key="'" line="50" column="37" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="37" />
-        <mark key="^" line="50" column="37" />
-        <mark key="." line="50" column="37" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1486408543755">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="48" column="37" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationMapper.java" timestamp="1485760721415">
         <mark key="'" line="26" column="0" />
@@ -355,8 +355,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/airbeddb/schema/src/main/java/com/airbnb/shareddao/airbeddb/tables/Hostings.java" timestamp="1485411904345">
         <mark key="'" line="132" column="2" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" timestamp="1486009426593">
-        <mark key="'" line="55" column="1" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" timestamp="1486408512680">
+        <mark key="'" line="63" column="13" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" timestamp="1486250415521">
         <mark key="'" line="62" column="40" />
@@ -394,11 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="74" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="47" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
-      <jump line="46" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="162" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="40" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
@@ -469,7 +464,6 @@
       <jump line="21" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/config/CrayonConfiguration.java" />
       <jump line="8" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/CrayonApplication.java" />
       <jump line="57" column="73" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/CrayonApplication.java" />
-      <jump line="63" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" />
       <jump line="20" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/managed/CrayonLifecycleManager.java" />
       <jump line="15" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/managed/CrayonLifecycleManager.java" />
       <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerPool.java" />
@@ -484,7 +478,6 @@
       <jump line="55" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/MediaMutationsConsumer.java" />
       <jump line="56" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="59" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
-      <jump line="50" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="13" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/managed/CrayonLifecycleManager.java" />
       <jump line="11" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/crayon/src/main/java/com/airbnb/crayon/CrayonApplication.java" />
       <jump line="18" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
@@ -494,63 +487,67 @@
       <jump line="66" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
       <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" />
       <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="4" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="53" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="25" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" />
+      <jump line="24" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerPool.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isOmnesEnabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuc3Vic2NyaXB0aW9uLlN1YnNjcmlwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>enableOmnes</text>
       </register>
       <register name="/" type="4">
-        <text>isOmnes</text>
+        <text>keepalivservice</text>
       </register>
       <register name="0" type="4">
         <text>isOmnesEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0Lm5hbWUuTmFtZWQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuc3Vic2NyaXB0aW9uLlN1YnNjcmlwdGlvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuT21uZXNDb25zdW1lcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAUHJvdmlkZXMKICBATmFtZWQoIkNMT1VEU1BPTkdFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNDbG91ZHNwb25nZVRvcGljTmFtZSgpIHsKICAgIHJldHVybiBjb25maWcuZ2V0Q2xvdWRzcG9uZ2VUb3BpY05hbWUoKTsKICB9CgogIEBQcm92aWRlcwogIEBOYW1lZCgiTU9CSUxFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNNb2JpbGVUb3BpY05hbWUoKSB7CiAgICByZXR1cm4gY29uZmlnLmdldE1vYmlsZVRvcGljTmFtZSgpOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0Lm5hbWUuTmFtZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
+        <text encoding="base64">ICBAUHJvdmlkZXMKICBATmFtZWQoIkNMT1VEU1BPTkdFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNDbG91ZHNwb25nZVRvcGljTmFtZSgpIHsKICAgIHJldHVybiBjb25maWcuZ2V0Q2xvdWRzcG9uZ2VUb3BpY05hbWUoKTsKICB9CgogIEBQcm92aWRlcwogIEBOYW1lZCgiTU9CSUxFX1RPUElDX05BTUUiKQogIHB1YmxpYyBTdHJpbmcgcHJvdmlkZXNNb2JpbGVUb3BpY05hbWUoKSB7CiAgICByZXR1cm4gY29uZmlnLmdldE1vYmlsZVRvcGljTmFtZSgpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBldmVudGV2ZW50LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiW29tbmVzXSBIYW5kbGluZyBDbG91ZHNwb25nZUNvbnRhY3RCb29rVXBsb2FkRXZlbnQ6IHt9IiwgKTsK</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWd1cmF0aW9uLmlzT21uZXNFbmFibGVkKCkpIHsKICAgICAgQ2xvdWRzcG9uZ2VDb25zdW1lciBjb25zdW1lciA9IGluamVjdG9yLmdldEluc3RhbmNlKENsb3Vkc3BvbmdlQ29uc3VtZXIuY2xhc3MpOwogICAgICBlbnZpcm9ubWVudC5saWZlY3ljbGUoKS5tYW5hZ2UoY29uc3VtZXIpOwogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q29uc3VtZXJDb25maWc+IGNvbnN1bWVyQ29uZmlnID0gY29uc3VtZXJQb29sQ29uZmlnLmdldENvbnN1bWVyQ29uZmlncygpOwogICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBldmVudGV2ZW50LnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>isOmnes</last-search>
+      <last-search>keepalivservice</last-search>
       <last-offset />
-      <last-pattern>isOmnes</last-pattern>
+      <last-pattern>keepalivservice</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>configs</entry>
-        <entry encoding="base64">XDxtZXRyaWNzXD4=</entry>
-        <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
         <entry>metrics</entry>
         <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeUZhY3RvcnlcPg==</entry>
         <entry>provider</entry>
@@ -568,6 +565,9 @@
         <entry>isomens</entry>
         <entry>isomnes</entry>
         <entry>isOmnes</entry>
+        <entry encoding="base64">XDxPbW5lc0NvbnN1bWVyXD4=</entry>
+        <entry encoding="base64">XDxDT05TVU1FUl9XQUlUX1RJTUVPVVRfU0VDT05EU1w+</entry>
+        <entry>keepalivservice</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -585,8 +585,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
