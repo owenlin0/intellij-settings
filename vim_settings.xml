@@ -6,10 +6,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" timestamp="1486421783221">
         <mark key="'" line="7" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1486424236166">
+      <file name="/a.dummy" timestamp="1486454199628">
+        <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="n" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/common/mysql-data-source/src/test/java/com/airbnb/search/common/mysql/TestDbMicasaClient.java" timestamp="1485802184720">
         <mark key="'" line="47" column="6" />
@@ -343,12 +345,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/CleanupMediaMutationsConsumer.java" timestamp="1486249961159">
         <mark key="'" line="30" column="72" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486424349662">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1486454116777">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" timestamp="1486080979373">
         <mark key="'" line="16" column="3" />
@@ -449,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/dispatcher/ClassBasedDispatcher.java" />
       <jump line="41" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="34" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="61" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
@@ -549,13 +550,14 @@
       <jump line="14" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="48" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="20" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>omnes-consumer-pool</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>omnes-consumer-pool</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
@@ -599,7 +601,7 @@
       <last-offset />
       <last-pattern>5</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -637,11 +639,11 @@
         <entry>32</entry>
         <entry>21</entry>
         <entry>28</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>14</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>nohl</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
