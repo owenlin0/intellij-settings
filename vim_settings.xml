@@ -259,8 +259,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BusinessEntityCreateOrUpdateEventHandler.java" timestamp="1486249954113">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" timestamp="1486518479078">
-        <mark key="'" line="124" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" timestamp="1486545295217">
+        <mark key="'" line="171" column="6" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="19" />
         <mark key="." line="90" column="0" />
@@ -462,11 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/consumer/MicasaMutationsConsumer.java" />
-      <jump line="54" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/dispatcher/ClassBasedDispatcher.java" />
-      <jump line="38" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
-      <jump line="9" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactUploadHandler.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/consumer/MicasaMutationsConsumer.java" />
       <jump line="48" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/consumer/MicasaListingMutationHandler.java" />
       <jump line="5" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" />
       <jump line="37" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/dispatcher/ClassBasedDispatcher.java" />
@@ -554,14 +549,19 @@
       <jump line="33" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
-      <jump line="151" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="156" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="159" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
-      <jump line="171" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="184" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="124" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
       <jump line="51" column="143" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
       <jump line="52" column="80" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="109" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="99" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="97" column="64" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="131" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="28" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="151" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
+      <jump line="171" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +571,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ConsumerConfi</text>
+        <text encoding="base64">XDxQcm9wZXJ0aWVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBDbG91ZHNwb25nZUNvbnRhY3RVcGxvYWRFdmVudCBldmVudCA9IG1lc3NhZ2UuZ2V0RXZlbnQoKTsKICAgIGxvZy5pbmZvKCJbb21uZXNdIEhhbmRsaW5nIENsb3Vkc3BvbmdlQ29udGFjdFVwbG9hZEV2ZW50OiB7fSIsIGV2ZW50LnRvU3RyaW5nKCkpOwo=</text>
@@ -604,21 +604,18 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>ConsumerConfi</last-search>
+      <last-search encoding="base64">XDxQcm9wZXJ0aWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>ConsumerConfi</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wZXJ0aWVzXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deprecated</entry>
-        <entry>Node</entry>
-        <entry>subscriptions</entry>
         <entry>ub</entry>
         <entry>mutations</entry>
         <entry>dispatcher</entry>
@@ -636,6 +633,9 @@
         <entry>consumername</entry>
         <entry>maxpollsize</entry>
         <entry>ConsumerConfi</entry>
+        <entry>fetch-size</entry>
+        <entry encoding="base64">XDxERUZBVUxUX1BBUkFMTEVMSVNNX0ZPUl9CQVRDSFw+</entry>
+        <entry encoding="base64">XDxQcm9wZXJ0aWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -654,8 +654,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
