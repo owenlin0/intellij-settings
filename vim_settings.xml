@@ -436,8 +436,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/service/KeepAliveService.java" timestamp="1486408512680">
         <mark key="'" line="63" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" timestamp="1486509291132">
-        <mark key="'" line="38" column="11" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" timestamp="1486513994424">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="27" />
       </file>
@@ -452,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="61" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="58" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/OmnesConsumerFactory.java" />
@@ -552,6 +551,7 @@
       <jump line="20" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
       <jump line="38" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
       <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingDbUpdateHandler.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingUpdateEventConsumer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -561,7 +561,7 @@
         <text>omnes-consumer-pool</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>subscription</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TWVzc2FnZUhhbmRsZXI8Q2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZEV2ZW50PiB7</text>
@@ -594,15 +594,15 @@
         <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMuY29uc3VtZXIuaGFuZGxlci5BYm9ydGFibGVIYW5kbGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>subscription</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>subscription</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -612,7 +612,6 @@
         <entry>consumerconfig</entry>
         <entry encoding="base64">XDxjb25zdW1lckNvbmZpZ1w+</entry>
         <entry>deprecated</entry>
-        <entry>subscription</entry>
         <entry>Node</entry>
         <entry>subscriptions</entry>
         <entry>ub</entry>
@@ -626,6 +625,7 @@
         <entry>handler</entry>
         <entry>mess</entry>
         <entry>5</entry>
+        <entry>subscription</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -643,9 +643,9 @@
         <entry>W</entry>
         <entry>14</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>nohl</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
