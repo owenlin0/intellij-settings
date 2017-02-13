@@ -202,12 +202,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1486975936699">
-        <mark key="'" line="52" column="75" />
-        <mark key="[" line="52" column="64" />
-        <mark key="]" line="52" column="75" />
-        <mark key="." line="52" column="75" />
-        <mark key="^" line="52" column="75" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1486976089883">
+        <mark key="'" line="54" column="65" />
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="65" />
+        <mark key="." line="54" column="65" />
+        <mark key="^" line="54" column="65" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/pricingdb/datasource/src/main/java/com/airbnb/shareddao/pricingdb/dao/AbstractPricingDAOSql.java" timestamp="1486964625164">
         <mark key="'" line="77" column="27" />
@@ -604,8 +604,6 @@
       <jump line="49" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="8" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="44" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/Contacts.java" />
-      <jump line="53" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
-      <jump line="54" column="69" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="55" column="73" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="56" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="344" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.132.0/1496c907948e728d5cf54642f91f828834d44865/jitney-schemas-3.132.0.jar!/com/airbnb/jitney/event/rolodex/v3/CloudspongeContactBookUploadEvent.class" />
@@ -620,13 +618,15 @@
       <jump line="50" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="343" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.132.0/1496c907948e728d5cf54642f91f828834d44865/jitney-schemas-3.132.0.jar!/com/airbnb/jitney/event/rolodex/v3/CloudspongeContactBookUploadEvent.class" />
       <jump line="52" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
+      <jump line="53" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
+      <jump line="54" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>getEmails</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>getEmails</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
