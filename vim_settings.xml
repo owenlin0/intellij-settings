@@ -435,12 +435,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/db/AccountMutationMapper.java" timestamp="1485760721415">
         <mark key="'" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1487181423915">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1487186060362">
         <mark key="'" line="6" column="29" />
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
-        <mark key="^" line="58" column="49" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="55" column="49" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/CleanupMediaMutationsConsumer.java" timestamp="1486249961159">
         <mark key="'" line="30" column="72" />
@@ -574,12 +574,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/ContactBooks.java" timestamp="1487102620122">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487184765005">
-        <mark key="'" line="94" column="59" />
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="8" />
-        <mark key="." line="94" column="8" />
-        <mark key="^" line="94" column="13" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487187198450">
+        <mark key="'" line="95" column="25" />
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="39" />
+        <mark key="." line="96" column="39" />
+        <mark key="^" line="96" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/rules/TemporaryFolder.java" timestamp="1487182478886">
         <mark key="'" line="29" column="2" />
@@ -634,7 +634,6 @@
       <jump line="7050" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/DSLContext.java" />
       <jump line="81" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="84" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="96" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="99" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="85" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="9" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -686,63 +685,63 @@
       <jump line="79" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Batch.java" />
       <jump line="94" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="76" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Batch.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVjb3JkIHJlc3VsdCA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmJpbmQoIkJvYiIsICJEb2xlIiwgbm93LCBub3cpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVjb3JkIHJlc3VsdCA9IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqZGJjRGF0YVNvdXJjZVw+</text>
+        <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdW2NvbnRhY3QtaGFuZGxlcl0gSWdub3JpbmcgY29udGFjdCBib29rIHN5bmMgZm9yIGV2ZW50OiAlc1xuIiwgZXZlbnQudG9TdHJpbmcoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJpbmQoIkJvYiIsICJEb2xlIiwgbm93LCBub3cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdIDogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlcygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkYi5pbnNlcnRJbnRvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkYi5iYXRjaFN0b3JlKGNvbnRhY3RSZWNvcmRzKS5yZXR1cm5pbmcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIExvYWQgSk9PUSBydW50aW1lIHNldHRpbmdzCiAgICBKQVhCLnVubWFyc2hhbChuZXcgRmlsZSgiam9vcS1ydW50aW1lLnhtbCIpLCBTZXR0aW5ncy5jbGFzcyk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICAg</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdIDogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXgudjMuQ2xvdWRzcG9uZ2VDb250YWN0QmF0Y2hVcGxvYWRFdmVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqZGJjRGF0YVNvdXJjZVw+</last-search>
+      <last-search encoding="base64">XDxudWxsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqZGJjRGF0YVNvdXJjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxudWxsXD4=</last-pattern>
       <last-replace>contactRecord</last-replace>
       <last-substitute>record</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWN0Qm9va0ltcG9ydFw+</entry>
         <entry>sql</entry>
         <entry>Timestamp</entry>
         <entry>userId</entry>
@@ -762,6 +761,7 @@
         <entry>@After</entry>
         <entry>mocki</entry>
         <entry encoding="base64">XDxqZGJjRGF0YVNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
