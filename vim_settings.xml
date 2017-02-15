@@ -572,12 +572,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/ContactBooks.java" timestamp="1487102620122">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487137014043">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487178853074">
         <mark key="'" line="94" column="15" />
-        <mark key="[" line="94" column="37" />
-        <mark key="]" line="94" column="37" />
-        <mark key="." line="94" column="37" />
-        <mark key="^" line="94" column="37" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -683,8 +683,8 @@
       <jump line="7059" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/DSLContext.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -699,28 +699,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RIYW5kbGVzUmVjb3JkPiBjb250YWN0SGFuZGxlc1JlY29yZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5iYXRjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgYSBsaXN0IG9mIENvbnRhY3QgYW5kIENvbnRhY3RIYW5kbGUgcm93cyB0byBzdG9yZSBpbiBiYXRjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RIYW5kbGVzUmVjb3JkPiBjb250YWN0SGFuZGxlc1JlY29yZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgYSBsaXN0IG9mIENvbnRhY3QgYW5kIENvbnRhY3RIYW5kbGUgcm93cyB0byBzdG9yZSBpbiBiYXRjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRhY3RSZWNvcmRzLmFkZChjb250YWN0UmVjb3JkKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RzUmVjb3JkPiBjb250YWN0UmVjb3JkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRhY3RSZWNvcmRzLmFkZChjb250YWN0UmVjb3JkKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgYSBsaXN0IG9mIENvbnRhY3QgYW5kIENvbnRhY3RIYW5kbGUgcm93cyB0byBzdG9yZSBpbiBiYXRjaAogICAgICAgIExpc3Q8Q29udGFjdHNSZWNvcmQ+IGNvbnRhY3RSZWNvcmRzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxDb250YWN0SGFuZGxlc1JlY29yZD4gY29udGFjdEhhbmRsZXNSZWNvcmRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RzUmVjb3JkPiBjb250YWN0UmVjb3JkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
