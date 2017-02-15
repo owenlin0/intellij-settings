@@ -574,19 +574,18 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/ContactBooks.java" timestamp="1487102620122">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487187198450">
-        <mark key="'" line="95" column="25" />
-        <mark key="[" line="96" column="40" />
-        <mark key="]" line="96" column="39" />
-        <mark key="." line="96" column="39" />
-        <mark key="^" line="96" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487188437982">
+        <mark key="'" line="101" column="11" />
+        <mark key="[" line="102" column="52" />
+        <mark key="]" line="102" column="51" />
+        <mark key="." line="102" column="51" />
+        <mark key="^" line="102" column="51" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/rules/TemporaryFolder.java" timestamp="1487182478886">
         <mark key="'" line="29" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
       <jump line="62" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="88" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="89" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
@@ -686,46 +685,47 @@
       <jump line="94" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="76" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Batch.java" />
       <jump line="96" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="102" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJpbmQoIkJvYiIsICJEb2xlIiwgbm93LCBub3cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJpbmQoIkJvYiIsICJEb2xlIiwgbm93LCBub3cpCg==</text>
+      <register name="0" type="4">
+        <text>db.insertInto(CONTACTS, CONTACTS.FIRST_NAME, CONTACTS.LAST_NAME, CONTACTS.CREATED_AT, CONTACTS.UPDATED_AT)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5pbnNlcnRJbnRvKCkK</text>
+        <text encoding="base64">ICAgICAgICBkYi5pbnNlcnRJbnRvKCkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5iYXRjaFN0b3JlKGNvbnRhY3RSZWNvcmRzKS5yZXR1cm5pbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIExvYWQgSk9PUSBydW50aW1lIHNldHRpbmdzCiAgICBKQVhCLnVubWFyc2hhbChuZXcgRmlsZSgiam9vcS1ydW50aW1lLnhtbCIpLCBTZXR0aW5ncy5jbGFzcyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkYi5pbnNlcnRJbnRvKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5iYXRjaFN0b3JlKGNvbnRhY3RSZWNvcmRzKS5yZXR1cm5pbmcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdIDogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgIC8vIExvYWQgSk9PUSBydW50aW1lIHNldHRpbmdzCiAgICBKQVhCLnVubWFyc2hhbChuZXcgRmlsZSgiam9vcS1ydW50aW1lLnhtbCIpLCBTZXR0aW5ncy5jbGFzcyk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdIDogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJbb21uZXNdY29udGFjdC1ib29rLWhhbmRsZXIgU3RvcmVkIGNvbnRhY3QgYm9vazogJXNcbiIsIGV2ZW50LnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
