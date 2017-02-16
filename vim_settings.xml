@@ -625,22 +625,19 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/ContactBooks.java" timestamp="1487102620122">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487278878460">
-        <mark key="a" line="207" column="4" />
-        <mark key="'" line="179" column="14" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="132" column="64" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487281989109">
+        <mark key="a" line="211" column="4" />
+        <mark key="'" line="193" column="9" />
+        <mark key="[" line="192" column="29" />
+        <mark key="]" line="193" column="9" />
+        <mark key="." line="193" column="9" />
+        <mark key="^" line="193" column="9" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/rules/TemporaryFolder.java" timestamp="1487182478886">
         <mark key="'" line="29" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="9" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="177" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="211" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="18" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -676,7 +673,6 @@
       <jump line="101" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="167" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="196" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="64" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="66" column="88" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="55" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="62" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -685,7 +681,6 @@
       <jump line="202" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="65" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="63" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="193" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="95" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="119" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="94" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -738,6 +733,11 @@
       <jump line="35" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/utils/StreamUtilsTest.java" />
       <jump line="150" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="179" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="190" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="64" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="192" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="193" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -753,55 +753,55 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVtYWlscy5hZGQoRXZlbnRUZXN0VXRpbHMuY3JlYXRlRW1haWwoIjU4Njg1OC0wLXN0ZXBoYW5lLm1hcnRpbmVhdUBicHZmLmJhbnF1ZXBvcHVsYWlyZS5mciIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ewoKICAgICAgICAvLyBDaGVjayB3aGV0aGVyIHRoZXNlIGNvbnRhY3RzIGJlbG9uZyB0byBhIHByZS1leGlzdGluZyBDb250YWN0IEJvb2suCiAgICAgICAgLy8gICAgLSBJZiB5ZXMsIHRoZW4gaXQgaXMgYSBzeW5jLiBGb3Igbm93LCBkbyBub3RoaW5nLgogICAgICAgIC8vICAgIC0gSWYgbm8sIHRoZW4gaXQgaXMgYSBmaXJzdC10aW1lIGltcG9ydC4gV3JpdGUgdG8gREIuCiAgICAgICAgQ29udGFjdEJvb2tJbXBvcnQgY29udGFjdEJvb2tJbXBvcnQgPSBldmVudC5nZXRDb250YWN0Qm9va0ltcG9ydCgpOwogICAgICAgIENvbnRhY3RCb29rc1JlY29yZCBjb250YWN0Qm9va3NSZWNvcmQgPSBzdG9yYWdlLmZldGNoT25lQ29udGFjdEJvb2tCeUNvbnRhY3RCb29rSW1wb3J0KGNvbnRhY3RCb29rSW1wb3J0KTsKCiAgICAgICAgLy8gc2hhcmVkIGZpZWxkcwogICAgICAgIFN0cmluZyBpbXBvcnRVdWlkID0gY29udGFjdEJvb2tJbXBvcnQuZ2V0SW1wb3J0VXVpZCgpOwogICAgICAgIGxvbmcgdXNlcklkID0gY29udGFjdEJvb2tJbXBvcnQuZ2V0VXNlcklkKCk7CgogICAgICAgIC8vIFNraXAgcHJlLWV4aXN0aW5nIGNvbnRhY3QgYm9va3MgKGkuZS4gdGhlICJzeW5jIiBiZWhhdmlvciBpcyBub3QgaW1wbGVtZW50ZWQgeWV0KS4KICAgICAgICBpZiAoY29udGFjdEJvb2tzUmVjb3JkICE9IG51bGwgJiYKICAgICAgICAgICAgIWNvbnRhY3RCb29rc1JlY29yZC5nZXRVdWlkKCkuZXF1YWxzKGltcG9ydFV1aWQpKSB7CiAgICAgICAgICBsb2cuaW5mbygKICAgICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIENvbnRhY3QgYm9vayBzeW5jLCBmb3VuZCBjb250YWN0X2Jvb2sgd2l0aCBVVUlEOiB7fSwgaWdub3Jpbmcge30gY29udGFjdHMgZm9yIGltcG9ydF91dWlkOiB7fSIsCiAgICAgICAgICAgICAgY29udGFjdEJvb2tzUmVjb3JkLmdldFV1aWQoKSwKICAgICAgICAgICAgICBldmVudC5nZXRDb250YWN0cygpLnNpemUoKSwKICAgICAgICAgICAgICBpbXBvcnRVdWlkCiAgICAgICAgICApOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgVGltZXN0YW1wIG5vdyA9IG5ldyBUaW1lc3RhbXAoQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKS5nZXRUaW1lKCkuZ2V0VGltZSgpKTsKCiAgICAgICAgRFNMQ29udGV4dCBkYiA9IHN0b3JhZ2UuZ2V0RFNMQ29udGV4dCgpOwogICAgICAgIEluc2VydFZhbHVlc1N0ZXA2IGNvbnRhY3RzU3FsID0gZGIuaW5zZXJ0SW50bygKICAgICAgICAgICAgQ09OVEFDVFMsCiAgICAgICAgICAgIENPTlRBQ1RTLkNPTlRBQ1RfQk9PS19VVUlELAogICAgICAgICAgICBDT05UQUNUUy5VU0VSX0lELAogICAgICAgICAgICBDT05UQUNUUy5GSVJTVF9OQU1FLAogICAgICAgICAgICBDT05UQUNUUy5MQVNUX05BTUUsCiAgICAgICAgICAgIENPTlRBQ1RTLkNSRUFURURfQVQsCiAgICAgICAgICAgIENPTlRBQ1RTLlVQREFURURfQVQpOwoKICAgICAgICBldmVudC5nZXRDb250YWN0cygpLmZvckVhY2goY29udGFjdCAtPiB7CiAgICAgICAgICBjb250YWN0c1NxbC52YWx1ZXMoCiAgICAgICAgICAgICAgaW1wb3J0VXVpZCwKICAgICAgICAgICAgICB1c2VySWQsCgogICAgICAgICAgICAgIC8vIGNyYXppbmVzcy4gc29tZSBwZW9wbGUgdXNlIGVtb2ppcyBpbiB0aGVpciBjb250YWN0cyBhbmQgTXlTUUwgY2FuJ3QgaGFuZGxlIGl0CiAgICAgICAgICAgICAgLy8gU2VlOgogICAgICAgICAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTA5NTcyMzgvaW5jb3JyZWN0LXN0cmluZy12YWx1ZS13aGVuLXRyeWluZy10by1pbnNlcnQtdXRmLTgtaW50by1teXNxbC12aWEtamRiYwogICAgICAgICAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNDAzNTU2Mi9qYXZhLXJlZ2V4LW1hdGNoLWNoYXJhY3RlcnMtb3V0c2lkZS1iYXNpYy1tdWx0aWxpbmd1YWwtcGxhbmUvNDAzNTg3MSM0MDM1ODcxCiAgICAgICAgICAgICAgY29udGFjdC5nZXRGaXJzdE5hbWUoKS5yZXBsYWNlQWxsKCJbXlx1MDAwMC1cdUZGRkZdIiwgIiIpLCAvLyByZW1vdmUgNC1ieXRlIHV0Zi04IGNoYXJzCiAgICAgICAgICAgICAgY29udGFjdC5nZXRMYXN0TmFtZSgpLnJlcGxhY2VBbGwoIlteXHUwMDAwLVx1RkZGRl0iLCAiIiksIC8vIHJlbW92ZSA0LWJ5dGUgdXRmLTggY2hhcnMKCiAgICAgICAgICAgICAgbm93LAogICAgICAgICAgICAgIG5vdyk7CiAgICAgICAgfSk7CgogICAgICAgIFJlc3VsdDxDb250YWN0c1JlY29yZD4gcmVzdWx0ID0gY29udGFjdHNTcWwucmV0dXJuaW5nKENPTlRBQ1RTLklELCBDT05UQUNUUy5GSVJTVF9OQU1FLCBDT05UQUNUUy5MQVNUX05BTUUpLmZldGNoKCk7CgogICAgICAgIEluc2VydFZhbHVlc1N0ZXA1IGNvbnRhY3RIYW5kbGVzU3FsID0gZGIuaW5zZXJ0SW50bygKICAgICAgICAgICAgQ09OVEFDVF9IQU5ETEVTLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuQ09OVEFDVF9JRCwKICAgICAgICAgICAgQ09OVEFDVF9IQU5ETEVTLlVTRVJfSUQsCiAgICAgICAgICAgIENPTlRBQ1RfSEFORExFUy5UWVBFLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuSEFORExFLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuTUVUQURBVEEpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHJlc3VsdC5zaXplKCk7IGkrKykgewogICAgICAgICAgQ29udGFjdCBjb250YWN0ID0gZXZlbnQuZ2V0Q29udGFjdHMoKS5nZXQoaSk7CiAgICAgICAgICBDb250YWN0c1JlY29yZCBjb250YWN0c1JlY29yZCA9IHJlc3VsdC5nZXQoaSk7CgogICAgICAgICAgaWYgKGNvbnRhY3QuaXNTZXRFbWFpbHMoKSkgewogICAgICAgICAgICBjb250YWN0LmdldEVtYWlscygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGRpc3RpbmN0QnlLZXkoZW1haWwgLT4gZW1haWwuZ2V0QWRkcmVzcygpKSkKICAgICAgICAgICAgICAgIC5mb3JFYWNoKGVtYWlsIC0+IHsKCiAgICAgICAgICAgICAgU3RyaW5nIG1ldGFkYXRhSnNvbiA9IG51bGw7CiAgICAgICAgICAgICAgQ29udGFjdEhhbmRsZU1ldGFkYXRhRm9ybWF0IG1ldGFkYXRhID0gQ29udGFjdEhhbmRsZU1ldGFkYXRhRm9ybWF0LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAudHlwZShlbWFpbC5nZXRUeXBlKCkpCiAgICAgICAgICAgICAgICAgIC5wcmltYXJ5KGVtYWlsLmlzUHJpbWFyeSgpKQogICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIG1ldGFkYXRhSnNvbiA9IGpzb25NYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKG1ldGFkYXRhKTsKICAgICAgICAgICAgICB9IGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgIltvbW5lc11bY29udGFjdC1oYW5kbGVyXSBFcnJvciB3cml0aW5nIGNvbnRhY3RfaGFuZGxlcyBtZXRhZGF0YSBKU09OOiB7fSIsCiAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGEudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVzU3FsLnZhbHVlcygKICAgICAgICAgICAgICAgICAgY29udGFjdHNSZWNvcmQuZ2V0SWQoKSwKICAgICAgICAgICAgICAgICAgdXNlcklkLAogICAgICAgICAgICAgICAgICBDb250YWN0SGFuZGxlVHlwZS5FTUFJTC5vcmRpbmFsKCksCiAgICAgICAgICAgICAgICAgIGVtYWlsLmdldEFkZHJlc3MoKSwKICAgICAgICAgICAgICAgICAgbWV0YWRhdGFKc29uCiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CgogICAgICAgICAgaWYgKGNvbnRhY3QuaXNTZXRQaG9uZXMoKSkgewogICAgICAgICAgICBjb250YWN0LmdldFBob25lcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGRpc3RpbmN0QnlLZXkocGhvbmUgLT4gcGhvbmUuZ2V0TnVtYmVyKCkpKQogICAgICAgICAgICAgICAgLmZvckVhY2gocGhvbmUgLT4gewogICAgICAgICAgICAgIFN0cmluZyBtZXRhZGF0YUpzb24gPSBudWxsOwogICAgICAgICAgICAgIENvbnRhY3RIYW5kbGVNZXRhZGF0YUZvcm1hdCBtZXRhZGF0YSA9IENvbnRhY3RIYW5kbGVNZXRhZGF0YUZvcm1hdC5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgLnR5cGUocGhvbmUuZ2V0VHlwZSgpKQogICAgICAgICAgICAgICAgICAucHJpbWFyeShwaG9uZS5pc1ByaW1hcnkoKSkKICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBtZXRhZGF0YUpzb24gPSBqc29uTWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhtZXRhZGF0YSk7CiAgICAgICAgICAgICAgfSBjYXRjaCAoSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKAogICAgICAgICAgICAgICAgICAgICJbb21uZXNdW2NvbnRhY3QtaGFuZGxlcl0gRXJyb3Igd3JpdGluZyBjb250YWN0X2hhbmRsZXMgbWV0YWRhdGEgSlNPTjoge30iLAogICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhLnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICBjb250YWN0SGFuZGxlc1NxbC52YWx1ZXMoCiAgICAgICAgICAgICAgICAgIGNvbnRhY3RzUmVjb3JkLmdldElkKCksCiAgICAgICAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgICAgICAgQ29udGFjdEhhbmRsZVR5cGUuUEhPTkUub3JkaW5hbCgpLAogICAgICAgICAgICAgICAgICBwaG9uZS5nZXROdW1iZXIoKSwKICAgICAgICAgICAgICAgICAgbWV0YWRhdGFKc29uCiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgaW50IG51bVJvd3NJbnNlcnRlZCA9IGNvbnRhY3RIYW5kbGVzU3FsLmV4ZWN1dGUoKTsKICAgICAgICB9IAogICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIFN0b3JlZCB7fSBjb250YWN0X2hhbmRsZXMgZm9yIGltcG9ydF91dWlkOiB7fSIsCiAgICAgICAgICAgIG51bVJvd3NJbnNlcnRlZCwKICAgICAgICAgICAgaW1wb3J0VXVpZAogICAgICAgICk7CgogICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIFN0b3JlZCB7fSBjb250YWN0cyBmb3IgaW1wb3J0X3V1aWQ6IHt9IiwKICAgICAgICAgICAgcmVzdWx0LnNpemUoKSwKICAgICAgICAgICAgaW1wb3J0VXVpZAogICAgICAgICk7CiAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>emails</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0SGFuZGxlc1NxbFw+</text>
+        <text>contactHandles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVtYWlscy5hZGQoRXZlbnRUZXN0VXRpbHMuY3JlYXRlRW1haWwoIjU4Njg1OC0wLXN0ZXBoYW5lLm1hcnRpbmVhdUBicHZmLmJhbnF1ZXBvcHVsYWlyZS5mciIpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVtYWlscy5hZGQoRXZlbnRUZXN0VXRpbHMuY3JlYXRlRW1haWwoIjU4Njg1OC0wLXN0ZXBoYW5lLm1hcnRpbmVhdUBicHZmLmJhbnF1ZXBvcHVsYWlyZS5mciIpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewoKICAgICAgICAvLyBDaGVjayB3aGV0aGVyIHRoZXNlIGNvbnRhY3RzIGJlbG9uZyB0byBhIHByZS1leGlzdGluZyBDb250YWN0IEJvb2suCiAgICAgICAgLy8gICAgLSBJZiB5ZXMsIHRoZW4gaXQgaXMgYSBzeW5jLiBGb3Igbm93LCBkbyBub3RoaW5nLgogICAgICAgIC8vICAgIC0gSWYgbm8sIHRoZW4gaXQgaXMgYSBmaXJzdC10aW1lIGltcG9ydC4gV3JpdGUgdG8gREIuCiAgICAgICAgQ29udGFjdEJvb2tJbXBvcnQgY29udGFjdEJvb2tJbXBvcnQgPSBldmVudC5nZXRDb250YWN0Qm9va0ltcG9ydCgpOwogICAgICAgIENvbnRhY3RCb29rc1JlY29yZCBjb250YWN0Qm9va3NSZWNvcmQgPSBzdG9yYWdlLmZldGNoT25lQ29udGFjdEJvb2tCeUNvbnRhY3RCb29rSW1wb3J0KGNvbnRhY3RCb29rSW1wb3J0KTsKCiAgICAgICAgLy8gc2hhcmVkIGZpZWxkcwogICAgICAgIFN0cmluZyBpbXBvcnRVdWlkID0gY29udGFjdEJvb2tJbXBvcnQuZ2V0SW1wb3J0VXVpZCgpOwogICAgICAgIGxvbmcgdXNlcklkID0gY29udGFjdEJvb2tJbXBvcnQuZ2V0VXNlcklkKCk7CgogICAgICAgIC8vIFNraXAgcHJlLWV4aXN0aW5nIGNvbnRhY3QgYm9va3MgKGkuZS4gdGhlICJzeW5jIiBiZWhhdmlvciBpcyBub3QgaW1wbGVtZW50ZWQgeWV0KS4KICAgICAgICBpZiAoY29udGFjdEJvb2tzUmVjb3JkICE9IG51bGwgJiYKICAgICAgICAgICAgIWNvbnRhY3RCb29rc1JlY29yZC5nZXRVdWlkKCkuZXF1YWxzKGltcG9ydFV1aWQpKSB7CiAgICAgICAgICBsb2cuaW5mbygKICAgICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIENvbnRhY3QgYm9vayBzeW5jLCBmb3VuZCBjb250YWN0X2Jvb2sgd2l0aCBVVUlEOiB7fSwgaWdub3Jpbmcge30gY29udGFjdHMgZm9yIGltcG9ydF91dWlkOiB7fSIsCiAgICAgICAgICAgICAgY29udGFjdEJvb2tzUmVjb3JkLmdldFV1aWQoKSwKICAgICAgICAgICAgICBldmVudC5nZXRDb250YWN0cygpLnNpemUoKSwKICAgICAgICAgICAgICBpbXBvcnRVdWlkCiAgICAgICAgICApOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgVGltZXN0YW1wIG5vdyA9IG5ldyBUaW1lc3RhbXAoQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKS5nZXRUaW1lKCkuZ2V0VGltZSgpKTsKCiAgICAgICAgRFNMQ29udGV4dCBkYiA9IHN0b3JhZ2UuZ2V0RFNMQ29udGV4dCgpOwogICAgICAgIEluc2VydFZhbHVlc1N0ZXA2IGNvbnRhY3RzU3FsID0gZGIuaW5zZXJ0SW50bygKICAgICAgICAgICAgQ09OVEFDVFMsCiAgICAgICAgICAgIENPTlRBQ1RTLkNPTlRBQ1RfQk9PS19VVUlELAogICAgICAgICAgICBDT05UQUNUUy5VU0VSX0lELAogICAgICAgICAgICBDT05UQUNUUy5GSVJTVF9OQU1FLAogICAgICAgICAgICBDT05UQUNUUy5MQVNUX05BTUUsCiAgICAgICAgICAgIENPTlRBQ1RTLkNSRUFURURfQVQsCiAgICAgICAgICAgIENPTlRBQ1RTLlVQREFURURfQVQpOwoKICAgICAgICBldmVudC5nZXRDb250YWN0cygpLmZvckVhY2goY29udGFjdCAtPiB7CiAgICAgICAgICBjb250YWN0c1NxbC52YWx1ZXMoCiAgICAgICAgICAgICAgaW1wb3J0VXVpZCwKICAgICAgICAgICAgICB1c2VySWQsCgogICAgICAgICAgICAgIC8vIGNyYXppbmVzcy4gc29tZSBwZW9wbGUgdXNlIGVtb2ppcyBpbiB0aGVpciBjb250YWN0cyBhbmQgTXlTUUwgY2FuJ3QgaGFuZGxlIGl0CiAgICAgICAgICAgICAgLy8gU2VlOgogICAgICAgICAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTA5NTcyMzgvaW5jb3JyZWN0LXN0cmluZy12YWx1ZS13aGVuLXRyeWluZy10by1pbnNlcnQtdXRmLTgtaW50by1teXNxbC12aWEtamRiYwogICAgICAgICAgICAgIC8vIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNDAzNTU2Mi9qYXZhLXJlZ2V4LW1hdGNoLWNoYXJhY3RlcnMtb3V0c2lkZS1iYXNpYy1tdWx0aWxpbmd1YWwtcGxhbmUvNDAzNTg3MSM0MDM1ODcxCiAgICAgICAgICAgICAgY29udGFjdC5nZXRGaXJzdE5hbWUoKS5yZXBsYWNlQWxsKCJbXlx1MDAwMC1cdUZGRkZdIiwgIiIpLCAvLyByZW1vdmUgNC1ieXRlIHV0Zi04IGNoYXJzCiAgICAgICAgICAgICAgY29udGFjdC5nZXRMYXN0TmFtZSgpLnJlcGxhY2VBbGwoIlteXHUwMDAwLVx1RkZGRl0iLCAiIiksIC8vIHJlbW92ZSA0LWJ5dGUgdXRmLTggY2hhcnMKCiAgICAgICAgICAgICAgbm93LAogICAgICAgICAgICAgIG5vdyk7CiAgICAgICAgfSk7CgogICAgICAgIFJlc3VsdDxDb250YWN0c1JlY29yZD4gcmVzdWx0ID0gY29udGFjdHNTcWwucmV0dXJuaW5nKENPTlRBQ1RTLklELCBDT05UQUNUUy5GSVJTVF9OQU1FLCBDT05UQUNUUy5MQVNUX05BTUUpLmZldGNoKCk7CgogICAgICAgIEluc2VydFZhbHVlc1N0ZXA1IGNvbnRhY3RIYW5kbGVzU3FsID0gZGIuaW5zZXJ0SW50bygKICAgICAgICAgICAgQ09OVEFDVF9IQU5ETEVTLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuQ09OVEFDVF9JRCwKICAgICAgICAgICAgQ09OVEFDVF9IQU5ETEVTLlVTRVJfSUQsCiAgICAgICAgICAgIENPTlRBQ1RfSEFORExFUy5UWVBFLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuSEFORExFLAogICAgICAgICAgICBDT05UQUNUX0hBTkRMRVMuTUVUQURBVEEpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHJlc3VsdC5zaXplKCk7IGkrKykgewogICAgICAgICAgQ29udGFjdCBjb250YWN0ID0gZXZlbnQuZ2V0Q29udGFjdHMoKS5nZXQoaSk7CiAgICAgICAgICBDb250YWN0c1JlY29yZCBjb250YWN0c1JlY29yZCA9IHJlc3VsdC5nZXQoaSk7CgogICAgICAgICAgaWYgKGNvbnRhY3QuaXNTZXRFbWFpbHMoKSkgewogICAgICAgICAgICBjb250YWN0LmdldEVtYWlscygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGRpc3RpbmN0QnlLZXkoZW1haWwgLT4gZW1haWwuZ2V0QWRkcmVzcygpKSkKICAgICAgICAgICAgICAgIC5mb3JFYWNoKGVtYWlsIC0+IHsKCiAgICAgICAgICAgICAgU3RyaW5nIG1ldGFkYXRhSnNvbiA9IG51bGw7CiAgICAgICAgICAgICAgQ29udGFjdEhhbmRsZU1ldGFkYXRhRm9ybWF0IG1ldGFkYXRhID0gQ29udGFjdEhhbmRsZU1ldGFkYXRhRm9ybWF0LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAudHlwZShlbWFpbC5nZXRUeXBlKCkpCiAgICAgICAgICAgICAgICAgIC5wcmltYXJ5KGVtYWlsLmlzUHJpbWFyeSgpKQogICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKCiAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIG1ldGFkYXRhSnNvbiA9IGpzb25NYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKG1ldGFkYXRhKTsKICAgICAgICAgICAgICB9IGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgIltvbW5lc11bY29udGFjdC1oYW5kbGVyXSBFcnJvciB3cml0aW5nIGNvbnRhY3RfaGFuZGxlcyBtZXRhZGF0YSBKU09OOiB7fSIsCiAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGEudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVzU3FsLnZhbHVlcygKICAgICAgICAgICAgICAgICAgY29udGFjdHNSZWNvcmQuZ2V0SWQoKSwKICAgICAgICAgICAgICAgICAgdXNlcklkLAogICAgICAgICAgICAgICAgICBDb250YWN0SGFuZGxlVHlwZS5FTUFJTC5vcmRpbmFsKCksCiAgICAgICAgICAgICAgICAgIGVtYWlsLmdldEFkZHJlc3MoKSwKICAgICAgICAgICAgICAgICAgbWV0YWRhdGFKc29uCiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CgogICAgICAgICAgaWYgKGNvbnRhY3QuaXNTZXRQaG9uZXMoKSkgewogICAgICAgICAgICBjb250YWN0LmdldFBob25lcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGRpc3RpbmN0QnlLZXkocGhvbmUgLT4gcGhvbmUuZ2V0TnVtYmVyKCkpKQogICAgICAgICAgICAgICAgLmZvckVhY2gocGhvbmUgLT4gewogICAgICAgICAgICAgIFN0cmluZyBtZXRhZGF0YUpzb24gPSBudWxsOwogICAgICAgICAgICAgIENvbnRhY3RIYW5kbGVNZXRhZGF0YUZvcm1hdCBtZXRhZGF0YSA9IENvbnRhY3RIYW5kbGVNZXRhZGF0YUZvcm1hdC5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgLnR5cGUocGhvbmUuZ2V0VHlwZSgpKQogICAgICAgICAgICAgICAgICAucHJpbWFyeShwaG9uZS5pc1ByaW1hcnkoKSkKICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBtZXRhZGF0YUpzb24gPSBqc29uTWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhtZXRhZGF0YSk7CiAgICAgICAgICAgICAgfSBjYXRjaCAoSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKAogICAgICAgICAgICAgICAgICAgICJbb21uZXNdW2NvbnRhY3QtaGFuZGxlcl0gRXJyb3Igd3JpdGluZyBjb250YWN0X2hhbmRsZXMgbWV0YWRhdGEgSlNPTjoge30iLAogICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhLnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICBjb250YWN0SGFuZGxlc1NxbC52YWx1ZXMoCiAgICAgICAgICAgICAgICAgIGNvbnRhY3RzUmVjb3JkLmdldElkKCksCiAgICAgICAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgICAgICAgQ29udGFjdEhhbmRsZVR5cGUuUEhPTkUub3JkaW5hbCgpLAogICAgICAgICAgICAgICAgICBwaG9uZS5nZXROdW1iZXIoKSwKICAgICAgICAgICAgICAgICAgbWV0YWRhdGFKc29uCiAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgaW50IG51bVJvd3NJbnNlcnRlZCA9IGNvbnRhY3RIYW5kbGVzU3FsLmV4ZWN1dGUoKTsKICAgICAgICB9IAogICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIFN0b3JlZCB7fSBjb250YWN0X2hhbmRsZXMgZm9yIGltcG9ydF91dWlkOiB7fSIsCiAgICAgICAgICAgIG51bVJvd3NJbnNlcnRlZCwKICAgICAgICAgICAgaW1wb3J0VXVpZAogICAgICAgICk7CgogICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAiW29tbmVzXVtjb250YWN0LWhhbmRsZXJdIFN0b3JlZCB7fSBjb250YWN0cyBmb3IgaW1wb3J0X3V1aWQ6IHt9IiwKICAgICAgICAgICAgcmVzdWx0LnNpemUoKSwKICAgICAgICAgICAgaW1wb3J0VXVpZAogICAgICAgICk7CiAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVtYWlscy5zdHJlYW0oKQogICAgICAgIC5maWx0ZXIoZGlzdGluY3RCeUtleShlbWFpbCAtPiBlbWFpbC5nZXRBZGRyZXNzKCkpKQogICAgICAgIC5mb3JFYWNoKGVtYWlsIC0+IFN5c3RlbS5vdXQucHJpbnRsbihlbWFpbC5nZXRBZGRyZXNzKCkpKTsKCg==</text>
+        <text encoding="base64">ICAgIGVtYWlscy5hZGQoRXZlbnRUZXN0VXRpbHMuY3JlYXRlRW1haWwoIjU4Njg1OC0wLXN0ZXBoYW5lLm1hcnRpbmVhdUBicHZmLmJhbnF1ZXBvcHVsYWlyZS5mciIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlscy5zdHJlYW0oKQogICAgICAgIC5maWx0ZXIoZGlzdGluY3RCeUtleShlbWFpbCAtPiBlbWFpbC5nZXRBZGRyZXNzKCkpKQogICAgICAgIC5mb3JFYWNoKGVtYWlsIC0+IFN5c3RlbS5vdXQucHJpbnRsbihlbWFpbC5nZXRBZGRyZXNzKCkpKTsKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>tionUpdateHandlerTest as reference
   @Before
   public voi</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIucm9sb2RleC5kYi5UZXN0RGJVdGlsczsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5JZ25vcmU7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5JZ25vcmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5JZ25vcmU7Cg==</text>
+        <text encoding="base64">QElnbm9yZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0SGFuZGxlc1NxbFw+</last-search>
+      <last-search>contactHandles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0SGFuZGxlc1NxbFw+</last-pattern>
+      <last-pattern>contactHandles</last-pattern>
       <last-replace>importUuid</last-replace>
       <last-substitute encoding="base64">XDxjb250YWN0Qm9va1V1aWRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -809,7 +809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\\n</entry>
         <entry>log.info</entry>
         <entry>seen</entry>
         <entry>distinct</entry>
@@ -829,6 +828,7 @@
         <entry>filter</entry>
         <entry>contactHandlesSql</entry>
         <entry encoding="base64">XDxjb250YWN0SGFuZGxlc1NxbFw+</entry>
+        <entry>contactHandles</entry>
       </history-search>
       <history-cmd>
         <entry>%s//CloudspongeContactBatchUploadEvent/g</entry>
@@ -849,8 +849,8 @@
         <entry>%s/%s/{}/gc</entry>
         <entry>%s//importUuid/gc</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
