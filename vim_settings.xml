@@ -174,7 +174,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/text-similarity/src/test/java/com/airbnb/textsimilarity/jitney/MessageHandlerTest.java" timestamp="1487108705779">
         <mark key="'" line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/StreamUtils.java" timestamp="1487282803617" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/config/GringottApplicationConfiguration.java" timestamp="1486008473140">
         <mark key="'" line="58" column="0" />
       </file>
@@ -220,8 +219,8 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/payments/context_event/context_event_v1.thrift" timestamp="1481588825218">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/test/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandlerTest.java" timestamp="1487182005696">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/test/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandlerTest.java" timestamp="1487546886938">
+        <mark key="'" line="38" column="45" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/test/java/com/airbnb/micasa/datawriters/ListingDataWriterTest.java" timestamp="1485716388424">
         <mark key="'" line="60" column="0" />
@@ -259,11 +258,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1487381498881">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1487546569373">
         <mark key="'" line="67" column="18" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/pricingdb/datasource/src/main/java/com/airbnb/shareddao/pricingdb/dao/AbstractPricingDAOSql.java" timestamp="1486964625164">
         <mark key="'" line="77" column="27" />
@@ -296,8 +296,8 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandler.java" timestamp="1486615329344">
-        <mark key="'" line="71" column="39" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandler.java" timestamp="1487546889558">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/consumer/ContactImportConsumer.java" timestamp="1486247568081">
         <mark key="'" line="36" column="0" />
@@ -630,9 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
-      <jump line="165" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
       <jump line="175" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
       <jump line="180" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
       <jump line="185" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/Storage.java" />
@@ -730,6 +727,9 @@
       <jump line="93" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="133" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="94" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandler.java" />
+      <jump line="38" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/test/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandlerTest.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/ListingLocationUpdateHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -746,13 +746,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, CONTACTS.FIRST_NAME, CONTACTS.LAST_NAME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, CONTACTS.FIRST_NAME, CONTACTS.LAST_NAME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlw+</text>
+        <text>compose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ09OVEFDVF9IQU5ETEVTLk1FVEFEQVRBLAo=</text>
@@ -789,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYlw+</last-search>
+      <last-search>compose</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlw+</last-pattern>
+      <last-pattern>compose</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -799,7 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWN0Qm9va3NEYW9cPg==</entry>
         <entry>insertInto</entry>
         <entry>configuration</entry>
         <entry>Configuration</entry>
@@ -819,6 +818,7 @@
         <entry>result</entry>
         <entry encoding="base64">XDxjb250YWN0c1JlY29yZFw+</entry>
         <entry encoding="base64">XDxkYlw+</entry>
+        <entry>compose</entry>
       </history-search>
       <history-cmd>
         <entry>s/ImportType/Uuid/g</entry>
@@ -830,7 +830,6 @@
         <entry encoding="base64">JzwsJz5zL3NxbC9jb250YWN0c1NxbC9n</entry>
         <entry>%s//contactBookImport/gc</entry>
         <entry>%s/result.get(i)/contactsRecord/gc</entry>
-        <entry>q</entry>
         <entry>221</entry>
         <entry>%s/%d/{}/gc</entry>
         <entry>%s/%s/{}/gc</entry>
@@ -840,6 +839,7 @@
         <entry>s/email/phone/g</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>nohl</entry>
       </history-cmd>
       <history-expr />
