@@ -26,6 +26,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/DSLContext.java" timestamp="1487361795561">
         <mark key="'" line="6112" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1487640809296">
+        <mark key="[" line="168" column="4" />
+        <mark key="]" line="168" column="52" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/ResultQuery.java" timestamp="1487133602369">
         <mark key="'" line="579" column="4" />
       </file>
@@ -631,9 +635,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/ContactBooks.java" timestamp="1487102620122">
         <mark key="'" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487639339786">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1487640803655">
         <mark key="a" line="301" column="4" />
-        <mark key="'" line="199" column="0" />
+        <mark key="'" line="142" column="17" />
         <mark key="[" line="238" column="4" />
         <mark key="]" line="238" column="10" />
         <mark key="^" line="238" column="10" />
@@ -644,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="54" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="79" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="63" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -739,11 +742,12 @@
       <jump line="579" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
       <jump line="143" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
       <jump line="474" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-      <jump line="142" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="156" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="145" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="74" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/TransactionalRunnable.java" />
       <jump line="199" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="142" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="169" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -760,7 +764,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>http://stackoverflow.com/questions/23699371/java-8-distinct-by-property</text>
+        <text encoding="base64">U3RyZWFtPFQ+IGZpbHRlcihQcmVkaWNhdGU8PyBzdXBlciBUPiBwcmVkaWNhdGUpOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50IG51bVJvd3NJbnNlcnRlZCA9IA==</text>
@@ -769,7 +773,7 @@
         <text>distinctByKey</text>
       </register>
       <register name="0" type="4">
-        <text>http://stackoverflow.com/questions/23699371/java-8-distinct-by-property</text>
+        <text encoding="base64">U3RyZWFtPFQ+IGZpbHRlcihQcmVkaWNhdGU8PyBzdXBlciBUPiBwcmVkaWNhdGUpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
