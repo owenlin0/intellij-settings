@@ -150,11 +150,11 @@
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/businesstravel/businesstravel_v1.thrift" timestamp="1481577730308">
         <mark key="'" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1487716714003">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1487721791677">
         <mark key="'" line="21" column="4" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="21" column="8" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
         <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java" timestamp="1486614384784">
@@ -783,11 +783,11 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWlyYm5iLnJvbG9kZXguZGIuZ2VuZXJhdGVkLlRhYmxlcy5DT05UQUNUX0hBTkRMRVM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAgICBpbnQgbnVtQ29udGFjdEhhbmRsZXNEZWxldGVkID0g</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>wipeDB</text>
