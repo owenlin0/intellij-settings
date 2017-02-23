@@ -512,8 +512,8 @@
         <mark key="." line="30" column="2" />
         <mark key="^" line="30" column="2" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1487817620441">
-        <mark key="'" line="33" column="62" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" timestamp="1487819165635">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="6" column="60" />
         <mark key="]" line="6" column="75" />
         <mark key="^" line="6" column="75" />
@@ -528,12 +528,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/sundance-video-uploader/src/main/java/com/airbnb/sundance/worker/videouploader/jitney/CleanupMediaMutationsConsumer.java" timestamp="1486249961159">
         <mark key="'" line="30" column="72" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1487810556738">
-        <mark key="'" line="27" column="33" />
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1487819490337">
+        <mark key="'" line="37" column="1" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="38" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/spinaltap/spinaltap-model/src/main/java/com/airbnb/spinaltap/mysql/mutation/MysqlInsertMutation.java" timestamp="1487108709722">
         <mark key="'" line="6" column="52" />
@@ -697,8 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="194" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="196" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandlerTest.java" />
@@ -797,6 +795,8 @@
       <jump line="34" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandlerTest.java" />
       <jump line="59" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandlerTest.java" />
       <jump line="33" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeConsumer.java" />
+      <jump line="37" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -813,52 +813,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>Logging</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>Logging</text>
       </register>
       <register name="/" type="4">
-        <text>mockconfiguration</text>
+        <text>topic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgQEFmdGVyCiAgcHVibGljIHZvaWQgd2lwZURCKCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24gewogICAgdGVzdFN0b3JhZ2Uud2lwZURCKCk7CiAgfQo=</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KCJyb2xvZGV4VG9waWNOYW1lIikKICBwcml2YXRlIFN0cmluZyByb2xvZGV4VG9waWNOYW1lID0gInJvbG9kZXgiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQWZ0ZXIKICBwdWJsaWMgdm9pZCB3aXBlREIoKSB0aHJvd3MgQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICB0ZXN0U3RvcmFnZS53aXBlREIoKTsKICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQWZ0ZXIKICBwdWJsaWMgdm9pZCB3aXBlREIoKSB0aHJvd3MgQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICB0ZXN0U3RvcmFnZS53aXBlREIoKTsKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50Lk1lc3NhZ2U7CmltcG9ydCBjb20uYWlyYm5iLmppdG5leS5ldmVudC5yb2xvZGV4LnY0LkNsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkRXZlbnQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50Lk1lc3NhZ2U7CmltcG9ydCBjb20uYWlyYm5iLmppdG5leS5ldmVudC5yb2xvZGV4LnY0LkNsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkRXZlbnQ7CmltcG9ydCBjb20uYWlyYm5iLnJvbG9kZXguY29uZmlnLlJvbG9kZXhDb25maWd1cmF0aW9uOwppbXBvcnQgY29tLmFpcmJuYi5yb2xvZGV4LmRiLlRlc3RTdG9yYWdlOwoKaW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsKaW1wb3J0IG9yZy5tb2NraXRvLk1vY2s7CmltcG9ydCBvcmcubW9ja2l0by5ydW5uZXJzLk1vY2tpdG9KVW5pdFJ1bm5lcjsKCmltcG9ydCBzdGF0aWMgY29tLmFpcmJuYi5yb2xvZGV4LmRiLmdlbmVyYXRlZC5UYWJsZXMuQ09OVEFDVFM7CmltcG9ydCBzdGF0aWMgY29tLmFpcmJuYi5yb2xvZGV4LmRiLmdlbmVyYXRlZC5UYWJsZXMuQ09OVEFDVF9IQU5ETEVTOwppbXBvcnQgc3RhdGljIG9yZy5qdW5pdC5Bc3NlcnQuYXNzZXJ0RXF1YWxzOwppbXBvcnQgc3RhdGljIG9yZy5tb2NraXRvLk1vY2tpdG8ud2hlbjsKCkBSdW5XaXRoKE1vY2tpdG9KVW5pdFJ1bm5lci5jbGFzcykKcHVibGljIGNsYXNzIENsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkSGFuZGxlclRlc3QgewoKICBATW9jawogIFJvbG9kZXhDb25maWd1cmF0aW9uIG1vY2tDb25maWd1cmF0aW9uOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50Lk1lc3NhZ2U7CmltcG9ydCBjb20uYWlyYm5iLmppdG5leS5ldmVudC5yb2xvZGV4LnY0LkNsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkRXZlbnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50Lk1lc3NhZ2U7CmltcG9ydCBjb20uYWlyYm5iLmppdG5leS5ldmVudC5yb2xvZGV4LnY0LkNsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkRXZlbnQ7CmltcG9ydCBjb20uYWlyYm5iLnJvbG9kZXguY29uZmlnLlJvbG9kZXhDb25maWd1cmF0aW9uOwppbXBvcnQgY29tLmFpcmJuYi5yb2xvZGV4LmRiLlRlc3RTdG9yYWdlOwoKaW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsKaW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsKaW1wb3J0IG9yZy5tb2NraXRvLk1vY2s7CmltcG9ydCBvcmcubW9ja2l0by5ydW5uZXJzLk1vY2tpdG9KVW5pdFJ1bm5lcjsKCmltcG9ydCBzdGF0aWMgY29tLmFpcmJuYi5yb2xvZGV4LmRiLmdlbmVyYXRlZC5UYWJsZXMuQ09OVEFDVFM7CmltcG9ydCBzdGF0aWMgY29tLmFpcmJuYi5yb2xvZGV4LmRiLmdlbmVyYXRlZC5UYWJsZXMuQ09OVEFDVF9IQU5ETEVTOwppbXBvcnQgc3RhdGljIG9yZy5qdW5pdC5Bc3NlcnQuYXNzZXJ0RXF1YWxzOwppbXBvcnQgc3RhdGljIG9yZy5tb2NraXRvLk1vY2tpdG8ud2hlbjsKCkBSdW5XaXRoKE1vY2tpdG9KVW5pdFJ1bm5lci5jbGFzcykKcHVibGljIGNsYXNzIENsb3Vkc3BvbmdlQ29udGFjdEJhdGNoVXBsb2FkSGFuZGxlclRlc3QgewoKICBATW9jawogIFJvbG9kZXhDb25maWd1cmF0aW9uIG1vY2tDb25maWd1cmF0aW9uOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5zdHJlYW0uSW50U3RyZWFtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja0NvbmZpZ3VyYXRpb24uaXNSZWFkT25seUhhbmRsZXJzKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5zdHJlYW0uSW50U3RyZWFtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWVzc2FnZTxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEV2ZW50Pj4gZXZlbnRzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBJbnRTdHJlYW0ucmFuZ2UoMCwgMykuZm9yRWFjaCh4IC0+IHsKICAgICAgZXZlbnRzLmFkZChFdmVudFRlc3RVdGlscy5jcmVhdGVNZXNzYWdlc1BheWxvYWQoMSkuZ2V0Q2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZEV2ZW50TWVzc2FnZSgpKTsKICAgIH0pOwogICAgaGFuZGxlci5oYW5kbGUoZXZlbnRzKTsK</text>
+        <text encoding="base64">ICAgIHdoZW4obW9ja0NvbmZpZ3VyYXRpb24uaXNSZWFkT25seUhhbmRsZXJzKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mockconfiguration</last-search>
+      <last-search>topic</last-search>
       <last-offset />
-      <last-pattern>mockconfiguration</last-pattern>
+      <last-pattern>topic</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>phone</last-substitute>
       <last-dir>1</last-dir>
@@ -868,7 +868,6 @@
       <history-search>
         <entry>consumerpool</entry>
         <entry>consumerpoolconfig</entry>
-        <entry>topic</entry>
         <entry>groupid</entry>
         <entry encoding="base64">XDxERUZBVUxUX1BBUkFMTEVMSVNNX0ZPUl9CQVRDSFw+</entry>
         <entry>group-id</entry>
@@ -886,6 +885,7 @@
         <entry>handler</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry>mockconfiguration</entry>
+        <entry>topic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/result.get(i)/contactsRecord/gc</entry>
@@ -905,9 +905,9 @@
         <entry encoding="base64">JzwsJz5zL3Bob25lL2VtYWlsL2dj</entry>
         <entry>25</entry>
         <entry>W</entry>
-        <entry>w</entry>
-        <entry>nohl</entry>
         <entry>q</entry>
+        <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
