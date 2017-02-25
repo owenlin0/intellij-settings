@@ -506,8 +506,8 @@
       <file name="$USER_HOME$/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/modules/MicasaModule.java" timestamp="1485385489789">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1488051041656">
-        <mark key="'" line="101" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1488053073556">
+        <mark key="'" line="101" column="12" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="107" column="17" />
         <mark key="." line="106" column="29" />
@@ -868,7 +868,7 @@
       <jump line="190" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/common/src/main/java/com/airbnb/shareddao/common/utils/JooqUtil.java" />
       <jump line="102" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="100" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="101" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="101" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -891,7 +891,7 @@
         <text>CONTACTS.CONTACT_BOOK_UUID.in(contactBookUuids)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1ByZXBhcmVkU3FsXD4=</text>
+        <text>ontact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJlc3VsdCBjb250YWN0RGF0YTIgPSBzdG9yYWdlLmdldERTTENvbnRleHQoKQogICAgICAgIC5zZWxlY3QoKQogICAgICAgIC5mcm9tKENPTlRBQ1RTKQogICAgICAgIC5qb2luKENPTlRBQ1RfSEFORExFUykKICAgICAgICAub24oQ09OVEFDVF9IQU5ETEVTLklELmVxdWFsKENPTlRBQ1RTLklEKSkKICAgICAgICAud2hlcmUoQ09OVEFDVF9IQU5ETEVTLlVTRVJfSUQuZXF1YWwodXNlcklkKSkKICAgICAgICAuZmV0Y2goKTsK</text>
@@ -924,13 +924,13 @@
         <text encoding="base64">ICAgICAgc3RtdC5leGVjdXRlVXBkYXRlKGxvYWRTcWxGcm9tRmlsZSgiY29tLmFpcmJuYi5yb2xvZGV4LmNvbW1vbi9jb250YWN0c190ZXN0ZGF0YS5zcWwiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set clipboard+=unnamedplus</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1ByZXBhcmVkU3FsXD4=</last-search>
+      <last-search>ontact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1ByZXBhcmVkU3FsXD4=</last-pattern>
+      <last-pattern>ontact</last-pattern>
       <last-replace>RolodexMobileContactBatchUploadEvent</last-replace>
       <last-substitute encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEV2ZW50XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -938,8 +938,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resources</entry>
-        <entry>error</entry>
         <entry>badREquest</entry>
         <entry>badrequest</entry>
         <entry encoding="base64">XDxCQURfUkVRVUVTVFw+</entry>
@@ -958,6 +956,8 @@
         <entry>userId</entry>
         <entry>testStorage</entry>
         <entry encoding="base64">XDx0b1ByZXBhcmVkU3FsXD4=</entry>
+        <entry>on</entry>
+        <entry>ontact</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9jb250YWN0c1JlY29yZHMvZ2M=</entry>
@@ -976,10 +976,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
         <entry>set clipboard</entry>
         <entry>set clipboard+=unnamedplus</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
