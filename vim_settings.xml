@@ -276,12 +276,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/impl/TableImpl.java" timestamp="1488058266820">
         <mark key="'" line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1488081988096">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="142" column="100" />
-        <mark key="]" line="142" column="100" />
-        <mark key="." line="142" column="100" />
-        <mark key="^" line="142" column="100" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1488082679293">
+        <mark key="'" line="135" column="54" />
+        <mark key="[" line="136" column="86" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="5" />
+        <mark key="^" line="137" column="5" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Field.java" timestamp="1488061007364">
         <mark key="'" line="1891" column="14" />
@@ -722,8 +722,8 @@
         <mark key="." line="39" column="74" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" timestamp="1488064587284">
-        <mark key="'" line="18" column="13" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" timestamp="1488082244117">
+        <mark key="'" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" timestamp="1486080979373">
         <mark key="'" line="16" column="3" />
@@ -833,7 +833,6 @@
     <jumps>
       <jump line="87" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="73" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Enum.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" />
       <jump line="89" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/88b177349b719fe0636b50889687b9ed036bfd89/jackson-annotations-2.5.0-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" />
       <jump line="90" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/88b177349b719fe0636b50889687b9ed036bfd89/jackson-annotations-2.5.0-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" />
       <jump line="74" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/88b177349b719fe0636b50889687b9ed036bfd89/jackson-annotations-2.5.0-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" />
@@ -921,7 +920,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" />
       <jump line="124" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="134" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="135" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="84" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Byte.java" />
       <jump line="121" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="137" column="49" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
@@ -931,6 +929,8 @@
       <jump line="142" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactHandleType.java" />
       <jump line="143" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="18" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" />
+      <jump line="135" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -953,40 +953,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>CONTACT_HANDLES.TYPE</text>
+        <text>see if there are any duplicates</text>
       </register>
       <register name="/" type="4">
         <text>row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCh2YWx1ZSkgewogICAgY2FzZSAwOgogICAgICByZXR1cm4gR01BSUw7CiAgICBjYXNlIDE6CiAgICAgIHJldHVybiBZQUhPTzsKICAgIGNhc2UgMjoKICAgICAgcmV0dXJuIFdJTkRPV1NMSVZFOwogICAgY2FzZSAzOgogICAgICByZXR1cm4gUVFNQUlMOwogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgQ29udGFjdEhhbmRsZVR5cGUgaGFuZGxlVHlwZSA9IENvbnRhY3RIYW5kbGVUeXBlLmZpbmRCeVZhbHVlKHJlY29yZC5nZXRWYWx1ZShDT05UQUNUX0hBTkRMRVMuVFlQRSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAyOgogICAgICAgIHJldHVybiBXSU5ET1dTTElWRTsKICAgICAgY2FzZSAzOgogICAgICAgIHJldHVybiBRUU1BSUw7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnRhY3QgaXMgaW4gdHdvIGRpZmZlcmVudCBjb250YWN0IGJvb2tzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAyOgogICAgICAgIHJldHVybiBXSU5ET1dTTElWRTsKICAgICAgY2FzZSAzOgogICAgICAgIHJldHVybiBRUU1BSUw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
