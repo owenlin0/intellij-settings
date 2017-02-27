@@ -17,10 +17,4 @@
   <action id="VimGotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
-  <action id="VimInsertNewLineAbove">
-    <keyboard-shortcut first-keystroke="open_bracket" second-keystroke="space" />
-  </action>
-  <action id="VimInsertNewLineBelow">
-    <keyboard-shortcut first-keystroke="close_bracket" second-keystroke="space" />
-  </action>
 </keymap>

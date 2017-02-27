@@ -1,8 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="build.gradle" />
+    <option name="FILE_MASK" value="*Resource.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +16,8 @@
       <mask>*.gradle</mask>
       <mask>*.yml*</mask>
       <mask>*.java</mask>
-      <mask>*Resource.java</mask>
       <mask>build.gradle</mask>
+      <mask>*Resource.java</mask>
     </recentFileMasks>
   </component>
 </application>
