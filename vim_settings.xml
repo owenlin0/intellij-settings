@@ -287,12 +287,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/connections/connections-server/src/test/java/com/airbnb/connections/resources/ConnectionsResourceTest.java" timestamp="1488241581770">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1488494921901">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1488503635654">
         <mark key="'" line="81" column="3" />
-        <mark key="[" line="70" column="59" />
-        <mark key="]" line="70" column="87" />
-        <mark key="." line="70" column="87" />
-        <mark key="^" line="70" column="87" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="10" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1488494870678">
         <mark key="[" line="116" column="0" />
@@ -865,11 +865,9 @@
         <mark key="^" line="70" column="51" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1488495045821">
-        <mark key="[" line="108" column="73" />
-        <mark key="]" line="108" column="102" />
-        <mark key="." line="108" column="102" />
-        <mark key="^" line="108" column="102" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1488503566094">
+        <mark key="'" line="53" column="0" />
+        <mark key="^" line="51" column="102" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/dispatcher/ClassBasedDispatcher.java" timestamp="1487881014573">
         <mark key="'" line="45" column="34" />
@@ -1001,8 +999,8 @@
       <jump line="244" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Result.java" />
       <jump line="93" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="84" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Result.java" />
-      <jump line="110" column="71" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="783" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/collect/Iterables.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1028,56 +1026,53 @@
         <text>the first if case too</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0Qm9va0hhbmRsZXNcPg==</text>
+        <text>accounthandle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFdlYkFwcGxpY2F0aW9uRXhjZXB0aW9uKAogICAgICAgICAgUmVzcG9uc2UKICAgICAgICAgICAgICAuc3RhdHVzKFJlc3BvbnNlLlN0YXR1cy5OT1RfRk9VTkQpCiAgICAgICAgICAgICAgLmVudGl0eShTdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAgICAgICAiQ29udGFjdCBib29rIHdpdGggaGFuZGxlICclcycgbm90IGZvdW5kLiIsCiAgICAgICAgICAgICAgICAgIGFjY291bnRIYW5kbGUKICAgICAgICAgICAgICApKQogICAgICAgICAgICAgIC5idWlsZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKE93ZW4gTGluKTogdGhpcyBhY3R1YWxseSBhcHBsaWVzIHRvIHRoZSBmaXJzdCBpZiBjYXNlIHRvbwogICAgICAgIC8vIGVkZ2UgY2FzZSwgc29tZW9uZSBoYXMgdXBsb2FkZWQgdGhlIHNhbWUgY29udGFjdCBib29rIHVzaW5nIG11bHRpcGxlIGltcG9ydCBtZXRob2RzLgogICAgICAgIC8vIGp1c3QgdGFrZSB0aGUgbGF0ZXN0IG9uZS4KICAgICAgICBjb250YWN0Qm9va3NSZWNvcmRzID0gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChJdGVyYWJsZXMuZ2V0TGFzdChjb250YWN0Qm9va3NSZWNvcmRzKSk7CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gY29udGFjdEJvb2tzUmVjb3JkczsKICB9CgogIHB1YmxpYyB2b2lkIHdpcGVEQigpIHsKICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwogIH0KICBwdWJsaWMgdm9pZCBzZWVkVGVzdERhdGEoKSB7CiAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkRhdGFUeXBlOwppbXBvcnQgb3JnLmpvb3EuRmllbGQ7CmltcG9ydCBvcmcuam9vcS5Gb3JlaWduS2V5OwppbXBvcnQgb3JnLmpvb3EuSlNPTkZvcm1hdDsKaW1wb3J0IG9yZy5qb29xLk5hbWU7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQ7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQxOwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMTA7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQxMTsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDEyOwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMTM7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQxNDsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDE1OwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMTY7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQxNzsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDE4OwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMTk7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQyOwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMjA7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQyMTsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDIyOwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkMzsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDQ7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQ1OwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkNjsKaW1wb3J0IG9yZy5qb29xLlJlY29yZDc7CmltcG9ydCBvcmcuam9vcS5SZWNvcmQ4OwppbXBvcnQgb3JnLmpvb3EuUmVjb3JkOTsKaW1wb3J0IG9yZy5qb29xLlJlY29yZEhhbmRsZXI7CmltcG9ydCBvcmcuam9vcS5SZWNvcmRNYXBwZXI7CmltcG9ydCBvcmcuam9vcS5SZWNvcmRUeXBlOwppbXBvcnQgb3JnLmpvb3EuUmVzdWx0OwppbXBvcnQgb3JnLmpvb3EuUm93OwppbXBvcnQgb3JnLmpvb3EuVGFibGU7CmltcG9ydCBvcmcuam9vcS5UYWJsZVJlY29yZDsKaW1wb3J0IG9yZy5qb29xLlVwZGF0YWJsZVJlY29yZDsKaW1wb3J0IG9yZy5qb29xLmV4Y2VwdGlvbi5EYXRhQWNjZXNzRXhjZXB0aW9uOwppbXBvcnQgb3JnLmpvb3EuZXhjZXB0aW9uLkRhdGFUeXBlRXhjZXB0aW9uOwppbXBvcnQgb3JnLmpvb3EuZXhjZXB0aW9uLklPRXhjZXB0aW9uOwppbXBvcnQgb3JnLmpvb3EuZXhjZXB0aW9uLkludmFsaWRSZXN1bHRFeGNlcHRpb247CmltcG9ydCBvcmcuam9vcS5leGNlcHRpb24uTWFwcGluZ0V4Y2VwdGlvbjsKaW1wb3J0IG9yZy53M2MuZG9tLkRvY3VtZW50OwppbXBvcnQgb3JnLnhtbC5zYXguQ29udGVudEhhbmRsZXI7CmltcG9ydCBvcmcueG1sLnNheC5TQVhFeGNlcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuc2VsZWN0RnJvbShDT05UQUNUX0JPT0tTKQogICAgICAgIC53aGVyZShDT05UQUNUX0JPT0tTLlVTRVJfSUQuZXF1YWwodXNlcklkKSkKICAgICAgICAuZmV0Y2goKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkNTVkZvcm1hdDsKaW1wb3J0IG9yZy5qb29xLkNvbmZpZ3VyYXRpb247CmltcG9ydCBvcmcuam9vcS5Db252ZXJ0ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7CmltcG9ydCBqYXZhLnV0aWwuTWFwOwppbXBvcnQgamF2YS51dGlsLlNldDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwppbXBvcnQgamF2YS51dGlsLkl0ZXJhdG9yOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oT3dlbiBMaW4pOiB0aGlzIGxvZ2ljIGlzIHNoYXJlZCBiZXR3ZWVuIENvbnRhY3RzUmVzb3VyY2UgYW5kIHRoaXMgb25lLgogICAgLy8gY3JlYXRlIGEgY29tbW9uIGNsYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtOwppbXBvcnQgamF2YS5pby5Xcml0ZXI7CmltcG9ydCBqYXZhLnNxbC5SZXN1bHRTZXQ7CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlzOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oT3dlbiBMaW4pOiB0aGlzIGxvZ2ljIGlzIHNoYXJlZCBiZXR3ZWVuIENvbnRhY3RzUmVzb3VyY2UgYW5kIHRoaXMgb25lLgogICAgLy8gY3JlYXRlIGEgY29tbW9uIGNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKE93ZW4gTGluKTogdGhpcyBhY3R1YWxseSBhcHBsaWVzIHRvIHRoZSBmaXJzdCBpZiBjYXNlIHRvbwogICAgICAgIC8vIGVkZ2UgY2FzZSwgc29tZW9uZSBoYXMgdXBsb2FkZWQgdGhlIHNhbWUgY29udGFjdCBib29rIHVzaW5nIG11bHRpcGxlIGltcG9ydCBtZXRob2RzLgogICAgICAgIC8vIGp1c3QgdGFrZSB0aGUgbGF0ZXN0IG9uZS4KICAgICAgICBjb250YWN0Qm9va3NSZWNvcmRzID0gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChJdGVyYWJsZXMuZ2V0TGFzdChjb250YWN0Qm9va3NSZWNvcmRzKSk7CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gY29udGFjdEJvb2tzUmVjb3JkczsKICB9CgogIHB1YmxpYyB2b2lkIHdpcGVEQigpIHsKICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwogIH0KICBwdWJsaWMgdm9pZCBzZWVkVGVzdERhdGEoKSB7CiAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsKICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb250YWN0Qm9va3NSZWNvcmQgcmVjb3JkID0gSXRlcmFibGVzLmdldExhc3QoY29udGFjdEJvb2tzUmVjb3Jkcyk7Cg==</text>
+        <text encoding="base64">CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBBcnJheXMuYXNMaXN0KGNvbnRhY3RCb29rc1JlY29yZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuc2VsZWN0RnJvbShDT05UQUNUX0JPT0tTKQogICAgICAgIC53aGVyZShDT05UQUNUX0JPT0tTLlVTRVJfSUQuZXF1YWwodXNlcklkKSkKICAgICAgICAuZmV0Y2goKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0Qm9va0hhbmRsZXNcPg==</last-search>
+      <last-search>accounthandle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0Qm9va0hhbmRsZXNcPg==</last-pattern>
+      <last-pattern>accounthandle</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>returnsProperResponseFor</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ContactsFormat.build</entry>
-        <entry>Long</entry>
-        <entry>userId</entry>
         <entry encoding="base64">XDxXZWJBcHBsaWNhdGlvbkV4Y2VwdGlvblw+</entry>
         <entry>first_name</entry>
         <entry>emptyresponse</entry>
@@ -1095,6 +1090,9 @@
         <entry>.collect</entry>
         <entry>throws</entry>
         <entry encoding="base64">XDxjb250YWN0Qm9va0hhbmRsZXNcPg==</entry>
+        <entry>iOS</entry>
+        <entry>ios</entry>
+        <entry>accounthandle</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
@@ -1114,9 +1112,9 @@
         <entry>95</entry>
         <entry>276</entry>
         <entry>%s/returnsProperResponseFor/test/gc</entry>
-        <entry>nohl</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
