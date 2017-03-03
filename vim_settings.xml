@@ -12,12 +12,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/WebResource.java" timestamp="1488242752939">
         <mark key="'" line="440" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1488517673430">
+      <file name="/a.dummy" timestamp="1488558639149">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/DSLContext.java" timestamp="1487361795561">
         <mark key="'" line="6112" column="0" />
@@ -366,19 +366,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/records/ContactBooksRecord.java" timestamp="1488517046948">
-        <mark key="'" line="80" column="9" />
-        <mark key="[" line="108" column="16" />
-        <mark key="]" line="108" column="15" />
-        <mark key="^" line="108" column="15" />
-        <mark key="." line="108" column="15" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactHandleType.java" timestamp="1488505633024">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="19" />
+        <mark key="]" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/model/Contact.java" timestamp="1485719028692">
         <mark key="'" line="61" column="0" />
@@ -845,11 +836,11 @@
         <mark key="'" line="1768" column="37" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactBook.java" timestamp="1488516570259">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gringott/service/src/main/java/com/airbnb/gringott/rest/exceptions/GringottExceptionMapper.java" timestamp="1488332866668">
         <mark key="'" line="22" column="24" />
@@ -904,17 +895,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/shareddao/micasadb/datasource/src/main/java/com/airbnb/shareddao/micasadb/daos/HostingsDAOStatementBuilders.java" timestamp="1488049630563">
         <mark key="'" line="156" column="21" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1488505498823">
-        <mark key="'" line="116" column="6" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/api/build.gradle" timestamp="1488316976386">
         <mark key="'" line="6" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="783" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/collect/Iterables.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/records/ContactBooksRecord.java" />
       <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="15" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.136.6/225cbfb9e17d2a11f8fdc0db7d1108a5a64ba9fe/jitney-schemas-3.136.6.jar!/com/airbnb/jitney/event/rolodex/v4/ImportType.class" />
       <jump line="93" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
@@ -1012,6 +997,9 @@
       <jump line="115" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="54" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="2" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/exceptions/AccountHandleNotFoundException.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="64" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1037,7 +1025,7 @@
         <text>&quot;Account handle '%s' not found&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>accountHandle</text>
+        <text>readOnly</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGFjdEJvb2tzUmVjb3JkcyA9IHN0b3JhZ2UuZmV0Y2hDb250YWN0Qm9va3ModXNlcklkLCBhY2NvdW50SGFuZGxlKTsK</text>
@@ -1070,13 +1058,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>accountHandle</last-search>
+      <last-search>readOnly</last-search>
       <last-offset />
-      <last-pattern>accountHandle</last-pattern>
+      <last-pattern>readOnly</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>returnsProperResponseFor</last-substitute>
       <last-dir>1</last-dir>
@@ -1084,11 +1072,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.airbnb</entry>
-        <entry encoding="base64">XDxpbXBvcnRUeXBlXD4=</entry>
-        <entry>getValue</entry>
-        <entry>userid</entry>
-        <entry>userId</entry>
         <entry encoding="base64">XDxjb250YWN0Qm9va3NSZWNvcmRzXD4=</entry>
         <entry>asList</entry>
         <entry>arraylist</entry>
@@ -1104,6 +1087,11 @@
         <entry>nonexistent</entry>
         <entry>fetchContactBooks</entry>
         <entry>accountHandle</entry>
+        <entry>readOnlyHandlres</entry>
+        <entry>handler</entry>
+        <entry>readonly</entry>
+        <entry>read_only</entry>
+        <entry>readOnly</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
@@ -1124,8 +1112,8 @@
         <entry>276</entry>
         <entry>%s/returnsProperResponseFor/test/gc</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
