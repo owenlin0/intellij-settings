@@ -898,11 +898,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/api/build.gradle" timestamp="1488316976386">
         <mark key="'" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1488618347314">
+        <mark key="'" line="90" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.136.6/225cbfb9e17d2a11f8fdc0db7d1108a5a64ba9fe/jitney-schemas-3.136.6.jar!/com/airbnb/jitney/event/rolodex/v4/ImportType.class" />
-      <jump line="93" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="167" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="116" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="0" column="13" filename="/a.dummy" />
@@ -1000,6 +1000,9 @@
       <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="64" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="276" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="50" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
+      <jump line="90" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1025,7 +1028,7 @@
         <text>.Rolodex.RolodexMobileContactBatchUploadEvent</text>
       </register>
       <register name="/" type="4">
-        <text>readOnly</text>
+        <text encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGFjdEJvb2tzUmVjb3JkcyA9IHN0b3JhZ2UuZmV0Y2hDb250YWN0Qm9va3ModXNlcklkLCBhY2NvdW50SGFuZGxlKTsK</text>
@@ -1062,17 +1065,16 @@
       </register>
     </registers>
     <search>
-      <last-search>readOnly</last-search>
+      <last-search encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>readOnly</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>returnsProperResponseFor</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWN0Qm9va3NSZWNvcmRzXD4=</entry>
         <entry>asList</entry>
         <entry>arraylist</entry>
         <entry>fetch</entry>
@@ -1092,6 +1094,7 @@
         <entry>readonly</entry>
         <entry>read_only</entry>
         <entry>readOnly</entry>
+        <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
