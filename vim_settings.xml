@@ -300,12 +300,10 @@
         <mark key="." line="76" column="45" />
         <mark key="^" line="76" column="45" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1489469848949">
-        <mark key="'" line="387" column="0" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="368" column="58" />
-        <mark key="." line="368" column="58" />
-        <mark key="^" line="368" column="58" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1489516038417">
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Field.java" timestamp="1488061007364">
         <mark key="'" line="1891" column="14" />
@@ -902,16 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
-      <jump line="38" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
-      <jump line="50" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
-      <jump line="61" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
-      <jump line="88" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="43" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
       <jump line="166" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="47" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
@@ -998,10 +986,20 @@
       <jump line="348" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="346" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="368" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="379" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="355" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="394" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="405" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="366" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="377" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="382" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="387" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="343" column="64" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="365" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="356" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="370" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="379" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="381" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="901" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1024,49 +1022,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>currentContactHandle</text>
+        <text encoding="base64">Y29udGFjdEhhbmRsZUdyYXBoLmtleVNldCgpLnNpemUoKSA+IDA=</text>
       </register>
       <register name="/" type="4">
-        <text>emailContactHandle</text>
+        <text encoding="base64">XDxjb250YWN0SGFuZGxlR3JhcGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghY29udGFjdEhhbmRsZU1hcC5jb250YWluc0tleShlbWFpbENvbnRhY3RIYW5kbGUpKSB7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAucHV0KGVtYWlsQ29udGFjdEhhbmRsZSwgbmV3IEFycmF5TGlzdDw+KCkpOwogICAgICAgICAgfQoKICAgICAgICAgIC8vIGJ1aWxkIHRoZSBlZGdlCiAgICAgICAgICBpZiAocHJldkNvbnRhY3RIYW5kbGUgIT0gbnVsbCkgewogICAgICAgICAgICBjb250YWN0SGFuZGxlTWFwLmdldChwcmV2Q29udGFjdEhhbmRsZSkuYWRkKGVtYWlsQ29udGFjdEhhbmRsZSk7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAuZ2V0KGVtYWlsQ29udGFjdEhhbmRsZSkuYWRkKHByZXZDb250YWN0SGFuZGxlKTsKICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>phoneContactHandle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2V5cy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGFjdEhhbmRsZUdyYXBoLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oT3dlbiBMaW4pOiBmaW5kIGNvbm5lY3RlZCBjb21wb25lbnRzIGluIGdyYXBoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghY29udGFjdEhhbmRsZU1hcC5jb250YWluc0tleShwaG9uZUNvbnRhY3RIYW5kbGUpKSB7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAucHV0KHBob25lQ29udGFjdEhhbmRsZSwgbmV3IEFycmF5TGlzdDw+KCkpOwogICAgICAgICAgfQoKICAgICAgICAgIC8vIGJ1aWxkIHRoZSBlZGdlCiAgICAgICAgICBpZiAocHJldkNvbnRhY3RIYW5kbGUgIT0gbnVsbCkgewogICAgICAgICAgICBjb250YWN0SGFuZGxlTWFwLmdldChwcmV2Q29udGFjdEhhbmRsZSkuYWRkKHBob25lQ29udGFjdEhhbmRsZSk7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAuZ2V0KHBob25lQ29udGFjdEhhbmRsZSkuYWRkKHByZXZDb250YWN0SGFuZGxlKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICByZXR1cm4gY29udGFjdHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3RIYW5kbGVHcmFwaC5rZXlTZXQoKS5mb3JFYWNoKGNvbnRhY3RIYW5kbGUgLT4gewogICAgICBjb250YWN0SGFuZGxlCiAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghY29udGFjdEhhbmRsZU1hcC5jb250YWluc0tleShlbWFpbENvbnRhY3RIYW5kbGUpKSB7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAucHV0KGVtYWlsQ29udGFjdEhhbmRsZSwgbmV3IEFycmF5TGlzdDw+KCkpOwogICAgICAgICAgfQoKICAgICAgICAgIC8vIGJ1aWxkIHRoZSBlZGdlCiAgICAgICAgICBpZiAocHJldkNvbnRhY3RIYW5kbGUgIT0gbnVsbCkgewogICAgICAgICAgICBjb250YWN0SGFuZGxlTWFwLmdldChwcmV2Q29udGFjdEhhbmRsZSkuYWRkKGVtYWlsQ29udGFjdEhhbmRsZSk7CiAgICAgICAgICAgIGNvbnRhY3RIYW5kbGVNYXAuZ2V0KGVtYWlsQ29udGFjdEhhbmRsZSkuYWRkKHByZXZDb250YWN0SGFuZGxlKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyhPd2VuIExpbik6IGZpbmQgY29ubmVjdGVkIGNvbXBvbmVudHMgaW4gZ3JhcGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluc2VydEludG9EZWR1cGVHcmFwaChjb250YWN0SGFuZGxlTWFwLCBwcmV2Q29udGFjdEhhbmRsZSwgcGhvbmVDb250YWN0SGFuZGxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>emailContactHandle</last-search>
+      <last-search encoding="base64">XDxjb250YWN0SGFuZGxlR3JhcGhcPg==</last-search>
       <last-offset />
-      <last-pattern>emailContactHandle</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWN0SGFuZGxlR3JhcGhcPg==</last-pattern>
       <last-replace>contactHandle</last-replace>
       <last-substitute>emailContactHandle</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,10 +1072,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readOnly</entry>
-        <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
-        <entry>graph</entry>
-        <entry>visible</entry>
         <entry encoding="base64">XDxkZWR1cGVDb250YWN0c1w+</entry>
         <entry>contacts</entry>
         <entry>dedupe</entry>
@@ -1093,10 +1087,13 @@
         <entry encoding="base64">XDxGSUVMRFNfRlJPTV9DT05UQUNUX0hBTkRMRVNcPg==</entry>
         <entry>return early</entry>
         <entry>email</entry>
+        <entry>contactHandleMap</entry>
+        <entry>returnsProperResponseFor</entry>
         <entry>emailContactHandle</entry>
+        <entry encoding="base64">XDxjb250YWN0SGFuZGxlTWFwXD4=</entry>
+        <entry encoding="base64">XDxjb250YWN0SGFuZGxlR3JhcGhcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>set clipboard</entry>
         <entry>set clipboard+=unnamedplus</entry>
         <entry>q</entry>
         <entry>%s/number/value/gc</entry>
@@ -1109,12 +1106,13 @@
         <entry>s</entry>
         <entry>95</entry>
         <entry>276</entry>
-        <entry>%s/returnsProperResponseFor/test/gc</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2dj</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2dj</entry>
-        <entry>W</entry>
+        <entry encoding="base64">JzwsJz4lcy9jb250YWN0SGFuZGxlTWFwL2NvbnRhY3RIYW5kbGVHcmFwaC9nYw==</entry>
+        <entry>%s/returnsProperResponseFor/test/gc</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsQ29udGFjdEhhbmRsZS9jb250YWN0SGFuZGxlL2c=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
