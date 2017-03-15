@@ -18,7 +18,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1489530510769">
+      <file name="/a.dummy" timestamp="1489604160640">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -778,12 +778,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/indexing/indexer/src/main/java/com/airbnb/search/indexing/realtimeupdates/SearchUpdateSubscriberUtils.java" timestamp="1486151649116">
         <mark key="'" line="49" column="89" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1489542476429">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="^" line="261" column="70" />
-        <mark key="." line="262" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1489604379772">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/config/ConsumerPoolConfig.java" timestamp="1487900057553">
         <mark key="'" line="51" column="0" />
@@ -893,13 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="901" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="45" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
-      <jump line="79" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
-      <jump line="377" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="389" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="394" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="344" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="350" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="345" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="392" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
@@ -993,6 +984,13 @@
       <jump line="260" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="8" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="149" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="151" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="264" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="265" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="100" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1015,49 +1013,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>getEmails</text>
+        <text>getContactBooks</text>
       </register>
       <register name="/" type="4">
-        <text>hashset</text>
+        <text>new hashset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhleHBlY3RlZEVtYWlscywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdC5nZXRFbWFpbHMoKSkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhleHBlY3RlZE91dHB1dC5nZXRDb250YWN0Qm9va3MoKSwgcmVzcG9uc2UuZ2V0Q29udGFjdEJvb2tzKCkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkT3V0cHV0LmdldFVzZXJJZCgpLCByZXNwb25zZS5nZXRVc2VySWQoKSk7CiAgICBhc3NlcnRFcXVhbHMoCiAgICAgICAgbmV3IEhhc2hTZXQ8PihleHBlY3RlZE91dHB1dC5nZXRDb250YWN0Qm9va3MoKSksCiAgICAgICAgbmV3IEhhc2hTZXQ8PihyZXNwb25zZS5nZXRDb250YWN0Qm9va3MoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRFbWFpbHMoKS5zdHJlYW0oKS5hbGxNYXRjaChlbWFpbCAtPiBleHBlY3RlZEVtYWlscy5jb250YWlucyhlbWFpbCkpKTsKLy8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRQaG9uZXMoKS5zdHJlYW0oKS5hbGxNYXRjaChwaG9uZSAtPiBleHBlY3RlZFBob25lcy5jb250YWlucyhwaG9uZSkpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhleHBlY3RlZE91dHB1dCwgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRFbWFpbHMoKS5zdHJlYW0oKS5hbGxNYXRjaChlbWFpbCAtPiBleHBlY3RlZEVtYWlscy5jb250YWlucyhlbWFpbCkpKTsKLy8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRQaG9uZXMoKS5zdHJlYW0oKS5hbGxNYXRjaChwaG9uZSAtPiBleHBlY3RlZFBob25lcy5jb250YWlucyhwaG9uZSkpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoZGVkdXBlZENvbnRhY3QuZ2V0RW1haWxzKCkuKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRFbWFpbHMoKS5zdHJlYW0oKS5hbGxNYXRjaChlbWFpbCAtPiBleHBlY3RlZEVtYWlscy5jb250YWlucyhlbWFpbCkpKTsKLy8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRQaG9uZXMoKS5zdHJlYW0oKS5hbGxNYXRjaChwaG9uZSAtPiBleHBlY3RlZFBob25lcy5jb250YWlucyhwaG9uZSkpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRFbWFpbHMoKS5zdHJlYW0oKS5hbGxNYXRjaChlbWFpbCAtPiBleHBlY3RlZEVtYWlscy5jb250YWlucyhlbWFpbCkpKTsKLy8gICAgYXNzZXJ0VHJ1ZShkZWR1cGVkQ29udGFjdC5nZXRQaG9uZXMoKS5zdHJlYW0oKS5hbGxNYXRjaChwaG9uZSAtPiBleHBlY3RlZFBob25lcy5jb250YWlucyhwaG9uZSkpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAib3dlbmxpbjBAZ21haWwiKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRydWUoZGVkdXBlZENvbnRhY3QuZ2V0RW1haWxzKCkuKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KHF1ZXVlLmlzRW1wdHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAib3dlbmxpbjBAZ21haWwiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0LmdldFBob25lcygpLmZvckVhY2gocGhvbmUgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KHF1ZXVlLmlzRW1wdHkoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hashset</last-search>
+      <last-search>new hashset</last-search>
       <last-offset />
-      <last-pattern>hashset</last-pattern>
+      <last-pattern>new hashset</last-pattern>
       <last-replace>EMAIL</last-replace>
       <last-substitute>PHONE</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,8 +1063,6 @@
     </search>
     <history>
       <history-search>
-        <entry>keys</entry>
-        <entry>hashable</entry>
         <entry>iterato</entry>
         <entry>iterator</entry>
         <entry>iterator.hasNext</entry>
@@ -1085,9 +1081,10 @@
         <entry encoding="base64">U2V0PFN0cmluZw==</entry>
         <entry>hashSet</entry>
         <entry>hashset</entry>
+        <entry>response</entry>
+        <entry>new hashset</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2VtYWlscy9waG9uZXMvZ2M=</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>s</entry>
@@ -1106,6 +1103,7 @@
         <entry encoding="base64">JzwsJz5zL1BIT05FL0VNQUlML2c=</entry>
         <entry>W</entry>
         <entry>nohl</entry>
+        <entry>100</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
