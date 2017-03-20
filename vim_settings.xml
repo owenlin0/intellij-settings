@@ -783,12 +783,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/resources/TardisResource.java" timestamp="1488319381733">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1489979927498">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1489980674694">
         <mark key="'" line="29" column="53" />
         <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="73" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+        <mark key="]" line="38" column="118" />
+        <mark key="." line="38" column="118" />
+        <mark key="^" line="38" column="118" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/gaia/migrations/instant_promotion_migrations/2016-03-08-create-promo-data.sql" timestamp="1486080979373">
         <mark key="'" line="16" column="3" />
@@ -864,8 +864,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1485841922015">
         <mark key="'" line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1489979917561">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1489980697398">
+        <mark key="'" line="61" column="28" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="57" />
         <mark key="^" line="70" column="51" />
@@ -910,8 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="459" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="364" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="379" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="465" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
@@ -1010,6 +1008,8 @@
       <jump line="96" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompletePostOperator.java" />
       <jump line="103" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/gaia/src/main/java/com/airbnb/gaia/operators/emailautocomplete/EmailAutocompletePostOperator.java" />
       <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="61" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1032,10 +1032,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>com.airbnb.jitney.event.logging</text>
       </register>
       <register name="/" type="4">
-        <text>event.logging</text>
+        <text>keepalive</text>
       </register>
       <register name="0" type="4">
         <text>com.airbnb.jitney.event.logging</text>
@@ -1072,9 +1072,9 @@
       </register>
     </registers>
     <search>
-      <last-search>event.logging</last-search>
+      <last-search>keepalive</last-search>
       <last-offset />
-      <last-pattern>event.logging</last-pattern>
+      <last-pattern>keepalive</last-pattern>
       <last-replace>EMAIL</last-replace>
       <last-substitute>PHONE</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,7 +1082,6 @@
     </search>
     <history>
       <history-search>
-        <entry>firstName</entry>
         <entry>dedupe</entry>
         <entry>contactHandleGraph</entry>
         <entry encoding="base64">XDxjb25uZWN0ZWRDb21wb25lbnRzVG9Db250YWN0c1w+</entry>
@@ -1102,6 +1101,7 @@
         <entry encoding="base64">XDxUWVBFQUhFQURfUEVSTUlTU0lPTl9HRVRcPg==</entry>
         <entry>postEmails</entry>
         <entry>event.logging</entry>
+        <entry>keepalive</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -1121,8 +1121,8 @@
         <entry encoding="base64">JzwsJz4lcy9QSE9ORS9FTUFJTC9n</entry>
         <entry encoding="base64">JzwsJz5zL1BIT05FL0VNQUlML2c=</entry>
         <entry>100</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
         <entry>nohl</entry>
       </history-cmd>
       <history-expr />
