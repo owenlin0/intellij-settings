@@ -860,8 +860,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1485841922015">
         <mark key="'" line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490034309425">
-        <mark key="'" line="40" column="50" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490041159099">
+        <mark key="'" line="40" column="55" />
         <mark key="[" line="58" column="24" />
         <mark key="]" line="58" column="34" />
         <mark key="^" line="58" column="34" />
@@ -900,7 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="35" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="250" column="35" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="251" column="35" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="252" column="35" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
@@ -999,7 +998,8 @@
       <jump line="2" column="1" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="0" column="32" filename="/fragment.java" />
       <jump line="58" column="111" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
-      <jump line="40" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="53" column="92" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="40" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
