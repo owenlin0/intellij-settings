@@ -488,6 +488,9 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/jackson/src/main/java/com/airbnb/common/jackson/Java8ObjectMapperFactory.java" timestamp="1490171684887">
         <mark key="'" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1490203387796">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" timestamp="1486421783221">
         <mark key="'" line="7" column="46" />
       </file>
@@ -989,7 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1606" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.168.0/9540dc947afe92904845eb4d5f23180667324819/jitney-schemas-3.168.0.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" />
       <jump line="1608" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.168.0/9540dc947afe92904845eb4d5f23180667324819/jitney-schemas-3.168.0.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" />
       <jump line="2772" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="3" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -1089,6 +1091,7 @@
       <jump line="20" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="19" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
