@@ -416,11 +416,12 @@
         <mark key="^" line="53" column="27" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1490163225982">
-        <mark key="'" line="21" column="59" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1490164744004">
+        <mark key="'" line="30" column="5" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="5" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/module/HeliosModule.java" timestamp="1486424383665">
         <mark key="'" line="53" column="16" />
@@ -974,8 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
       <jump line="220" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="90" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="91" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -1074,6 +1073,8 @@
       <jump line="34" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormat.java" />
       <jump line="21" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="288" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.168.0/9540dc947afe92904845eb4d5f23180667324819/jitney-schemas-3.168.0.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" />
+      <jump line="29" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
+      <jump line="30" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1087,7 @@
         <text>[storage][mobile]</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>contactMetadataFormatBuilder</text>
       </register>
       <register name="/" type="4">
         <text>getAddress</text>
@@ -1095,31 +1096,31 @@
         <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmlzU2V0Q2l0eSgpKSBidWlsZGVyLmdlb05hbWUoYWRkcmVzcy5nZXRHZW9OYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZmF2b3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmlzU2V0Q2l0eSgpKSBidWlsZGVyLmdlb05hbWUoYWRkcmVzcy5nZXRHZW9OYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmdldEdlb05hbWUoKSkgYnVpbGRlci5nZW9OYW1lKGFkZHJlc3MuZ2V0R2VvTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8Q29udGFjdEFkZHJlc3NGb3JtYXQ+IGFkZHJlc3NlcyA9IGNvbnRhY3QuZ2V0QWRkcmVzc2VzKCkuc3RyZWFtKCkKICAgICAgICAubWFwKGFkZHJlc3MgLT4gQ29udGFjdEFkZHJlc3NGb3JtYXQuZnJvbUFkZHJlc3NFdmVudChhZGRyZXNzKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmdldEdlb05hbWUoKSkgYnVpbGRlci5nZW9OYW1lKGFkZHJlc3MuZ2V0R2VvTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnVpbGRlcigpCiAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAuYWRkcmVzc2VzKGFkZHJlc3NlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmF2b3JpdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQ29udGFjdE1ldGFkYXRhRm9ybWF0IGZyb21BZGRyZXNzRXZlbnQoQWRkcmVzcykgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmlzU2V0Q2l0eSgpKSBidWlsZGVyLmdlb05hbWUoYWRkcmVzcy5nZXRHZW9OYW1lKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmdldEdlb05hbWUoKSkgYnVpbGRlci5nZW9OYW1lKGFkZHJlc3MuZ2V0R2VvTmFtZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhZGRyZXNzLmdldEdlb05hbWUoKSkgYnVpbGRlci5nZW9OYW1lKGFkZHJlc3MuZ2V0R2VvTmFtZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
