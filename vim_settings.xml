@@ -244,10 +244,10 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/contacts_testdata.sql" timestamp="1490227864017">
         <mark key="'" line="4" column="55" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/RolodexResource.java" timestamp="1488483887913">
         <mark key="'" line="27" column="0" />
@@ -557,6 +557,9 @@
         <mark key="]" line="23" column="80" />
         <mark key="^" line="23" column="80" />
         <mark key="." line="23" column="80" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.7/b03af0d8ea33f3895b894571b6bfa784fb3bdf42/jackson-databind-2.6.7-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonPOJOBuilder.java" timestamp="1490245598172">
+        <mark key="'" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactBookDAO.java" timestamp="1485835769984">
         <mark key="'" line="4" column="32" />
@@ -1023,7 +1026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="153" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="146" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="142" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
@@ -1123,6 +1125,7 @@
       <jump line="18" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/narad/src/main/java/com/airbnb/narad/resources/ListingStoriesResponse.java" />
       <jump line="24" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/narad/src/main/java/com/airbnb/narad/resources/ListingStoriesResponse.java" />
       <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/narad/src/main/java/com/airbnb/narad/resources/ListingStoriesResponse.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.7/b03af0d8ea33f3895b894571b6bfa784fb3bdf42/jackson-databind-2.6.7-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonPOJOBuilder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
