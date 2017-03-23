@@ -426,7 +426,7 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490246955657">
+      <file name="/Dummy.txt" timestamp="1490305349991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/helios/src/main/java/com/airbnb/helios/module/HeliosModule.java" timestamp="1486424383665">
@@ -994,8 +994,8 @@
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1490249378862">
-        <mark key="'" line="159" column="47" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1490305344209">
+        <mark key="'" line="249" column="0" />
         <mark key="[" line="213" column="70" />
         <mark key="]" line="213" column="70" />
         <mark key="^" line="213" column="69" />
@@ -1031,10 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
-      <jump line="21" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
-      <jump line="288" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.179.0/ad82c83fa93060e20f3269de02e5cbfbf03a4bca/jitney-schemas-3.179.0.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" />
-      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="17" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/moog/common/src/main/java/com/airbnb/moog/api/NewCollectionItem.java" />
       <jump line="47" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Data.java" />
       <jump line="14" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactMetadataFormat.java" />
@@ -1131,6 +1127,10 @@
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="159" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="264" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="205" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="286" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="402" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1146,7 +1146,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>writeToMobile</text>
+        <text>emoji</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhhbmRsZXIuaGFuZGxlKHBheWxvYWQpOwo=</text>
@@ -1179,13 +1179,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>writeToMobile</last-search>
+      <last-search>emoji</last-search>
       <last-offset />
-      <last-pattern>writeToMobile</last-pattern>
+      <last-pattern>emoji</last-pattern>
       <last-replace>sanitizedContacts</last-replace>
       <last-substitute>filteredContacts</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,9 +1193,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaW5lSXRlbUJ1aWxkZXJcPg==</entry>
-        <entry encoding="base64">XDxDb250YWN0TWV0YWRhdGFGb3JtYXRcPg==</entry>
-        <entry>addresses</entry>
         <entry encoding="base64">XDxMaXN0aW5nU3Rvcmllc1Jlc3BvbnNlQnVpbGRlclw+</entry>
         <entry encoding="base64">XDxMaXN0aW5nU3Rvcmllc1Jlc3BvbnNlXD4=</entry>
         <entry>contactBooks</entry>
@@ -1213,6 +1210,9 @@
         <entry>contact</entry>
         <entry>writeToMobileContactBook</entry>
         <entry>writeToMobile</entry>
+        <entry>metadata</entry>
+        <entry>sanitize</entry>
+        <entry>emoji</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VtYWlscy9QaG9uZXMvZ2M=</entry>
@@ -1233,8 +1233,8 @@
         <entry>155</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
