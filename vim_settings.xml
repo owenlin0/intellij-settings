@@ -112,12 +112,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1490676051881">
-        <mark key="'" line="43" column="5" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="50" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="98" column="3" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1490720611870">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+        <mark key="^" line="58" column="48" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactBookDAO.java" timestamp="1485835769984">
         <mark key="'" line="4" column="32" />
@@ -133,8 +132,12 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1490650727780">
-        <mark key="'" line="189" column="47" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1490720663842">
+        <mark key="'" line="154" column="28" />
+        <mark key="[" line="154" column="13" />
+        <mark key="]" line="154" column="41" />
+        <mark key="." line="154" column="41" />
+        <mark key="^" line="154" column="41" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" timestamp="1490249122519">
         <mark key="'" line="38" column="0" />
@@ -234,6 +237,11 @@
         <mark key="." line="38" column="118" />
         <mark key="^" line="38" column="118" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" timestamp="1490720644033">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/Contact.java" timestamp="1490227400188">
         <mark key="'" line="16" column="9" />
         <mark key="[" line="20" column="2" />
@@ -255,12 +263,12 @@
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1490649974036">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="231" column="16" />
-        <mark key="]" line="231" column="38" />
-        <mark key="." line="231" column="38" />
-        <mark key="^" line="231" column="38" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1490721142231">
+        <mark key="'" line="272" column="51" />
+        <mark key="[" line="283" column="39" />
+        <mark key="]" line="283" column="43" />
+        <mark key="." line="283" column="43" />
+        <mark key="^" line="283" column="43" />
       </file>
       <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/thrift/com/airbnb/jitney/event/rolodex/rolodex_v2.thrift" timestamp="1486619699981">
         <mark key="'" line="12" column="4" />
@@ -283,12 +291,11 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1490650921532">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="115" column="13" />
-        <mark key="]" line="115" column="13" />
-        <mark key="." line="115" column="19" />
-        <mark key="^" line="110" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1490720922326">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactHandleMetadataFormat.java" timestamp="1490159236416">
         <mark key="'" line="11" column="4" />
@@ -381,7 +388,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490676084687">
+      <file name="/Dummy.txt" timestamp="1490720794674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/codegen/com/airbnb/rolodex/db/codegen/SingularizeTableNamesStrategy.java" timestamp="1488075598796">
@@ -405,9 +412,9 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490676083464">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490720462382">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="58" column="24" />
+        <mark key="[" line="58" column="35" />
         <mark key="]" line="58" column="34" />
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="34" />
@@ -496,6 +503,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/GetContactBooksFormat.java" timestamp="1490720522635">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/jooq/Storage.java" timestamp="1486967897477">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="16" column="37" />
@@ -526,36 +538,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="101" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/exceptions/ImportTypeNotFoundException.java" />
-      <jump line="2" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/exceptions/NoContactBooksToDeleteException.java" />
-      <jump line="190" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="191" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="192" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="86" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="241" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="194" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="197" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="88" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="402" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/DeleteContactBooksFormat.java" />
-      <jump line="99" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="103" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="432" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="105" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="106" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="102" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/DeleteContactBooksFormat.java" />
-      <jump line="100" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="232" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="27" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="39" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="73" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="92" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="89" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="23" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactBook.java" />
@@ -576,8 +563,6 @@
       <jump line="184" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="95" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
       <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" />
-      <jump line="100" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
-      <jump line="102" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
       <jump line="266" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="25" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
       <jump line="26" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
@@ -626,6 +611,33 @@
       <jump line="65" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="2" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="35" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="102" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="154" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="103" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="0" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="21" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="23" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="298" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="271" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="268" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="26" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="342" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
+      <jump line="269" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="270" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="272" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -638,49 +650,49 @@
         <text>stewie@familyguy.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWdnZWRNZXRyaWNSZWdpc3RyeVw+</text>
+        <text>testStorage</text>
       </register>
-      <register name="0" type="4">
-        <text>ContactBooksResource.v0.collection</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygKICAgICAgICBDb250YWN0c0Zvcm1hdC5lbXB0eVJlc3BvbnNlKDFMKSwKICAgICAgICByZXNvdXJjZS5nZXRDb250YWN0cygxTCwgImZpcnN0X25hbWUsbGFzdF9uYW1lIiwgbnVsbCwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIC5hbmQoQ09OVEFDVF9CT09LUy5ERUxFVEVELmVxdWFsKChieXRlKSAwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3RCb29rc1Jlc291cmNlLmRlbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChyZWNvcmRzLnNpemUoKSA9PSAwKSB7CiAgICAgIHRocm93IG5ldyBXZWJBcHBsaWNhdGlvbkV4Y2VwdGlvbigKICAgICAgICAgIFJlc3BvbnNlCiAgICAgICAgICAgICAgLnN0YXR1cyhSZXNwb25zZS5TdGF0dXMuQkFEX1JFUVVFU1QpCiAgICAgICAgICAgICAgLmVudGl0eShTdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAgICAgICAiVXNlciB7fSBkb2VzIG5vdCBoYXZlIGFueSBjb250YWN0IGJvb2tzLiIsCiAgICAgICAgICAgICAgICAgIHVzZXJJZAogICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgLmJ1aWxkKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q29udGFjdEJvb2tzUmVjb3JkPiByZWNvcmRzID0gc3RvcmFnZS5mZXRjaENvbnRhY3RCb29rcyh1c2VySWQpOwoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQmVmb3JlCiAgcHVibGljIHZvaWQgcmVzZXREQigpIHsKICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOwogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOyAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWdnZWRNZXRyaWNSZWdpc3RyeVw+</last-search>
+      <last-search>testStorage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWdnZWRNZXRyaWNSZWdpc3RyeVw+</last-pattern>
+      <last-pattern>testStorage</last-pattern>
       <last-replace>expected = W</last-replace>
       <last-substitute>expected=W</last-substitute>
       <last-dir>1</last-dir>
@@ -688,18 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>realStewie</entry>
-        <entry encoding="base64">XDxleHBlY3RlZE91dHB1dFw+</entry>
-        <entry>getDSL</entry>
-        <entry>throw new</entry>
-        <entry>CONTACT_BOOKs</entry>
-        <entry>expected =</entry>
-        <entry>expected</entry>
-        <entry>expected=W</entry>
-        <entry>CS_GMAIL</entry>
-        <entry>Delete</entry>
-        <entry>delete</entry>
-        <entry>fetchContactBooks</entry>
         <entry encoding="base64">XDxDT05UQUNUX0JPT0tTXD4=</entry>
         <entry>fetch</entry>
         <entry encoding="base64">XDxjb250YWN0Qm9va1V1aWRzXD4=</entry>
@@ -708,6 +708,18 @@
         <entry>saved</entry>
         <entry>deleted</entry>
         <entry encoding="base64">XDx0YWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
+        <entry>testRemove</entry>
+        <entry>Remove</entry>
+        <entry>remove</entry>
+        <entry>emptyRsponse</entry>
+        <entry>resource</entry>
+        <entry encoding="base64">XDxlbXB0eVJlc3BvbnNlXD4=</entry>
+        <entry>emptyResponse</entry>
+        <entry>seedTRest</entry>
+        <entry>seedTest</entry>
+        <entry encoding="base64">XDxzZWVkVGVzdERhdGFcPg==</entry>
+        <entry>delete</entry>
+        <entry>testStorage</entry>
       </history-search>
       <history-cmd>
         <entry>155</entry>
@@ -726,10 +738,10 @@
         <entry encoding="base64">JzwsJz5zL2V4cGVjdGVkU3Rld2llL2V4cGVjdGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JlYWxTdGV3aWUvcmVhbC9n</entry>
         <entry>%s/expected=W/expected = W/g</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>53</entry>
+        <entry>W</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
