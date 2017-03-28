@@ -291,8 +291,8 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1490720922326">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1490729162107">
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="30" />
         <mark key="." line="104" column="0" />
@@ -419,12 +419,11 @@
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1490651629267">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1490729171104">
         <mark key="'" line="55" column="27" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="80" column="48" />
-        <mark key="." line="200" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/exceptions/NoContactBooksToDeleteException.java" timestamp="1490647948765">
         <mark key="'" line="2" column="62" />
@@ -538,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="27" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="39" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
       <jump line="73" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
@@ -638,6 +636,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="270" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="272" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -653,46 +652,46 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>testStorage</text>
+        <text>fetchOne</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscygKICAgICAgICBDb250YWN0c0Zvcm1hdC5lbXB0eVJlc3BvbnNlKDFMKSwKICAgICAgICByZXNvdXJjZS5nZXRDb250YWN0cygxTCwgImZpcnN0X25hbWUsbGFzdF9uYW1lIiwgbnVsbCwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oT3dlbiBMaW4pOiByZXZpc2l0IGluZGljZXMgb24gY29udGFjdF9ib29rcyB0YWJsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3RCb29rc1Jlc291cmNlLmRlbGUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAQmVmb3JlCiAgcHVibGljIHZvaWQgcmVzZXREQigpIHsKICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOwogIH0KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnRhY3RCb29rc1Jlc291cmNlLmRlbGUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBAQmVmb3JlCiAgcHVibGljIHZvaWQgcmVzZXREQigpIHsKICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOwogIH0KCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOyAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>58</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>testStorage</last-search>
+      <last-search>fetchOne</last-search>
       <last-offset />
-      <last-pattern>testStorage</last-pattern>
+      <last-pattern>fetchOne</last-pattern>
       <last-replace>expected = W</last-replace>
       <last-substitute>expected=W</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05UQUNUX0JPT0tTXD4=</entry>
         <entry>fetch</entry>
         <entry encoding="base64">XDxjb250YWN0Qm9va1V1aWRzXD4=</entry>
         <entry>getContactBoks</entry>
@@ -720,6 +718,7 @@
         <entry encoding="base64">XDxzZWVkVGVzdERhdGFcPg==</entry>
         <entry>delete</entry>
         <entry>testStorage</entry>
+        <entry>fetchOne</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -738,10 +737,10 @@
         <entry>%s/expected=W/expected = W/g</entry>
         <entry>53</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
-        <entry>w</entry>
         <entry>57</entry>
         <entry>58</entry>
+        <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
