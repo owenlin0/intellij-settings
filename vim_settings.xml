@@ -686,7 +686,7 @@
         <text encoding="base64">ICAgIHRlc3RTdG9yYWdlLnNlZWRUZXN0RGF0YSgpOyAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>58</text>
       </register>
     </registers>
     <search>
@@ -722,8 +722,6 @@
         <entry>testStorage</entry>
       </history-search>
       <history-cmd>
-        <entry>155</entry>
-        <entry>:w</entry>
         <entry>20</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3RCb29rc1JlY29yZHMvcmVjb3Jkcy9nYw==</entry>
         <entry encoding="base64">JzwsJz5lbWFpbHMvcGhvbmVzL2dj</entry>
@@ -742,6 +740,8 @@
         <entry>W</entry>
         <entry>nohl</entry>
         <entry>w</entry>
+        <entry>57</entry>
+        <entry>58</entry>
       </history-cmd>
       <history-expr />
       <history-input />
