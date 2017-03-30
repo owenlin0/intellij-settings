@@ -91,7 +91,7 @@
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1490650521225">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1490836152667">
         <mark key="'" line="52" column="27" />
         <mark key="[" line="58" column="30" />
         <mark key="]" line="59" column="12" />
@@ -275,10 +275,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" timestamp="1490319737214">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" timestamp="1490836145536">
         <mark key="'" line="22" column="25" />
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="44" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="59" />
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
@@ -376,7 +376,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490737496284">
+      <file name="/Dummy.txt" timestamp="1490836146486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/codegen/com/airbnb/rolodex/db/codegen/SingularizeTableNamesStrategy.java" timestamp="1488075598796">
@@ -641,8 +641,8 @@
       <register name="/" type="4">
         <text>produces</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFBhdGgoIi92MC9jb250YWN0cyIpCg==</text>
+      <register name="0" type="4">
+        <text>u0000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFBhdGgoIi92MC9jb250YWN0cyIpCg==</text>
