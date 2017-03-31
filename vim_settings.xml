@@ -275,6 +275,12 @@
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerV2.java" timestamp="1490986224154">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1490737758796">
         <mark key="'" line="6" column="0" />
       </file>
@@ -397,7 +403,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490985348548">
+      <file name="/Dummy.txt" timestamp="1490986143930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/codegen/com/airbnb/rolodex/db/codegen/SingularizeTableNamesStrategy.java" timestamp="1488075598796">
@@ -421,10 +427,10 @@
         <mark key="." line="63" column="46" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490720462382">
-        <mark key="'" line="35" column="25" />
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="34" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1490986166799">
+        <mark key="'" line="39" column="25" />
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="60" />
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="34" />
       </file>
@@ -529,7 +535,7 @@
         <mark key="^" line="2" column="119" />
         <mark key="." line="5" column="105" />
       </file>
-      <file name="/fragment.java" timestamp="1490640384163">
+      <file name="/fragment.java" timestamp="1490986180704">
         <mark key="'" line="0" column="32" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -545,7 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="288" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="285" column="79" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
@@ -645,6 +650,7 @@
       <jump line="45" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsToJsonTest.java" />
       <jump line="51" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsToJsonTest.java" />
       <jump line="85" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -660,10 +666,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getPages</text>
+        <text encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEhhbmRsZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIERlbGV0ZUNvbnRhY3RCb29rc0Zvcm1hdCByZXNwb25zZTEgPSByZXNvdXJjZS5kZWxldGVDb250YWN0Qm9va3MoMUwpOwo=</text>
+      <register name="0" type="4">
+        <text>CloudspongeContactBatchUploadHandler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5BZnRlckNsYXNzOwo=</text>
@@ -693,13 +699,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>getPages</last-search>
+      <last-search encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEhhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>getPages</last-pattern>
+      <last-pattern encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEhhbmRsZXJcPg==</last-pattern>
       <last-replace>expected = W</last-replace>
       <last-substitute>expected=W</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testDeleteWithNonexistent</entry>
         <entry>isNullOrempty</entry>
         <entry encoding="base64">XDxpc051bGxPckVtcHR5XD4=</entry>
         <entry encoding="base64">XDxDb250YWN0c1Jlc291cmNlXD4=</entry>
@@ -727,6 +732,7 @@
         <entry encoding="base64">XDxmaWxlc0NyZWF0ZWRcPg==</entry>
         <entry>writeToFile</entry>
         <entry>getPages</entry>
+        <entry encoding="base64">XDxDbG91ZHNwb25nZUNvbnRhY3RCYXRjaFVwbG9hZEhhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -747,8 +753,8 @@
         <entry>57</entry>
         <entry>58</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
