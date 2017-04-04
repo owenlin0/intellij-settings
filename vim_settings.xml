@@ -4,18 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1491328073576">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="105" column="2" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="103" column="2" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" timestamp="1490994014107">
         <mark key="'" line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" timestamp="1491330349651">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1491330313678">
         <mark key="'" line="0" column="13" />
@@ -359,12 +352,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/ContactBookImportType.java" timestamp="1490997628599">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="1" column="51" />
-        <mark key="." line="62" column="26" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1490985324045">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="87" column="0" />
@@ -385,12 +372,6 @@
         <mark key="]" line="9" column="74" />
         <mark key="." line="9" column="74" />
         <mark key="^" line="9" column="74" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBookImport.java" timestamp="1490996473848">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="33" column="2" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1485553453214">
         <mark key="'" line="14" column="0" />
@@ -427,13 +408,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="67" column="61" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" timestamp="1491327978088">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" timestamp="1491327978088" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1491255509781">
         <mark key="'" line="3373" column="35" />
       </file>
