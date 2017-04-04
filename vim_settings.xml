@@ -160,8 +160,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1491343891475">
-        <mark key="'" line="164" column="8" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1491345117774">
+        <mark key="'" line="139" column="0" />
         <mark key="[" line="174" column="94" />
         <mark key="]" line="175" column="97" />
         <mark key="." line="175" column="97" />
@@ -588,8 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.1/e282394941b3a123ee646dd0c87187151354de4d/jitney-schemas-3.195.1.jar!/com/airbnb/jitney/event/rolodex/v4/ContactBookImport.class" />
       <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactForSatori.java" />
       <jump line="13" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" />
       <jump line="66" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" />
@@ -688,6 +686,8 @@
       <jump line="229" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="164" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="127" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -703,7 +703,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>limit</text>
+        <text>5000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gVE9ETyhPd2VuIExpbik6IHRlbXBvcmFyeSBmaXggZm9yIGxhcmdlIGNvbnRhY3QgYm9va3MgaXMgdG8gcmV0dXJuIGEgbGltaXQgb2YgNTAwMCByb3dzCg==</text>
@@ -736,13 +736,13 @@
         <text encoding="base64">ICAgICAgICAgIC5saW1pdCg1MDAwKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>limit</last-search>
+      <last-search>5000</last-search>
       <last-offset />
-      <last-pattern>limit</last-pattern>
+      <last-pattern>5000</last-pattern>
       <last-replace>cloudsponge.v1</last-replace>
       <last-substitute>v4</last-substitute>
       <last-dir>1</last-dir>
@@ -750,8 +750,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVDb250YWN0c1w+</entry>
-        <entry>mobile</entry>
         <entry>transform</entry>
         <entry>has_picture</entry>
         <entry>metadaa</entry>
@@ -770,6 +768,8 @@
         <entry encoding="base64">XDxxdWVyeVJlc3VsdFRvRm9ybWF0dGVkQ29udGFjdHNcPg==</entry>
         <entry>contatcs</entry>
         <entry>limit</entry>
+        <entry>GET</entry>
+        <entry>5000</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlYWxTdGV3aWUvcmVhbC9nYw==</entry>
@@ -790,8 +790,8 @@
         <entry encoding="base64">JzwsJz5zL3Y0L2Nsb3Vkc3BvbmdlLnYxL2c=</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
