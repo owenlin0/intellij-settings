@@ -420,8 +420,8 @@
         <mark key="^" line="53" column="27" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1491327992044">
-        <mark key="'" line="135" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1491413174834">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="138" column="46" />
         <mark key="]" line="138" column="45" />
         <mark key="." line="138" column="45" />
@@ -443,6 +443,9 @@
         <mark key="]" line="113" column="38" />
         <mark key="." line="113" column="38" />
         <mark key="^" line="113" column="38" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex.yml.example" timestamp="1486407287916">
         <mark key="'" line="18" column="0" />
@@ -599,8 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.1/e282394941b3a123ee646dd0c87187151354de4d/jitney-schemas-3.195.1.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" />
-      <jump line="39" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
       <jump line="44" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.1/e282394941b3a123ee646dd0c87187151354de4d/jitney-schemas-3.195.1.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" />
       <jump line="68" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" />
@@ -699,6 +700,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="89" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,7 +717,7 @@
         <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>contact</text>
+        <text>import type</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIENvbnRhY3RIYW5kbGUgY29udGFjdEhhbmRsZSA9IG5ldyBDb250YWN0SGFuZGxlKCk7CiAgICAgICAgICBjb250YWN0SGFuZGxlLnNldFVzZXJJZCh1c2VySWQpOwogICAgICAgICAgY29udGFjdEhhbmRsZS5zZXRUeXBlKENvbnRhY3RIYW5kbGUuQ29udGFjdEhhbmRsZVR5cGUuRU1BSUwub3JkaW5hbCgpKTsKICAgICAgICAgIGNvbnRhY3RIYW5kbGUuc2V0SGFuZGxlKGVtYWlsKTsKICAgICAgICAgIGNvbnRhY3RIYW5kbGUuc2V0TWV0YWRhdGEobnVsbCk7CiAgICAgICAgICByZXR1cm4gY29udGFjdEhhbmRsZTs=</text>
@@ -751,17 +754,16 @@
       </register>
     </registers>
     <search>
-      <last-search>contact</last-search>
+      <last-search>import type</last-search>
       <last-offset />
-      <last-pattern>contact</last-pattern>
+      <last-pattern>import type</last-pattern>
       <last-replace>cloudsponge.v1</last-replace>
       <last-substitute>v4</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>EMail</entry>
         <entry>Email</entry>
         <entry>storage</entry>
         <entry>parsedJoinQuery</entry>
@@ -781,6 +783,7 @@
         <entry>metadatajson</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>contact</entry>
+        <entry>import type</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlYWxTdGV3aWUvcmVhbC9nYw==</entry>
