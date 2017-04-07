@@ -335,8 +335,8 @@
         <mark key="." line="8" column="113" />
         <mark key="^" line="8" column="113" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1491343793226">
-        <mark key="'" line="126" column="26" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1491542898708">
+        <mark key="'" line="142" column="17" />
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="^" line="181" column="5" />
@@ -534,7 +534,7 @@
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491539290897">
+      <file name="/Dummy.txt" timestamp="1491542780945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/codegen/com/airbnb/rolodex/db/codegen/SingularizeTableNamesStrategy.java" timestamp="1488075598796">
@@ -599,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="253" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="257" column="79" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="266" column="85" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -699,6 +697,8 @@
       <jump line="79" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/TestStorage.java" />
+      <jump line="142" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
+      <jump line="140" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/Select.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
