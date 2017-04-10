@@ -183,6 +183,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1491866862405">
+        <mark key="'" line="301" column="35" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/Handler.java" timestamp="1491848013446">
         <mark key="'" line="23" column="3" />
       </file>
@@ -284,11 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
-      <jump line="133" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
-      <jump line="89" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="111" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="119" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="39" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" />
@@ -384,6 +382,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="22" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="20" column="61" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
+      <jump line="233" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="159" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="153" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="301" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,49 +399,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>testProperEmptyEmailResponse</text>
       </register>
       <register name="/" type="4">
-        <text>storage</text>
+        <text>nonexistentUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXgudjQuQ2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZEV2ZW50Owo=</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcm9wZXJFbXB0eUVtYWlsUmVzcG9uc2UoKSB7CiAgICBDb250YWN0IGV4cGVjdGVkID0gQ29udGFjdC5idWlsZGVyKCkKICAgICAgICAuZmlyc3ROYW1lKCJTb21lIikKICAgICAgICAubGFzdE5hbWUoIkd1eSIpCiAgICAgICAgLmVtYWlscyhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKICAgICAgICAucGhvbmVzKEFycmF5cy5hc0xpc3QoIjEyMzQzMDk5MDY4IikpCiAgICAgICAgLmNvbnRhY3RJZCg0KQogICAgICAgIC5idWlsZCgpOwoKICAgIENvbnRhY3RzRm9ybWF0IHJlc3BvbnNlID0gcmVzb3VyY2UuZ2V0Q29udGFjdHMoCiAgICAgICAgMkwsCiAgICAgICAgImZpcnN0X25hbWUsbGFzdF9uYW1lLGVtYWlscyxwaG9uZXMiLAogICAgICAgIG51bGwsCiAgICAgICAgdHJ1ZSk7CgogICAgQ29udGFjdCByZWFsID0gcmVzcG9uc2UuZ2V0Q29udGFjdHMoKS5nZXQoMCk7CgogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLmdldEZpcnN0TmFtZSgpLCByZWFsLmdldEZpcnN0TmFtZSgpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZC5nZXRMYXN0TmFtZSgpLCByZWFsLmdldExhc3ROYW1lKCkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLmdldEVtYWlscygpLCByZWFsLmdldEVtYWlscygpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZC5nZXRQaG9uZXMoKSwgcmVhbC5nZXRQaG9uZXMoKSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXgudjQuKjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXgudjQuKjsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZEV2ZW50PiBldmVudHMgPSBtZXNzYWdlcy5zdHJlYW0oKQogICAgICAgIC5tYXAoTWVzc2FnZTo6Z2V0RXZlbnQpCiAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHByb2Nlc3NFdmVudHMoZXZlbnRzKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHByb2Nlc3MgQ2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZCBldmVudHMiLCBlKTsKICAgICAgdGhyb3cgZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIExpc3Q8Q2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZEV2ZW50PiBldmVudHMgPSBtZXNzYWdlcy5zdHJlYW0oKQogICAgICAgIC5tYXAoTWVzc2FnZTo6Z2V0RXZlbnQpCiAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWlyYm5iLnJvbG9kZXguZGIuZ2VuZXJhdGVkLlRhYmxlcy5DT05UQUNUX0JPT0tTOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWVzdGFtcDsKaW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHByb2Nlc3NFdmVudHMoZXZlbnRzKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHByb2Nlc3MgQ2xvdWRzcG9uZ2VDb250YWN0Qm9va1VwbG9hZCBldmVudHMiLCBlKTsKICAgICAgdGhyb3cgZTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIucm9sb2RleC5kYi5nZW5lcmF0ZWQudGFibGVzLnJlY29yZHMuQ29udGFjdEJvb2tzUmVjb3JkOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWlyYm5iLnJvbG9kZXguZGIuZ2VuZXJhdGVkLlRhYmxlcy5DT05UQUNUX0JPT0tTOwoK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>storage</last-search>
+      <last-search>nonexistentUser</last-search>
       <last-offset />
-      <last-pattern>storage</last-pattern>
+      <last-pattern>nonexistentUser</last-pattern>
       <last-replace>ContactHandle.ContactHandleType</last-replace>
       <last-substitute>ContactHandleType</last-substitute>
       <last-dir>1</last-dir>
@@ -446,8 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hasPicture</entry>
-        <entry>setHasPicture</entry>
         <entry>issetphoto</entry>
         <entry>fromFormat</entry>
         <entry>Message</entry>
@@ -466,6 +467,8 @@
         <entry>v4</entry>
         <entry>mobile</entry>
         <entry>storage</entry>
+        <entry>123</entry>
+        <entry>nonexistentUser</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbnRhY3RCb29rSW1wb3J0VHlwZS9JbXBvcnRUeXBlL2c=</entry>
