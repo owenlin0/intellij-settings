@@ -18,8 +18,15 @@
       <mask>*.gradle</mask>
       <mask>*.yml*</mask>
       <mask>*.java</mask>
-      <mask>build.gradle</mask>
       <mask>*Resource.java</mask>
+      <mask>ild.gra*resource.java</mask>
+      <mask>ild.gr*resource.java</mask>
+      <mask>ild.g*resource.java</mask>
+      <mask>ild.*resource.java</mask>
+      <mask>ild*resource.java</mask>
+      <mask>i*resource.java</mask>
+      <mask>i*resource.jav</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
