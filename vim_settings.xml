@@ -102,11 +102,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" timestamp="1491355971109">
         <mark key="'" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1491603942685">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1491934636801">
         <mark key="'" line="47" column="27" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="36" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormatTest.java" timestamp="1491605783094">
         <mark key="'" line="53" column="0" />
@@ -404,8 +405,8 @@
       <register name="/" type="4">
         <text>nonexistentUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcm9wZXJFbXB0eUVtYWlsUmVzcG9uc2UoKSB7CiAgICBDb250YWN0IGV4cGVjdGVkID0gQ29udGFjdC5idWlsZGVyKCkKICAgICAgICAuZmlyc3ROYW1lKCJTb21lIikKICAgICAgICAubGFzdE5hbWUoIkd1eSIpCiAgICAgICAgLmVtYWlscyhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKICAgICAgICAucGhvbmVzKEFycmF5cy5hc0xpc3QoIjEyMzQzMDk5MDY4IikpCiAgICAgICAgLmNvbnRhY3RJZCg0KQogICAgICAgIC5idWlsZCgpOwoKICAgIENvbnRhY3RzRm9ybWF0IHJlc3BvbnNlID0gcmVzb3VyY2UuZ2V0Q29udGFjdHMoCiAgICAgICAgMkwsCiAgICAgICAgImZpcnN0X25hbWUsbGFzdF9uYW1lLGVtYWlscyxwaG9uZXMiLAogICAgICAgIG51bGwsCiAgICAgICAgdHJ1ZSk7CgogICAgQ29udGFjdCByZWFsID0gcmVzcG9uc2UuZ2V0Q29udGFjdHMoKS5nZXQoMCk7CgogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLmdldEZpcnN0TmFtZSgpLCByZWFsLmdldEZpcnN0TmFtZSgpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZC5nZXRMYXN0TmFtZSgpLCByZWFsLmdldExhc3ROYW1lKCkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkLmdldEVtYWlscygpLCByZWFsLmdldEVtYWlscygpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZC5nZXRQaG9uZXMoKSwgcmVhbC5nZXRQaG9uZXMoKSk7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>compile 'com.newrelic.agent.java:newrelic-api</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,7 +436,7 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWlyYm5iLnJvbG9kZXguZGIuZ2VuZXJhdGVkLlRhYmxlcy5DT05UQUNUX0JPT0tTOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -489,8 +490,8 @@
         <entry>128</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
