@@ -223,7 +223,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491854073374">
+      <file name="/Dummy.txt" timestamp="1491937489370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
@@ -236,8 +236,8 @@
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1491863816277">
-        <mark key="'" line="41" column="57" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" timestamp="1491937570083">
+        <mark key="'" line="72" column="2" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="76" />
         <mark key="." line="47" column="84" />
@@ -288,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="39" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" />
       <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="43" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
@@ -373,7 +371,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="29" column="70" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" />
       <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="114" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
       <jump line="137" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
@@ -388,6 +385,9 @@
       <jump line="153" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
       <jump line="301" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" />
+      <jump line="2" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="35" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
+      <jump line="72" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -403,7 +403,7 @@
         <text>testProperEmptyEmailResponse</text>
       </register>
       <register name="/" type="4">
-        <text>nonexistentUser</text>
+        <text>taggedMetric</text>
       </register>
       <register name="0" type="4">
         <text>compile 'com.newrelic.agent.java:newrelic-api</text>
@@ -436,13 +436,13 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWlyYm5iLnJvbG9kZXguZGIuZ2VuZXJhdGVkLlRhYmxlcy5DT05UQUNUX0JPT0tTOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>nonexistentUser</last-search>
+      <last-search>taggedMetric</last-search>
       <last-offset />
-      <last-pattern>nonexistentUser</last-pattern>
+      <last-pattern>taggedMetric</last-pattern>
       <last-replace>ContactHandle.ContactHandleType</last-replace>
       <last-substitute>ContactHandleType</last-substitute>
       <last-dir>1</last-dir>
@@ -450,12 +450,9 @@
     </search>
     <history>
       <history-search>
-        <entry>issetphoto</entry>
-        <entry>fromFormat</entry>
         <entry>Message</entry>
         <entry>@handle</entry>
         <entry>public void handle</entry>
-        <entry>taggedMetric</entry>
         <entry>mutation</entry>
         <entry>TBase</entry>
         <entry>handle</entry>
@@ -470,6 +467,9 @@
         <entry>storage</entry>
         <entry>123</entry>
         <entry>nonexistentUser</entry>
+        <entry encoding="base64">XDxUYWdnZWRNZXRyaWNSZWdpc3RyeVw+</entry>
+        <entry>taggedMetricy</entry>
+        <entry>taggedMetric</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbnRhY3RCb29rSW1wb3J0VHlwZS9JbXBvcnRUeXBlL2c=</entry>
@@ -488,10 +488,10 @@
         <entry>45</entry>
         <entry>70</entry>
         <entry>128</entry>
-        <entry>q</entry>
         <entry>W</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
