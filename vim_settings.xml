@@ -360,7 +360,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492018600054">
+      <file name="/Dummy.txt" timestamp="1492030708117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -382,10 +382,10 @@
         <mark key="." line="47" column="84" />
         <mark key="^" line="47" column="84" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1491960669496">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="326" column="13" />
-        <mark key="]" line="326" column="19" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1492030707204">
+        <mark key="'" line="86" column="12" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="32" />
         <mark key="." line="326" column="19" />
         <mark key="^" line="326" column="19" />
       </file>
@@ -444,10 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="72" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
-      <jump line="2" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
-      <jump line="35" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="24" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/MysqlStorage.java" />
       <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
@@ -544,6 +540,10 @@
       <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
       <jump line="39" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="34" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
+      <jump line="49" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistryFactory.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistryFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -559,10 +559,10 @@
         <text>.size()</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;rolodex.</text>
+        <text>TaggedMetricRegistry</text>
       </register>
       <register name="0" type="4">
-        <text>omnes.rolodex_mobile_contact_batch_upload_event.v2.handle</text>
+        <text>TaggedMetricRegistryFactory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -592,13 +592,13 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;rolodex.</last-search>
+      <last-search>TaggedMetricRegistry</last-search>
       <last-offset />
-      <last-pattern>&quot;rolodex.</last-pattern>
+      <last-pattern>TaggedMetricRegistry</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>&quot;rolodex.</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +606,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry encoding="base64">XDxTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxpc1N5bmNcPg==</entry>
         <entry>sync</entry>
@@ -626,6 +625,7 @@
         <entry>rolodex.</entry>
         <entry>storage</entry>
         <entry>&quot;rolodex.</entry>
+        <entry>TaggedMetricRegistry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbnRhY3RCb29rSW1wb3J0VHlwZS9JbXBvcnRUeXBlL2dj</entry>
@@ -645,9 +645,9 @@
         <entry>128</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>%s/&quot;rolodex./&quot;/gc</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
