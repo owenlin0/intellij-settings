@@ -10,10 +10,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/jackson/src/main/java/com/airbnb/common/jackson/Java8ObjectMapperFactory.java" timestamp="1491603281974">
         <mark key="'" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1491960722001">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1492018629301">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="24" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="74" />
         <mark key="." line="32" column="24" />
         <mark key="^" line="32" column="24" />
       </file>
@@ -360,7 +360,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491960379051">
+      <file name="/Dummy.txt" timestamp="1492018600054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -561,8 +561,8 @@
       <register name="/" type="4">
         <text>&quot;rolodex.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVGFnZ2VkTWV0cmljUmVnaXN0cnlGYWN0b3J5LmdldCgpCiAgICAgICAgICAuY291bnRlcigicm9sb2RleC5zdG9yYWdlLmNvbnRhY3RzLndyaXRlIikKICAgICAgICAgIC5pbmMoY29udGFjdHNSZWNvcmRzLnNpemUoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>omnes.rolodex_mobile_contact_batch_upload_event.v2.handle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -602,7 +602,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>&quot;rolodex.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
