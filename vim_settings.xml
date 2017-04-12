@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/jackson/src/main/java/com/airbnb/common/jackson/Java8ObjectMapperFactory.java" timestamp="1491603281974">
         <mark key="'" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1492018629301">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1492032580665">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="34" column="18" />
         <mark key="]" line="34" column="74" />
@@ -294,10 +294,10 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerV2.java" timestamp="1491960718117">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerV2.java" timestamp="1492032505586">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="71" />
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="24" />
       </file>
@@ -360,7 +360,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492030708117">
+      <file name="/Dummy.txt" timestamp="1492032552659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -435,10 +435,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1491960714001">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1492032404731">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="32" column="87" />
-        <mark key="]" line="32" column="90" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="79" />
         <mark key="." line="32" column="90" />
         <mark key="^" line="32" column="90" />
       </file>
@@ -562,7 +562,7 @@
         <text>TaggedMetricRegistry</text>
       </register>
       <register name="0" type="4">
-        <text>TaggedMetricRegistryFactory</text>
+        <text>omnes.rolodex_mobile_contact_batch_upload_event.v2.handle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
