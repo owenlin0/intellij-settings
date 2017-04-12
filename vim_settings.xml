@@ -393,7 +393,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491956133395">
+      <file name="/Dummy.txt" timestamp="1491960379051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,8 +408,8 @@
         <mark key="." line="47" column="84" />
         <mark key="^" line="47" column="84" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1491956879533">
-        <mark key="'" line="226" column="6" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1491960014766">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="326" column="13" />
         <mark key="]" line="326" column="19" />
         <mark key="." line="326" column="19" />
@@ -444,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="57" filename="$USER_HOME$/airlab/repos/treehouse/common/testutils/src/main/java/com/airbnb/common/testutils/mockutils/MockTaggedMetrics.java" />
       <jump line="33" column="4" filename="$USER_HOME$/airlab/repos/treehouse/common/testutils/src/main/java/com/airbnb/common/testutils/mockutils/MockTaggedMetrics.java" />
       <jump line="35" column="7" filename="$USER_HOME$/airlab/repos/treehouse/common/testutils/src/main/java/com/airbnb/common/testutils/mockutils/MockTaggedMetrics.java" />
       <jump line="6" column="33" filename="$USER_HOME$/airlab/repos/treehouse/common/testutils/src/main/java/com/airbnb/common/testutils/mockutils/MockTaggedMetrics.java" />
@@ -499,7 +498,6 @@
       <jump line="208" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="201" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="50" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="118" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="53" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="20" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/MicasaMutationHandler.java" />
@@ -544,6 +542,8 @@
       <jump line="324" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="325" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="226" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="62" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -559,7 +559,7 @@
         <text>.size()</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>rolodex.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVGFnZ2VkTWV0cmljUmVnaXN0cnlGYWN0b3J5LmdldCgpCiAgICAgICAgICAuY291bnRlcigicm9sb2RleC5zdG9yYWdlLmNvbnRhY3RzLndyaXRlIikKICAgICAgICAgIC5pbmMoY29udGFjdHNSZWNvcmRzLnNpemUoKSk7Cg==</text>
@@ -592,13 +592,13 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>rolodex.</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>rolodex.</last-pattern>
       <last-replace>ContactHandle.ContactHandleType</last-replace>
       <last-substitute>ContactHandleType</last-substitute>
       <last-dir>1</last-dir>
@@ -606,9 +606,6 @@
     </search>
     <history>
       <history-search>
-        <entry>h2</entry>
-        <entry>incr</entry>
-        <entry>inc</entry>
         <entry>storage</entry>
         <entry>List</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
@@ -626,6 +623,9 @@
         <entry>delete</entry>
         <entry>taggedmetric</entry>
         <entry>write</entry>
+        <entry>untagged</entry>
+        <entry>handle</entry>
+        <entry>rolodex.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbnRhY3RCb29rSW1wb3J0VHlwZS9JbXBvcnRUeXBlL2c=</entry>
@@ -646,8 +646,8 @@
         <entry>128</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
