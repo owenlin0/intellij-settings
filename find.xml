@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*handler.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +14,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
-      <mask>*</mask>
       <mask>*.yml.example</mask>
       <mask>*.gradle</mask>
       <mask>*.yml*</mask>
@@ -27,6 +27,10 @@
       <mask>i*resource.java</mask>
       <mask>i*resource.jav</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*handler</mask>
+      <mask>*handler.</mask>
+      <mask>*handler.java</mask>
     </recentFileMasks>
   </component>
 </application>
