@@ -343,10 +343,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1492627363045">
-        <mark key="'" line="67" column="39" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="86" column="32" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1492642162183">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="61" column="14" />
         <mark key="." line="326" column="19" />
         <mark key="^" line="326" column="19" />
       </file>
@@ -409,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="51" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="208" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="201" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -438,7 +437,6 @@
       <jump line="107" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="101" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="116" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="25" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="103" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="104" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -509,6 +507,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="268" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="67" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="279" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -524,10 +524,10 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>sanitize</text>
+        <text>storeContacts</text>
       </register>
-      <register name="0" type="4">
-        <text>omnes.rolodex_mobile_contact_batch_upload_event.v2.handle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFRhZ2dlZE1ldHJpY1JlZ2lzdHJ5RmFjdG9yeS5nZXQoKQogICAgICAgIC5jb3VudGVyKCJzdG9yYWdlLnByb2Nlc3NfZXZlbnQiKQogICAgICAgIC5pbmMoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXgudjQuRW1haWw7Cg==</text>
@@ -561,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sanitize</last-search>
+      <last-search>storeContacts</last-search>
       <last-offset />
-      <last-pattern>sanitize</last-pattern>
+      <last-pattern>storeContacts</last-pattern>
       <last-replace />
       <last-substitute>V2</last-substitute>
       <last-dir>1</last-dir>
@@ -571,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>taggedmetric</entry>
         <entry>write</entry>
         <entry>untagged</entry>
         <entry>rolodex.</entry>
@@ -591,6 +590,7 @@
         <entry encoding="base64">XDxwdWJsaXNoRXhwb3J0Q29udGFjdHNFdmVudFw+</entry>
         <entry encoding="base64">XDx3cml0ZVRvQ29udGFjdEJvb2tzVGFibGVcPg==</entry>
         <entry>sanitize</entry>
+        <entry>storeContacts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/contactBookImport/contactBook/gc</entry>
