@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943488252">
         <mark key="'" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" timestamp="1492124241234">
-        <mark key="'" line="13" column="41" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" timestamp="1492625490583">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -90,7 +90,6 @@
         <mark key="'" line="87" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactHandleTest.java" timestamp="1492124225560">
-        <mark key="'" line="16" column="46" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -215,10 +214,7 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" timestamp="1492124214293">
         <mark key="'" line="3" column="51" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="41" />
         <mark key="^" line="69" column="52" />
-        <mark key="." line="19" column="41" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1491255509781">
         <mark key="'" line="3373" column="35" />
@@ -305,7 +301,6 @@
         <mark key="'" line="33" column="63" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1492122453227">
-        <mark key="'" line="56" column="8" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -408,15 +403,12 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1492032404731">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="79" />
-        <mark key="." line="32" column="90" />
-        <mark key="^" line="32" column="90" />
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="79" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="31" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="32" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/Counter.java" />
@@ -516,6 +508,7 @@
       <jump line="53" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/RolodexConsumer.java" />
       <jump line="16" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactHandleTest.java" />
       <jump line="13" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -574,7 +567,7 @@
       <last-replace />
       <last-substitute>V2</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
