@@ -1,15 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*application.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -18,7 +13,6 @@
       <mask>*.yml.example</mask>
       <mask>*.gradle</mask>
       <mask>*.yml*</mask>
-      <mask>*.java</mask>
       <mask>*Resource.java</mask>
       <mask>ild.gra*resource.java</mask>
       <mask>ild.gr*resource.java</mask>
@@ -31,7 +25,16 @@
       <mask>*</mask>
       <mask>*handler</mask>
       <mask>*handler.</mask>
+      <mask>*handl.ler.java</mask>
+      <mask>*handl.ller.java</mask>
       <mask>*handler.java</mask>
+      <mask>*hanr.java</mask>
+      <mask>*han.java</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
+      <mask>*ap.java</mask>
+      <mask>*app.java</mask>
+      <mask>*application.java</mask>
     </recentFileMasks>
   </component>
 </application>
