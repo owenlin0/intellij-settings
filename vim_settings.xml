@@ -113,8 +113,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BookingPermissionCreateOrUpdateEventHandler.java" timestamp="1491848115393">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1493863822797">
-        <mark key="'" line="265" column="6" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1493933066643">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="284" column="50" />
         <mark key="]" line="284" column="50" />
         <mark key="." line="284" column="50" />
@@ -413,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
       <jump line="68" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="74" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="91" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -513,6 +512,7 @@
       <jump line="47" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="23" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
       <jump line="265" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
