@@ -19,9 +19,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" timestamp="1491848506922">
         <mark key="'" line="29" column="2" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/connections/connections-server/src/main/java/com/airbnb/connections/api/ConnectionPresenter.java" timestamp="1491942070712">
-        <mark key="'" line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" timestamp="1492122374241">
         <mark key="'" line="104" column="2" />
         <mark key="[" line="76" column="0" />
@@ -42,18 +39,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.194.2/e34ec9af3187b7de47745d1bffb84078dc77729e/jitney-schemas-3.194.2.jar!/com/airbnb/jitney/event/logging/Rolodex/v3/RolodexMobileContactBatchUploadEvent.class" timestamp="1490993929188">
         <mark key="'" line="75" column="96" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-db/0.7.1/362803d298a839a88b8f52055d5da09309ced4f1/dropwizard-db-0.7.1-sources.jar!/io/dropwizard/db/DataSourceFactory.java" timestamp="1491952398910">
-        <mark key="'" line="249" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/0.7.1/69a7060ab0a42328331ac3e779f70f7cdc0dc720/dropwizard-core-0.7.1-sources.jar!/io/dropwizard/setup/Environment.java" timestamp="1491946917552">
         <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1492733615316">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="155" column="21" />
-        <mark key="]" line="155" column="21" />
-        <mark key="^" line="155" column="21" />
-        <mark key="." line="155" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/JsonMapperUtils.java" timestamp="1492731544874">
         <mark key="'" line="11" column="29" />
@@ -61,39 +48,12 @@
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" timestamp="1493938335306">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
-        <mark key="'" line="26" column="61" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943488252">
-        <mark key="'" line="50" column="4" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" timestamp="1492625490583">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" timestamp="1491960728369">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="21" />
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="24" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1493860497735">
-        <mark key="'" line="87" column="29" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactHandleTest.java" timestamp="1492124225560">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943104830">
         <mark key="'" line="24" column="16" />
@@ -108,9 +68,6 @@
         <mark key="]" line="46" column="89" />
         <mark key="." line="46" column="43" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" timestamp="1492732404905">
-        <mark key="'" line="45" column="33" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/mutators/DekuMutator.java" timestamp="1491943233343">
         <mark key="'" line="2" column="33" />
       </file>
@@ -119,6 +76,189 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BookingPermissionCreateOrUpdateEventHandler.java" timestamp="1491848115393">
         <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" timestamp="1491355971109">
+        <mark key="'" line="112" column="27" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1491943295179">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTestV2.java" timestamp="1491849293643">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="25" />
+        <mark key="^" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" timestamp="1493936041518">
+        <mark key="'" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1492735972913">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="79" column="51" />
+        <mark key="]" line="80" column="3" />
+        <mark key="." line="80" column="3" />
+        <mark key="^" line="80" column="3" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1491606348906">
+        <mark key="'" line="244" column="70" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
+        <mark key="'" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" timestamp="1491609235371">
+        <mark key="'" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1492726376177">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="45" column="29" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/resources/MediaResourceTest.java" timestamp="1491947040234">
+        <mark key="'" line="50" column="82" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/security/cipher/src/main/java/com/airbnb/cipher/handler/CipherHandler.java" timestamp="1491848125110">
+        <mark key="'" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/Contact.java" timestamp="1491606706682">
+        <mark key="'" line="26" column="41" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/MicasaMutationHandler.java" timestamp="1491956466561">
+        <mark key="'" line="28" column="45" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerV2.java" timestamp="1492032505586">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/Handler.java" timestamp="1491848013446">
+        <mark key="'" line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
+        <mark key="'" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/TardisApplication.java" timestamp="1491942896772">
+        <mark key="'" line="44" column="50" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/api/src/test/java/com/airbnb/ebert/api/request/filters/LongFilterTest.java" timestamp="1491604838409">
+        <mark key="'" line="13" column="64" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" timestamp="1491589195323">
+        <mark key="'" line="33" column="63" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/narad/src/main/java/com/airbnb/narad/NaradApplication.java" timestamp="1492731518878">
+        <mark key="'" line="40" column="53" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="73" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" timestamp="1493939070993">
+        <mark key="'" line="148" column="6" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="43" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1491941969487">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="28" column="70" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1493936164980">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/AbstractAeonSpinalTapMutationHandler.java" timestamp="1491848150339">
+        <mark key="'" line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/service/build.gradle" timestamp="1491603445091">
+        <mark key="'" line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/resources/fixtures/contact_address_format.json" timestamp="1491605682807">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactMetadataFormat.java" timestamp="1491606509460">
+        <mark key="'" line="22" column="2" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="24" column="1" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1491942974540">
+        <mark key="'" line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/utils/StreamUtilsTest.java" timestamp="1492122880785">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/baloo/src/test/java/com/airbnb/baloo/api/BalooResourceTest.java" timestamp="1490737756062">
+        <mark key="'" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" timestamp="1493939264422">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="100" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/connections/connections-server/src/main/java/com/airbnb/connections/api/ConnectionPresenter.java" timestamp="1491942070712">
+        <mark key="'" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-db/0.7.1/362803d298a839a88b8f52055d5da09309ced4f1/dropwizard-db-0.7.1-sources.jar!/io/dropwizard/db/DataSourceFactory.java" timestamp="1491952398910">
+        <mark key="'" line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1492733615316">
+        <mark key="'" line="48" column="2" />
+        <mark key="[" line="155" column="21" />
+        <mark key="]" line="155" column="21" />
+        <mark key="^" line="155" column="21" />
+        <mark key="." line="155" column="21" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" timestamp="1493939130570">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="12" column="79" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
+        <mark key="'" line="26" column="61" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943488252">
+        <mark key="'" line="50" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactBookTest.java" timestamp="1492625490583">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1493860497735">
+        <mark key="'" line="87" column="29" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactHandleTest.java" timestamp="1492124225560">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" timestamp="1492732404905">
+        <mark key="'" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1493933066643">
         <mark key="'" line="59" column="0" />
@@ -143,16 +283,6 @@
         <mark key="]" line="47" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" timestamp="1491355971109">
-        <mark key="'" line="112" column="27" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1491943295179">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="56" column="46" />
-        <mark key="." line="56" column="53" />
-        <mark key="^" line="56" column="53" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormatTest.java" timestamp="1492733125069">
         <mark key="'" line="51" column="17" />
         <mark key="[" line="49" column="0" />
@@ -160,32 +290,12 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="52" column="21" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTestV2.java" timestamp="1491849293643">
-        <mark key="'" line="62" column="25" />
-        <mark key="[" line="62" column="19" />
-        <mark key="]" line="62" column="25" />
-        <mark key="^" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" timestamp="1493936041518">
-        <mark key="'" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" timestamp="1492735972913">
-        <mark key="'" line="79" column="31" />
-        <mark key="[" line="79" column="51" />
-        <mark key="]" line="80" column="3" />
-        <mark key="." line="80" column="3" />
-        <mark key="^" line="80" column="3" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/MysqlStorage.java" timestamp="1492734955902">
         <mark key="'" line="29" column="7" />
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1491606348906">
-        <mark key="'" line="244" column="70" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/DekuService.java" timestamp="1491603842057">
         <mark key="'" line="73" column="84" />
@@ -197,24 +307,8 @@
         <mark key="^" line="40" column="19" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
-        <mark key="'" line="4" column="57" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtilsV2.java" timestamp="1491945715753">
         <mark key="'" line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" timestamp="1491609235371">
-        <mark key="'" line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1492726376177">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="30" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/resources/MediaResourceTest.java" timestamp="1491947040234">
-        <mark key="'" line="50" column="82" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1492734925955">
         <mark key="'" line="21" column="28" />
@@ -241,9 +335,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/security/cipher/src/main/java/com/airbnb/cipher/handler/CipherHandler.java" timestamp="1491848125110">
-        <mark key="'" line="29" column="19" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormatForSatori.java" timestamp="1491606781245">
         <mark key="'" line="15" column="49" />
         <mark key="[" line="15" column="0" />
@@ -257,6 +348,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" timestamp="1493939311221">
+        <mark key="'" line="29" column="55" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="55" />
+        <mark key="." line="29" column="55" />
+        <mark key="^" line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service-common/src/main/java/com/airbnb/micasa/fielddescriptors/sanitizers/Sanitizers.java" timestamp="1490856751117">
         <mark key="'" line="50" column="0" />
       </file>
@@ -266,47 +364,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-client/build.gradle" timestamp="1491943336996">
         <mark key="'" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/Contact.java" timestamp="1491606706682">
-        <mark key="'" line="26" column="41" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/MicasaMutationHandler.java" timestamp="1491956466561">
-        <mark key="'" line="28" column="45" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerV2.java" timestamp="1492032505586">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="71" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="24" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1492732790628">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="44" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1492626800187">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/Handler.java" timestamp="1491848013446">
-        <mark key="'" line="23" column="3" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
-        <mark key="'" line="81" column="4" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/TardisApplication.java" timestamp="1491942896772">
-        <mark key="'" line="44" column="50" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/api/src/test/java/com/airbnb/ebert/api/request/filters/LongFilterTest.java" timestamp="1491604838409">
-        <mark key="'" line="13" column="64" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" timestamp="1493938047610">
         <mark key="'" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" timestamp="1491589195323">
-        <mark key="'" line="33" column="63" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1492122453227">
         <mark key="[" line="3" column="0" />
@@ -323,12 +385,6 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/narad/src/main/java/com/airbnb/narad/NaradApplication.java" timestamp="1492731518878">
-        <mark key="'" line="40" column="53" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="63" column="73" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
@@ -336,13 +392,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1491941969487">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="28" column="70" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
         <mark key="'" line="19" column="0" />
@@ -360,46 +409,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="322" column="19" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1493936164980">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/AbstractAeonSpinalTapMutationHandler.java" timestamp="1491848150339">
-        <mark key="'" line="162" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/service/build.gradle" timestamp="1491603445091">
-        <mark key="'" line="38" column="27" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/test/TestHelper.java" timestamp="1491947084578">
         <mark key="'" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/resources/fixtures/contact_address_format.json" timestamp="1491605682807">
-        <mark key="'" line="1" column="9" />
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactMetadataFormat.java" timestamp="1491606509460">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="24" column="1" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1491942974540">
-        <mark key="'" line="26" column="22" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/utils/StreamUtilsTest.java" timestamp="1492122880785">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactHandleMetadataFormat.java" timestamp="1491606685995">
         <mark key="'" line="18" column="54" />
@@ -407,9 +421,6 @@
         <mark key="]" line="12" column="96" />
         <mark key="." line="12" column="88" />
         <mark key="^" line="12" column="88" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/baloo/src/test/java/com/airbnb/baloo/api/BalooResourceTest.java" timestamp="1490737756062">
-        <mark key="'" line="93" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1492735304156">
         <mark key="'" line="0" column="32" />
@@ -427,106 +438,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="65" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="351" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="360" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="363" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="376" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="379" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="616" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="621" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="625" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="626" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="54" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="45" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="66" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="35" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="37" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="44" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="46" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="60" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="61" column="88" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="50" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="72" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="87" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="32" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="33" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="139" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="40" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="121" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="94" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="48" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" />
-      <jump line="33" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/integration/ContactsHealthcheckTest.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="78" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="27" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/MysqlStorage.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="46" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="79" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/module/RolodexModule.java" />
-      <jump line="25" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" />
-      <jump line="61" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="404" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="405" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="434" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="435" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="44" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="46" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="47" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="23" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" />
-      <jump line="265" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="81" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" />
-      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" />
-      <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="12" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="23" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="78" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="14" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="55" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="40" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="21" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="33" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="116" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="117" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="131" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="148" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="149" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="214" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="10" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="9" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="235" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="93" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="139" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="34" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="101" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="105" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="109" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="111" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="115" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="118" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="126" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="131" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="136" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="140" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="145" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="149" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="153" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="162" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="171" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="173" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="175" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="179" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="198" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="210" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="215" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="221" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="225" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="231" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="233" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="241" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="253" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="265" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="270" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="277" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="285" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="291" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="296" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="302" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="311" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="305" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="10" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="28" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="136" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="48" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="50" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="55" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="60" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="65" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="74" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="80" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="87" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="91" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="95" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="97" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="101" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="104" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="112" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="117" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="122" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="126" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="131" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="135" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="139" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="148" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="157" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="159" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="161" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="165" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="184" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="196" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="201" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="207" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="211" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="217" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="219" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="227" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="239" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="251" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="256" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="263" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="271" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="148" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
+      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
+      <jump line="29" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,16 +550,16 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Autocomplete</text>
+        <text>DynamoDBAndHFileDataMerger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaXZlVG9UaHJpZnRNYXJrZXRMb2NhbGVcPg==</text>
+        <text>rdd</text>
       </register>
-      <register name="0" type="4">
-        <text>hiveToThriftMarketLocale</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyEvYmluL3NoCkVYVFJBX0NMQVNTUEFUSD0kKGZpbmQgL21udC92YXIvb3B0L0NESC9saWIvaGl2ZS9saWIvIC1uYW1lICcqLmphcicgLW5vdCAtbmFtZSAnaGJhc2UqJyAtcHJpbnQwIHwgc2VkICdzL1x4MC86L2cnKQoKVVNBR0U9Ii4vcnVuLWRhdGFtZXJnZS5zaCBTM19QQVRIX1RPX0RZTkFNT19EVU1QIFMzX1BBVEhfVE9fSEZJTEVTX0xPQ0FUSU9OIERPTUFJTiBORUJVTEFfQ0xVU1RFUl9OQU1FIE5FQlVMQV9SRVBPX05BTUUgRVBPQ0ggW2UuZy4gLi9ydW4tZGF0YW1lcmdlLWZyb20tbG9jYWwuc2ggIC90ZXN0L25lYnVsYS10ZXN0LnVzZXItam9pbi4yMDE1LTEwLTIyLTAwLTAwLzIwMTUtMTEtMDYtMTktNDEtMDMvKiAvREFUQS9oZmlsZXMvTkVCVUxBL2Vwb2NoPTIwMTUtMTEtMDgtMDEtMDcvZC8qIHRlc3Qgc2VhcmNoIGxpc3RpbmdfaW5kZXggMjAxNi0wOC0wMV0iCgppZiBbWyAkIyAhPSA2IF1dOwp0aGVuCgllY2hvICR7VVNBR0V9CglleGl0CmZpCgphYmItc3Bhcmstc3VibWl0IFwKLS1kcml2ZXItY2xhc3MtcGF0aCAke0VYVFJBX0NMQVNTUEFUSH0gXAotLWNvbmYgc3BhcmsuZXhlY3V0b3IuZXh0cmFDbGFzc1BhdGg9JHtFWFRSQV9DTEFTU1BBVEh9IFwKLS1udW0tZXhlY3V0b3JzIDEwMCBcCi0tbWFzdGVyIHlhcm4tY2xpZW50IFwKLS1jb25mIHNwYXJrLnNodWZmbGUuYmxvY2tUcmFuc2ZlclNlcnZpY2U9bmlvIFwKLS1jb25mIHNwYXJrLmFra2EuZnJhbWVTaXplPTgwMCBcCi0tY29uZiBzcGFyay5zaHVmZmxlLmNvbnNvbGlkYXRlRmlsZXM9dHJ1ZSBcCi0tY29uZiBzcGFyay5zcGVjdWxhdGlvbj1mYWxzZSBcCi0tY29uZiBzcGFyay50YXNrLm1heEZhaWx1cmVzPTcgXAotLWNvbmYgc3BhcmsuY2xlYW5lci50dGw9MzYwMDAgXAotLWNvbmYgc3BhcmsuY29yZS5jb25uZWN0aW9uLmFjay53YWl0LnRpbWVvdXQ9MzYwIFwKLS1jb25mIHNwYXJrLnNodWZmbGUubWFuYWdlcj1zb3J0IFwKLS1jb25mIHNwYXJrLnNodWZmbGUuaW8ucHJlZmVyRGlyZWN0QnVmcz1mYWxzZSBcCi0tY29uZiBzcGFyay5zaHVmZmxlLmlvLmNsaWVudFRocmVhZHM9OCBcCi0tY29uZiBzcGFyay5kZWZhdWx0LnBhcmFsbGVsaXNtPTEwMCBcCi0tZXhlY3V0b3ItbWVtb3J5IDhHIFwKLS1kcml2ZXItbWVtb3J5IDhHIFwKLS1jbGFzcyBjb20uYWlyYm5iLm5lYnVsYS5kYXRhbWVyZ2VyLkR5bmFtb0RCQW5kSEZpbGVEYXRhTWVyZ2VyIGRhdGEtbWVyZ2VyLWFsbC5qYXIgJDEgJDIgJDMgJDQgJDUgJDYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBUYWJsZXMgb2YgYXV0b2NvbXBsZXRlcmUgcmVzdWx0cwogICovCmNhc2UgY2xhc3MgTWFya2V0TG9jYWxlTG9jYXRpb24oZGltTWFya2V0OlN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NhbGU6U3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlSWQ6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyeTogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjb3JlOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtU2VhcmNoZXM6IEludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmlnZ2VyOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlczogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1zOiBTdHJpbmcpIHt9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -557,41 +568,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiB1bmlmeVNpZ25hbHMoaW5pdFJERDogUkREW0hGaWxlVHJpcGxlXSwgc2lnbmFsczogTGlzdFtTaWduYWxdLCBzYzogU3BhcmtDb250ZXh0KTogUkREW0hGaWxlVHJpcGxlXSA9IHsKICAgIHNpZ25hbHMuZm9sZExlZnQoaW5pdFJERCkgeyAoYWxsLCBzaWduYWwpID0+CiAgICAgIGxvZ2dlci5pbmZvKCJzaWduYWw9e30iLCBzaWduYWwpCiAgICAgIHZhbCBoZmlsZURhdGFOYW1lID0gc2lnbmFsLmdldEhmaWxlRGF0YU5hbWUKICAgICAgdmFsIGVwb2NoID0gc2lnbmFsLmdldFZlcnNpb25Ub01lcmdlCgogICAgICB2YWwgYnVja2V0ID0gInMzYTovL2FpcmJuYi1oZmlsZXNlcnZpY2UvIgogICAgICB2YWwga2V5ID0gIi9EQVRBL2hmaWxlcy8lcy9lcG9jaD0lcy8qKiIuZm9ybWF0KGhmaWxlRGF0YU5hbWUsIGVwb2NoKQoKICAgICAgbG9nZ2VyLmluZm8oInNpZ25hbCBoZmlsZSBwYXRoPXt9IiwgKGJ1Y2tldCwga2V5KSkKICAgICAgdmFsIGhyZGQ6IFJERFtIRmlsZVRyaXBsZV0gPSBuZXcgSEZpbGVSZWFkZXIoKS5yZWFkSEZpbGVUcmlwbGVzKGJ1Y2tldCwga2V5LCBzYykKICAgICAgYWxsLnVuaW9uKGhyZGQpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvbG9kZXhleHBvcnRldmVudAo=</text>
+        <text encoding="base64">ICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChkb21haW4gPT0gInRlc3QiIHx8IGRvbWFpbiA9PSAicHJvZCIgfHwKICAgICAgZG9tYWluID09ICJwcm9kdWN0aW9uIiB8fCBkb21haW4gPT0gInN0YWdpbmciKQogICAgbG9nZ2VyLmluZm8oIkFyZ3VtZW50cyBhcmUge30ge30ge30ge30ge30ge30iLAogICAgICBkeW5hbW9EYXRhUGF0aCwgb3JpZ0hmaWxlZGF0YVBhdGgsIGRvbWFpbiwKICAgICAgbmVidWxhQ2x1c3Rlck5hbWUsIG5lYnVsYVJlcG9OYW1lLCBhaXJmbG93RXBvY2gpCgogICAgdmFsIG1tYXAgPSBuZXcgSGFzaE1hcFtTdHJpbmcsIFN0cmluZ10oKQogICAgZm9yIChpIDwtIDYgdW50aWwgYXJncy5sZW5ndGgpIHsKICAgICAgdmFsIGFyZyA9IGFyZ3MoaSkKICAgICAgaWYgKCFhcmcuY29udGFpbnMoIj0iKSkgdGhyb3cgbmV3IEV4Y2VwdGlvbigiaW5wdXQgcGFyYW1ldGVyIHdyb25nOiAlcyIuZm9ybWF0KGFyZ3MpKQogICAgICB2YWwgc2VncyA9IGFyZy5zcGxpdCgiPSIpCiAgICAgIG1tYXAoc2VncygwKSkgPSBzZWdzKDEpCiAgICB9CgogICAgdmFsIGF1Z21lbnRlZENvbmZpZyA9IG1tYXAudG9NYXAKCiAgICB2YWwgemtQYXRoID0gIi8lcy9uZWJ1bGEvIi5mb3JtYXQoZG9tYWluKQogICAgdmFsIHJlcG9zaXRvcnlIYW5kbGVyID0gUmVwb3NpdG9yeUNvbmZpZ3VyYXRpb25IYW5kbGVyLmNyZWF0ZUluc3RhbmNlKHprUGF0aCwgbmVidWxhQ2x1c3Rlck5hbWUpCiAgICB2YWwgaGFuZGxlciA9IG5ldyBOZWJ1bGFSZXBvc2l0b3J5Q29uZmlndXJhdGlvbkhhbmRsZXIocmVwb3NpdG9yeUhhbmRsZXIsIDEwMCAvKmR1bW15Ki8pCiAgICB2YWwgcmVwb3NpdG9yeUNvbmZpZyA9IGhhbmRsZXIuZ2V0UmVwb3NpdG9yeUNvbmZpZyhuZWJ1bGFSZXBvTmFtZSkKCiAgICB2YWwgaGZpbGVQcm9wZXJ0aWVzID0gaGFuZGxlci5nZXRIZmlsZURldGFpbHMobmVidWxhUmVwb05hbWUpCiAgICBsb2dnZXIuaW5mbygiaGZpbGVQcm9wZXJ0aWVzPXt9IiwgaGZpbGVQcm9wZXJ0aWVzKQogICAgdmFsIGhmaWxlQ2x1c3Rlck5hbWUgPSBoZmlsZVByb3BlcnRpZXMuZ2V0KEhGaWxlU2VydmljZVByb3BlcnRpZXMuQ0xVU1RFUl9OQU1FKQogICAgdmFsIGhmaWxlRGF0YW5hbWUgPSBoZmlsZVByb3BlcnRpZXMuZ2V0KEhGaWxlU2VydmljZVByb3BlcnRpZXMuREFUQV9OQU1FKQoKICAgIHZhbCBwYWlyID0gUmVwb3NpdG9yeUNvbmZpZ1V0aWxzLnVuc2V0Q3VycmVudFZlcnNpb25JblJlcGxhY2VtZW50KAogICAgICBSZXBvc2l0b3J5Q29uZmlnVXRpbHMuZ2V0U2lnbmFsUGFpcihyZXBvc2l0b3J5Q29uZmlnKSk7CiAgICB2YWwgY2xlYW5lZFNpZ25hbFBhaXIgPSBSZXBvc2l0b3J5Q29uZmlnVXRpbHMuYXBwbHlSZXBsYWNlbWVudChwYWlyKQogICAgdmFsIHNpZ25hbHMgPSBoYW5kbGVyLmdldFNpZ25hbHNUb01lcmdlKFJlcG9zaXRvcnlDb25maWdVdGlscy5jb25jYXRlbmF0ZVNpZ25hbHMoY2xlYW5lZFNpZ25hbFBhaXIpKS5hc1NjYWxhLnRvTGlzdAoKICAgIGxvZ2dlci5pbmZvKCJwcm9jZXNzaW5nIHRoZXNlIHNpZ25hbHM9e30iLCBzaWduYWxzKQoKICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUodGhpcy5nZXRDbGFzcy5nZXROYW1lKQogICAgdmFsIHNjID0gbmV3IFNwYXJrQ29udGV4dChjb25mKQogICAgc2MuaGFkb29wQ29uZmlndXJhdGlvbi5zZXQoRmlsZUlucHV0Rm9ybWF0LlNQTElUX01JTlNJWkUsICI2NzEwODg2NCIpIC8vIDY0IE1CIHRvIGVuc3VyZSBubyBwYXJ0aXRpb24gaXMgdG9vIHNtYWxsCiAgICBzYy5oYWRvb3BDb25maWd1cmF0aW9uLnNldChGaWxlSW5wdXRGb3JtYXQuU1BMSVRfTUFYU0laRSwgIjY3MTA4ODY0IikgLy8gNjQgTUIgdG8gZW5zdXJlIG5vIHBhcnRpdGlvbiBpcyB0b28gbGFyZ2UKCiAgICB2YWwgam9iQ29uZmlnOiBDb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoSk9CX0NPTkZfRklMRSkKCiAgICB2YWwgaGZpbGVDb25maWdGaWxlTmFtZSA9IE9VVFBVVF9DT05GSUdfTkFNRV9QUkVGSVggKyBkb21haW4gKyAiLmNvbmYiCiAgICB2YXIgaEZpbGVDb25maWc6IENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkubG9hZChoZmlsZUNvbmZpZ0ZpbGVOYW1lKQoKICAgIGhGaWxlQ29uZmlnID0gaEZpbGVDb25maWcud2l0aFZhbHVlKCJjbHVzdGVyX25hbWVzIiwgQ29uZmlnVmFsdWVGYWN0b3J5LmZyb21JdGVyYWJsZSh1dGlsLkFycmF5cy5hc0xpc3QoaGZpbGVDbHVzdGVyTmFtZSkpKQogICAgaEZpbGVDb25maWcgPSBoRmlsZUNvbmZpZy53aXRoVmFsdWUoImRhdGFfbmFtZSIsIENvbmZpZ1ZhbHVlRmFjdG9yeS5mcm9tQW55UmVmKGhmaWxlRGF0YW5hbWUpKQoKICAgIC8vIFVzZSByZXBvIHNwZWNpZmljIG51bV9zaGFyZHMKICAgIHZhbCByZXBvTnVtU2hhcmRzID0gbmVidWxhUmVwb05hbWUgKyAiX251bV9zaGFyZHMiCiAgICBpZiAoaEZpbGVDb25maWcuaGFzUGF0aChyZXBvTnVtU2hhcmRzKSkgewogICAgICBoRmlsZUNvbmZpZyA9IGhGaWxlQ29uZmlnLndpdGhWYWx1ZSgibnVtX3NoYXJkcyIsIGhGaWxlQ29uZmlnLmdldFZhbHVlKHJlcG9OdW1TaGFyZHMpKQogICAgICBsb2dnZXIuaW5mbygiVXNpbmcgbnVtX3NoYXJkcyBmcm9tICIgK3JlcG9OdW1TaGFyZHMpCiAgICB9CgogICAgbG9nZ2VyLmluZm8oIlRoZSBoZmlsZWNvbmZpZyBkYXRhX25hbWUgaXMge30iLCBoRmlsZUNvbmZpZy5nZXRTdHJpbmcoImRhdGFfbmFtZSIpKQogICAgbG9nZ2VyLmluZm8oIlRoZSBoZmlsZWNvbmZpZyBjbHVzdGVyX25hbWVzIGlzIHt9IiwgaEZpbGVDb25maWcuZ2V0VmFsdWUoImNsdXN0ZXJfbmFtZXMiKS50b1N0cmluZykKICAgIGxvZ2dlci5pbmZvKCJUaGUgaGZpbGVjb25maWcgbnVtIHNoYXJkcyBpcyB7fSIsIGhGaWxlQ29uZmlnLmdldFZhbHVlKCJudW1fc2hhcmRzIikudG9TdHJpbmcpCgogICAgdmFsIGZpbGVTeXN0ZW1TdHIgPSBqb2JDb25maWcuZ2V0Q29uZmlnKElOUFVUX0NPTkZJR19OQU1FKS5nZXRTdHJpbmcoTkVCVUxBX0ZTKQogICAgdmFsIGZpbGVTeXN0ZW06IEZpbGVTeXN0ZW0gPSBGaWxlU3lzdGVtLmdldChuZXcgamF2YS5uZXQuVVJJKGZpbGVTeXN0ZW1TdHIpLCBuZXcgQ29uZmlndXJhdGlvbigpKQogICAgdmFsIHBhdGggPSBuZXcgUGF0aChkeW5hbW9EYXRhUGF0aCkKCiAgICB2YWwgYnVmZmVyID0gRHluYW1vREJVdGlscy5nZXRIRmlsZVRyaXBsZVJERChzYywgZmlsZVN5c3RlbSwgcGF0aCkKCiAgICAvLyBSZXRlbnRpb24gY29uZmlncwogICAgdmFsIG5hbm9zSW5EYXkgPSAyNCAqIDM2MDAgKiAxMDAwTCAqIDEwMDBMICogMTAwMEwKICAgIHZhbCBkYXlzVG9OYW5vcyA9ICh4IDogSW50KSA9PiBuYW5vc0luRGF5ICogeAoKICAgIHZhbCByZXRlbnRpb25UaW1lID0gT3B0aW9uKGRheXNUb05hbm9zKG1tYXAuZ2V0T3JFbHNlKCJyZXRlbnRpb25fZGF5cyIsIDE4MCkudG9TdHJpbmcudG9JbnQpKQogICAgdmFsIGNvbmZpZ1JldGVudGlvblRpbWUgPSBPcHRpb24ocmVwb3NpdG9yeUNvbmZpZy5nZXRSZXRlbnRpb25EYXlzKCkpLm1hcChkYXlzVG9OYW5vcyhfKSkKCiAgICB2YWwgdW5saW1pdGVkUmV0ZW50aW9uID0gbW1hcC5nZXRPckVsc2UoInVubGltaXRlZF9yZXRlbnRpb24iLCAiZmFsc2UiKS5lcXVhbHMoInRydWUiKQogICAgLy8gUHJlZmVyIHVubGltaXRlZCByZXRlbnRpb24gb3ZlciBjb25maWcgcmV0ZW50aW9uIG92ZXIgZGVmYXVsdCByZXRlbnRpb24KICAgIHZhbCByZXRhaW5UaW1lSW5OYW5vc09wdGlvbiA9IGlmICghdW5saW1pdGVkUmV0ZW50aW9uKSB7CiAgICAgIGNvbmZpZ1JldGVudGlvblRpbWUub3JFbHNlKHJldGVudGlvblRpbWUpCiAgICB9IGVsc2UgewogICAgICBOb25lCiAgICB9CgogICAgdmFsIG1heFZlcnNpb25zID0gT3B0aW9uKHJlcG9zaXRvcnlDb25maWcuZ2V0TWF4VmVyc2lvbnMoKSkubWFwKF8udG9JbnQpCiAgICB2YWwgZGVmYXVsdE1heFZlcnNpb25zID0gT3B0aW9uKG1heFZlcnNpb25Ub0tlZXApCiAgICAvLyBQcmVmZXIgY29uZmlndXJlZCBtYXggdmVyc2lvbnMgb3ZlciBkZWZhdWx0IG1heCB2ZXJzaW9ucwogICAgdmFsIG1heFZlcnNpb25zT3B0aW9uIDogT3B0aW9uW0ludF0gPSBtYXhWZXJzaW9ucy5vckVsc2UoZGVmYXVsdE1heFZlcnNpb25zKQoKICAgIC8vIFByZWZlciBjb2x1bW4gY3JpdGVyaW9uIG92ZXIgYW55IGdsb2JhbCBsZXZlbCBzZXR0aW5nCiAgICB2YWwgY29sdW1uQ3JpdGVyaW9uIDogU2VxW0NyaXRlcmlvbl0gPSByZXBvc2l0b3J5Q29uZmlnLmdldENvbHVtbkNvbmZpZ3MubWFwKGMgPT4gewogICAgICBDcml0ZXJpb24oYy5nZXROYW1lLCBPcHRpb24oYy5nZXRNYXhWZXJzaW9ucyksIE9wdGlvbihjLmdldFJldGVudGlvbkRheXMpLm1hcChkYXlzVG9OYW5vcyhfKSkpCiAgICB9KQoKICAgIGxvZ2dlci5pbmZvKCJtYXhWZXJzaW9ucz17fSIsIG1heFZlcnNpb25zT3B0aW9uKQogICAgbG9nZ2VyLmluZm8oInJldGVudGlvbkRheXM9e30iLCByZXRhaW5UaW1lSW5OYW5vc09wdGlvbi5tYXAoXyAvIG5hbm9zSW5EYXkpKQogICAgbG9nZ2VyLmluZm8oImNvbHVtbkNyaXRlcmlvbj17fSIsIGNvbHVtbkNyaXRlcmlvbikKCiAgICAvLyBTaWduYWwgY29uZmlncwogICAgdmFsIHJlcGxhY2VTaWduYWxzID0gc2lnbmFscy5maWx0ZXIoCiAgICAgIHNpZ25hbCA9PiBzaWduYWwuaGFzU2V0U2lnbmFsUmVmcmVzaFR5cGUoKSAmJgogICAgICAgIHNpZ25hbC5nZXRTaWduYWxSZWZyZXNoVHlwZSgpID09IFNpZ25hbFJlZnJlc2hUeXBlLlJFUExBQ0UpCgogICAgdmFsIG92ZXJ3cml0ZVNpZ25hbHMgPSBzaWduYWxzLmZpbHRlcigKICAgICAgc2lnbmFsID0+IHNpZ25hbC5oYXNTZXRTaWduYWxSZWZyZXNoVHlwZSgpICYmCiAgICAgICAgc2lnbmFsLmdldFNpZ25hbFJlZnJlc2hUeXBlKCkgPT0gU2lnbmFsUmVmcmVzaFR5cGUuUkVQTEFDRV9JRl9FWElTVFMpCgogICAgdmFsIGRlbGV0ZVNpZ25hbHMgPSBzaWduYWxzLmZpbHRlcigKICAgICAgc2lnbmFsID0+IHNpZ25hbC5oYXNTZXRTaWduYWxSZWZyZXNoVHlwZSgpICYmCiAgICAgICAgc2lnbmFsLmdldFNpZ25hbFJlZnJlc2hUeXBlKCkgPT0gU2lnbmFsUmVmcmVzaFR5cGUuREVMRVRFKQoKICAgIC8vIHR5cGUgTUVSR0UgaXMgZGVmYXVsdAogICAgdmFsIG1lcmdlU2lnbmFscyA9IHNpZ25hbHMuZmlsdGVyKAogICAgICBzaWduYWwgPT4gIXNpZ25hbC5oYXNTZXRTaWduYWxSZWZyZXNoVHlwZSgpIHx8CiAgICAgICAgc2lnbmFsLmdldFNpZ25hbFJlZnJlc2hUeXBlKCkgPT0gU2lnbmFsUmVmcmVzaFR5cGUuTUVSR0UpCiAgICB2YWwgcmVwbGFjZVNpZ25hbENvbHVtbk5hbWVzID0gcmVwbGFjZVNpZ25hbHMubWFwKF8uZ2V0Q29sdW1uTmFtZSkudG9TZXQKICAgIHZhbCBvdmVyd3JpdGVTaWduYWxDb2x1bW5OYW1lcyA9IG92ZXJ3cml0ZVNpZ25hbHMubWFwKF8uZ2V0Q29sdW1uTmFtZSkudG9TZXQKICAgIHZhbCBkZWxldGVTaWduYWxDb2x1bW5OYW1lcyA9IGRlbGV0ZVNpZ25hbHMubWFwKF8uZ2V0Q29sdW1uTmFtZSkudG9TZXQKICAgIHZhbCBtZXJnZVNpZ25hbENvbHVtbk5hbWVzID0gbWVyZ2VTaWduYWxzLm1hcChfLmdldENvbHVtbk5hbWUpLnRvU2V0CgogICAgbG9nZ2VyLmluZm8oInJlcGxhY2VTaWduYWxzPXt9IiwgcmVwbGFjZVNpZ25hbHMpCiAgICBsb2dnZXIuaW5mbygicmVwbGFjZVNpZ25hbENvbHVtbk5hbWVzPXt9IiwgcmVwbGFjZVNpZ25hbENvbHVtbk5hbWVzKQogICAgbG9nZ2VyLmluZm8oIm92ZXJ3cml0ZVNpZ25hbHM9e30iLCBvdmVyd3JpdGVTaWduYWxzKQogICAgbG9nZ2VyLmluZm8oIm92ZXJ3cml0ZVNpZ25hbENvbHVtbk5hbWVzPXt9Iiwgb3ZlcndyaXRlU2lnbmFsQ29sdW1uTmFtZXMpCiAgICBsb2dnZXIuaW5mbygiZGVsZXRlU2lnbmFscz17fSIsIGRlbGV0ZVNpZ25hbHMpCiAgICBsb2dnZXIuaW5mbygiZGVsZXRlU2lnbmFsQ29sdW1uTmFtZXM9e30iLCBkZWxldGVTaWduYWxDb2x1bW5OYW1lcykKICAgIGxvZ2dlci5pbmZvKCJtZXJnZVNpZ25hbHM9e30iLCBtZXJnZVNpZ25hbHMpCiAgICBsb2dnZXIuaW5mbygibWVyZ2VTaWduYWxDb2x1bW5OYW1lcz17fSIsIG1lcmdlU2lnbmFsQ29sdW1uTmFtZXMpCgogICAgdmFsIGR5bmFtb1JERDogUkREW0hGaWxlVHJpcGxlXSA9IHNjLnVuaW9uKGJ1ZmZlcikKCiAgICB2YWwgZHluYW1vREJBU2lnbmFsc1JERDogUkREW0hGaWxlVHJpcGxlXSA9IHVuaWZ5U2lnbmFscyhkeW5hbW9SREQsIG1lcmdlU2lnbmFscywgc2MpCgogICAgdmFsIHRpbWVzdGFtcE9mSEZpbGVUcmlwbGUgPSB7CiAgICAgIHJvdzogSEZpbGVUcmlwbGUgPT4gU3RvcmFnZVV0aWxzLnJhbmdlS2V5VG9UaW1lc3RhbXAocm93LnNlY29uZGFyeUtleS5nZXQpCiAgICB9CgogICAgdmFsIGNvbWJpbmVkUkREOiBSRERbSEZpbGVUcmlwbGVdID0gb3JpZ0hmaWxlZGF0YVBhdGggbWF0Y2ggewogICAgICBjYXNlIEJPT1RTVFJBUCA9PgogICAgICAgIGR5bmFtb0RCQVNpZ25hbHNSREQKICAgICAgY2FzZSBfID0+CiAgICAgICAgbG9nZ2VyLmluZm8oIm9sZCByZXBvc2l0b3J5IGhmaWxlIHBhdGg9e30iLAogICAgICAgICAgKGpvYkNvbmZpZy5nZXRDb25maWcoSU5QVVRfQ09ORklHX05BTUUpLmdldFN0cmluZyhIRklMRV9GUyksIG9yaWdIZmlsZWRhdGFQYXRoKSkKICAgICAgICB2YWwgaGZpbGVSREQ6IFJERFtIRmlsZVRyaXBsZV0gPSBuZXcgSEZpbGVSZWFkZXIoKS5yZWFkSEZpbGVUcmlwbGVzKAogICAgICAgICAgam9iQ29uZmlnLmdldENvbmZpZyhJTlBVVF9DT05GSUdfTkFNRSkuZ2V0U3RyaW5nKEhGSUxFX0ZTKSwgb3JpZ0hmaWxlZGF0YVBhdGgsIHNjKQogICAgICAgICAgLmZpbHRlcnsgcm93OiBIRmlsZVRyaXBsZSA9PgogICAgICAgICAgICAhU3RvcmFnZVV0aWxzLmdldFJvd0FuZENvbE5hbWUocm93LnByaW1hcnlLZXkpLmdldEZpcnN0LmVxdWFscygibnVsbCIpCiAgICAgICAgICB9CiAgICAgICAgdmFsIGZpbHRlcmVkID0gaGZpbGVSREQuZmlsdGVyeyBlbnRyeSA9PgogICAgICAgICAgdmFsIHBhaXIgPSBTdG9yYWdlVXRpbHMuZ2V0Um93QW5kQ29sTmFtZShlbnRyeS5wcmltYXJ5S2V5KQogICAgICAgICAgIShyZXBsYWNlU2lnbmFsQ29sdW1uTmFtZXMuY29udGFpbnMocGFpci5nZXRTZWNvbmQpCiAgICAgICAgICAgIHx8IGRlbGV0ZVNpZ25hbENvbHVtbk5hbWVzLmNvbnRhaW5zKHBhaXIuZ2V0U2Vjb25kKSkKICAgICAgICB9CiAgICAgICAgdmFsIGFjY3VtdWxhdGVkUkREID0gZHluYW1vREJBU2lnbmFsc1JERC51bmlvbih1bmlmeVNpZ25hbHMoZmlsdGVyZWQsIHJlcGxhY2VTaWduYWxzLCBzYykpCiAgICAgICAgdmFsIG92ZXJ3cml0ZVNpZ25hbHNSREQgPSB1bmlmeVNpZ25hbHMoc2MuZW1wdHlSREQsIG92ZXJ3cml0ZVNpZ25hbHMsIHNjKQoKICAgICAgICBpZiAob3ZlcndyaXRlU2lnbmFscy5ub25FbXB0eSAmJgogICAgICAgICAgb3ZlcndyaXRlU2lnbmFsc1JERC5wYXJ0aXRpb25zLm5vbkVtcHR5ICYmCiAgICAgICAgICBvdmVyd3JpdGVTaWduYWxzUkRELnRha2UoMSkubm9uRW1wdHkpIHsKICAgICAgICAgIGxvZ2dlci5pbmZvKCJQZXJmb3JtaW5nIG91dGVyIGpvaW4iKQogICAgICAgICAgdmFsIGVhcmxpZXN0T3ZlcndyaXRlU2lnbmFsID0gdGltZXN0YW1wT2ZIRmlsZVRyaXBsZShvdmVyd3JpdGVTaWduYWxzUkRELm1pbigpKAogICAgICAgICAgICBuZXcgT3JkZXJpbmdbSEZpbGVUcmlwbGVdKCkgewogICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjb21wYXJlKHg6IEhGaWxlVHJpcGxlLCB5OiBIRmlsZVRyaXBsZSk6IEludCA9IHsKICAgICAgICAgICAgICAgIE9yZGVyaW5nW0xvbmddLmNvbXBhcmUodGltZXN0YW1wT2ZIRmlsZVRyaXBsZSh4KSwgdGltZXN0YW1wT2ZIRmlsZVRyaXBsZSh5KSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICkpCgogICAgICAgICAgdmFsIGpvaW5hYmxlID0geyBlbnRyeTogSEZpbGVUcmlwbGUgPT4KICAgICAgICAgICAgdmFsIHBhaXIgPSBTdG9yYWdlVXRpbHMuZ2V0Um93QW5kQ29sTmFtZShlbnRyeS5wcmltYXJ5S2V5KQogICAgICAgICAgICBvdmVyd3JpdGVTaWduYWxDb2x1bW5OYW1lcy5jb250YWlucyhwYWlyLmdldFNlY29uZCkgJiYgdGltZXN0YW1wT2ZIRmlsZVRyaXBsZShlbnRyeSkgPj0gZWFybGllc3RPdmVyd3JpdGVTaWduYWwKICAgICAgICAgIH0KCiAgICAgICAgICB2YWwgbm90Sm9pblJERCA9IGFjY3VtdWxhdGVkUkRELmZpbHRlcigham9pbmFibGUoXykpCiAgICAgICAgICB2YWwgdG9Kb2luUkREID0gYWNjdW11bGF0ZWRSREQuZmlsdGVyKGpvaW5hYmxlKF8pKQogICAgICAgICAgICAubWFwKHRyaXBsZSA9PiAoKHRyaXBsZS5wcmltYXJ5S2V5LCB0cmlwbGUuc2Vjb25kYXJ5S2V5KSwgdHJpcGxlLnZhbHVlKSkKICAgICAgICAgIHZhbCB0b0pvaW5TaWduYWxzUkREID0gb3ZlcndyaXRlU2lnbmFsc1JERAogICAgICAgICAgICAubWFwKHRyaXBsZSA9PiAoKHRyaXBsZS5wcmltYXJ5S2V5LCB0cmlwbGUuc2Vjb25kYXJ5S2V5KSwgdHJpcGxlLnZhbHVlKSkKCiAgICAgICAgICB2YWwgam9pbmVkUkREID0gdG9Kb2luUkRECiAgICAgICAgICAgIC5mdWxsT3V0ZXJKb2luKHRvSm9pblNpZ25hbHNSREQpCiAgICAgICAgICAgIC5tYXAociA9PiBIRmlsZVRyaXBsZShyLl8xLl8xLCByLl8xLl8yLCByLl8yLl8yLmdldE9yRWxzZShyLl8yLl8xLmdldCkpKSAvLyBwcmlvcml0aXplcyBzaWduYWxSREQKCiAgICAgICAgICBub3RKb2luUkRELnVuaW9uKGpvaW5lZFJERCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgbG9nZ2VyLmluZm8oIlNraXBwaW5nIG91dGVyIGpvaW4iKQogICAgICAgICAgYWNjdW11bGF0ZWRSREQKICAgICAgICB9CgogICAgfQoKICAgIHZhbCBmaWx0ZXJDaGFpbiA9IG5ldyBIRmlsZUZpbHRlckNoYWluKFNlcSgKICAgICAgbmV3IERpc3RpbmN0SEZpbGVXcml0ZXJGaWx0ZXIoKSwKICAgICAgbmV3IE1heFZlcnNpb25IRmlsZVdyaXRlckZpbHRlcihtYXhWZXJzaW9uVG9LZWVwKSwKICAgICAgbmV3IENvbHVtblJldGVudGlvbkZpbHRlcihjb2x1bW5Dcml0ZXJpb24sIG1heFZlcnNpb25zT3B0aW9uLCByZXRhaW5UaW1lSW5OYW5vc09wdGlvbikpKQogICAgdmFsIGhmaWxlUGF0aCA9IEhGaWxlV3JpdGVyLmZyb21Db25maWcoCiAgICAgIGhGaWxlQ29uZmlnLGZpbHRlckNoYWluKQogICAgICAud3JpdGVIRmlsZVRyaXBsZXNBbmRSZXR1cm5Xb3JraW5nUGF0aChjb21iaW5lZFJERCkKCiAgICAvLyBXcml0ZSB0aGUgaGZpbGVQYXRoIHN1Y2ggdGhhdCBvdGhlciBqb2JzIGNhbiB1c2UgaXQuCiAgICB2YWwgcGF0aFRvV3JpdGVIZmlsZUxvY2F0aW9uID0KICAgICAgZmlsZVN5c3RlbVN0ciArIGRvbWFpbiArICIvYWlyZmxvdy8iICsgbmVidWxhQ2x1c3Rlck5hbWUgKyAiLyIgKyBuZWJ1bGFSZXBvTmFtZSArICIvIiArCiAgICAgICAgYWlyZmxvd0Vwb2NoICsgIi9tZXJnZWRfaGZpbGVfc25hcHNob3Rfc3BlYyIKICAgIGxvZ2dlci5pbmZvKCJwYXRoVG9Xcml0ZUhmaWxlTG9jYXRpb246IHt9IiwgcGF0aFRvV3JpdGVIZmlsZUxvY2F0aW9uKQogICAgaWYgKGZpbGVTeXN0ZW0uZXhpc3RzKG5ldyBQYXRoKHBhdGhUb1dyaXRlSGZpbGVMb2NhdGlvbikpKSB7CiAgICAgIGxvZ2dlci5pbmZvKCJwYXRoVG9Xcml0ZUhmaWxlTG9jYXRpb24gYWxyZWFkeSBleGlzdHMsIHJlbW92aW5nIGl0OiB7fSIsCiAgICAgICAgcGF0aFRvV3JpdGVIZmlsZUxvY2F0aW9uKQogICAgICBmaWxlU3lzdGVtLmRlbGV0ZShuZXcgUGF0aChwYXRoVG9Xcml0ZUhmaWxlTG9jYXRpb24pLCB0cnVlIC8qIHJlY3Vyc2l2ZSAqLykKICAgIH0KICAgIHNjLnBhcmFsbGVsaXplKFNlcShoZmlsZVBhdGgpKS5jb2FsZXNjZSgxKS5zYXZlQXNUZXh0RmlsZShwYXRoVG9Xcml0ZUhmaWxlTG9jYXRpb24pCgogICAgLy8gV3JpdGUgdGhlIGNvbmZpZ3VyYXRpb24gZmlsZSB0byBzMyBzbyB0aGF0IHdlIGNhbiB0cmFjayB0aGUgZGF0YQogICAgdmFsIHBhdGhUb1dyaXRlQ29uZmlnTG9jYXRpb24gPQogICAgICBmaWxlU3lzdGVtU3RyICsgZG9tYWluICsgIi9haXJmbG93LyIgKyBuZWJ1bGFDbHVzdGVyTmFtZSArICIvIiArIG5lYnVsYVJlcG9OYW1lICsgIi8iICsKICAgICAgICBhaXJmbG93RXBvY2ggKyAiL3JlcG9zaXRvcnlfY29uZmlnIgogICAgbG9nZ2VyLmluZm8oInBhdGhUb1dyaXRlQ29uZmlnTG9jYXRpb246IHt9IiwgcGF0aFRvV3JpdGVDb25maWdMb2NhdGlvbikKICAgIGlmIChmaWxlU3lzdGVtLmV4aXN0cyhuZXcgUGF0aChwYXRoVG9Xcml0ZUNvbmZpZ0xvY2F0aW9uKSkpIHsKICAgICAgbG9nZ2VyLmluZm8oInBhdGhUb1dyaXRlQ29uZmlnTG9jYXRpb24gYWxyZWFkeSBleGlzdHMsIHJlbW92aW5nIGl0OiB7fSIsCiAgICAgICAgcGF0aFRvV3JpdGVDb25maWdMb2NhdGlvbikKICAgICAgZmlsZVN5c3RlbS5kZWxldGUobmV3IFBhdGgocGF0aFRvV3JpdGVDb25maWdMb2NhdGlvbiksIHRydWUgLyogcmVjdXJzaXZlICovKQogICAgfQogICAgc2MucGFyYWxsZWxpemUoU2VxKHJlcG9zaXRvcnlIYW5kbGVyLnNlcmlhbGl6ZShyZXBvc2l0b3J5Q29uZmlnKS5nZXQoKSkpLmNvYWxlc2NlKDEpLnNhdmVBc1RleHRGaWxlKHBhdGhUb1dyaXRlQ29uZmlnTG9jYXRpb24pCgoKCiAgICBpZiAoY2xlYW5lZFNpZ25hbFBhaXIgIT0gbnVsbCAmJiBjbGVhbmVkU2lnbmFsUGFpci5vcmlnaW5hbCAhPSBudWxsICYmIG9yaWdIZmlsZWRhdGFQYXRoICE9IEJPT1RTVFJBUCkgewogICAgICB2YWwgc2lnbmFsTWFwID0gY2xlYW5lZFNpZ25hbFBhaXIub3JpZ2luYWwubWFwKHggPT4gKHguZ2V0TmFtZSgpLCB4KSkudG9NYXAKCiAgICAgIHJlcG9zaXRvcnlIYW5kbGVyLnVwZGF0ZVJlcG9zaXRvcnlDb25maWcobmVidWxhUmVwb05hbWUsCiAgICAgICAgbmV3IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbltSZXBvc2l0b3J5Q29uZmlnLCBSZXBvc2l0b3J5Q29uZmlnXSgpIHsKICAgICAgICAgIGRlZiBhcHBseShyZXBvQ29uZmlnOiBSZXBvc2l0b3J5Q29uZmlnKTogUmVwb3NpdG9yeUNvbmZpZyA9IHsKICAgICAgICAgICAgaWYgKCFyZXBvQ29uZmlnLmhhc1NldFNpZ25hbHMoKSkgewogICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJNYWxmb3JtZWQgcmVwb3NpdG9yeSBjb25maWcgPSAlcy4iLmZvcm1hdChyZXBvQ29uZmlnKSkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZm9yIChzIDwtIHJlcG9Db25maWcuZ2V0U2lnbmFscykgewogICAgICAgICAgICAgIHZhbCBuYW1lID0gcy5nZXROYW1lCiAgICAgICAgICAgICAgaWYgKHNpZ25hbE1hcC5jb250YWlucyhuYW1lKSkgewogICAgICAgICAgICAgICAgdmFsIHZlcnNpb25NZXJnZWQgPSBzaWduYWxNYXAuZ2V0KG5hbWUpLmdldC5nZXRWZXJzaW9uVG9NZXJnZSgpCiAgICAgICAgICAgICAgICBzLnNldEN1cnJlbnRWZXJzaW9uKHZlcnNpb25NZXJnZWQpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBsb2dnZXIuaW5mbygicmVwb0NvbmZpZyA9IHt9IiwgcmVwb0NvbmZpZykKICAgICAgICAgICAgcmVwb0NvbmZpZwogICAgICAgICAgfQogICAgICAgIH0pCiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb2xvZGV4ZXhwb3J0ZXZlbnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBMT0c6IExvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKCJNYXJrZXRMb2NhbGVMb2NhdGlvbiIpCgogIHZhciBpbnB1dFRhYmxlTmFtZU1hcmtldExvY2FsZTogU3RyaW5nID0gInNlYXJjaF9yYW5raW5nX3NpZ25hbHMuYXV0b2NvbXBsZXRlX21hcmtldF9sb2NhbGUiCiAgdmFyIGlucHV0VGFibGVOYW1lTWFya2V0OiBTdHJpbmcgPSAic2VhcmNoX3Jhbmtpbmdfc2lnbmFscy5hdXRvY29tcGxldGVfbWFya2V0IgogIHZhciBpbnB1dFRhYmxlTmFtZUxvY2FsZTogU3RyaW5nID0gInNlYXJjaF9yYW5raW5nX3NpZ25hbHMuYXV0b2NvbXBsZXRlX2xvY2FsZSIKICB2YXIgaW5wdXRUYWJsZU5hbWVHbG9iYWw6IFN0cmluZyA9ICJzZWFyY2hfcmFua2luZ19zaWduYWxzLmF1dG9jb21wbGV0ZV9nbG9iYWwiCiAgdmFyIGlucHV0VGFibGVOYW1lRGVyaXZlZDogU3RyaW5nID0gInNlYXJjaF9yYW5raW5nX3NpZ25hbHMuYXV0b2NvbXBsZXRlX2Rlcml2ZWQiCgogIGRlZiBtYWtlUXVlcnlNYXJrZXRMb2NhbGUoZHM6IFN0cmluZyk6IFN0cmluZyA9IHsKICAgIHMiIiIKICAgICAgIHwgICAgU0VMRUNUCiAgICAgICB8ICAgICAgICAgICBkaW1fbWFya2V0IEFTIGRpbV9tYXJrZXQKICAgICAgIHwgICAgICAgICAgICwgbG9jYWxlIEFTIGxvY2FsZQogICAgICAgfCAgICAgICAgICAgLCBwbGFjZV9pZCBBUyBwbGFjZV9pZAogICAgICAgfCAgICAgICAgICAgLCBudW1fc2VhcmNoZXMgQVMgbnVtX3NlYXJjaGVzCiAgICAgICB8ICAgICAgICAgICAsIGRlc2NyaXB0aW9uIEFTIGRlc2NyaXB0aW9uCiAgICAgICB8ICAgICAgICAgICAsIHR5cGVzIEFTIHR5cGVzCiAgICAgICB8ICAgICAgICAgICAsIHRlcm1zIEFTIHRlcm1zCiAgICAgICB8ICAgIEZST00gJGlucHV0VGFibGVOYW1lTWFya2V0TG9jYWxlCiAgICAgICB8ICAgIFdIRVJFIGRzID0gJyRkcycgQU5EIG51bV9zZWFyY2hlcyA+PSAxMAogICAgICAgfCAgICBBTkQgcGxhY2VfaWQgSVMgTk9UIE5VTEwgQU5EIGRlc2NyaXB0aW9uIElTIE5PVCBOVUxMCiAgICAgICB8ICAgICIiIi5zdHJpcE1hcmdpbgogIH0KCiAgZGVmIG1ha2VRdWVyeU1hcmtldChkczogU3RyaW5nKTogU3RyaW5nID0gewogICAgcyIiIgogICAgICAgfCAgICBTRUxFQ1QKICAgICAgIHwgICAgICAgICAgIGRpbV9tYXJrZXQgQVMgZGltX21hcmtldAogICAgICAgfCAgICAgICAgICAgLCBwbGFjZV9pZCBBUyBwbGFjZV9pZAogICAgICAgfCAgICAgICAgICAgLCBudW1fc2VhcmNoZXMgQVMgbnVtX3NlYXJjaGVzCiAgICAgICB8ICAgICAgICAgICAsIGRlc2NyaXB0aW9uIEFTIGRlc2NyaXB0aW9uCiAgICAgICB8ICAgICAgICAgICAsIHR5cGVzIEFTIHR5cGVzCiAgICAgICB8ICAgICAgICAgICAsIHRlcm1zIEFTIHRlcm1zCiAgICAgICB8ICAgIEZST00gJGlucHV0VGFibGVOYW1lTWFya2V0CiAgICAgICB8ICAgIFdIRVJFIGRzID0gJyRkcycgQU5EIG51bV9zZWFyY2hlcyA+PSAxNQogICAgICAgfCAgICBBTkQgcGxhY2VfaWQgSVMgTk9UIE5VTEwgQU5EIGRlc2NyaXB0aW9uIElTIE5PVCBOVUxMCiAgICAgICB8ICAgICIiIi5zdHJpcE1hcmdpbgogIH0KCiAgZGVmIG1ha2VRdWVyeUxvY2FsZShkczogU3RyaW5nKTogU3RyaW5nID0gewogICAgcyIiIgogICAgICAgfCAgICBTRUxFQ1QKICAgICAgIHwgICAgICAgICAgIGxvY2FsZSBBUyBsb2NhbGUKICAgICAgIHwgICAgICAgICAgICwgcGxhY2VfaWQgQVMgcGxhY2VfaWQKICAgICAgIHwgICAgICAgICAgICwgbnVtX3NlYXJjaGVzIEFTIG51bV9zZWFyY2hlcwogICAgICAgfCAgICAgICAgICAgLCBkZXNjcmlwdGlvbiBBUyBkZXNjcmlwdGlvbgogICAgICAgfCAgICAgICAgICAgLCB0eXBlcyBBUyB0eXBlcwogICAgICAgfCAgICAgICAgICAgLCB0ZXJtcyBBUyB0ZXJtcwogICAgICAgfCAgICBGUk9NICRpbnB1dFRhYmxlTmFtZUxvY2FsZQogICAgICAgfCAgICBXSEVSRSBkcyA9ICckZHMnIEFORCBudW1fc2VhcmNoZXMgPj0gMTUKICAgICAgIHwgICAgQU5EIHBsYWNlX2lkIElTIE5PVCBOVUxMIEFORCBkZXNjcmlwdGlvbiBJUyBOT1QgTlVMTAogICAgICAgfCAgICAiIiIuc3RyaXBNYXJnaW4KICB9CgogIGRlZiBtYWtlUXVlcnlHbG9iYWwoZHM6IFN0cmluZyk6IFN0cmluZyA9IHsKICAgIHMiIiIKICAgICAgIHwgICAgU0VMRUNUCiAgICAgICB8ICAgICAgICAgICBwbGFjZV9pZCBBUyBwbGFjZV9pZAogICAgICAgfCAgICAgICAgICAgLCBudW1fc2VhcmNoZXMgQVMgbnVtX3NlYXJjaGVzCiAgICAgICB8ICAgICAgICAgICAsIGRlc2NyaXB0aW9uIEFTIGRlc2NyaXB0aW9uCiAgICAgICB8ICAgICAgICAgICAsIHR5cGVzIEFTIHR5cGVzCiAgICAgICB8ICAgICAgICAgICAsIHRlcm1zIEFTIHRlcm1zCiAgICAgICB8ICAgIEZST00gJGlucHV0VGFibGVOYW1lR2xvYmFsCiAgICAgICB8ICAgIFdIRVJFIGRzID0gJyRkcycgQU5EIG51bV9zZWFyY2hlcyA+PSAyMAogICAgICAgfCAgICBBTkQgcGxhY2VfaWQgSVMgTk9UIE5VTEwgQU5EIGRlc2NyaXB0aW9uIElTIE5PVCBOVUxMCiAgICAgICB8ICAgICIiIi5zdHJpcE1hcmdpbgogIH0KCiAgZGVmIG1ha2VRdWVyeURlcml2ZWQoZHM6IFN0cmluZyk6IFN0cmluZyA9IHsKICAgIHMiIiIKICAgICAgIHwgICAgU0VMRUNUCiAgICAgICB8ICAgICAgICAgICBxdWVyeSBBUyBxdWVyeQogICAgICAgfCAgICAgICAgICAgLCBkZXNjcmlwdGlvbiBBUyBkZXNjcmlwdGlvbgogICAgICAgfCAgICAgICAgICAgLCBwbGFjZV9pZCBBUyBwbGFjZV9pZAogICAgICAgfCAgICAgICAgICAgLCBzY29yZSBBUyBzY29yZQogICAgICAgfCAgICAgICAgICAgLCBudW1fc2VhcmNoZXMgQVMgbnVtX3NlYXJjaGVzCiAgICAgICB8ICAgICAgICAgICAsIHR5cGVzIEFTIHR5cGVzCiAgICAgICB8ICAgICAgICAgICAsIHRlcm1zIEFTIHRlcm1zCiAgICAgICB8ICAgICAgICAgICAsIHRyaWdnZXIgQVMgdHJpZ2dlcgogICAgICAgfCAgICBGUk9NICRpbnB1dFRhYmxlTmFtZURlcml2ZWQKICAgICAgIHwgICAgIiIiLnN0cmlwTWFyZ2luCiAgfQoKICBkZWYgcGFyc2VSb3dNYXAocm93TWFwOiBSb3dNYXApOiBNYXJrZXRMb2NhbGVMb2NhdGlvbiA9IHsKICAgIE1hcmtldExvY2FsZUxvY2F0aW9uKAogICAgICByb3dNYXAuZ2V0U3RyaW5nKCJkaW1fbWFya2V0IikuZ2V0T3JFbHNlKCJ1bmtub3duIiksCiAgICAgIHJvd01hcC5nZXRTdHJpbmcoImxvY2FsZSIpLmdldE9yRWxzZSgidW5rbm93biIpLAogICAgICByb3dNYXAuZ2V0U3RyaW5nKCJwbGFjZV9pZCIpLmdldCwKICAgICAgcm93TWFwLmdldFN0cmluZygicXVlcnkiKS5nZXRPckVsc2UoInVua25vd24iKSwKICAgICAgcm93TWFwLmdldEludCgic2NvcmUiKS5nZXRPckVsc2UoMSksCiAgICAgIHJvd01hcC5nZXRJbnQoIm51bV9zZWFyY2hlcyIpLmdldCwKICAgICAgcm93TWFwLmdldEludCgidHJpZ2dlciIpLmdldE9yRWxzZSgxKSwKICAgICAgcm93TWFwLmdldFN0cmluZygiZGVzY3JpcHRpb24iKS5nZXQsCiAgICAgIHJvd01hcC5nZXRTdHJpbmcoInR5cGVzIikuZ2V0LAogICAgICByb3dNYXAuZ2V0U3RyaW5nKCJ0ZXJtcyIpLmdldAogICAgKQogIH0KCiAgZGVmIGxvYWQoaGM6IEhpdmVDb250ZXh0LCBkczogU3RyaW5nLCBjYWxsYmFjazogKFN0cmluZykgPT4gU3RyaW5nKTogUkREW01hcmtldExvY2FsZUxvY2F0aW9uXSA9IHsKICAgIFNRTFV0aWxzLnNxbEFzTWFwKGhjLCBjYWxsYmFjayhkcykpLm1hcChwYXJzZVJvd01hcCkKICB9CgogIC8qKgogICAgKiBDb252ZXJ0IHRoZSBtYXJrZXQgbG9jYWxlIGxvY2F0aW9uIGhpdmUgdGFibGUgdG8gYSBUaHJpZnQgb2JqZWN0CiAgICAqIC4vc2NyaXB0cy9ydW5fc3BhcmsucHkgbWFya2V0TG9jYWxlTG9jYXRpb25Ub1RocmlmdCBKb2JQZXJpb2Quc3RhcnRfZGF0ZT0yMDE2LTExLTAzCiAgICAqLwogIGRlZiBoaXZlVG9UaHJpZnRNYXJrZXRMb2NhbGUoY29uZmlnOiBDb25maWcsIHNjOiBTcGFya0NvbnRleHQpID0gewogICAgdmFsIGhjID0gbmV3IEhpdmVDb250ZXh0KHNjKQogICAgdmFsIGRzOiBTdHJpbmcgPSBjb25maWcuZ2V0U3RyaW5nKCJKb2JQZXJpb2Quc3RhcnRfZGF0ZSIpCiAgICBpbnB1dFRhYmxlTmFtZU1hcmtldExvY2FsZSA9IGNvbmZpZy5nZXRTdHJpbmcoIkxvY2F0aW9uRG9jdW1lbnRzLm1hcmtldF9sb2NhbGVfbG9jYXRpb25fdGhyaWZ0X2hpdmVfdGFibGUiKQoKICAgIHZhbCBvdXRwdXREaXIgPSBjb25maWcuZ2V0U3RyaW5nKCJMb2NhdGlvbkRvY3VtZW50cy5tYXJrZXRfbG9jYWxlX2xvY2F0aW9uX3RocmlmdF9vdXRwdXRfZGlyIikKICAgIHZhbCBvdXRwdXRQYXRoID0gRmlsZVV0aWxzLmdldERzUGFydGl0aW9uKG91dHB1dERpciwgZHMpCiAgICBGaWxlVXRpbHMuZGVsZXRlUGF0aChvdXRwdXRQYXRoLCBzYykKCiAgICB2YWwgbWFya2V0TG9jYWxlTG9jYXRpb24gPSBsb2FkKGhjLCBkcywgbWFrZVF1ZXJ5TWFya2V0TG9jYWxlKQogICAgcmRkVG9UaHJpZnQobWFya2V0TG9jYWxlTG9jYXRpb24sIG1hcmtldExvY2FsZUxvY2F0aW9uVG9UaHJpZnQpCiAgICAgIC5jb2FsZXNjZSgxLCB0cnVlKQogICAgICAuc2F2ZUFzVGV4dEZpbGUob3V0cHV0UGF0aCkKICB9CgogIGRlZiBoaXZlVG9UaHJpZnRNYXJrZXQoY29uZmlnOiBDb25maWcsIHNjOiBTcGFya0NvbnRleHQpID0gewogICAgdmFsIGhjID0gbmV3IEhpdmVDb250ZXh0KHNjKQogICAgdmFsIGRzOiBTdHJpbmcgPSBjb25maWcuZ2V0U3RyaW5nKCJKb2JQZXJpb2Quc3RhcnRfZGF0ZSIpCiAgICBpbnB1dFRhYmxlTmFtZU1hcmtldCA9IGNvbmZpZy5nZXRTdHJpbmcoIkxvY2F0aW9uRG9jdW1lbnRzLm1hcmtldF9sb2NhdGlvbl90aHJpZnRfaGl2ZV90YWJsZSIpCgogICAgdmFsIG91dHB1dERpciA9IGNvbmZpZy5nZXRTdHJpbmcoIkxvY2F0aW9uRG9jdW1lbnRzLm1hcmtldF9sb2NhdGlvbl90aHJpZnRfb3V0cHV0X2RpciIpCiAgICB2YWwgb3V0cHV0UGF0aCA9IEZpbGVVdGlscy5nZXREc1BhcnRpdGlvbihvdXRwdXREaXIsIGRzKQogICAgRmlsZVV0aWxzLmRlbGV0ZVBhdGgob3V0cHV0UGF0aCwgc2MpCgogICAgdmFsIG1hcmtldExvY2F0aW9uID0gbG9hZChoYywgZHMsIG1ha2VRdWVyeU1hcmtldCkKICAgIHJkZFRvVGhyaWZ0KG1hcmtldExvY2F0aW9uLCBtYXJrZXRMb2NhdGlvblRvVGhyaWZ0KQogICAgICAuY29hbGVzY2UoMSwgdHJ1ZSkKICAgICAgLnNhdmVBc1RleHRGaWxlKG91dHB1dFBhdGgpCiAgfQoKICBkZWYgaGl2ZVRvVGhyaWZ0TG9jYWxlKGNvbmZpZzogQ29uZmlnLCBzYzogU3BhcmtDb250ZXh0KSA9IHsKICAgIHZhbCBoYyA9IG5ldyBIaXZlQ29udGV4dChzYykKICAgIHZhbCBkczogU3RyaW5nID0gY29uZmlnLmdldFN0cmluZygiSm9iUGVyaW9kLnN0YXJ0X2RhdGUiKQogICAgaW5wdXRUYWJsZU5hbWVMb2NhbGUgPSBjb25maWcuZ2V0U3RyaW5nKCJMb2NhdGlvbkRvY3VtZW50cy5sb2NhbGVfbG9jYXRpb25fdGhyaWZ0X2hpdmVfdGFibGUiKQoKICAgIHZhbCBvdXRwdXREaXIgPSBjb25maWcuZ2V0U3RyaW5nKCJMb2NhdGlvbkRvY3VtZW50cy5sb2NhbGVfbG9jYXRpb25fdGhyaWZ0X291dHB1dF9kaXIiKQogICAgdmFsIG91dHB1dFBhdGggPSBGaWxlVXRpbHMuZ2V0RHNQYXJ0aXRpb24ob3V0cHV0RGlyLCBkcykKICAgIEZpbGVVdGlscy5kZWxldGVQYXRoKG91dHB1dFBhdGgsIHNjKQoKICAgIHZhbCBsb2NhbGVMb2NhdGlvbiA9IGxvYWQoaGMsIGRzLCBtYWtlUXVlcnlMb2NhbGUpCiAgICByZGRUb1RocmlmdChsb2NhbGVMb2NhdGlvbiwgbG9jYWxlTG9jYXRpb25Ub1RocmlmdCkKICAgICAgLmNvYWxlc2NlKDEsIHRydWUpCiAgICAgIC5zYXZlQXNUZXh0RmlsZShvdXRwdXRQYXRoKQogIH0KCiAgZGVmIGhpdmVUb1RocmlmdEdsb2JhbChjb25maWc6IENvbmZpZywgc2M6IFNwYXJrQ29udGV4dCkgPSB7CiAgICB2YWwgaGMgPSBuZXcgSGl2ZUNvbnRleHQoc2MpCiAgICB2YWwgZHM6IFN0cmluZyA9IGNvbmZpZy5nZXRTdHJpbmcoIkpvYlBlcmlvZC5zdGFydF9kYXRlIikKICAgIGlucHV0VGFibGVOYW1lR2xvYmFsID0gY29uZmlnLmdldFN0cmluZygiTG9jYXRpb25Eb2N1bWVudHMuZ2xvYmFsX2xvY2F0aW9uX3RocmlmdF9oaXZlX3RhYmxlIikKCiAgICB2YWwgb3V0cHV0RGlyID0gY29uZmlnLmdldFN0cmluZygiTG9jYXRpb25Eb2N1bWVudHMuZ2xvYmFsX2xvY2F0aW9uX3RocmlmdF9vdXRwdXRfZGlyIikKICAgIHZhbCBvdXRwdXRQYXRoID0gRmlsZVV0aWxzLmdldERzUGFydGl0aW9uKG91dHB1dERpciwgZHMpCiAgICBGaWxlVXRpbHMuZGVsZXRlUGF0aChvdXRwdXRQYXRoLCBzYykKCiAgICB2YWwgZ2xvYmFsTG9jYXRpb24gPSBsb2FkKGhjLCBkcywgbWFrZVF1ZXJ5R2xvYmFsKQogICAgcmRkVG9UaHJpZnQoZ2xvYmFsTG9jYXRpb24sIGdsb2JhbExvY2F0aW9uVG9UaHJpZnQpCiAgICAgIC5jb2FsZXNjZSgxLCB0cnVlKQogICAgICAuc2F2ZUFzVGV4dEZpbGUob3V0cHV0UGF0aCkKICB9CgogIGRlZiBoaXZlVG9UaHJpZnREZXJpdmVkKGNvbmZpZzogQ29uZmlnLCBzYzogU3BhcmtDb250ZXh0KSA9IHsKICAgIHZhbCBoYyA9IG5ldyBIaXZlQ29udGV4dChzYykKICAgIHZhbCBkczogU3RyaW5nID0gY29uZmlnLmdldFN0cmluZygiSm9iUGVyaW9kLnN0YXJ0X2RhdGUiKQogICAgaW5wdXRUYWJsZU5hbWVEZXJpdmVkID0gY29uZmlnLmdldFN0cmluZygiTG9jYXRpb25Eb2N1bWVudHMuZGVyaXZlZF9sb2NhdGlvbl90aHJpZnRfaGl2ZV90YWJsZSIpCgogICAgdmFsIG91dHB1dERpciA9IGNvbmZpZy5nZXRTdHJpbmcoIkxvY2F0aW9uRG9jdW1lbnRzLmRlcml2ZWRfbG9jYXRpb25fdGhyaWZ0X291dHB1dF9kaXIiKQogICAgdmFsIG91dHB1dFBhdGggPSBGaWxlVXRpbHMuZ2V0RHNQYXJ0aXRpb24ob3V0cHV0RGlyLCBkcykKICAgIEZpbGVVdGlscy5kZWxldGVQYXRoKG91dHB1dFBhdGgsIHNjKQoKICAgIHZhbCBkZXJpdmVkTG9jYXRpb24gPSBsb2FkKGhjLCBkcywgbWFrZVF1ZXJ5RGVyaXZlZCkKICAgIHJkZFRvVGhyaWZ0KGRlcml2ZWRMb2NhdGlvbiwgZGVyaXZlZFRvVGhyaWZ0KQogICAgICAuY29hbGVzY2UoMSwgdHJ1ZSkKICAgICAgLnNhdmVBc1RleHRGaWxlKG91dHB1dFBhdGgpCiAgfQoKICBkZWYgcmRkVG9UaHJpZnQobWFya2V0TG9jYWxlTG9jYXRpb246IFJERFtNYXJrZXRMb2NhbGVMb2NhdGlvbl0sIGNhbGxiYWNrOiAoTWFya2V0TG9jYWxlTG9jYXRpb24pID0+IFN0cmluZyk6IFJERFtTdHJpbmddID0gewogICAgbWFya2V0TG9jYWxlTG9jYXRpb24KICAgICAgLm1hcCgoZG1wOiBNYXJrZXRMb2NhbGVMb2NhdGlvbikgPT4gY2FsbGJhY2soZG1wKSkKICB9CgogIGRlZiBtYXJrZXRMb2NhbGVMb2NhdGlvblRvVGhyaWZ0KG1hcmtldExvY2FsZUxvY2F0aW9uOiBNYXJrZXRMb2NhbGVMb2NhdGlvbik6CiAgICAgIFN0cmluZyA9IHsKICAgIHZhbCBtYXJrZXRMb2NhbGVMb2NhdGlvblRocmlmdCA9IG5ldyBNYXJrZXRBbmRMb2NhbGVTcGVjaWZpY0xvY2F0aW9uRG9jdW1lbnQoKQogICAgdmFsIGxvY2F0aW9uRG9jdW1lbnQgPSBuZXcgTG9jYXRpb25Eb2N1bWVudCgpCgogICAgdmFsIHR5cGVzU2V0ID0gRGF0YVBhcnNpbmdVdGlscy5nZXRUeXBlcyhtYXJrZXRMb2NhbGVMb2NhdGlvbi50eXBlcykudG9MaXN0CiAgICB2YWwgdGVybXNBcnJheSA9IERhdGFQYXJzaW5nVXRpbHMuZ2V0VGVybXMobWFya2V0TG9jYWxlTG9jYXRpb24udGVybXMpLnRvTGlzdAoKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0R29vZ2xlUGxhY2VJZChtYXJrZXRMb2NhbGVMb2NhdGlvbi5wbGFjZUlkKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRMb2NhdGlvbk5hbWUobWFya2V0TG9jYWxlTG9jYXRpb24uZGVzY3JpcHRpb24pCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFNlYXJjaENvdW50KG1hcmtldExvY2FsZUxvY2F0aW9uLm51bVNlYXJjaGVzKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRUeXBlcyh0eXBlc1NldC5hc0phdmEpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFRlcm1zKHRlcm1zQXJyYXkuYXNKYXZhKQoKICAgIG1hcmtldExvY2FsZUxvY2F0aW9uVGhyaWZ0LnNldExvY2F0aW9uRG9jdW1lbnQobG9jYXRpb25Eb2N1bWVudCkKICAgIG1hcmtldExvY2FsZUxvY2F0aW9uVGhyaWZ0LnNldE1hcmtldChtYXJrZXRMb2NhbGVMb2NhdGlvbi5kaW1NYXJrZXQpCiAgICBtYXJrZXRMb2NhbGVMb2NhdGlvblRocmlmdC5zZXRMb2NhbGUobWFya2V0TG9jYWxlTG9jYXRpb24ubG9jYWxlKQogICAgc2VyaWFsaXplVGhyaWZ0T2JqVG9CYXNlNjQobWFya2V0TG9jYWxlTG9jYXRpb25UaHJpZnQpCiAgfQoKICBkZWYgbWFya2V0TG9jYXRpb25Ub1RocmlmdChtYXJrZXRMb2NhbGVMb2NhdGlvbjogTWFya2V0TG9jYWxlTG9jYXRpb24pOgogICAgICAgU3RyaW5nID0gewogICAgdmFsIG1hcmtldExvY2F0aW9uVGhyaWZ0ID0gbmV3IE1hcmtldFNwZWNpZmljTG9jYXRpb25Eb2N1bWVudCgpCiAgICB2YWwgbG9jYXRpb25Eb2N1bWVudCA9IG5ldyBMb2NhdGlvbkRvY3VtZW50KCkKCiAgICB2YWwgdHlwZXNTZXQgPSBEYXRhUGFyc2luZ1V0aWxzLmdldFR5cGVzKG1hcmtldExvY2FsZUxvY2F0aW9uLnR5cGVzKS50b0xpc3QKICAgIHZhbCB0ZXJtc0FycmF5ID0gRGF0YVBhcnNpbmdVdGlscy5nZXRUZXJtcyhtYXJrZXRMb2NhbGVMb2NhdGlvbi50ZXJtcykudG9MaXN0CgogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRHb29nbGVQbGFjZUlkKG1hcmtldExvY2FsZUxvY2F0aW9uLnBsYWNlSWQpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldExvY2F0aW9uTmFtZShtYXJrZXRMb2NhbGVMb2NhdGlvbi5kZXNjcmlwdGlvbikKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0U2VhcmNoQ291bnQobWFya2V0TG9jYWxlTG9jYXRpb24ubnVtU2VhcmNoZXMpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFR5cGVzKHR5cGVzU2V0LmFzSmF2YSkKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0VGVybXModGVybXNBcnJheS5hc0phdmEpCgogICAgbWFya2V0TG9jYXRpb25UaHJpZnQuc2V0TG9jYXRpb25Eb2N1bWVudChsb2NhdGlvbkRvY3VtZW50KQogICAgbWFya2V0TG9jYXRpb25UaHJpZnQuc2V0TWFya2V0KG1hcmtldExvY2FsZUxvY2F0aW9uLmRpbU1hcmtldCkKICAgIHNlcmlhbGl6ZVRocmlmdE9ialRvQmFzZTY0KG1hcmtldExvY2F0aW9uVGhyaWZ0KQogIH0KCiAgZGVmIGxvY2FsZUxvY2F0aW9uVG9UaHJpZnQobWFya2V0TG9jYWxlTG9jYXRpb246IE1hcmtldExvY2FsZUxvY2F0aW9uKToKICAgICAgIFN0cmluZyA9IHsKICAgIHZhbCBsb2NhbGVMb2NhdGlvblRocmlmdCA9IG5ldyBMb2NhbGVTcGVjaWZpY0xvY2F0aW9uRG9jdW1lbnQoKQogICAgdmFsIGxvY2F0aW9uRG9jdW1lbnQgPSBuZXcgTG9jYXRpb25Eb2N1bWVudCgpCgogICAgdmFsIHR5cGVzU2V0ID0gRGF0YVBhcnNpbmdVdGlscy5nZXRUeXBlcyhtYXJrZXRMb2NhbGVMb2NhdGlvbi50eXBlcykudG9MaXN0CiAgICB2YWwgdGVybXNBcnJheSA9IERhdGFQYXJzaW5nVXRpbHMuZ2V0VGVybXMobWFya2V0TG9jYWxlTG9jYXRpb24udGVybXMpLnRvTGlzdAoKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0R29vZ2xlUGxhY2VJZChtYXJrZXRMb2NhbGVMb2NhdGlvbi5wbGFjZUlkKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRMb2NhdGlvbk5hbWUobWFya2V0TG9jYWxlTG9jYXRpb24uZGVzY3JpcHRpb24pCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFNlYXJjaENvdW50KG1hcmtldExvY2FsZUxvY2F0aW9uLm51bVNlYXJjaGVzKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRUeXBlcyh0eXBlc1NldC5hc0phdmEpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFRlcm1zKHRlcm1zQXJyYXkuYXNKYXZhKQoKICAgIGxvY2FsZUxvY2F0aW9uVGhyaWZ0LnNldExvY2F0aW9uRG9jdW1lbnQobG9jYXRpb25Eb2N1bWVudCkKICAgIGxvY2FsZUxvY2F0aW9uVGhyaWZ0LnNldExvY2FsZShtYXJrZXRMb2NhbGVMb2NhdGlvbi5sb2NhbGUpCiAgICBzZXJpYWxpemVUaHJpZnRPYmpUb0Jhc2U2NChsb2NhbGVMb2NhdGlvblRocmlmdCkKICB9CgogIGRlZiBnbG9iYWxMb2NhdGlvblRvVGhyaWZ0KG1hcmtldExvY2FsZUxvY2F0aW9uOiBNYXJrZXRMb2NhbGVMb2NhdGlvbik6CiAgICAgICBTdHJpbmcgPSB7CiAgICB2YWwgZ2xvYmFsTG9jYXRpb25UaHJpZnQgPSBuZXcgR2xvYmFsTG9jYXRpb25Eb2N1bWVudCgpCiAgICB2YWwgbG9jYXRpb25Eb2N1bWVudCA9IG5ldyBMb2NhdGlvbkRvY3VtZW50KCkKCiAgICB2YWwgdHlwZXNTZXQgPSBEYXRhUGFyc2luZ1V0aWxzLmdldFR5cGVzKG1hcmtldExvY2FsZUxvY2F0aW9uLnR5cGVzKS50b0xpc3QKICAgIHZhbCB0ZXJtc0FycmF5ID0gRGF0YVBhcnNpbmdVdGlscy5nZXRUZXJtcyhtYXJrZXRMb2NhbGVMb2NhdGlvbi50ZXJtcykudG9MaXN0CgogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRHb29nbGVQbGFjZUlkKG1hcmtldExvY2FsZUxvY2F0aW9uLnBsYWNlSWQpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldExvY2F0aW9uTmFtZShtYXJrZXRMb2NhbGVMb2NhdGlvbi5kZXNjcmlwdGlvbikKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0U2VhcmNoQ291bnQobWFya2V0TG9jYWxlTG9jYXRpb24ubnVtU2VhcmNoZXMpCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldFR5cGVzKHR5cGVzU2V0LmFzSmF2YSkKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0VGVybXModGVybXNBcnJheS5hc0phdmEpCgogICAgZ2xvYmFsTG9jYXRpb25UaHJpZnQuc2V0TG9jYXRpb25Eb2N1bWVudChsb2NhdGlvbkRvY3VtZW50KQogICAgc2VyaWFsaXplVGhyaWZ0T2JqVG9CYXNlNjQoZ2xvYmFsTG9jYXRpb25UaHJpZnQpCiAgfQoKICBkZWYgZGVyaXZlZFRvVGhyaWZ0KG1hcmtldExvY2FsZUxvY2F0aW9uOiBNYXJrZXRMb2NhbGVMb2NhdGlvbik6CiAgICAgICBTdHJpbmcgPSB7CiAgICB2YWwgZGVyaXZlZExvY2F0aW9uVGhyaWZ0ID0gbmV3IERlcml2ZWRMb2NhdGlvbkRvY3VtZW50KCkKICAgIHZhbCBsb2NhdGlvbkRvY3VtZW50ID0gbmV3IExvY2F0aW9uRG9jdW1lbnQoKQoKICAgIHZhbCB0eXBlc1NldCA9IERhdGFQYXJzaW5nVXRpbHMuZ2V0VHlwZXMobWFya2V0TG9jYWxlTG9jYXRpb24udHlwZXMpLnRvTGlzdAogICAgdmFsIHRlcm1zQXJyYXkgPSBEYXRhUGFyc2luZ1V0aWxzLmdldFRlcm1zKG1hcmtldExvY2FsZUxvY2F0aW9uLnRlcm1zKS50b0xpc3QKCiAgICBsb2NhdGlvbkRvY3VtZW50LnNldEdvb2dsZVBsYWNlSWQobWFya2V0TG9jYWxlTG9jYXRpb24ucGxhY2VJZCkKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0TG9jYXRpb25OYW1lKG1hcmtldExvY2FsZUxvY2F0aW9uLmRlc2NyaXB0aW9uKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRTZWFyY2hDb3VudChtYXJrZXRMb2NhbGVMb2NhdGlvbi5udW1TZWFyY2hlcykKICAgIGxvY2F0aW9uRG9jdW1lbnQuc2V0VHlwZXModHlwZXNTZXQuYXNKYXZhKQogICAgbG9jYXRpb25Eb2N1bWVudC5zZXRUZXJtcyh0ZXJtc0FycmF5LmFzSmF2YSkKCiAgICBkZXJpdmVkTG9jYXRpb25UaHJpZnQuc2V0TG9jYXRpb25Eb2N1bWVudChsb2NhdGlvbkRvY3VtZW50KQogICAgZGVyaXZlZExvY2F0aW9uVGhyaWZ0LnNldEluZGV4YWJsZVRleHQobWFya2V0TG9jYWxlTG9jYXRpb24ucXVlcnkpCiAgICBkZXJpdmVkTG9jYXRpb25UaHJpZnQuc2V0U2NvcmUobWFya2V0TG9jYWxlTG9jYXRpb24uc2NvcmUpCiAgICBkZXJpdmVkTG9jYXRpb25UaHJpZnQuc2V0VHJpZ2dlcihtYXJrZXRMb2NhbGVMb2NhdGlvbi50cmlnZ2VyKQogICAgc2VyaWFsaXplVGhyaWZ0T2JqVG9CYXNlNjQoZGVyaXZlZExvY2F0aW9uVGhyaWZ0KQogIH0=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXMKaW1wb3J0IGphdmEudXRpbC5IYXNoU2V0CmltcG9ydCBqYXZhLnV0aWwuU2V0CmltcG9ydCBzY2FsYS5jb2xsZWN0aW9uLkphdmFDb252ZXJ0ZXJzLl8K</text>
+        <text encoding="base64">LyoqCiAgKiBUYWJsZXMgb2YgYXV0b2NvbXBsZXRlcmUgcmVzdWx0cwogICovCmNhc2UgY2xhc3MgTWFya2V0TG9jYWxlTG9jYXRpb24oZGltTWFya2V0OlN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NhbGU6U3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlSWQ6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyeTogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjb3JlOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtU2VhcmNoZXM6IEludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmlnZ2VyOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlczogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlcm1zOiBTdHJpbmcpIHt9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIuc2VhcmNoLnV0aWxzLkZpbGVVdGlscwppbXBvcnQgY29tLmFpcmJuYi5zZWFyY2gudXRpbHMuU2VyZGVVdGlscy57c2V0SWZEZWZpbmVkLCBzZXJpYWxpemVUaHJpZnRPYmpUb0Jhc2U2NH0KaW1wb3J0IGNvbS5haXJibmIuc2F0b3JpLmRhdGEubG9jYXRpb24udjEuTWFya2V0QW5kTG9jYWxlU3BlY2lmaWNMb2NhdGlvbkRvY3VtZW50CmltcG9ydCBjb20uYWlyYm5iLnNhdG9yaS5kYXRhLmxvY2F0aW9uLnYxLk1hcmtldFNwZWNpZmljTG9jYXRpb25Eb2N1bWVudAppbXBvcnQgY29tLmFpcmJuYi5zYXRvcmkuZGF0YS5sb2NhdGlvbi52MS5Mb2NhbGVTcGVjaWZpY0xvY2F0aW9uRG9jdW1lbnQKaW1wb3J0IGNvbS5haXJibmIuc2F0b3JpLmRhdGEubG9jYXRpb24udjEuR2xvYmFsTG9jYXRpb25Eb2N1bWVudAppbXBvcnQgY29tLmFpcmJuYi5zYXRvcmkuZGF0YS5sb2NhdGlvbi52MS5Mb2NhdGlvbkRvY3VtZW50CmltcG9ydCBjb20uYWlyYm5iLnNhdG9yaS5kYXRhLmxvY2F0aW9uLnYxLkRlcml2ZWRMb2NhdGlvbkRvY3VtZW50CmltcG9ydCBjb20uYWlyYm5iLnNhdG9yaS5kYXRhLmxvY2F0aW9uLnYxLlRlcm0KaW1wb3J0IGNvbS5haXJibmIuc2F0b3JpLmRhdGEuRGF0YVBhcnNpbmdVdGlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaXZlVG9UaHJpZnRNYXJrZXRMb2NhbGVcPg==</last-search>
+      <last-search>rdd</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaXZlVG9UaHJpZnRNYXJrZXRMb2NhbGVcPg==</last-pattern>
+      <last-pattern>rdd</last-pattern>
       <last-replace />
       <last-substitute>V2</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>assertThat</entry>
-        <entry>environment</entry>
-        <entry>getStatus</entry>
         <entry>contacts_to_json</entry>
         <entry>getPages</entry>
         <entry>public</entry>
@@ -609,6 +617,9 @@
         <entry encoding="base64">XDxzbGY0alw+</entry>
         <entry>hive</entry>
         <entry encoding="base64">XDxoaXZlVG9UaHJpZnRNYXJrZXRMb2NhbGVcPg==</entry>
+        <entry>Preconditions</entry>
+        <entry>preconditions</entry>
+        <entry>rdd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Bob25lL2VtYWlsL2c=</entry>
@@ -628,8 +639,8 @@
         <entry>81</entry>
         <entry>62</entry>
         <entry>80</entry>
-        <entry>%y</entry>
         <entry>nohl</entry>
+        <entry>%y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
