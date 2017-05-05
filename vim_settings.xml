@@ -51,10 +51,10 @@
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" timestamp="1494023451740">
-        <mark key="'" line="7" column="47" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" timestamp="1494024498872">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" timestamp="1491960728369">
@@ -103,10 +103,10 @@
         <mark key="^" line="62" column="25" />
         <mark key="." line="62" column="25" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" timestamp="1494022853391">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/build.gradle" timestamp="1494024716404">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="40" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge-from-local.sh" timestamp="1494005805330">
         <mark key="'" line="20" column="0" />
@@ -207,11 +207,12 @@
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1494023669908">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1494026187925">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/AbstractAeonSpinalTapMutationHandler.java" timestamp="1491848150339">
         <mark key="'" line="162" column="0" />
@@ -245,8 +246,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/baloo/src/test/java/com/airbnb/baloo/api/BalooResourceTest.java" timestamp="1490737756062">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" timestamp="1493939264422">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" timestamp="1494024944095">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="29" column="100" />
       </file>
@@ -409,10 +410,10 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1492626800187">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" timestamp="1494022099779">
-        <mark key="'" line="30" column="46" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" timestamp="1494025370074">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="76" />
         <mark key="." line="30" column="46" />
         <mark key="^" line="30" column="46" />
       </file>
@@ -435,7 +436,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494023710786">
+      <file name="/Dummy.txt" timestamp="1494025761113">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -496,17 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
-      <jump line="48" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
-      <jump line="250" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
-      <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
-      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
-      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
-      <jump line="27" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
       <jump line="26" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
       <jump line="12" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" />
       <jump line="21" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
@@ -566,9 +556,7 @@
       <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
       <jump line="89" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
-      <jump line="30" column="46" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/NebulaDataStats.scala" />
       <jump line="87" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/NebulaDataStats.scala" />
@@ -596,6 +584,19 @@
       <jump line="12" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/NebulaDataStats.scala" />
       <jump line="98" column="74" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/NebulaDataStats.scala" />
       <jump line="7" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="30" column="76" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/scripts/run-datamerge.sh" />
+      <jump line="16" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" />
+      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -608,40 +609,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>this.getClass.getName</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>SparkContext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuU3BhcmtDb250ZXh0Ll8K</text>
+        <text encoding="base64">ICBjb21waWxlICdvcmcuYXBhY2hlLnNwYXJrOnNwYXJrLWNvcmVfMi4xMDoxLjUuMicKICBjb21waWxlICdvcmcuYXBhY2hlLnNwYXJrOnNwYXJrLWhpdmVfMi4xMDoxLjUuMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJzpjb21tb246dXRpbHMnKQogIGNvbXBpbGUgcHJvamVjdCgnOmNvbW1vbjpzcGFyay11dGlscycpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJzpjb21tb246c3BhcmstdXRpbHMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
+        <text encoding="base64">ICBjb21waWxlIHByb2plY3QoJzpjb21tb246c3BhcmstdXRpbHMnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2dEYXRhID0gc2MudGV4dEZpbGUobG9nRmlsZSwgMikuY2FjaGUoKQogICAgdmFsIG51bUFzID0gbG9nRGF0YS5maWx0ZXIobGluZSA9PiBsaW5lLmNvbnRhaW5zKCJhIikpLmNvdW50KCkKICAgIHZhbCBudW1CcyA9IGxvZ0RhdGEuZmlsdGVyKGxpbmUgPT4gbGluZS5jb250YWlucygiYiIpKS5jb3VudCgpCiAgICBwcmludGxuKHMiTGluZXMgd2l0aCBhOiAkbnVtQXMsIExpbmVzIHdpdGggYjogJG51bUJzIikK</text>
+        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2dEYXRhID0gc2MudGV4dEZpbGUobG9nRmlsZSwgMikuY2FjaGUoKQogICAgdmFsIG51bUFzID0gbG9nRGF0YS5maWx0ZXIobGluZSA9PiBsaW5lLmNvbnRhaW5zKCJhIikpLmNvdW50KCkKICAgIHZhbCBudW1CcyA9IGxvZ0RhdGEuZmlsdGVyKGxpbmUgPT4gbGluZS5jb250YWlucygiYiIpKS5jb3VudCgpCiAgICBwcmludGxuKHMiTGluZXMgd2l0aCBhOiAkbnVtQXMsIExpbmVzIHdpdGggYjogJG51bUJzIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbG9nZ2VyOiBMb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihOZWJ1bGFEYXRhU3RhdHMuZ2V0Q2xhc3MudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai57TG9nZ2VyLCBMb2dnZXJGYWN0b3J5fQo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbG9nZ2VyOiBMb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihOZWJ1bGFEYXRhU3RhdHMuZ2V0Q2xhc3MudG9TdHJpbmcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
