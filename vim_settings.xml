@@ -331,8 +331,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/DekuService.java" timestamp="1491603842057">
         <mark key="'" line="73" column="84" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" timestamp="1494291747572">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" timestamp="1494359671785">
+        <mark key="'" line="214" column="33" />
         <mark key="[" line="219" column="7" />
         <mark key="]" line="219" column="6" />
         <mark key="^" line="219" column="6" />
@@ -504,12 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="68" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="67" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="66" column="69" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="65" column="106" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="64" column="94" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="63" column="102" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="62" column="94" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="61" column="92" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
@@ -564,7 +558,6 @@
       <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
       <jump line="152" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="25" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="153" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="46" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="74" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
       <jump line="104" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
@@ -604,6 +597,13 @@
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-jobs/src/main/scala/com/airbnb/marketplace/pricing/label/GetBookingRequestLabelJob.scala" />
       <jump line="106" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" />
       <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-jobs/src/main/scala/com/airbnb/marketplace/pricing/label/GetBookingRequestLabelJob.scala" />
+      <jump line="18" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="139" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="136" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="153" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="154" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="169" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="214" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -619,7 +619,7 @@
         <text>&quot;user_id&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sql</text>
+        <text encoding="base64">XDxkZXJpdmVkVG9UaHJpZnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmhpdmUuSGl2ZUNvbnRleHQK</text>
@@ -656,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sql</last-search>
+      <last-search encoding="base64">XDxkZXJpdmVkVG9UaHJpZnRcPg==</last-search>
       <last-offset />
-      <last-pattern>sql</last-pattern>
+      <last-pattern encoding="base64">XDxkZXJpdmVkVG9UaHJpZnRcPg==</last-pattern>
       <last-replace />
       <last-substitute>V2</last-substitute>
       <last-dir>1</last-dir>
@@ -666,12 +666,8 @@
     </search>
     <history>
       <history-search>
-        <entry>sqlasmap</entry>
-        <entry>makeQuery</entry>
-        <entry>make</entry>
         <entry encoding="base64">XDxtYWtlUXVlcnlNYXJrZXRMb2NhbGVcPg==</entry>
         <entry>rddtothrift</entry>
-        <entry encoding="base64">XDxyZGRUb1RocmlmdFw+</entry>
         <entry encoding="base64">XDxwYXJzZVJvd01hcFw+</entry>
         <entry>groupbykey</entry>
         <entry>groupByKey</entry>
@@ -681,11 +677,15 @@
         <entry>marketlocalelocation</entry>
         <entry encoding="base64">XDxSb2xvZGV4U2F0b3JpQ29udGFjdFw+</entry>
         <entry>RDD</entry>
-        <entry>load</entry>
         <entry>HiveContext</entry>
         <entry>group by</entry>
         <entry>groupBy</entry>
         <entry>sql</entry>
+        <entry>hive</entry>
+        <entry>load</entry>
+        <entry encoding="base64">XDxtYXJrZXRMb2NhbGVMb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDxyZGRUb1RocmlmdFw+</entry>
+        <entry encoding="base64">XDxkZXJpdmVkVG9UaHJpZnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL1Bob25lL2c=</entry>
