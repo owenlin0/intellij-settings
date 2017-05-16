@@ -427,6 +427,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" timestamp="1494281573554">
         <mark key="'" line="34" column="17" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1494896066140">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" timestamp="1491328669342">
         <mark key="'" line="87" column="0" />
       </file>
@@ -504,8 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="108" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
-      <jump line="51" column="86" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="50" column="116" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="49" column="115" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
       <jump line="48" column="121" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/JobRunner.scala" />
@@ -604,6 +608,8 @@
       <jump line="225" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="230" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -619,7 +625,7 @@
         <text>&quot;user_id&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>terms</text>
+        <text>contactbookimport</text>
       </register>
       <register name="0" type="4">
         <text>search_ranking_signals.autocomplete_market_locale</text>
@@ -656,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>terms</last-search>
+      <last-search>contactbookimport</last-search>
       <last-offset />
-      <last-pattern>terms</last-pattern>
+      <last-pattern>contactbookimport</last-pattern>
       <last-replace />
       <last-substitute>V2</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>groupbykey</entry>
         <entry>groupByKey</entry>
         <entry>_.id</entry>
         <entry>_.</entry>
@@ -686,6 +691,7 @@
         <entry>setTerms</entry>
         <entry>termsArray</entry>
         <entry>terms</entry>
+        <entry>contactbookimport</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL1Bob25lL2c=</entry>
