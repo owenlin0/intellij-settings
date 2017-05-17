@@ -358,8 +358,8 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" timestamp="1494290433621">
-        <mark key="'" line="19" column="6" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" timestamp="1494993234578">
+        <mark key="'" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtilsV2.java" timestamp="1491945715753">
         <mark key="'" line="21" column="6" />
@@ -467,7 +467,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494990939528">
+      <file name="/Dummy.txt" timestamp="1494993217372">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -501,12 +501,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1494992616638">
-        <mark key="'" line="94" column="83" />
-        <mark key="[" line="96" column="31" />
-        <mark key="]" line="96" column="41" />
-        <mark key="." line="96" column="41" />
-        <mark key="^" line="96" column="41" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1494993513349">
+        <mark key="'" line="95" column="34" />
+        <mark key="[" line="96" column="61" />
+        <mark key="]" line="96" column="61" />
+        <mark key="." line="96" column="61" />
+        <mark key="^" line="96" column="61" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactHandleMetadataFormat.java" timestamp="1491606685995">
         <mark key="'" line="18" column="54" />
@@ -539,9 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/signals/src/main/scala/com/airbnb/nebula/signals/SignalConverter.scala" />
-      <jump line="8" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/RuleEvaluationEventHandlerTest.scala" />
-      <jump line="60" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/RuleEvaluationEventHandlerTest.scala" />
       <jump line="77" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/RuleEvaluationEventHandlerTest.scala" />
       <jump line="94" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/RuleEvaluationEventHandlerTest.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/decisions/Module.scala" />
@@ -637,8 +634,11 @@
       <jump line="97" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="93" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="9" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="95" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="94" column="83" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="37" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" />
+      <jump line="20" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" />
+      <jump line="53" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" />
+      <jump line="94" column="89" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="95" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,13 +651,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>parsed.get(&quot;first_name&quot;)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb250YWN0XD4=</text>
+        <text>getOrElse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWN0LnNldENvbnRhY3RJZChwYXJzZWQuZ2V0KCJmaXJzdF9uYW1lIikpCg==</text>
+      <register name="0" type="4">
+        <text>parsed.getOrElse(&quot;first_name&quot;, &quot;&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnRhY3RzLmhlYWQK</text>
@@ -691,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb250YWN0XD4=</last-search>
+      <last-search>getOrElse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb250YWN0XD4=</last-pattern>
+      <last-pattern>getOrElse</last-pattern>
       <last-replace>EmailContactsHiveToS3</last-replace>
       <last-substitute>HiveToS3</last-substitute>
       <last-dir>1</last-dir>
@@ -701,7 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>guice</entry>
         <entry>omnes</entry>
         <entry>mapper</entry>
         <entry encoding="base64">XDxlbWFpbFBheWxvYWRUb1RocmlmdFw+</entry>
@@ -721,6 +720,7 @@
         <entry>readvalue</entry>
         <entry>res2</entry>
         <entry encoding="base64">XDxDb250YWN0XD4=</entry>
+        <entry>getOrElse</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
