@@ -346,11 +346,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495056170187">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495057717430">
         <mark key="'" line="83" column="0" />
         <mark key="j" line="99" column="1" />
-        <mark key="[" line="107" column="12" />
-        <mark key="]" line="107" column="11" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="31" />
         <mark key="." line="107" column="11" />
         <mark key="^" line="107" column="11" />
       </file>
@@ -481,8 +481,8 @@
       <register name="/" type="4">
         <text>sqlutils</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcm93TWFwLmdldEludCgidXNlcl9pZCIpLmdldCwK</text>
+      <register name="0" type="4">
+        <text>val hc = new HiveContext(sc)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgc3FsQXNNYXAoaGl2ZUNvbnRleHQ6IEhpdmVDb250ZXh0LCBxdWVyeTogU3RyaW5nKTogUkREW1Jvd01hcF0gPSB7CiAgICB2YWwgZGYgPSBoaXZlQ29udGV4dC5zcWwocXVlcnkpCiAgICB2YWwgZmllbGRzID0gZGYuY29sdW1ucwogICAgZGYubWFwKHJvdyA9PiBuZXcgUm93TWFwKHJvdywgZmllbGRzKSkKICB9Cgo=</text>
@@ -512,7 +512,7 @@
         <text encoding="base64">Ly8gICAgZ2V0T2JqZWN0TWFwcGVyKCkucmVhZFZhbHVlKHBheWxvYWQuY29udGFjdHMsICkK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
@@ -548,7 +548,6 @@
         <entry>sqlutils</entry>
       </history-search>
       <history-cmd>
-        <entry>70</entry>
         <entry>%s/&quot;rolodex./&quot;/gc</entry>
         <entry encoding="base64">JzwsJz5zL1V0aWxzL1V0aWxzVjIvZw==</entry>
         <entry>%s/V2//gc</entry>
@@ -568,6 +567,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>nohl</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
