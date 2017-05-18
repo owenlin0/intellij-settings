@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.sql</mask>
       <mask>*.yml.example</mask>
       <mask>*.gradle</mask>
       <mask>*.yml*</mask>
@@ -33,8 +31,10 @@
       <mask>*application.java</mask>
       <mask>cala</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.scala</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
