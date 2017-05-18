@@ -154,8 +154,8 @@
         <mark key="]" line="63" column="73" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495068941389">
-        <mark key="'" line="9" column="11" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495069713472">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="70" />
         <mark key="." line="10" column="70" />
@@ -349,7 +349,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495069030534">
+      <file name="/Dummy.txt" timestamp="1495069886582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -373,13 +373,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495068954540">
-        <mark key="'" line="6" column="33" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495070689016">
+        <mark key="'" line="85" column="0" />
         <mark key="j" line="99" column="1" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="31" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="28" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
+        <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/BackFillFromLogToHFileData.scala" timestamp="1494021982738">
         <mark key="'" line="0" column="0" />
@@ -391,20 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="252" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="230" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
-      <jump line="30" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/satori/data/src/main/java/com/airbnb/satori/data/DataParsingUtils.java" />
-      <jump line="79" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="94" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="110" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="105" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="13" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="22" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="89" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="116" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="112" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="68" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
@@ -413,7 +399,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/FileUtils.scala" />
       <jump line="73" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="74" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="19" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="20" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="36" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="42" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
@@ -445,7 +430,6 @@
       <jump line="104" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="62" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="113" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="108" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="9" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/SQLUtils.scala" />
       <jump line="107" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
@@ -491,6 +475,22 @@
       <jump line="5" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/job/PricingNotificationJobFactory.scala" />
       <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/PricingNotificationJobRunner.scala" />
       <jump line="14" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/PricingNotificationJobRunner.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" />
+      <jump line="33" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="21" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="97" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="19" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="47" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/RowMap.scala" />
+      <jump line="100" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="17" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="99" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="87" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="98" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="96" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="85" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -503,10 +503,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>scala</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>sparkconf</text>
+        <text>parsed</text>
       </register>
       <register name="0" type="4">
         <text>PricingNotificationJobRunner</text>
@@ -543,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sparkconf</last-search>
+      <last-search>parsed</last-search>
       <last-offset />
-      <last-pattern>sparkconf</last-pattern>
+      <last-pattern>parsed</last-pattern>
       <last-replace>EmailContactsHiveToS3</last-replace>
       <last-substitute>HiveToS3</last-substitute>
       <last-dir>1</last-dir>
@@ -553,13 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serde</entry>
-        <entry>srdeutils</entry>
-        <entry>sqlutils</entry>
-        <entry>maekquery</entry>
-        <entry>makeQuery</entry>
-        <entry>spark-submit</entry>
-        <entry>submit</entry>
         <entry>sparksubmit</entry>
         <entry>where</entry>
         <entry>data-merge</entry>
@@ -573,9 +566,15 @@
         <entry>spark</entry>
         <entry>HiveContext</entry>
         <entry>sparkconf</entry>
+        <entry>rolodex_satori</entry>
+        <entry encoding="base64">XDxVc2VyRW1haWxDb250YWN0c1BheWxvYWRcPg==</entry>
+        <entry>long</entry>
+        <entry>getLong</entry>
+        <entry>Int</entry>
+        <entry>Long</entry>
+        <entry>parsed</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;rolodex./&quot;/gc</entry>
         <entry encoding="base64">JzwsJz5zL1V0aWxzL1V0aWxzVjIvZw==</entry>
         <entry>%s/V2//gc</entry>
         <entry>W</entry>
@@ -593,6 +592,7 @@
         <entry>%s/HiveToS3/EmailContactsHiveToS3/gc</entry>
         <entry>q</entry>
         <entry>64</entry>
+        <entry>99</entry>
         <entry>w</entry>
         <entry>nohl</entry>
       </history-cmd>

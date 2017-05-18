@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>*.yml.example</mask>
-      <mask>*.gradle</mask>
       <mask>*.yml*</mask>
       <mask>*Resource.java</mask>
       <mask>ild.gra*resource.java</mask>
@@ -15,7 +14,6 @@
       <mask>ild*resource.java</mask>
       <mask>i*resource.java</mask>
       <mask>i*resource.jav</mask>
-      <mask>build.gradle</mask>
       <mask>*handler</mask>
       <mask>*handler.</mask>
       <mask>*handl.ler.java</mask>
@@ -29,11 +27,14 @@
       <mask>*app.java</mask>
       <mask>*application.java</mask>
       <mask>cala</mask>
-      <mask>*</mask>
       <mask>*.scala</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*</mask>
+      <mask>build</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
