@@ -307,13 +307,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495151494990">
-        <mark key="'" line="98" column="62" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1495152247336">
+        <mark key="'" line="107" column="47" />
         <mark key="j" line="99" column="1" />
-        <mark key="[" line="98" column="6" />
-        <mark key="]" line="98" column="66" />
-        <mark key="." line="98" column="62" />
-        <mark key="^" line="98" column="62" />
+        <mark key="[" line="106" column="45" />
+        <mark key="]" line="106" column="47" />
+        <mark key="." line="106" column="47" />
+        <mark key="^" line="106" column="47" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/BackFillFromLogToHFileData.scala" timestamp="1494021982738">
         <mark key="'" line="0" column="0" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="190" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="175" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="162" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
@@ -425,6 +424,7 @@
       <jump line="78" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="98" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="107" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,40 +437,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>objectMappepr</text>
       </register>
-      <register name="0" type="4">
-        <text>.readValue(payload.contacts, classOf[List[Map[String, Any]]])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBhcnNlZCgiY29udGFjdF9pZCIpLmFzSW5zdGFuY2VPZltJbnRdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBSYXdDb250YWN0cwooCiAgY29udGFjdHM6IExpc3RbXQogIGNvbnRhY3RfaWQ6IExvbmcsIGZpcnN0X25hbWU6IFN0cmluZywgbGFzdF9uYW1lOiBTdHJpbmcsIGVtYWlsOiBTdHJpbmcKKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2FzZSBjbGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBSYXdDb250YWN0cwooCiAgY29udGFjdHM6IExpc3RbXQogIGNvbnRhY3RfaWQ6IExvbmcsIGZpcnN0X25hbWU6IFN0cmluZywgbGFzdF9uYW1lOiBTdHJpbmcsIGVtYWlsOiBTdHJpbmcKKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBSYXdDb250YWN0MygKICBAQmVhblByb3BlcnR5IHZhbCBjb250YWN0X2lkOiBMb25nLAogIEBCZWFuUHJvcGVydHkgdmFsIGZpcnN0X25hbWU6IFN0cmluZywKICBAQmVhblByb3BlcnR5IHZhbCBsYXN0X25hbWU6IFN0cmluZywKICBAQmVhblByb3BlcnR5IHZhbCBlbWFpbDogU3RyaW5nCikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVtcExvbmc6IExvbmcgPSBwYXJzZWQoImNvbnRhY3RfaWQiKS50b0xvbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wTG9uZy5jbGFzcwogICAgICAgIGxvZ2dlci5pbmZvKHMiW09XRU5dIHRlbXBMb25nOiAkdGVtcExvbmciKQo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBSYXdDb250YWN0MygKICBAQmVhblByb3BlcnR5IHZhbCBjb250YWN0X2lkOiBMb25nLAogIEBCZWFuUHJvcGVydHkgdmFsIGZpcnN0X25hbWU6IFN0cmluZywKICBAQmVhblByb3BlcnR5IHZhbCBsYXN0X25hbWU6IFN0cmluZywKICBAQmVhblByb3BlcnR5IHZhbCBlbWFpbDogU3RyaW5nCikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
