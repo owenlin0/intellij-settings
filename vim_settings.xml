@@ -382,10 +382,10 @@
         <mark key="." line="15" column="80" />
         <mark key="^" line="15" column="80" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" timestamp="1495228978243">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" timestamp="1495239893402">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="60" />
-        <mark key="]" line="1" column="116" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="54" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
@@ -636,7 +636,7 @@
         <text>outputPath</text>
       </register>
       <register name="0" type="4">
-        <text>s3://airbnb-search/autocomplete/usercontacts/contact_data</text>
+        <text>com.airbnb.rolodex.hive.EmailContactsHiveToS3 r</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnCg==</text>
