@@ -203,8 +203,8 @@
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" timestamp="1495475627403">
-        <mark key="'" line="239" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" timestamp="1495489049651">
+        <mark key="'" line="148" column="6" />
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="." line="257" column="0" />
@@ -329,7 +329,7 @@
         <mark key="." line="43" column="54" />
         <mark key="^" line="43" column="54" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/spark-utils/src/main/scala/com/airbnb/common/sparkutils/HFileReader.scala" timestamp="1495475651882">
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/spark-utils/src/main/scala/com/airbnb/common/sparkutils/HFileReader.scala" timestamp="1495489045763">
         <mark key="'" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormatTest.java" timestamp="1492733125069">
@@ -521,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
       <jump line="29" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" />
       <jump line="49" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
@@ -621,6 +620,7 @@
       <jump line="21" column="19" filename="$USER_HOME$/airlab/repos/treehouse/common/spark-utils/src/main/scala/com/airbnb/common/sparkutils/HFileReader.scala" />
       <jump line="40" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="62" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="148" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/DynamoDBAndHFileDataMerger.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
