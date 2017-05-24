@@ -330,6 +330,11 @@
         <mark key="^" line="155" column="21" />
         <mark key="." line="155" column="21" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToRolodexExportEvent.scala" timestamp="1493940328962">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
         <mark key="'" line="26" column="61" />
       </file>
@@ -344,6 +349,11 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1493860497735">
         <mark key="'" line="87" column="29" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactHandleTest.java" timestamp="1492124225560">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/data-merger/src/main/scala/com/airbnb/nebula/datamerger/NebulaDataStats.scala" timestamp="1495055726719">
         <mark key="'" line="58" column="8" />
@@ -576,6 +586,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="77" column="55" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/build.gradle" timestamp="1495585982604">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactHandleMetadataFormat.java" timestamp="1491606685995">
         <mark key="'" line="18" column="54" />
         <mark key="[" line="12" column="0" />
@@ -728,31 +743,31 @@
         <text>objectMapper.registerModule(DefaultScalaModule)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgb2JqZWN0TWFwcGVyOiBPYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAic2NhbGEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgb2JqZWN0TWFwcGVyOiBPYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0T2JqZWN0TWFwcGVyKCk6IE9iamVjdE1hcHBlciA9IHsKICAgIGlmIChvYmplY3RNYXBwZXIgPT0gbnVsbCkgdGhpcy5zeW5jaHJvbml6ZWQgewogICAgICBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkKICAgICAgb2JqZWN0TWFwcGVyLnJlZ2lzdGVyTW9kdWxlKERlZmF1bHRTY2FsYU1vZHVsZSkKICAgIH0KICAgIG9iamVjdE1hcHBlcgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShEZWZhdWx0U2NhbGFNb2R1bGUpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0T2JqZWN0TWFwcGVyKCk6IE9iamVjdE1hcHBlciA9IHsKICAgIGlmIChvYmplY3RNYXBwZXIgPT0gbnVsbCkgdGhpcy5zeW5jaHJvbml6ZWQgewogICAgICBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkKICAgICAgb2JqZWN0TWFwcGVyLnJlZ2lzdGVyTW9kdWxlKERlZmF1bHRTY2FsYU1vZHVsZSkKICAgIH0KICAgIG9iamVjdE1hcHBlcgogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFyIG9iamVjdE1hcHBlcjogT2JqZWN0TWFwcGVyID0gXwo=</text>
+        <text encoding="base64">ICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShEZWZhdWx0U2NhbGFNb2R1bGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvYmplY3RNYXBwZXIucmVnaXN0ZXJNb2R1bGUoRGVmYXVsdFNjYWxhTW9kdWxlKQo=</text>
+        <text encoding="base64">ICBAdHJhbnNpZW50IHByaXZhdGUgdmFyIG9iamVjdE1hcHBlcjogT2JqZWN0TWFwcGVyID0gXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvYmplY3RNYXBwZXIuCg==</text>
+        <text encoding="base64">ICBvYmplY3RNYXBwZXIucmVnaXN0ZXJNb2R1bGUoRGVmYXVsdFNjYWxhTW9kdWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBvYmplY3RNYXBwZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IC5zZXJpYWxpemVUaHJpZnRPYmpUb0Jhc2U2NAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
