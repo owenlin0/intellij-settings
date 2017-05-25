@@ -34,12 +34,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495749813368">
-        <mark key="'" line="37" column="16" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495754337266">
+        <mark key="'" line="33" column="48" />
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="33" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1495586227097">
         <mark key="'" line="0" column="13" />
@@ -400,12 +400,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/ActionExecutionHandlerSerializationTest.scala" timestamp="1495146342948">
         <mark key="'" line="60" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" timestamp="1495750477275">
-        <mark key="'" line="1" column="23" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" timestamp="1495754182694">
+        <mark key="'" line="7" column="62" />
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="62" />
+        <mark key="." line="7" column="62" />
+        <mark key="^" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/MysqlStorage.java" timestamp="1492734955902">
         <mark key="'" line="29" column="7" />
@@ -485,12 +485,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" timestamp="1495750954675">
-        <mark key="'" line="13" column="42" />
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" timestamp="1495753894402">
+        <mark key="'" line="7" column="31" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1492626800187">
         <mark key="'" line="18" column="11" />
@@ -594,12 +594,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/sideload.sh" timestamp="1495750774740">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/sideload.sh" timestamp="1495753917150">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="98" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandler.java" timestamp="1493863815949">
         <mark key="'" line="23" column="8" />
@@ -610,14 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/airstream/streaming-ingestion/src/main/java/com/airbnb/di/binlog/BinLogIndexer.java" />
-      <jump line="142" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.10.26/f495214de655a980d6fc5810b4e1c56ddddf2401/aws-java-sdk-s3-1.10.26-sources.jar!/com/amazonaws/services/s3/AmazonS3.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/airstream/streaming-ingestion/src/main/java/com/airbnb/di/binlog/BinLogIndexer.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
-      <jump line="22" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="10" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/airstream/streaming-ingestion/src/main/java/com/airbnb/di/binlog/BinLogIndexer.java" />
       <jump line="77" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
@@ -675,7 +667,6 @@
       <jump line="30" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="20" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/common/OffsetInfo.java" />
       <jump line="107" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.28/6799338186f83cea66352e95d6e97b7dab6ad05d/aws-java-sdk-s3-1.11.28-sources.jar!/com/amazonaws/services/s3/model/PutObjectRequest.java" />
-      <jump line="33" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="3159" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
       <jump line="32" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="49" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/admin/OffsetCommand.java" />
@@ -694,9 +685,7 @@
       <jump line="34" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="3245" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
       <jump line="3290" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
-      <jump line="106" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.28/6799338186f83cea66352e95d6e97b7dab6ad05d/aws-java-sdk-s3-1.11.28-sources.jar!/com/amazonaws/services/s3/model/PutObjectRequest.java" />
       <jump line="588" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Path.java" />
-      <jump line="35" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="38" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="27" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="28" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
@@ -710,6 +699,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" />
       <jump line="11" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" />
       <jump line="13" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" />
+      <jump line="7" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/sideload.sh" />
+      <jump line="7" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/sideload.sh" />
+      <jump line="19" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
+      <jump line="5" column="41" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
+      <jump line="3" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
+      <jump line="35" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
+      <jump line="106" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.28/6799338186f83cea66352e95d6e97b7dab6ad05d/aws-java-sdk-s3-1.11.28-sources.jar!/com/amazonaws/services/s3/model/PutObjectRequest.java" />
+      <jump line="4" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
+      <jump line="7" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
+      <jump line="893" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
+      <jump line="33" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -722,40 +722,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>ata-pipeline</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTT1VSQ0VfSkFSX0RJUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+      <register name="0" type="4">
+        <text>autocomplete/usercontacts/rolodex.exports_omnes_offset/</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Y29tLmFpcmJuYi5zYXRvcmkuYmFja2VuZC51c2VyZGF0YS5TYXRvcmlVc2VyRGF0YU9tbmVzT2Zmc2V0QXBwbGljYXRpb24gXAo=</text>
+      </register>
+      <register name="2" type="8">
         <text encoding="base64">ICsKICsKICsKICs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHM7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgdGVtcEZpbGUudG9GaWxlKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>''</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.json</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZmlsZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -810,9 +810,9 @@
         <entry>59t.</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>79</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>nohl</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
