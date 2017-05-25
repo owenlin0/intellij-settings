@@ -34,12 +34,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495754337266">
-        <mark key="'" line="33" column="48" />
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="48" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495755533767">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="33" column="6" />
       </file>
       <file name="/a.dummy" timestamp="1495586227097">
         <mark key="'" line="0" column="13" />
@@ -52,9 +52,7 @@
         <mark key="'" line="1074" column="17" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/paid-growth/smart-bidder/src/main/scala/com/airbnb/paidgrowth/smartbidder/util/Utility.scala" timestamp="1495525035324">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="36" />
+        <mark key="'" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/airstream/airstream-lib/src/main/scala/com/airbnb/di/AirOLAPRealtimeSink.scala" timestamp="1495158182640">
         <mark key="'" line="122" column="0" />
@@ -709,7 +707,7 @@
       <jump line="4" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
       <jump line="7" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
       <jump line="893" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
-      <jump line="33" column="48" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
+      <jump line="33" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -731,31 +729,31 @@
         <text>autocomplete/usercontacts/rolodex.exports_omnes_offset/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tLmFpcmJuYi5zYXRvcmkuYmFja2VuZC51c2VyZGF0YS5TYXRvcmlVc2VyRGF0YU9tbmVzT2Zmc2V0QXBwbGljYXRpb24gXAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICsKICsKICsKICs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHM7Cg==</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGVtcEZpbGUudG9GaWxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihvcmcuc2xmNGouTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.json</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29tLmFpcmJuYi5zYXRvcmkuYmFja2VuZC51c2VyZGF0YS5TYXRvcmlVc2VyRGF0YU9tbmVzT2Zmc2V0QXBwbGljYXRpb24gXAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICsKICsKICsKICs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFB1dE9iamVjdFJlcXVlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgdGVtcEZpbGUudG9GaWxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
