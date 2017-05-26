@@ -34,11 +34,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495756726965">
-        <mark key="'" line="33" column="5" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" timestamp="1495757716306">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="6" />
       </file>
       <file name="/a.dummy" timestamp="1495586227097">
@@ -687,7 +687,6 @@
       <jump line="38" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="27" column="60" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="28" column="67" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
-      <jump line="36" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="37" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/scripts/run.sh" />
       <jump line="1" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
@@ -708,6 +707,7 @@
       <jump line="7" column="62" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" />
       <jump line="893" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" />
       <jump line="33" column="5" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/src/main/java/com/airbnb/rolodex/omnes/RolodexExportsOmnesOffsetApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -729,31 +729,31 @@
         <text>autocomplete/usercontacts/rolodex.exports_omnes_offset/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihvcmcuc2xmNGouTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgIEFtYXpvblMzIHMzY2xpZW50ID0gbmV3IEFtYXpvblMzQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihvcmcuc2xmNGouTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y29tLmFpcmJuYi5zYXRvcmkuYmFja2VuZC51c2VyZGF0YS5TYXRvcmlVc2VyRGF0YU9tbmVzT2Zmc2V0QXBwbGljYXRpb24gXAo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICsKICsKICsKICs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHM7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGVtcEZpbGUudG9GaWxlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
