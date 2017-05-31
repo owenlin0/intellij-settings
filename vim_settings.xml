@@ -541,8 +541,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1496260739238">
-        <mark key="'" line="283" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1496263736022">
+        <mark key="'" line="281" column="9" />
         <mark key="[" line="288" column="36" />
         <mark key="]" line="288" column="35" />
         <mark key="^" line="288" column="35" />
@@ -598,9 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="84" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="81" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -623,7 +620,6 @@
       <jump line="129" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="132" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="144" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="289" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="20" column="78" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/StreamUtils.java" />
       <jump line="27" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/StreamUtils.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" />
@@ -698,6 +694,10 @@
       <jump line="298" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" />
       <jump line="283" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="289" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="136" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="281" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,7 +713,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>stringutils</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTYW5pdGl6ZUVtcHR5U3RyaW5nSGFuZGxlKCkgewogICAgQ29udGFjdEhhbmRsZSBiYWRIYW5kbGUgPSBDb250YWN0SGFuZGxlLmZyb21TdHJpbmcoCiAgICAgICAgMSwKICAgICAgICBDb250YWN0SGFuZGxlLkNvbnRhY3RIYW5kbGVUeXBlLkVNQUlMLAogICAgICAgICIiKTsKCiAgICBDb250YWN0IGJhZENvbnRhY3QgPSBuZXcgQ29udGFjdCgpOwogICAgYmFkQ29udGFjdC5zZXRGaXJzdE5hbWUoIkJvYiIpOwogICAgYmFkQ29udGFjdC5zZXRMYXN0TmFtZSgiIik7CiAgICBiYWRDb250YWN0LnNldENvbnRhY3RIYW5kbGVzKEltbXV0YWJsZUxpc3Qub2YoYmFkSGFuZGxlKSk7CgogICAgYXNzZXJ0RXF1YWxzKDAsIEFic3RyYWN0U3RvcmFnZS5zYW5pdGl6ZUNvbnRhY3RzKEltbXV0YWJsZUxpc3Qub2YoYmFkQ29udGFjdCkpLnNpemUoKSk7CiAgfQo=</text>
@@ -746,13 +746,13 @@
         <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIucm9sb2RleC5kYi5BYnN0cmFjdFN0b3JhZ2U7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>stringutils</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>stringutils</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>args[0]</last-replace>
       <last-substitute>args</last-substitute>
       <last-dir>1</last-dir>
@@ -760,8 +760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry encoding="base64">XDxTT1VSQ0VfSkFSX0RJUlw+</entry>
         <entry>logger</entry>
         <entry>args</entry>
         <entry encoding="base64">XDxBYnN0cmFjdFN0b3JhZ2VcPg==</entry>
@@ -780,6 +778,8 @@
         <entry encoding="base64">XDxpbnZhbGlkSGFuZGxlU3RyaW5nXD4=</entry>
         <entry>sanitizeContacts</entry>
         <entry>stringutils</entry>
+        <entry>abstract</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
@@ -800,8 +800,8 @@
         <entry encoding="base64">JzwsJz5zL2FyZ3MvYXJnc1swXS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FyZ3MvYXJnc1swXS9nYw==</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
