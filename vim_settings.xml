@@ -417,11 +417,11 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" timestamp="1496281448000">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" timestamp="1496282421303">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1496266796806">
         <mark key="'" line="15" column="36" />
@@ -516,8 +516,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1496281422527">
-        <mark key="'" line="45" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1496281621072">
+        <mark key="'" line="47" column="17" />
         <mark key="j" line="359" column="50" />
         <mark key="[" line="297" column="22" />
         <mark key="]" line="297" column="28" />
@@ -569,9 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
-      <jump line="23" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
-      <jump line="25" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
       <jump line="39" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
       <jump line="44" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
       <jump line="57" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" />
@@ -652,7 +649,6 @@
       <jump line="35" column="52" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" />
       <jump line="40" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" />
       <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/H2StorageProducer.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="53" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
@@ -669,6 +665,10 @@
       <jump line="18" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/H2StorageTest.java" />
       <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" />
       <jump line="48" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" />
+      <jump line="47" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/H2StorageProducer.java" />
+      <jump line="25" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" />
+      <jump line="26" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -687,31 +687,31 @@
         <text>producer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBoMlN0b3JhZ2UuZ2V0RFNMQ29udGV4dCgpLnNlbGVjdEZyb20oQ09OVEFDVF9CT09LUykuZmV0Y2goKS5zaXplKCkpOwogICAgYXNzZXJ0RXF1YWxzKDEsIGgyU3RvcmFnZS5nZXREU0xDb250ZXh0KCkuc2VsZWN0RnJvbShDT05UQUNUUykuZmV0Y2goKS5zaXplKCkpOwogICAgYXNzZXJ0RXF1YWxzKDQsIGgyU3RvcmFnZS5nZXREU0xDb250ZXh0KCkuc2VsZWN0RnJvbShDT05UQUNUX0hBTkRMRVMpLmZldGNoKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIHN1cGVyKG5ldyBIMlN0b3JhZ2VQcm9kdWNlcigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LlRCYXNlOwo=</text>
+        <text encoding="base64">ICAgIHN1cGVyKG5ldyBIMlN0b3JhZ2VQcm9kdWNlcigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5TZXJ2aWNlOwppbXBvcnQgY29tLmdvb2dsZS5pbmplY3QuSW5qZWN0OwppbXBvcnQgY29tLmdvb2dsZS5pbmplY3QubmFtZS5OYW1lZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuRXhlY3V0b3I7CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdDsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LlRCYXNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMucHJvZHVjZXIuT21uZXNQcm9kdWNlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5TZXJ2aWNlOwppbXBvcnQgY29tLmdvb2dsZS5pbmplY3QuSW5qZWN0OwppbXBvcnQgY29tLmdvb2dsZS5pbmplY3QubmFtZS5OYW1lZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIucm9sb2RleC5kYi5nZW5lcmF0ZWQudGFibGVzLnJlY29yZHMuQ29udGFjdHNSZWNvcmQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuRXhlY3V0b3I7CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdDsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBoMlN0b3JhZ2UuZ2V0RFNMQ29udGV4dCgpLnNlbGVjdEZyb20oQ09OVEFDVF9CT09LUykuZmV0Y2goKS5zaXplKCkpOwogICAgYXNzZXJ0RXF1YWxzKDQsIGgyU3RvcmFnZS5nZXREU0xDb250ZXh0KCkuc2VsZWN0RnJvbShDT05UQUNUX0hBTkRMRVMpLmZldGNoKCkuc2l6ZSgpKTsKICAgIENvbnRhY3RzUmVjb3JkIGNvbnRhY3RzUmVjb3JkID0gaDJTdG9yYWdlLmdldERTTENvbnRleHQoKS5zZWxlY3RGcm9tKENPTlRBQ1RTKS5mZXRjaE9uZSgpOwogICAgYXNzZXJ0RXF1YWxzKChieXRlKSAxLCAoYnl0ZSkgY29udGFjdHNSZWNvcmQuZ2V0SGFzUGljdHVyZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIub21uZXMucHJvZHVjZXIuT21uZXNQcm9kdWNlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5haXJibmIucm9sb2RleC5kYi5nZW5lcmF0ZWQudGFibGVzLnJlY29yZHMuQ29udGFjdHNSZWNvcmQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBoMlN0b3JhZ2UuZ2V0RFNMQ29udGV4dCgpLnNlbGVjdEZyb20oQ09OVEFDVF9CT09LUykuZmV0Y2goKS5zaXplKCkpOwogICAgYXNzZXJ0RXF1YWxzKDQsIGgyU3RvcmFnZS5nZXREU0xDb250ZXh0KCkuc2VsZWN0RnJvbShDT05UQUNUX0hBTkRMRVMpLmZldGNoKCkuc2l6ZSgpKTsKICAgIENvbnRhY3RzUmVjb3JkIGNvbnRhY3RzUmVjb3JkID0gaDJTdG9yYWdlLmdldERTTENvbnRleHQoKS5zZWxlY3RGcm9tKENPTlRBQ1RTKS5mZXRjaE9uZSgpOwogICAgYXNzZXJ0RXF1YWxzKChieXRlKSAxLCAoYnl0ZSkgY29udGFjdHNSZWNvcmQuZ2V0SGFzUGljdHVyZSgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
