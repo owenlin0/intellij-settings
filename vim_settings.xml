@@ -282,6 +282,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1491942974540">
         <mark key="'" line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/src/main/java/com/airbnb/judi/tasks/ExperimentConfigTask.java" timestamp="1496701476713">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="2" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hermes/src/main/java/com/airbnb/discover/hermes/lib/FileUtils.java" timestamp="1495744435454">
         <mark key="'" line="93" column="4" />
       </file>
@@ -290,6 +295,9 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/job/PricingNotificationJobFactory.scala" timestamp="1495069045256">
         <mark key="'" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/build.gradle" timestamp="1496701459643">
+        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-jobs/src/main/scala/com/airbnb/marketplace/pricing/label/GetBookingRequestLabelJob.scala" timestamp="1494355888123">
         <mark key="'" line="72" column="0" />
@@ -480,9 +488,6 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1496632694474">
-        <mark key="'" line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" timestamp="1496274770820">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="23" column="35" />
@@ -504,6 +509,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" timestamp="1491328669342">
         <mark key="'" line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/tasks/DuplicateContactBooksCleanupTask.java" timestamp="1496701500711">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactBook.java" timestamp="1491606722258">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="18" column="0" />
@@ -520,7 +531,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496696130707">
+      <file name="/Dummy.txt" timestamp="1496701421750">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -585,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.230.4/4313e1b5224d3d25a72dd29c1426622303eb4d15/jitney-schemas-3.230.4.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" />
-      <jump line="113" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" />
       <jump line="75" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="139" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -685,6 +694,8 @@
       <jump line="76" column="97" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="18" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerV2.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" />
+      <jump line="13" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/src/main/java/com/airbnb/judi/tasks/ExperimentConfigTask.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -697,13 +708,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>is all f'ed up</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>fetchOne</text>
+        <text>servlet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGgyU3RvcmFnZS5wcm9jZXNzRXZlbnQoUm9sb2RleENvbnRhY3RCYXRjaFVwbG9hZEV2ZW50VXRpbHMuY3JlYXRlRXZlbnRGcm9tTW9iaWxlKDEpKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgRXhwZXJpbWVudENvbmZpZ1Rhc2soRXhwZXJpbWVudENvbmZpZ3VyYXRpb24gZXhwZXJpbWVudENvbmZpZykgewogICAgc3VwZXIoImV4cGVyaW1lbnRfY29uZmlnIik7CiAgICB0aGlzLmV4cGVyaW1lbnRDb25maWcgPSBleHBlcmltZW50Q29uZmlnOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCBpc1N5bmMoKSB7CiAgICAKICB9Cg==</text>
@@ -737,9 +748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetchOne</last-search>
+      <last-search>servlet</last-search>
       <last-offset />
-      <last-pattern>fetchOne</last-pattern>
+      <last-pattern>servlet</last-pattern>
       <last-replace>args[0]</last-replace>
       <last-substitute>args</last-substitute>
       <last-dir>1</last-dir>
@@ -747,8 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWRIYW5kbGVcPg==</entry>
-        <entry>invalidhandle</entry>
         <entry>Contact</entry>
         <entry>emails</entry>
         <entry>filter</entry>
@@ -767,6 +776,8 @@
         <entry>public</entry>
         <entry>fetchOnecontact</entry>
         <entry>fetchOne</entry>
+        <entry>tasks</entry>
+        <entry>servlet</entry>
       </history-search>
       <history-cmd>
         <entry>%s/RolodexSatoriContact/UserContacts/gc</entry>
@@ -786,8 +797,8 @@
         <entry encoding="base64">JzwsJz5zL2FyZ3MvYXJnc1swXS9nYw==</entry>
         <entry>25</entry>
         <entry>w;</entry>
-        <entry>q</entry>
         <entry>nohl</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
