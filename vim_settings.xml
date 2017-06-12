@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/0.7.1/69a7060ab0a42328331ac3e779f70f7cdc0dc720/dropwizard-core-0.7.1-sources.jar!/io/dropwizard/setup/Environment.java" timestamp="1491946917552">
         <mark key="'" line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1497308054736" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" timestamp="1494024498872">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -199,6 +200,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/connections/connections-server/src/main/java/com/airbnb/connections/api/ConnectionPresenter.java" timestamp="1491942070712">
         <mark key="'" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contacts-table.sql" timestamp="1497308015855" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/decisions/LoggingStructures.scala" timestamp="1495146344804">
         <mark key="'" line="13" column="0" />
       </file>
@@ -318,6 +320,13 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1497043249664">
         <mark key="'" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" timestamp="1497308193748">
+        <mark key="'" line="12" column="68" />
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="68" />
+        <mark key="^" line="12" column="68" />
+        <mark key="." line="12" column="68" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" timestamp="1497148126955">
         <mark key="'" line="113" column="13" />
       </file>
@@ -384,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="14" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="52" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="58" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
@@ -484,6 +492,7 @@
       <jump line="395" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
       <jump line="364" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="98" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
+      <jump line="12" column="68" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-books-table.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -532,7 +541,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -586,8 +595,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsQ29udGFjdEhhbmRsZS9oYW5kbGUvZ2M=</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
