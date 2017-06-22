@@ -423,8 +423,10 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" timestamp="1498151078104">
-        <mark key="'" line="727" column="0" />
+      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" timestamp="1498152271539">
+        <mark key="'" line="232" column="41" />
+        <mark key="[" line="257" column="17" />
+        <mark key="]" line="257" column="55" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1496880080606">
         <mark key="'" line="33" column="0" />
@@ -641,9 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" />
-      <jump line="101" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" />
-      <jump line="75" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="80" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="85" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="73" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
@@ -726,7 +725,6 @@
       <jump line="33" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="105" column="20" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
-      <jump line="232" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="233" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="234" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="235" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
@@ -734,20 +732,24 @@
       <jump line="237" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="266" column="16" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="865" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
-      <jump line="227" column="33" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="77" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="349" column="12" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="74" column="54" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
-      <jump line="229" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="725" column="29" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="727" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="185" column="12" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="189" column="21" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="198" column="21" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="227" column="33" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="229" column="46" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="232" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>0wdaw..gUl</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMKCg==</text>
+      <register name="&quot;" type="4">
+        <text>com.airbnb.jitney.event.logging.Hero.v2</text>
       </register>
       <register name="+" type="4">
         <text>''</text>
@@ -756,10 +758,10 @@
         <text encoding="base64">IGdldExhc3ROYW1lKCkgPT0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>Rolodex</text>
+        <text>logging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIoZW1haWwgLT4gIVN0cmluZ1V0aWxzLmlzQmxhbmsoZW1haWwuZ2V0QWRkcmVzcygpKSkK</text>
+      <register name="0" type="4">
+        <text>com.airbnb.jitney.event.logging.Hero.v2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMKCg==</text>
@@ -793,9 +795,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Rolodex</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern>Rolodex</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-replace>createContact</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb250YWN0V2l0aE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sanitize</entry>
         <entry>isNot</entry>
         <entry>isblank</entry>
         <entry>isBlank</entry>
@@ -821,8 +822,9 @@
         <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
         <entry>getDisplay</entry>
         <entry>getDisplayName</entry>
-        <entry>logging</entry>
         <entry>Rolodex</entry>
+        <entry>com.airbnb</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
