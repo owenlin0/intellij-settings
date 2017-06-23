@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*handler.</mask>
       <mask>*handl.ler.java</mask>
@@ -17,7 +18,6 @@
       <mask>*.h</mask>
       <mask>*.sh</mask>
       <mask>build</mask>
-      <mask>build.gradle</mask>
       <mask>cala</mask>
       <mask>cal</mask>
       <mask>ca</mask>
@@ -32,8 +32,9 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
