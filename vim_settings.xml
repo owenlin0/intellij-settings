@@ -150,6 +150,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" timestamp="1491588135697">
         <mark key="'" line="108" column="18" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" timestamp="1498184192527">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="128" column="15" />
+        <mark key="]" line="128" column="13" />
+        <mark key="." line="128" column="13" />
+        <mark key="^" line="128" column="13" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
         <mark key="'" line="81" column="4" />
       </file>
@@ -568,7 +575,7 @@
         <mark key="^" line="18" column="71" />
         <mark key="." line="18" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498178335909">
+      <file name="/Dummy.txt" timestamp="1498184060479">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -643,9 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
-      <jump line="78" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -743,13 +747,16 @@
       <jump line="229" column="46" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="232" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="273" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" />
+      <jump line="110" column="2" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" />
+      <jump line="128" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>0wdaw..gUl</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>com.airbnb.jitney.event.logging.Hero.v2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVmZXJyaW5nX3VzZXJfaWQ6CiAgICAgICAgb3B0aW9uYWw6IHRydWUK</text>
       </register>
       <register name="+" type="4">
         <text>''</text>
@@ -758,34 +765,34 @@
         <text encoding="base64">IGdldExhc3ROYW1lKCkgPT0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>logging</text>
+        <text encoding="base64">XDxkdXBsaWNhdGVfYWNjb3VudF9kZXRlY3Rpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>com.airbnb.jitney.event.logging.Hero.v2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVmZXJyaW5nX3VzZXJfaWQ6CiAgICAgICAgb3B0aW9uYWw6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMKCg==</text>
+        <text encoding="base64">ICAgICAgcmVmZXJyaW5nX3VzZXJfaWQ6CiAgICAgICAgb3B0aW9uYWw6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbDogdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAUE9TVAo=</text>
+        <text encoding="base64">ICAgICAgcmVmZXJyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAUE9TVAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbS5haXJibmIuaml0bmV5LmV2ZW50LnJvbG9kZXguY2xvdWRzcG9uZ2UudjEuQ29udGFjdCBjb250YWN0ID0KICAgICAgICBDbG91ZHNwb25nZUV2ZW50VGVzdFV0aWxzLmNyZWF0ZUNvbnRhY3RXaXRoTmFtZSgiT3dlbiAgIiwgIiBMaW4gIik7CiAgICBDb250YWN0IHRyYW5zZm9ybWVkID0gQ29udGFjdC5mcm9tRm9ybWF0KCJhYmMiLCAxTCwgY29udGFjdCk7CiAgICBhc3NlcnRFcXVhbHMoIkxpbiIsIHRyYW5zZm9ybWVkLmdldERpc3BsYXlOYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -795,9 +802,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logging</last-search>
+      <last-search encoding="base64">XDxkdXBsaWNhdGVfYWNjb3VudF9kZXRlY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>logging</last-pattern>
+      <last-pattern encoding="base64">XDxkdXBsaWNhdGVfYWNjb3VudF9kZXRlY3Rpb25cPg==</last-pattern>
       <last-replace>createContact</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVDb250YWN0V2l0aE5hbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -805,9 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isNot</entry>
-        <entry>isblank</entry>
-        <entry>isBlank</entry>
         <entry>createContactsOwner</entry>
         <entry>createContactWithName</entry>
         <entry>createContact</entry>
@@ -825,6 +829,9 @@
         <entry>Rolodex</entry>
         <entry>com.airbnb</entry>
         <entry>logging</entry>
+        <entry>fraud</entry>
+        <entry>duplicate</entry>
+        <entry encoding="base64">XDxkdXBsaWNhdGVfYWNjb3VudF9kZXRlY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
