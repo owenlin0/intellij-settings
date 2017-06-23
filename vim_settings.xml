@@ -150,12 +150,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" timestamp="1491588135697">
         <mark key="'" line="108" column="18" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" timestamp="1498184192527">
+      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/yaml/com/airbnb/jitney/event/logging/virality.yaml" timestamp="1498185421476">
         <mark key="'" line="128" column="0" />
-        <mark key="[" line="128" column="15" />
-        <mark key="]" line="128" column="13" />
-        <mark key="." line="128" column="13" />
-        <mark key="^" line="128" column="13" />
+        <mark key="[" line="115" column="17" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="128" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
         <mark key="'" line="81" column="4" />
@@ -755,14 +755,14 @@
       <register name="a" type="4">
         <text>0wdaw..gUl</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVmZXJyaW5nX3VzZXJfaWQ6CiAgICAgICAgb3B0aW9uYWw6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>referring_user_id</text>
       </register>
       <register name="+" type="4">
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdldExhc3ROYW1lKCkgPT0gbnVsbA==</text>
+        <text>referring_user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdXBsaWNhdGVfYWNjb3VudF9kZXRlY3Rpb25cPg==</text>
