@@ -423,8 +423,8 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" timestamp="1498156160119">
-        <mark key="'" line="232" column="41" />
+      <file name="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" timestamp="1498176844281">
+        <mark key="'" line="273" column="0" />
         <mark key="[" line="257" column="17" />
         <mark key="]" line="257" column="55" />
       </file>
@@ -568,7 +568,7 @@
         <mark key="^" line="18" column="71" />
         <mark key="." line="18" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496880045628">
+      <file name="/Dummy.txt" timestamp="1498176846861">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -643,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="85" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="73" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
       <jump line="78" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/pojos/ContactTest.java" />
@@ -743,6 +742,7 @@
       <jump line="227" column="33" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="229" column="46" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
       <jump line="232" column="41" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
+      <jump line="273" column="0" filename="$USER_HOME$/airlab/repos/jitney-schemas/src/main/java/com/airbnb/jitney/JitneyRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
