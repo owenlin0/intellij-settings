@@ -52,6 +52,9 @@
         <mark key="'" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/migrations/2017-01-27-create-contact-handles-table.sql" timestamp="1497308054736" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" timestamp="1498259902438">
+        <mark key="'" line="52" column="57" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/NebulaDataStats.scala" timestamp="1494024498872">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -598,7 +601,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498252064972">
+      <file name="/Dummy.txt" timestamp="1498259873180">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -666,9 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="25" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="86" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="84" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="116" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="118" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -766,6 +766,9 @@
       <jump line="166" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="883" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" />
       <jump line="887" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
+      <jump line="52" column="57" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -781,7 +784,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb25nXD4=</text>
+        <text>jitney_schemas_3</text>
       </register>
       <register name="0" type="4">
         <text>getDSLContext()
@@ -822,18 +825,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb25nXD4=</last-search>
+      <last-search>jitney_schemas_3</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb25nXD4=</last-pattern>
+      <last-pattern>jitney_schemas_3</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry encoding="base64">XDxwcm9jZXNzQ29udGFjdHNcPg==</entry>
         <entry encoding="base64">XDxzYW5pdGl6ZWRDb250YWN0c1w+</entry>
         <entry>filtered</entry>
         <entry>processedContacts</entry>
@@ -852,6 +853,8 @@
         <entry encoding="base64">XDxUaW1lc3RhbXBcPg==</entry>
         <entry>Calendar</entry>
         <entry encoding="base64">XDxsb25nXD4=</entry>
+        <entry>jitney-schemas</entry>
+        <entry>jitney_schemas_3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QxL2NvbnRhY3QzL2c=</entry>
