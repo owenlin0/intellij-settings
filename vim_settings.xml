@@ -415,7 +415,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/c2b49a585e2f433c95cec359a75e0ee4366a1e35/slf4j-api-1.7.9-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1495586794259">
         <mark key="'" line="263" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1498533849526" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1498534570749">
+        <mark key="'" line="160" column="9" />
+        <mark key="[" line="170" column="20" />
+        <mark key="]" line="170" column="51" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/ActionExecutionHandlerSerializationTest.scala" timestamp="1495146342948">
         <mark key="'" line="60" column="70" />
       </file>
@@ -602,7 +606,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498533704136">
+      <file name="/Dummy.txt" timestamp="1498534571309">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -670,9 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="116" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="118" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="155" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="53" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" />
       <jump line="57" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
@@ -770,6 +771,9 @@
       <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
       <jump line="52" column="57" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
+      <jump line="218" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="160" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -785,14 +789,10 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>jitney_schemas_3</text>
+        <text>race condition</text>
       </register>
       <register name="0" type="4">
-        <text>getDSLContext()
-        .selectFrom(CONTACT_BOOKS)
-        .where(CONTACT_BOOKS.USER_ID.equal(userId))
-        .and(CONTACT_BOOKS.DELETED.equal((byte) 0))
-        .fetch();</text>
+        <text>storage.contact_books.write.fail</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2FuaXRpemVkQ29udGFjdHMK</text>
@@ -826,9 +826,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jitney_schemas_3</last-search>
+      <last-search>race condition</last-search>
       <last-offset />
-      <last-pattern>jitney_schemas_3</last-pattern>
+      <last-pattern>race condition</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -836,8 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYW5pdGl6ZWRDb250YWN0c1w+</entry>
-        <entry>filtered</entry>
         <entry>processedContacts</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</entry>
         <entry>sanitizedContacts</entry>
@@ -856,6 +854,8 @@
         <entry encoding="base64">XDxsb25nXD4=</entry>
         <entry>jitney-schemas</entry>
         <entry>jitney_schemas_3</entry>
+        <entry>race conditon</entry>
+        <entry>race condition</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QxL2NvbnRhY3QzL2c=</entry>
