@@ -148,8 +148,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/resources/MediaResourceTest.java" timestamp="1491947040234">
         <mark key="'" line="50" column="82" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" timestamp="1498681598306">
-        <mark key="'" line="128" column="97" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" timestamp="1498683111415">
+        <mark key="'" line="64" column="43" />
         <mark key="[" line="126" column="74" />
         <mark key="]" line="128" column="97" />
         <mark key="." line="128" column="97" />
@@ -684,12 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
-      <jump line="52" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
-      <jump line="101" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactHandles.java" />
-      <jump line="74" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="18" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
       <jump line="28" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="29" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
       <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -782,8 +776,14 @@
       <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="476" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="243" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="60" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="128" column="97" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="131" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="54" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="88" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="51" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="60" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="106" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
+      <jump line="64" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -799,7 +799,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>batch</text>
+        <text encoding="base64">XDxnZXRMaXN0T2ZDb250YWN0c1BlclBheWxvYWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>storage.contact_books.write.fail</text>
@@ -832,13 +832,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmZpbHRlcihoYW5kbGUgLT4gU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhoYW5kbGUuZ2V0SGFuZGxlKCkpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>batch</last-search>
+      <last-search encoding="base64">XDxnZXRMaXN0T2ZDb250YWN0c1BlclBheWxvYWRcPg==</last-search>
       <last-offset />
-      <last-pattern>batch</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMaXN0T2ZDb250YWN0c1BlclBheWxvYWRcPg==</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -846,10 +846,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deduplicate</entry>
-        <entry encoding="base64">XDxzYW5pdGl6ZUNvbnRhY3RzXD4=</entry>
-        <entry encoding="base64">XDxkZWR1cGxpY2F0ZUNvbnRhY3RzXD4=</entry>
-        <entry>Date</entry>
         <entry>datetime</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxUaW1lc3RhbXBcPg==</entry>
@@ -866,9 +862,12 @@
         <entry>add</entry>
         <entry>export</entry>
         <entry>batch</entry>
+        <entry encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</entry>
+        <entry encoding="base64">XDxnZXRFdmVudENvbnRhY3RzXD4=</entry>
+        <entry encoding="base64">XDxwdWJsaXNoRXhwb3J0Q29udGFjdHNFdmVudFw+</entry>
+        <entry encoding="base64">XDxnZXRMaXN0T2ZDb250YWN0c1BlclBheWxvYWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvbnRhY3QxL2NvbnRhY3QzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QzL2NvbnRhY3Q1L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3Q0L2NvbnRhY3Q2L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0TmFtZS9nZXRGaXJzdE5hbWUoKS9n</entry>
@@ -886,8 +885,9 @@
         <entry>30t.</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2c=</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>85</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
