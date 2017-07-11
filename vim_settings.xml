@@ -299,8 +299,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1499396613474">
-        <mark key="'" line="88" column="46" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1499795817436">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -705,9 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="887" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
-      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
       <jump line="52" column="57" filename="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" />
       <jump line="218" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="121" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -805,6 +802,9 @@
       <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="55" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="199" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="93" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,7 +820,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZUNvbnRhY3RzXD4=</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldERTTENvbnRleHQoKS5mZXRjaChsb2FkU3FsRnJvbUZpbGUoIm1pZ3JhdGlvbnMvMjAxNy0wNi0xNC1jcmVhdGUtc2hhcmVzLnNxbCIpKTsK</text>
@@ -857,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yZUNvbnRhY3RzXD4=</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZUNvbnRhY3RzXD4=</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -867,7 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Lists.partition</entry>
         <entry encoding="base64">XDxjb250YWN0c1JlY29yZHNcPg==</entry>
         <entry>partition</entry>
         <entry encoding="base64">XDxDb250YWN0c1JlY29yZFw+</entry>
@@ -887,6 +886,7 @@
         <entry>publish</entry>
         <entry encoding="base64">XDxwdWJsaXNoRXhwb3J0Q29udGFjdHNFdmVudFw+</entry>
         <entry encoding="base64">XDxzdG9yZUNvbnRhY3RzXD4=</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0TmFtZS9nZXRGaXJzdE5hbWUoKS9n</entry>
