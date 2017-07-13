@@ -299,7 +299,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1499899900159">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1499968594850">
+        <mark key="'" line="105" column="6" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -704,9 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="25" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
-      <jump line="416" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="883" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" />
       <jump line="56" column="79" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -798,12 +796,15 @@
       <jump line="56" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="22" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="45" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
-      <jump line="72" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="90" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="65" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="86" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="71" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="72" column="40" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="63" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1015.2/41eaa104dce84171bf1033fcd1dd21e36307e042/jitney-schemas-3.1015.2.jar!/com/airbnb/jitney/event/rolodex/v8/Person.class" />
+      <jump line="64" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="58" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="105" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -819,7 +820,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>setType</text>
+        <text encoding="base64">XDxsb2FkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldERTTENvbnRleHQoKS5mZXRjaChsb2FkU3FsRnJvbUZpbGUoIm1pZ3JhdGlvbnMvMjAxNy0wNi0xNC1jcmVhdGUtc2hhcmVzLnNxbCIpKTsK</text>
@@ -856,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setType</last-search>
+      <last-search encoding="base64">XDxsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern>setType</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkXD4=</last-pattern>
       <last-replace>phone</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -866,8 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentBatchCount</entry>
-        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
         <entry>write</entry>
         <entry>Lists</entry>
         <entry>deduplicate</entry>
@@ -886,6 +885,8 @@
         <entry>contactOwner</entry>
         <entry>owner</entry>
         <entry>setType</entry>
+        <entry encoding="base64">XDxyZGRUb1RocmlmdFw+</entry>
+        <entry encoding="base64">XDxsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0TmFtZS9nZXRGaXJzdE5hbWUoKS9n</entry>
