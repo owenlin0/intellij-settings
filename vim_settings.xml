@@ -302,7 +302,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1500064685018">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1500403551214">
         <mark key="'" line="93" column="35" />
         <mark key="[" line="93" column="24" />
         <mark key="]" line="93" column="35" />
@@ -439,8 +439,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/c2b49a585e2f433c95cec359a75e0ee4366a1e35/slf4j-api-1.7.9-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1495586794259">
         <mark key="'" line="263" column="6" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1499744408767">
-        <mark key="'" line="201" column="15" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" timestamp="1500403675243">
+        <mark key="'" line="247" column="0" />
         <mark key="[" line="368" column="0" />
         <mark key="]" line="368" column="0" />
         <mark key="^" line="369" column="7" />
@@ -554,8 +554,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/SQLUtils.scala" timestamp="1495056102081">
         <mark key="'" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1499744180948">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1500403564847">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -709,12 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="220" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="334" column="3" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="381" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="385" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="387" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="383" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -809,6 +803,12 @@
       <jump line="77" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="74" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="93" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="61" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="201" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -824,7 +824,7 @@
         <text>PersonType.EMAIL_IMPORT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0c1R5cGVcPg==</text>
+        <text>helper</text>
       </register>
       <register name="0" type="4">
         <text>PersonType.EMAIL_IMPORT</text>
@@ -857,13 +857,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0c1R5cGVcPg==</last-search>
+      <last-search>helper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0c1R5cGVcPg==</last-pattern>
+      <last-pattern>helper</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>contact_id</last-substitute>
       <last-dir>1</last-dir>
@@ -871,12 +871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>payload</entry>
-        <entry encoding="base64">XDxCVUxLX1VQREFURVw+</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxpbnB1dFRhYmxlTmFtZVw+</entry>
-        <entry>inputtablename</entry>
-        <entry encoding="base64">XDxVc2VyRW1haWxDb250YWN0c1BheWxvYWRcPg==</entry>
         <entry>contact_id</entry>
         <entry encoding="base64">XDxjb250YWN0UGF5bG9hZHNcPg==</entry>
         <entry>usercontacts</entry>
@@ -891,6 +885,12 @@
         <entry>parsed</entry>
         <entry encoding="base64">XDxwZXJzb25UeXBlXD4=</entry>
         <entry encoding="base64">XDxjb250YWN0c1R5cGVcPg==</entry>
+        <entry>rolodexcontact</entry>
+        <entry encoding="base64">XDxSb2xvZGV4Q29udGFjdEJhdGNoVXBsb2FkRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxzdG9yZUNvbnRhY3RzXD4=</entry>
+        <entry>rolodexaddevent</entry>
+        <entry>addevent</entry>
+        <entry>helper</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5maXJzdE5hbWUvY29udGFjdC5zZXRGaXJzdE5hbWUvZw==</entry>
@@ -911,8 +911,8 @@
         <entry>94</entry>
         <entry>%s//UserContactsPayload/gc</entry>
         <entry>%s//id/gc</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
