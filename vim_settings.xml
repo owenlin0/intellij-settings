@@ -97,6 +97,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
         <mark key="'" line="3290" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1501643731915">
+        <mark key="'" line="34" column="19" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="19" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" timestamp="1496636230972">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="35" column="0" />
@@ -391,6 +397,9 @@
         <mark key="]" line="155" column="21" />
         <mark key="^" line="155" column="21" />
         <mark key="." line="155" column="21" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1501643668266">
+        <mark key="'" line="100" column="8" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
         <mark key="'" line="26" column="61" />
@@ -720,11 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="33" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="50" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="70" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="61" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="94" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="97" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
@@ -820,6 +824,11 @@
       <jump line="82" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="106" column="87" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
       <jump line="112" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="100" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="21" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="20" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="34" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -832,13 +841,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>okay</text>
+        <text>EmailContactsHiveToS3</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>EmailContacts</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAic2hhcmVfcmVsYXRpb25zaGlwIiA9PiBQZXJzb25UeXBlLlNIQVJFX1JFTEFUSU9OU0hJUAo=</text>
+      <register name="0" type="4">
+        <text>ExportContactsToS3</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkluc2VydFZhbHVlc1N0ZXA4Owo=</text>
@@ -872,20 +881,16 @@
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>EmailContacts</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>EmailContacts</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>usercontacts</entry>
-        <entry>payload.conta</entry>
-        <entry>EmailContact</entry>
-        <entry>OWEN</entry>
         <entry>share relationship</entry>
         <entry>metadta</entry>
         <entry>metadataa</entry>
@@ -898,10 +903,14 @@
         <entry>publish</entry>
         <entry>fromevent</entry>
         <entry>fromEvent</entry>
-        <entry encoding="base64">XDxFbWFpbENvbnRhY3RzSGl2ZVRvUzNcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0c1R5cGVcPg==</entry>
         <entry>contactowner</entry>
         <entry>owner</entry>
+        <entry encoding="base64">XDxFeHBvcnRDb250YWN0c1RvUzNcPg==</entry>
+        <entry>EmailContacs</entry>
+        <entry>email-con</entry>
+        <entry encoding="base64">XDxFbWFpbENvbnRhY3RzSGl2ZVRvUzNcPg==</entry>
+        <entry>EmailContacts</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QvY29udGFjdDMvZ2M=</entry>
@@ -921,8 +930,8 @@
         <entry encoding="base64">JzwsJz5zLy9yb2xvZGV4QWRkRXZlbnQvZw==</entry>
         <entry>84</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>W</entry>
+        <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
