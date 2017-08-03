@@ -97,11 +97,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
         <mark key="'" line="3290" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1501787787328">
-        <mark key="[" line="80" column="11" />
-        <mark key="]" line="80" column="31" />
-        <mark key="^" line="80" column="31" />
-        <mark key="." line="80" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1501800772055">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="83" column="40" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" timestamp="1496636230972">
         <mark key="'" line="52" column="0" />
@@ -729,12 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="358" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="332" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" />
-      <jump line="333" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="128" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="147" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="131" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -780,16 +774,13 @@
       <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="89" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="84" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="75" column="35" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="79" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="121" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="117" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="83" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="88" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="97" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="101" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="105" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="110" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="116" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="125" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="127" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
@@ -800,7 +791,6 @@
       <jump line="77" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="2720" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.5/8176652b0ade481ff1ceb1bec03c70e2eb6f1c37/jackson-databind-2.6.5-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="151" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="85" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="90" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="94" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
@@ -823,12 +813,22 @@
       <jump line="18" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="134" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="131" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="128" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="122" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="118" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="80" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="81" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="75" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="80" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="110" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="82" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="83" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="128" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="85" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="159" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="163" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="166" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="170" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="174" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -841,49 +841,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>emailPayloadToPerson(parsed)</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>mapper</text>
+        <text encoding="base64">XDxmYWNlYm9va1BheWxvYWRUb1BlcnNvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyB1c2VkIGZvciBib3RoIGVtYWlsIGltcG9ydCBhbmQgc2hhcmUgcmVsYXRpb25zaGlwcwogIGRlZiBlbWFpbFBheWxvYWRUb1BlcnNvbihwYXJzZWQ6IE1hcFtTdHJpbmcsIEFueV0sIHBlcnNvblR5cGU6IFBlcnNvblR5cGUpOiBQZXJzb24gPSB7CiAgICB2YWwgY29udGFjdCA9IG5ldyBQZXJzb24oKQoKICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgIHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbSW50XS50b0xvbmcKICAgIH0gY2F0Y2ggewogICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgfQoKICAgIGNvbnRhY3Quc2V0VHlwZShwZXJzb25UeXBlKQogICAgY29udGFjdC5zZXRJZChpZCkKCiAgICBpZiAocGFyc2VkLmdldCgiZmlyc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBpZiAocGFyc2VkLmdldCgibGFzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBjb250YWN0LnNldEVtYWlsKHBhcnNlZCgiZW1haWwiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKCiAgICBjb250YWN0CiAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHJldHVybiBlbWFpbFBheWxvYWRUb1BlcnNvbihwYXJzZWQsIGNvbnRhY3RzVHlwZSk=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGFjdCA9IG5ldyBQZXJzb24oKQoKICAgICAgICB2YWwgaWQgPSB0cnkgewogICAgICAgICAgcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltJbnRdLnRvTG9uZwogICAgICAgIH0gY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBqYXZhLmxhbmcuQ2xhc3NDYXN0RXhjZXB0aW9uID0+IHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbTG9uZ10KICAgICAgICB9CgogICAgICAgIGNvbnRhY3Quc2V0VHlwZShjb250YWN0c1R5cGUpCiAgICAgICAgY29udGFjdC5zZXRJZChpZCkKCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImZpcnN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0Rmlyc3ROYW1lKHBhcnNlZCgiZmlyc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImxhc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICAgICAgY29udGFjdC5zZXRMYXN0TmFtZShwYXJzZWQoImxhc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgLy8gRG9uJ3Qgc2V0IGVtYWlscyBmb3IgRmFjZWJvb2sgZnJpZW5kcy4gRW1haWxzIGFyZSBQSUkuIEV2ZXJ5IG90aGVyIGNhc2UgaXMgb2suCiAgICAgICAgaWYgKGNvbnRhY3RzVHlwZSAhPSBQZXJzb25UeXBlLkFJUkJOQl9VU0VSX0ZCX0ZSSUVORCkgewogICAgICAgICAgY29udGFjdC5zZXRFbWFpbChwYXJzZWQoImVtYWlsIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICBjb250YWN0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWYgcGFyc2VGYWNlYm9va0NvbnRhY3RzKHBheWxvYWQ6IFVzZXJDb250YWN0c1BheWxvYWQpOiBqYXZhLnV0aWwuTGlzdFtQZXJzb25dID0gewogICAgZ2V0T2JqZWN0TWFwcGVyKCkKICAgICAgLnJlYWRWYWx1ZShwYXlsb2FkLmNvbnRhY3RzLCBjbGFzc09mW0xpc3RbTWFwW1N0cmluZywgQW55XV1dKQogICAgICAuZmlsdGVyKHBhcnNlZCA9PiBwYXJzZWQuZ2V0KCJpZCIpLmlzRGVmaW5lZCkKICAgICAgLm1hcChwYXJzZWQgPT4gewogICAgICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRUeXBlKFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKQogICAgICAgIGNvbnRhY3Quc2V0SWQoaWQpCgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJmaXJzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJsYXN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGNvbnRhY3QKICAgICAgfSkuYXNKYXZhCiAgfQoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRUeXBlKGNvbnRhY3RzVHlwZSkKICAgICAgICBjb250YWN0LnNldElkKGlkKQoKICAgICAgICBpZiAocGFyc2VkLmdldCgiZmlyc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICAgICAgY29udGFjdC5zZXRGaXJzdE5hbWUocGFyc2VkKCJmaXJzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICBpZiAocGFyc2VkLmdldCgibGFzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgICAgICBjb250YWN0LnNldExhc3ROYW1lKHBhcnNlZCgibGFzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICAvLyBEb24ndCBzZXQgZW1haWxzIGZvciBGYWNlYm9vayBmcmllbmRzLiBFbWFpbHMgYXJlIFBJSS4gRXZlcnkgb3RoZXIgY2FzZSBpcyBvay4KICAgICAgICBpZiAoY29udGFjdHNUeXBlICE9IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKSB7CiAgICAgICAgICBjb250YWN0LnNldEVtYWlsKHBhcnNlZCgiZW1haWwiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGNvbnRhY3QKICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB1c2VkIGZvciBib3RoIGVtYWlsIGltcG9ydCBhbmQgc2hhcmUgcmVsYXRpb25zaGlwcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcGFyc2VFbWFpbENvbnRhY3RzKHBheWxvYWQ6IFVzZXJDb250YWN0c1BheWxvYWQpOiBqYXZhLnV0aWwuTGlzdFtQZXJzb25dID0gewogICAgdmFsIGNvbnRhY3RzVHlwZSA9IGNvbnRhY3RUeXBlVG9QZXJzb25UeXBlKHBheWxvYWQuY29udGFjdFR5cGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3Quc2V0RW1haWwocGFyc2VkKCJlbWFpbCIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQo=</text>
+        <text encoding="base64">ICAgIGdldE9iamVjdE1hcHBlcigpCiAgICAgIC5yZWFkVmFsdWUocGF5bG9hZC5jb250YWN0cywgY2xhc3NPZltMaXN0W01hcFtTdHJpbmcsIEFueV1dXSkKICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCiAgICAgIC5tYXAocGFyc2VkID0+IGVtYWlsUGF5bG9hZFRvUGVyc29uKHBhcnNlZCwgY29udGFjdHNUeXBlKSkuYXNKYXZhCiAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB2YWwgY29udGFjdCA9IG5ldyBQZXJzb24oKQoKICAgICAgICB2YWwgaWQgPSB0cnkgewogICAgICAgICAgcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltJbnRdLnRvTG9uZwogICAgICAgIH0gY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBqYXZhLmxhbmcuQ2xhc3NDYXN0RXhjZXB0aW9uID0+IHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbTG9uZ10KICAgICAgICB9CgogICAgICAgIGNvbnRhY3Quc2V0VHlwZShjb250YWN0c1R5cGUpCiAgICAgICAgY29udGFjdC5zZXRJZChpZCkKCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImZpcnN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0Rmlyc3ROYW1lKHBhcnNlZCgiZmlyc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImxhc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICAgICAgY29udGFjdC5zZXRMYXN0TmFtZShwYXJzZWQoImxhc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgLy8gRG9uJ3Qgc2V0IGVtYWlscyBmb3IgRmFjZWJvb2sgZnJpZW5kcy4gRW1haWxzIGFyZSBQSUkuIEV2ZXJ5IG90aGVyIGNhc2UgaXMgb2suCiAgICAgICAgaWYgKGNvbnRhY3RzVHlwZSAhPSBQZXJzb25UeXBlLkFJUkJOQl9VU0VSX0ZCX0ZSSUVORCkgewogICAgICAgICAgY29udGFjdC5zZXRFbWFpbChwYXJzZWQoImVtYWlsIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICBjb250YWN0</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cGFyc2VkID0+IHsKICAgICAgICB2YWwgY29udGFjdCA9IG5ldyBQZXJzb24oKQoKICAgICAgICB2YWwgaWQgPSB0cnkgewogICAgICAgICAgcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltJbnRdLnRvTG9uZwogICAgICAgIH0gY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBqYXZhLmxhbmcuQ2xhc3NDYXN0RXhjZXB0aW9uID0+IHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbTG9uZ10KICAgICAgICB9CgogICAgICAgIGNvbnRhY3Quc2V0VHlwZShjb250YWN0c1R5cGUpCiAgICAgICAgY29udGFjdC5zZXRJZChpZCkKCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImZpcnN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0Rmlyc3ROYW1lKHBhcnNlZCgiZmlyc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgaWYgKHBhcnNlZC5nZXQoImxhc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICAgICAgY29udGFjdC5zZXRMYXN0TmFtZShwYXJzZWQoImxhc3RfbmFtZSIpLmFzSW5zdGFuY2VPZltTdHJpbmddKQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRFbWFpbChwYXJzZWQoImVtYWlsIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCgogICAgICAgIGNvbnRhY3QKICAgICAgfQ==</text>
+        <text encoding="base64">ewogICAgICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRUeXBlKGNvbnRhY3RzVHlwZSkKICAgICAgICBjb250YWN0LnNldElkKGlkKQoKICAgICAgICBpZiAocGFyc2VkLmdldCgiZmlyc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICAgICAgY29udGFjdC5zZXRGaXJzdE5hbWUocGFyc2VkKCJmaXJzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICBpZiAocGFyc2VkLmdldCgibGFzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgICAgICBjb250YWN0LnNldExhc3ROYW1lKHBhcnNlZCgibGFzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICAgICAgfQoKICAgICAgICAvLyBEb24ndCBzZXQgZW1haWxzIGZvciBGYWNlYm9vayBmcmllbmRzLiBFbWFpbHMgYXJlIFBJSS4gRXZlcnkgb3RoZXIgY2FzZSBpcyBvay4KICAgICAgICBpZiAoY29udGFjdHNUeXBlICE9IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKSB7CiAgICAgICAgICBjb250YWN0LnNldEVtYWlsKHBhcnNlZCgiZW1haWwiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGNvbnRhY3QKICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB1c2VkIGZvciBib3RoIGVtYWlsIGltcG9ydCBhbmQgc2hhcmUgcmVsYXRpb25zaGlwcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb250YWN0c1R5cGU6IFBlcnNvblR5cGUgPSBwYXlsb2FkLmNvbnRhY3RUeXBlIG1hdGNoIHsKICAgICAgY2FzZSAiY29udGFjdF9pbXBvcnQiID0+IFBlcnNvblR5cGUuRU1BSUxfSU1QT1JUCiAgICAgIGNhc2UgInNoYXJlX3JlbGF0aW9uc2hpcCIgPT4gUGVyc29uVHlwZS5TSEFSRV9SRUxBVElPTlNISVAKICAgICAgY2FzZSAiZmFjZWJvb2siID0+IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5ECiAgICAgIGNhc2UgXyA9PiBQZXJzb25UeXBlLkVNQUlMX0lNUE9SVAogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mapper</last-search>
+      <last-search encoding="base64">XDxmYWNlYm9va1BheWxvYWRUb1BlcnNvblw+</last-search>
       <last-offset />
-      <last-pattern>mapper</last-pattern>
+      <last-pattern encoding="base64">XDxmYWNlYm9va1BheWxvYWRUb1BlcnNvblw+</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -891,8 +891,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contacthandle</entry>
-        <entry>metadata</entry>
         <entry>typ</entry>
         <entry>sanitize</entry>
         <entry>publish</entry>
@@ -911,6 +909,8 @@
         <entry>payload</entry>
         <entry encoding="base64">XDxwYXJzZUVtYWlsQ29udGFjdHNcPg==</entry>
         <entry>mapper</entry>
+        <entry>if</entry>
+        <entry encoding="base64">XDxmYWNlYm9va1BheWxvYWRUb1BlcnNvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QvY29udGFjdDMvZ2M=</entry>
