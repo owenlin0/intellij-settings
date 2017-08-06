@@ -97,8 +97,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
         <mark key="'" line="3290" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1502052846588">
-        <mark key="'" line="102" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1502056937098">
+        <mark key="'" line="138" column="2" />
         <mark key="[" line="101" column="10" />
         <mark key="]" line="101" column="75" />
         <mark key="^" line="101" column="75" />
@@ -730,7 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
       <jump line="62" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
       <jump line="79" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
       <jump line="30" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
@@ -830,6 +829,7 @@
       <jump line="100" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="101" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="102" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="138" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
