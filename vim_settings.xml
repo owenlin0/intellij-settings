@@ -321,12 +321,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1501642965774">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="106" column="86" />
-        <mark key="]" line="106" column="87" />
-        <mark key="." line="106" column="87" />
-        <mark key="^" line="106" column="87" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1502077572333">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/resources/fixtures/contact_address_format.json" timestamp="1491605682807">
         <mark key="'" line="1" column="9" />
@@ -722,10 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
-      <jump line="79" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="421" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="92" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="99" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
       <jump line="98" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
@@ -822,6 +818,10 @@
       <jump line="101" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="102" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
       <jump line="138" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="53" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="22" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="46" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
+      <jump line="31" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -834,49 +834,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>contactsType</text>
+        <text>tableName</text>
       </register>
       <register name="/" type="4">
-        <text>personType</text>
+        <text encoding="base64">XDxpbnB1dFRhYmxlTmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdHNUeXBlID09IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IGFyZ3MoMCkKICAgIHZhbCBvdXRwdXRQYXRoID0gYXJncygxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBmb3IgYm90aCBlbWFpbCBpbXBvcnQgYW5kIHNoYXJlIHJlbGF0aW9uc2hpcHMKICBkZWYgZW1haWxQYXlsb2FkVG9QZXJzb24ocGFyc2VkOiBNYXBbU3RyaW5nLCBBbnldLCBwZXJzb25UeXBlOiBQZXJzb25UeXBlKTogUGVyc29uID0gewogICAgdmFsIGNvbnRhY3QgPSBuZXcgUGVyc29uKCkKCiAgICB2YWwgaWQgPSB0cnkgewogICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICB9IGNhdGNoIHsKICAgICAgY2FzZSBlOiBqYXZhLmxhbmcuQ2xhc3NDYXN0RXhjZXB0aW9uID0+IHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbTG9uZ10KICAgIH0KCiAgICBjb250YWN0LnNldFR5cGUocGVyc29uVHlwZSkKICAgIGNvbnRhY3Quc2V0SWQoaWQpCgogICAgaWYgKHBhcnNlZC5nZXQoImZpcnN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgY29udGFjdC5zZXRGaXJzdE5hbWUocGFyc2VkKCJmaXJzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICB9CgogICAgaWYgKHBhcnNlZC5nZXQoImxhc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICBjb250YWN0LnNldExhc3ROYW1lKHBhcnNlZCgibGFzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICB9CgogICAgY29udGFjdC5zZXRFbWFpbChwYXJzZWQoImVtYWlsIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCgogICAgY29udGFjdAogIH0KCiAgLy8gZm9yIGZhY2Vib29rCiAgZGVmIGZhY2Vib29rUGF5bG9hZFRvUGVyc29uKHBhcnNlZDogTWFwW1N0cmluZywgQW55XSk6IFBlcnNvbiA9IHsKICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgdmFsIGlkID0gdHJ5IHsKICAgICAgcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltJbnRdLnRvTG9uZwogICAgfSBjYXRjaCB7CiAgICAgIGNhc2UgZTogamF2YS5sYW5nLkNsYXNzQ2FzdEV4Y2VwdGlvbiA9PiBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0xvbmddCiAgICB9CgogICAgY29udGFjdC5zZXRUeXBlKFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKQogICAgY29udGFjdC5zZXRJZChpZCkKCiAgICBpZiAocGFyc2VkLmdldCgiZmlyc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBpZiAocGFyc2VkLmdldCgibGFzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBjb250YWN0CiAgfQoK</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IGFyZ3MoMCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdHNUeXBlID09IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKSB7CiAgICAgICAgICBmYWNlYm9va1BheWxvYWRUb1BlcnNvbihwYXJzZWQpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGVtYWlsUGF5bG9hZFRvUGVyc29uKHBhcnNlZCwgY29udGFjdHNUeXBlKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAvLyBmb3IgYm90aCBlbWFpbCBpbXBvcnQgYW5kIHNoYXJlIHJlbGF0aW9uc2hpcHMKICBkZWYgZW1haWxQYXlsb2FkVG9QZXJzb24ocGFyc2VkOiBNYXBbU3RyaW5nLCBBbnldLCBwZXJzb25UeXBlOiBQZXJzb25UeXBlKTogUGVyc29uID0gewogICAgdmFsIGNvbnRhY3QgPSBuZXcgUGVyc29uKCkKCiAgICB2YWwgaWQgPSB0cnkgewogICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICB9IGNhdGNoIHsKICAgICAgY2FzZSBlOiBqYXZhLmxhbmcuQ2xhc3NDYXN0RXhjZXB0aW9uID0+IHBhcnNlZCgiaWQiKS5hc0luc3RhbmNlT2ZbTG9uZ10KICAgIH0KCiAgICBjb250YWN0LnNldFR5cGUocGVyc29uVHlwZSkKICAgIGNvbnRhY3Quc2V0SWQoaWQpCgogICAgaWYgKHBhcnNlZC5nZXQoImZpcnN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgY29udGFjdC5zZXRGaXJzdE5hbWUocGFyc2VkKCJmaXJzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICB9CgogICAgaWYgKHBhcnNlZC5nZXQoImxhc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICBjb250YWN0LnNldExhc3ROYW1lKHBhcnNlZCgibGFzdF9uYW1lIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCiAgICB9CgogICAgY29udGFjdC5zZXRFbWFpbChwYXJzZWQoImVtYWlsIikuYXNJbnN0YW5jZU9mW1N0cmluZ10pCgogICAgY29udGFjdAogIH0KCiAgLy8gZm9yIGZhY2Vib29rCiAgZGVmIGZhY2Vib29rUGF5bG9hZFRvUGVyc29uKHBhcnNlZDogTWFwW1N0cmluZywgQW55XSk6IFBlcnNvbiA9IHsKICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgdmFsIGlkID0gdHJ5IHsKICAgICAgcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltJbnRdLnRvTG9uZwogICAgfSBjYXRjaCB7CiAgICAgIGNhc2UgZTogamF2YS5sYW5nLkNsYXNzQ2FzdEV4Y2VwdGlvbiA9PiBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0xvbmddCiAgICB9CgogICAgY29udGFjdC5zZXRUeXBlKFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKQogICAgY29udGFjdC5zZXRJZChpZCkKCiAgICBpZiAocGFyc2VkLmdldCgiZmlyc3RfbmFtZSIpLmlzRGVmaW5lZCkgewogICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBpZiAocGFyc2VkLmdldCgibGFzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgIH0KCiAgICBjb250YWN0CiAgfQoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcGFyc2VGYWNlYm9va0NvbnRhY3RzKHBheWxvYWQ6IFVzZXJDb250YWN0c1BheWxvYWQpOiBqYXZhLnV0aWwuTGlzdFtQZXJzb25dID0gewogICAgZ2V0T2JqZWN0TWFwcGVyKCkKICAgICAgLnJlYWRWYWx1ZShwYXlsb2FkLmNvbnRhY3RzLCBjbGFzc09mW0xpc3RbTWFwW1N0cmluZywgQW55XV1dKQogICAgICAuZmlsdGVyKHBhcnNlZCA9PiBwYXJzZWQuZ2V0KCJpZCIpLmlzRGVmaW5lZCkKICAgICAgLm1hcChwYXJzZWQgPT4gewogICAgICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRUeXBlKFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKQogICAgICAgIGNvbnRhY3Quc2V0SWQoaWQpCgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJmaXJzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJsYXN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGNvbnRhY3QKICAgICAgfSkuYXNKYXZhCiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdHNUeXBlID09IFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKSB7CiAgICAgICAgICBmYWNlYm9va1BheWxvYWRUb1BlcnNvbihwYXJzZWQpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGVtYWlsUGF5bG9hZFRvUGVyc29uKHBhcnNlZCwgY29udGFjdHNUeXBlKQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcGFyc2VGYWNlYm9va0NvbnRhY3RzKHBheWxvYWQ6IFVzZXJDb250YWN0c1BheWxvYWQpOiBqYXZhLnV0aWwuTGlzdFtQZXJzb25dID0gewogICAgZ2V0T2JqZWN0TWFwcGVyKCkKICAgICAgLnJlYWRWYWx1ZShwYXlsb2FkLmNvbnRhY3RzLCBjbGFzc09mW0xpc3RbTWFwW1N0cmluZywgQW55XV1dKQogICAgICAuZmlsdGVyKHBhcnNlZCA9PiBwYXJzZWQuZ2V0KCJpZCIpLmlzRGVmaW5lZCkKICAgICAgLm1hcChwYXJzZWQgPT4gewogICAgICAgIHZhbCBjb250YWN0ID0gbmV3IFBlcnNvbigpCgogICAgICAgIHZhbCBpZCA9IHRyeSB7CiAgICAgICAgICBwYXJzZWQoImlkIikuYXNJbnN0YW5jZU9mW0ludF0udG9Mb25nCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGU6IGphdmEubGFuZy5DbGFzc0Nhc3RFeGNlcHRpb24gPT4gcGFyc2VkKCJpZCIpLmFzSW5zdGFuY2VPZltMb25nXQogICAgICAgIH0KCiAgICAgICAgY29udGFjdC5zZXRUeXBlKFBlcnNvblR5cGUuQUlSQk5CX1VTRVJfRkJfRlJJRU5EKQogICAgICAgIGNvbnRhY3Quc2V0SWQoaWQpCgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJmaXJzdF9uYW1lIikuaXNEZWZpbmVkKSB7CiAgICAgICAgICBjb250YWN0LnNldEZpcnN0TmFtZShwYXJzZWQoImZpcnN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGlmIChwYXJzZWQuZ2V0KCJsYXN0X25hbWUiKS5pc0RlZmluZWQpIHsKICAgICAgICAgIGNvbnRhY3Quc2V0TGFzdE5hbWUocGFyc2VkKCJsYXN0X25hbWUiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXSkKICAgICAgICB9CgogICAgICAgIGNvbnRhY3QKICAgICAgfSkuYXNKYXZhCiAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcGFyc2VFbWFpbENvbnRhY3RzKHBheWxvYWQ6IFVzZXJDb250YWN0c1BheWxvYWQpOiBqYXZhLnV0aWwuTGlzdFtQZXJzb25dID0gewogICAgdmFsIGNvbnRhY3RzVHlwZSA9IGNvbnRhY3RUeXBlVG9QZXJzb25UeXBlKHBheWxvYWQuY29udGFjdFR5cGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldE9iamVjdE1hcHBlcigpCiAgICAgIC5yZWFkVmFsdWUocGF5bG9hZC5jb250YWN0cywgY2xhc3NPZltMaXN0W01hcFtTdHJpbmcsIEFueV1dXSkKICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCiAgICAgIC5tYXAocGFyc2VkID0+IGVtYWlsUGF5bG9hZFRvUGVyc29uKHBhcnNlZCwgY29udGFjdHNUeXBlKSkuYXNKYXZhCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>personType</last-search>
+      <last-search encoding="base64">XDxpbnB1dFRhYmxlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>personType</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dFRhYmxlTmFtZVw+</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -884,8 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>publish</entry>
-        <entry>fromevent</entry>
         <entry>fromEvent</entry>
         <entry encoding="base64">XDxjb250YWN0c1R5cGVcPg==</entry>
         <entry>contactowner</entry>
@@ -904,6 +902,8 @@
         <entry encoding="base64">XDxmYWNlYm9va1BheWxvYWRUb1BlcnNvblw+</entry>
         <entry>contactsType</entry>
         <entry>personType</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxpbnB1dFRhYmxlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3QvY29udGFjdDMvZ2M=</entry>
