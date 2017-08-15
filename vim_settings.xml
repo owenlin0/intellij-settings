@@ -105,12 +105,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
         <mark key="'" line="3290" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1502735842882">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" timestamp="1502758436344">
+        <mark key="'" line="57" column="0" />
         <mark key="^" line="34" column="88" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" timestamp="1496636230972">
         <mark key="'" line="52" column="0" />
@@ -776,9 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
-      <jump line="110" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="114" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
       <jump line="151" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" />
@@ -876,6 +870,9 @@
       <jump line="245" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="311" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
       <jump line="243" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="80" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
+      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -891,46 +888,46 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REZWR1cGxpY2F0ZUNvbnRhY3RzKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwogIH0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QyID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygicmljaGllQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMiA9IFNldHMubmV3SGFzaFNldCgicmljaGllQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMyID0gU2V0cy5uZXdIYXNoU2V0KCI1NTUtNTU1NSIpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkRW1haWxzMiwgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDIuZ2V0RW1haWxzKCkpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZFBob25lczIsIG5ldyBIYXNoU2V0PD4oZGVkdXBlZENvbnRhY3QyLmdldFBob25lcygpKSk7CiAgICBhc3NlcnRFcXVhbHMoKGJ5dGUpIDEsIChieXRlKSBkZWR1cGVkQ29udGFjdDIuZ2V0SGFzUGljdHVyZSgpKTsKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAib3dlbmxpbjBAZ21haWwuY29tIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIGFsc28gYmUgbWVyZ2VkIGludG8gMSBlbnRyeS4KICAgIGNvbnRhY3RzLmFkZChjcmVhdGVDb250YWN0KAogICAgICAgICJDaHJpcyIsCiAgICAgICAgIkxpZWJpbmciLAogICAgICAgIEFycmF5cy5hc0xpc3QoImNocmlzbGllYmluZ0BnbWFpbC5jb20iKSwKICAgICAgICBudWxsLAogICAgICAgIGZhbHNlKSk7CiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiQ2hyaXMiLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpLAogICAgICAgIG51bGwsCiAgICAgICAgdHJ1ZSkpOwoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIG1lcmdlZCBpbnRvIDEgZW50cnkuCiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiUmljaGllIiwKICAgICAgICAiSGF3dGluIiwKICAgICAgICBBcnJheXMuYXNMaXN0KCJyaWNoaWVAZ21haWwuY29tIiksCiAgICAgICAgbnVsbCwKICAgICAgICBmYWxzZSkpOwogICAgY29udGFjdHMuYWRkKGNyZWF0ZUNvbnRhY3QoCiAgICAgICAgIlJpY2giLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgicmljaGllQGdtYWlsLmNvbSIpLAogICAgICAgIEFycmF5cy5hc0xpc3QoIjU1NS01NTU1IiksCiAgICAgICAgdHJ1ZSkpOwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwogIH0KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QyID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygicmljaGllQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMiA9IFNldHMubmV3SGFzaFNldCgicmljaGllQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMyID0gU2V0cy5uZXdIYXNoU2V0KCI1NTUtNTU1NSIpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkRW1haWxzMiwgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDIuZ2V0RW1haWxzKCkpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZFBob25lczIsIG5ldyBIYXNoU2V0PD4oZGVkdXBlZENvbnRhY3QyLmdldFBob25lcygpKSk7CiAgICBhc3NlcnRFcXVhbHMoKGJ5dGUpIDEsIChieXRlKSBkZWR1cGVkQ29udGFjdDIuZ2V0SGFzUGljdHVyZSgpKTsKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAib3dlbmxpbjBAZ21haWwuY29tIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIGFsc28gYmUgbWVyZ2VkIGludG8gMSBlbnRyeS4KICAgIGNvbnRhY3RzLmFkZChjcmVhdGVDb250YWN0KAogICAgICAgICJDaHJpcyIsCiAgICAgICAgIkxpZWJpbmciLAogICAgICAgIEFycmF5cy5hc0xpc3QoImNocmlzbGllYmluZ0BnbWFpbC5jb20iKSwKICAgICAgICBudWxsLAogICAgICAgIGZhbHNlKSk7CiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiQ2hyaXMiLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpLAogICAgICAgIG51bGwsCiAgICAgICAgdHJ1ZSkpOwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgY29udGFjdCBlc3RhYmxpc2hlcyBhIGNvbm5lY3Rpb24gYmV0d2VlbiB0aGUgZmlyc3QgdHdvIGNvbnRhY3RzIGFuZCBpdHNlbGYgZHVlIHRvIHRoZQogICAgLy8gcmVsYXRpb25zaGlwIGJldHdlZW4gb3dlbmxpbjBAZ21haWwuY29tIGFuZCAxMTEuCg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIG1lcmdlZCBpbnRvIDEgZW50cnkuCiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiUmljaGllIiwKICAgICAgICAiSGF3dGluIiwKICAgICAgICBBcnJheXMuYXNMaXN0KCJyaWNoaWVAZ21haWwuY29tIiksCiAgICAgICAgbnVsbCwKICAgICAgICBmYWxzZSkpOwogICAgY29udGFjdHMuYWRkKGNyZWF0ZUNvbnRhY3QoCiAgICAgICAgIlJpY2giLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgicmljaGllQGdtYWlsLmNvbSIpLAogICAgICAgIEFycmF5cy5hc0xpc3QoIjU1NS01NTU1IiksCiAgICAgICAgdHJ1ZSkpOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +935,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb2xvZGV4QWRkRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxnZXRMaXN0T2ZDb250YWN0c1BlclBheWxvYWRcPg==</entry>
         <entry encoding="base64">XDxnZXRFdmVudENvbnRhY3RzXD4=</entry>
         <entry>normalizeContacs</entry>
@@ -958,10 +954,9 @@
         <entry encoding="base64">XDxub3JtYWxpemVDb250YWN0c1w+</entry>
         <entry>processEvent</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2VtYWlsQ29udGFjdEhhbmRsZS9oYW5kbGUvZ2M=</entry>
-        <entry>30t.</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2c=</entry>
         <entry>85</entry>
         <entry>112</entry>
@@ -978,8 +973,10 @@
         <entry>329</entry>
         <entry>152</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>81=</entry>
+        <entry>81</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
