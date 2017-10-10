@@ -65,12 +65,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/libraries.gradle" timestamp="1498259902438">
         <mark key="'" line="52" column="57" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/resources/migrations/2017-06-28-add-name-columns-to-share-relationships.sql" timestamp="1498847194833">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1505185850233">
         <mark key="'" line="113" column="0" />
       </file>
@@ -212,9 +206,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/MicasaMutationHandler.java" timestamp="1491956466561">
         <mark key="'" line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/validations/request/ValidationRequest.java" timestamp="1505248889186">
-        <mark key="'" line="124" column="50" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1502748300032">
         <mark key="'" line="180" column="0" />
         <mark key="[" line="525" column="0" />
@@ -304,12 +295,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/resources/ContactsResourceTest.java" timestamp="1502744370921">
-        <mark key="[" line="44" column="80" />
-        <mark key="]" line="44" column="80" />
-        <mark key="." line="44" column="80" />
-        <mark key="^" line="44" column="80" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495525206165">
         <mark key="'" line="15" column="0" />
@@ -448,9 +433,6 @@
         <mark key="." line="14" column="71" />
         <mark key="^" line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/validations/validators/CountryAndMarketValidator.java" timestamp="1505248886092">
-        <mark key="'" line="40" column="55" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.10.26/f495214de655a980d6fc5810b4e1c56ddddf2401/aws-java-sdk-s3-1.10.26-sources.jar!/com/amazonaws/services/s3/AmazonS3.java" timestamp="1495592694886">
         <mark key="'" line="184" column="0" />
       </file>
@@ -538,9 +520,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtilsV2.java" timestamp="1491945715753">
         <mark key="'" line="21" column="6" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/validations/validators/ListingValidator.java" timestamp="1505248866489">
-        <mark key="'" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1497039226258">
         <mark key="'" line="13" column="63" />
@@ -723,9 +702,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
         <mark key="'" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/modules/MicasaModule.java" timestamp="1505248850357">
-        <mark key="'" line="451" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/signals/src/main/scala/com/airbnb/nebula/signals/SignalConverter.scala" timestamp="1494989978106">
         <mark key="'" line="95" column="0" />
