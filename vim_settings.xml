@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502748589795">
+      <file name="/a.dummy" timestamp="1508187282840">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="73" />
@@ -56,6 +56,9 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleNinetyFive.java" timestamp="1508187275453">
+        <mark key="'" line="12" column="32" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/0.7.1/69a7060ab0a42328331ac3e779f70f7cdc0dc720/dropwizard-core-0.7.1-sources.jar!/io/dropwizard/setup/Environment.java" timestamp="1491946917552">
         <mark key="'" line="66" column="0" />
       </file>
@@ -73,6 +76,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" timestamp="1508187270984">
+        <mark key="'" line="326" column="0" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943104830">
         <mark key="'" line="24" column="16" />
@@ -159,8 +168,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
         <mark key="'" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508182142843">
-        <mark key="'" line="31" column="4" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508187541548">
+        <mark key="'" line="32" column="37" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.10.26/1dee67d80fe01c6df0b979e0544c135281854cc7/aws-java-sdk-core-1.10.26-sources.jar!/com/amazonaws/auth/InstanceProfileCredentialsProvider.java" timestamp="1495745226976">
         <mark key="'" line="103" column="34" />
@@ -298,6 +311,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508187437672">
+        <mark key="'" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495525206165">
         <mark key="'" line="15" column="0" />
@@ -448,12 +464,22 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" timestamp="1492732404905">
         <mark key="'" line="45" column="33" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" timestamp="1508187483197">
+        <mark key="'" line="17" column="37" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1497303319985">
         <mark key="'" line="395" column="0" />
         <mark key="[" line="472" column="0" />
         <mark key="]" line="472" column="0" />
         <mark key="." line="472" column="0" />
         <mark key="^" line="476" column="3" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" timestamp="1508186781309">
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/BroadgaugeAeonSpinalTapMutationHandler.java" timestamp="1491848191834">
         <mark key="'" line="28" column="44" />
@@ -654,6 +680,9 @@
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" timestamp="1508186772878">
+        <mark key="'" line="12" column="6" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1496781020055">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="37" column="5" />
@@ -694,7 +723,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505248698332">
+      <file name="/Dummy.txt" timestamp="1508186080262">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -764,42 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="22" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="509" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="171" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="168" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="182" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="170" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="482" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="180" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="63" column="34" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="31" column="75" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="98" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="50" column="26" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="82" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="806" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
-      <jump line="419" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="418" column="44" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="386" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="96" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="65" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="128" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="112" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="109" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="67" column="36" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="106" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="98" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -863,7 +856,43 @@
       <jump line="124" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/validations/request/ValidationRequest.java" />
       <jump line="20" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service/src/main/java/com/airbnb/micasa/validations/request/ValidationArguments.java" />
       <jump line="30" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
-      <jump line="31" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="345" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="9" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" />
+      <jump line="11" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" />
+      <jump line="12" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
+      <jump line="51" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
+      <jump line="45" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
+      <jump line="306" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="335" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="337" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="339" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="36" column="66" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="346" column="19" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="34" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="333" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="326" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="12" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleNinetyFive.java" />
+      <jump line="15" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="38" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="37" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="36" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="332" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="35" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="23" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="24" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="13" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="17" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="31" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -876,49 +905,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>SUPER_STRICT_95</text>
       </register>
       <register name="/" type="4">
-        <text>FLEXIBLE_95</text>
+        <text>cut_off_days</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REZWR1cGxpY2F0ZUNvbnRhY3RzKCkgewo=</text>
+      <register name="0" type="4">
+        <text>NO_REFUND_FULL_PAYMENT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
+        <text encoding="base64">ICAgIEZMRVhJQkxFXzk1LAogICAgU1VQRVJfU1RSSUNUXzk1LAogICAgU1VQRVJfU1RSSUNUXzEyNSwKICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
+        <text encoding="base64">ICAgICAgU1VQRVJfU1RSSUNUXzk1LAogICAgICBOT19SRUZVTkRfOTUsCiAgICAgIE5PX1JFRlVORF8xMjUsCiAgICAgIE5PX1JFRlVORF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwo=</text>
+        <text encoding="base64">ICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QzID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMyA9IFNldHMubmV3SGFzaFNldCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMzID0gU2V0cy5uZXdIYXNoU2V0KCk7CiAgICBhc3NlcnRFcXVhbHMoZXhwZWN0ZWRFbWFpbHMzLCBuZXcgSGFzaFNldDw+KGRlZHVwZWRDb250YWN0My5nZXRFbWFpbHMoKSkpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkUGhvbmVzMywgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDMuZ2V0UGhvbmVzKCkpKTsKICAgIGFzc2VydEVxdWFscygoYnl0ZSkgMSwgKGJ5dGUpIGRlZHVwZWRDb250YWN0My5nZXRIYXNQaWN0dXJlKCkpOwogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3QgZGVkdXBlZENvbnRhY3QyID0gZGVkdXBlZENvbnRhY3RzLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihjb250YWN0IC0+IGNvbnRhY3QuZ2V0RW1haWxzKCkuZ2V0KDApLmVxdWFscygicmljaGllQGdtYWlsLmNvbSIpKQogICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgIC5nZXQoKTsKICAgIFNldDxTdHJpbmc+IGV4cGVjdGVkRW1haWxzMiA9IFNldHMubmV3SGFzaFNldCgicmljaGllQGdtYWlsLmNvbSIpOwogICAgU2V0PFN0cmluZz4gZXhwZWN0ZWRQaG9uZXMyID0gU2V0cy5uZXdIYXNoU2V0KCI1NTUtNTU1NSIpOwogICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkRW1haWxzMiwgbmV3IEhhc2hTZXQ8PihkZWR1cGVkQ29udGFjdDIuZ2V0RW1haWxzKCkpKTsKICAgIGFzc2VydEVxdWFscyhleHBlY3RlZFBob25lczIsIG5ldyBIYXNoU2V0PD4oZGVkdXBlZENvbnRhY3QyLmdldFBob25lcygpKSk7CiAgICBhc3NlcnRFcXVhbHMoKGJ5dGUpIDEsIChieXRlKSBkZWR1cGVkQ29udGFjdDIuZ2V0SGFzUGljdHVyZSgpKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAib3dlbmxpbjBAZ21haWwuY29tIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIGFsc28gYmUgbWVyZ2VkIGludG8gMSBlbnRyeS4KICAgIGNvbnRhY3RzLmFkZChjcmVhdGVDb250YWN0KAogICAgICAgICJDaHJpcyIsCiAgICAgICAgIkxpZWJpbmciLAogICAgICAgIEFycmF5cy5hc0xpc3QoImNocmlzbGllYmluZ0BnbWFpbC5jb20iKSwKICAgICAgICBudWxsLAogICAgICAgIGZhbHNlKSk7CiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiQ2hyaXMiLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgiY2hyaXNsaWViaW5nQGdtYWlsLmNvbSIpLAogICAgICAgIG51bGwsCiAgICAgICAgdHJ1ZSkpOwoK</text>
+        <text encoding="base64">ICAgIEZMRVhJQkxFXzk1LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBuZXh0IDIgY29udGFjdHMgc2hvdWxkIGJlIG1lcmdlZCBpbnRvIDEgZW50cnkuCiAgICBjb250YWN0cy5hZGQoY3JlYXRlQ29udGFjdCgKICAgICAgICAiUmljaGllIiwKICAgICAgICAiSGF3dGluIiwKICAgICAgICBBcnJheXMuYXNMaXN0KCJyaWNoaWVAZ21haWwuY29tIiksCiAgICAgICAgbnVsbCwKICAgICAgICBmYWxzZSkpOwogICAgY29udGFjdHMuYWRkKGNyZWF0ZUNvbnRhY3QoCiAgICAgICAgIlJpY2giLAogICAgICAgICI6RCIsCiAgICAgICAgQXJyYXlzLmFzTGlzdCgicmljaGllQGdtYWlsLmNvbSIpLAogICAgICAgIEFycmF5cy5hc0xpc3QoIjU1NS01NTU1IiksCiAgICAgICAgdHJ1ZSkpOwoK</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>FLEXIBLE_95</last-search>
+      <last-search>cut_off_days</last-search>
       <last-offset />
-      <last-pattern>FLEXIBLE_95</last-pattern>
+      <last-pattern>cut_off_days</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -926,19 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>person</entry>
-        <entry>contactId</entry>
-        <entry>contacId</entry>
-        <entry>setLastNmae</entry>
-        <entry>setFirstName</entry>
-        <entry>ContactHandel</entry>
-        <entry>ContactHandle</entry>
-        <entry>getMetadataJson</entry>
-        <entry encoding="base64">XDxjb250YWN0SGFuZGxlc1w+</entry>
-        <entry>type</entry>
-        <entry>RolodexAddEvent</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVDb250YWN0c1w+</entry>
-        <entry>processEvent</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</entry>
         <entry>filter</entry>
         <entry>fromformat</entry>
@@ -946,6 +962,19 @@
         <entry>validate</entry>
         <entry encoding="base64">XDxpc0NvdW50cnlBbmRNYXJrZXRDaGFuZ2VBbGxvd2VkXD4=</entry>
         <entry>FLEXIBLE_95</entry>
+        <entry>NON_REFUNDABLE</entry>
+        <entry encoding="base64">XDxOT19SRUZVTkRfOTVcPg==</entry>
+        <entry encoding="base64">XDxOT19SRUZVTkRcPg==</entry>
+        <entry>NO_REFUND</entry>
+        <entry>no_refund_for</entry>
+        <entry encoding="base64">XDxOT19SRUZVTkRfRk9SX0VYVFJBQ1RJT05cPg==</entry>
+        <entry encoding="base64">XDxDVVRPRkZfREFZU1w+</entry>
+        <entry>cancellation_no_refund</entry>
+        <entry>cancellationnorefund</entry>
+        <entry encoding="base64">XDxDYW5jZWxsYXRpb25HdWVzdFN1cGVyU3RyaWN0TmluZXR5Rml2ZVw+</entry>
+        <entry>CUTOFF_DAYS</entry>
+        <entry>cutoffdays</entry>
+        <entry>cut_off_days</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2c=</entry>
@@ -965,8 +994,8 @@
         <entry>152</entry>
         <entry>81=</entry>
         <entry>81</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>nohl</entry>
       </history-cmd>
       <history-expr />
