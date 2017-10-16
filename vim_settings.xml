@@ -464,12 +464,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18.1/3deb63e47d1d35ec679b08d18d8d7041aff15013/jersey-client-1.18.1-sources.jar!/com/sun/jersey/api/client/ClientResponse.java" timestamp="1492732404905">
         <mark key="'" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" timestamp="1508187483197">
-        <mark key="'" line="17" column="37" />
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" timestamp="1508189523054">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="14" column="79" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsResource.java" timestamp="1497303319985">
         <mark key="'" line="395" column="0" />
@@ -793,13 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="55" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="46" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -879,7 +872,6 @@
       <jump line="333" column="56" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
       <jump line="326" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
       <jump line="12" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleNinetyFive.java" />
-      <jump line="15" column="9" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
       <jump line="12" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
       <jump line="38" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
       <jump line="37" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
@@ -887,12 +879,20 @@
       <jump line="332" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
       <jump line="35" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
       <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
-      <jump line="23" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
-      <jump line="24" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
-      <jump line="13" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
       <jump line="17" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
       <jump line="31" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
       <jump line="32" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="23" column="55" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="24" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="41" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="40" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="43" column="32" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="13" column="77" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="15" column="79" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictNinetyFive.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -905,49 +905,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>SUPER_STRICT_95</text>
+        <text encoding="base64">IFRoaXMgcG9saWN5</text>
       </register>
       <register name="/" type="4">
-        <text>cut_off_days</text>
+        <text>cuto</text>
       </register>
       <register name="0" type="4">
         <text>NO_REFUND_FULL_PAYMENT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZMRVhJQkxFXzk1LAogICAgU1VQRVJfU1RSSUNUXzk1LAogICAgU1VQRVJfU1RSSUNUXzEyNSwKICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS50ZW1wb3JhbC5DaHJvbm9Vbml0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU1VQRVJfU1RSSUNUXzk1LAogICAgICBOT19SRUZVTkRfOTUsCiAgICAgIE5PX1JFRlVORF8xMjUsCiAgICAgIE5PX1JFRlVORF9GVUxMX1BBWU1FTlQsCg==</text>
+        <text encoding="base64">ICogVGhpcyBkaWZmZXJzIGZyb20gdGhlIFN1cGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZMRVhJQkxFXzk1LAogICAgU1VQRVJfU1RSSUNUXzk1LAogICAgU1VQRVJfU1RSSUNUXzEyNSwKICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
+        <text encoding="base64">ICAgICAgU1VQRVJfU1RSSUNUXzk1LAogICAgICBOT19SRUZVTkRfOTUsCiAgICAgIE5PX1JFRlVORF8xMjUsCiAgICAgIE5PX1JFRlVORF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNVUEVSX1NUUklDVF9GVUxMX1BBWU1FTlQsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZMRVhJQkxFXzk1LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihwYXJzZWQgPT4gcGFyc2VkLmdldCgiaWQiKS5pc0RlZmluZWQgJiYgcGFyc2VkLmdldCgiZW1haWwiKS5pc0RlZmluZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>cut_off_days</last-search>
+      <last-search>cuto</last-search>
       <last-offset />
-      <last-pattern>cut_off_days</last-pattern>
+      <last-pattern>cuto</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -955,11 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzZWRDb250YWN0c1w+</entry>
-        <entry>filter</entry>
-        <entry>fromformat</entry>
-        <entry>hasPicture</entry>
-        <entry>validate</entry>
         <entry encoding="base64">XDxpc0NvdW50cnlBbmRNYXJrZXRDaGFuZ2VBbGxvd2VkXD4=</entry>
         <entry>FLEXIBLE_95</entry>
         <entry>NON_REFUNDABLE</entry>
@@ -975,6 +970,11 @@
         <entry>CUTOFF_DAYS</entry>
         <entry>cutoffdays</entry>
         <entry>cut_off_days</entry>
+        <entry>cutoff_days</entry>
+        <entry>apply</entry>
+        <entry encoding="base64">XDxpc0JlZm9yZUN1dG9mZkRhdGVcPg==</entry>
+        <entry encoding="base64">XDxGVUxMX1JFRlVORF9GQUNUT1JcPg==</entry>
+        <entry>cuto</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2c=</entry>
