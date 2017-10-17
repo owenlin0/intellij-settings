@@ -908,7 +908,7 @@
         <text encoding="base64">IFRoaXMgcG9saWN5</text>
       </register>
       <register name="/" type="4">
-        <text>cuto</text>
+        <text>seting</text>
       </register>
       <register name="0" type="4">
         <text>NO_REFUND_FULL_PAYMENT</text>
@@ -945,17 +945,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cuto</last-search>
+      <last-search>seting</last-search>
       <last-offset />
-      <last-pattern>cuto</last-pattern>
+      <last-pattern>seting</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0NvdW50cnlBbmRNYXJrZXRDaGFuZ2VBbGxvd2VkXD4=</entry>
         <entry>FLEXIBLE_95</entry>
         <entry>NON_REFUNDABLE</entry>
         <entry encoding="base64">XDxOT19SRUZVTkRfOTVcPg==</entry>
@@ -975,6 +974,7 @@
         <entry encoding="base64">XDxpc0JlZm9yZUN1dG9mZkRhdGVcPg==</entry>
         <entry encoding="base64">XDxGVUxMX1JFRlVORF9GQUNUT1JcPg==</entry>
         <entry>cuto</entry>
+        <entry>seting</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bob25lL2c=</entry>
