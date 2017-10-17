@@ -29,8 +29,8 @@
         <mark key="^" line="106" column="86" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" timestamp="1508263938909">
-        <mark key="'" line="22" column="33" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" timestamp="1508272922587">
+        <mark key="'" line="39" column="6" />
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="33" />
         <mark key="." line="22" column="33" />
@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1505185850233">
         <mark key="'" line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFive.java" timestamp="1508263860653">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFive.java" timestamp="1508272950483">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="83" />
         <mark key="^" line="12" column="55" />
@@ -276,12 +276,18 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/RowMap.scala" timestamp="1495526454783">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationFeeFactors.java" timestamp="1508272875395">
+        <mark key="'" line="15" column="23" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/create_duplicate_contact_books.sql" timestamp="1496710664381">
         <mark key="'" line="5" column="13" />
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationPolicySetting.java" timestamp="1508272836853">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/TardisApplication.java" timestamp="1491942896772">
         <mark key="'" line="44" column="50" />
@@ -322,8 +328,10 @@
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508187437672">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508272907710">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495525206165">
         <mark key="'" line="15" column="0" />
@@ -801,17 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="245" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="311" column="20" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="243" column="54" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/AbstractStorage.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="80" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/ExportContactsToS3.scala" />
-      <jump line="36" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
-      <jump line="38" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
-      <jump line="172" column="63" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="173" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="174" column="29" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
       <jump line="175" column="24" filename="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" />
@@ -901,6 +898,17 @@
       <jump line="339" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
       <jump line="57" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" />
       <jump line="22" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" />
+      <jump line="54" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationPolicySetting.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="43" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="47" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="15" column="23" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationFeeFactors.java" />
+      <jump line="39" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFive.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -916,10 +924,10 @@
         <text>Full refund minus Airbnb service fee</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF5UHJpY2VSZWZ1bmRGYWN0b3JcPg==</text>
+        <text encoding="base64">XDxjbGVhbmluZ0ZlZVJlZnVuZEZhY3Rvclw+</text>
       </register>
       <register name="0" type="4">
-        <text>extends CancellationPricing {</text>
+        <text>cleaningFeeRefundFactor</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -949,13 +957,13 @@
         <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF5UHJpY2VSZWZ1bmRGYWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxjbGVhbmluZ0ZlZVJlZnVuZEZhY3Rvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF5UHJpY2VSZWZ1bmRGYWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhbmluZ0ZlZVJlZnVuZEZhY3Rvclw+</last-pattern>
       <last-replace>rolodexAddEvent</last-replace>
       <last-substitute encoding="base64">XDxyb2xvZGV4RXhwb3J0RXZlbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -963,12 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_refund_for</entry>
-        <entry encoding="base64">XDxOT19SRUZVTkRfRk9SX0VYVFJBQ1RJT05cPg==</entry>
-        <entry encoding="base64">XDxDVVRPRkZfREFZU1w+</entry>
-        <entry>cancellation_no_refund</entry>
-        <entry>cancellationnorefund</entry>
-        <entry encoding="base64">XDxDYW5jZWxsYXRpb25HdWVzdFN1cGVyU3RyaWN0TmluZXR5Rml2ZVw+</entry>
         <entry>CUTOFF_DAYS</entry>
         <entry>cutoffdays</entry>
         <entry>cut_off_days</entry>
@@ -983,6 +985,12 @@
         <entry>no</entry>
         <entry>setting</entry>
         <entry encoding="base64">XDxzdGF5UHJpY2VSZWZ1bmRGYWN0b3JcPg==</entry>
+        <entry>cleaning fee</entry>
+        <entry>cleaning</entry>
+        <entry>cleaningfeee</entry>
+        <entry>refund</entry>
+        <entry>cleaningfee</entry>
+        <entry encoding="base64">XDxjbGVhbmluZ0ZlZVJlZnVuZEZhY3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
@@ -1002,9 +1010,9 @@
         <entry>81=</entry>
         <entry>81</entry>
         <entry>s</entry>
-        <entry>nohl</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
