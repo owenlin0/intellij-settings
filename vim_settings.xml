@@ -169,7 +169,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
         <mark key="'" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508262840435">
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508351346422">
+        <mark key="'" line="29" column="0" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
@@ -322,8 +323,8 @@
         <mark key="^" line="28" column="70" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508275568439">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508351029035">
+        <mark key="'" line="38" column="0" />
         <mark key="[" line="32" column="6" />
         <mark key="]" line="32" column="28" />
       </file>
@@ -577,6 +578,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtilsV2.java" timestamp="1491945715753">
         <mark key="'" line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationPolicyContent.java" timestamp="1508351000280" />
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/RolodexApplication.java" timestamp="1497039226258">
         <mark key="'" line="13" column="63" />
       </file>
@@ -587,15 +589,19 @@
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508349840451">
-        <mark key="'" line="5" column="45" />
-        <mark key="[" line="242" column="31" />
-        <mark key="]" line="242" column="31" />
-        <mark key="^" line="242" column="31" />
-        <mark key="." line="242" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508352920648">
+        <mark key="'" line="253" column="13" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="243" column="18" />
+        <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" timestamp="1508349559275">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" timestamp="1508351489785">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1491255509781">
         <mark key="'" line="3373" column="35" />
@@ -695,6 +701,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1007.5/368978dd9cd43e28ab6f04d15c02497626491d57/jitney-schemas-3.1007.5.jar!/com/airbnb/jitney/event/rolodex/v8/Person.class" timestamp="1499396620362">
         <mark key="'" line="154" column="22" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleOld.java" timestamp="1508351239570">
+        <mark key="'" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFive.java" timestamp="1508283240014">
         <mark key="'" line="6" column="0" />
       </file>
@@ -766,7 +775,7 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508282033813">
+      <file name="/Dummy.txt" timestamp="1508351544736">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -836,45 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricingresponse/lineitem/LineItem.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricingresponse/lineitem/LineItem.java" />
-      <jump line="76" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="64" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="62" column="21" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="55" column="37" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="58" column="27" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="59" column="33" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="47" column="57" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationTestUtil.java" />
-      <jump line="32" column="72" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictThirtyOldTest.java" />
-      <jump line="52" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="53" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="54" column="12" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="42" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="64" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFive.java" />
-      <jump line="571" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="592" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="114" column="78" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="158" column="78" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="320" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="351" column="38" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="277" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFive.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="163" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="47" column="58" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="201" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="195" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="178" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="147" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
       <jump line="21" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
       <jump line="191" column="88" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
@@ -929,13 +899,52 @@
       <jump line="240" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="242" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="190" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="62" column="1" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="3" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationGuestFeePolicyId.java" />
-      <jump line="4" column="50" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationPolicyContent.java" />
       <jump line="5" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationPolicyId.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="38" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleOld.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="82" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="30" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="80" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="38" column="11" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="43" column="21" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="52" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="22" column="11" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="4" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="31" column="33" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="32" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="33" column="38" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="34" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="40" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="42" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/P3CancellationContentLoader.java" />
+      <jump line="98" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="66" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="61" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="101" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="102" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="62" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="63" column="78" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="65" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="118" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="106" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="243" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="253" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -948,49 +957,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzTmV3UG9saWN5KCk=</text>
+        <text>&quot;title_luxury_non_refundable&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>2014-07-</text>
+        <text encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RDYW5jZWxQcmV0cmlwQWZ0ZXJDdXRvZmYoKSB7CiAgICBEYXRlVGltZUZvcm1hdHRlciBmb3JtYXR0ZXIgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQgSEg6bW0iKTsKICAgIGZpbmFsIExvY2FsRGF0ZVRpbWUgY2FuY2VsbGF0aW9uVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UoIjIwMTQtMDgtMDEgMTI6MzAiLCBmb3JtYXR0ZXIpOwogICAgZmluYWwgTG9jYWxEYXRlIGNoZWNraW5UaW1lID0gTG9jYWxEYXRlLnBhcnNlKCIyMDE0LTExLTAzIik7CiAgICBmaW5hbCBDYW5jZWxsYXRpb25Qb2xpY3lTZXR0aW5nIHNldHRpbmcgPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmRlZmF1bHRDYW5jZWxsYXRpb25Qb2xpY3lTZXR0aW5nQnVpbGRlcigpCiAgICAgICAgICAgIC5jYW5jZWxsYXRpb25UaW1lKGNhbmNlbGxhdGlvblRpbWUpCiAgICAgICAgICAgIC5sb2NhbENoZWNraW5Ib3VyKE9wdGlvbmFsLm9mKDE2KSkKICAgICAgICAgICAgLmNoZWNraW5EYXRlKGNoZWNraW5UaW1lKQogICAgICAgICAgICAudG90YWxOaWdodHMoZXhpc3RpbmdSZXNwb25zZS5nZXROaWdodHMoKSkKICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICBmaW5hbCBDYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZSBjYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZSA9CiAgICAgICAgbmV3IENhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlKHNldHRpbmcpOwogICAgZmluYWwgTGlzdDxQYXltZW50UGVyaW9kPiBwYXltZW50UGVyaW9kcyA9CiAgICAgICAgY2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUuYXBwbHkoZXhpc3RpbmdSZXNwb25zZSk7CgogICAgYXNzZXJ0RXF1YWxzKDIsIHBheW1lbnRQZXJpb2RzLnNpemUoKSk7CiAgICBmaW5hbCBQYXltZW50UGVyaW9kIHBlcmlvZCA9IHBheW1lbnRQZXJpb2RzLmdldCgwKTsKICAgIGFzc2VydEVxdWFscygwLCBwZXJpb2QuZ2V0UGF5bWVudEluZGV4KCkpOwogICAgYXNzZXJ0RXF1YWxzKExvY2FsRGF0ZS5wYXJzZSgiMjAxNC0xMS0wMyIpLCBwZXJpb2QuZ2V0U3RhcnREYXRlKCkuZ2V0KCkpOwogICAgYXNzZXJ0RXF1YWxzKDMwLCBwZXJpb2QuZ2V0TmlnaHRzKCkpOwogICAgZmluYWwgTGlzdDxMaW5lSXRlbT4gcHJpY2VJdGVtID0KICAgICAgICBwZXJpb2QKICAgICAgICAgICAgLmdldExpbmVJdGVtcygpCiAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKGl0ZW0gLT4gaXRlbS5nZXRUeXBlKCkuZXF1YWxzKExpbmVJdGVtLkxpbmVJdGVtVHlwZS5NT05USExZX1BSSUNFKSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICBhc3NlcnRFcXVhbHMoMjgwLjAsIHByaWNlSXRlbS5nZXQoMCkuZ2V0QW1vdW50TGlzdGluZygpLCBFUFNJTE9OKTsKICAgIGFzc2VydEVxdWFscygyOCwgcHJpY2VJdGVtLmdldCgwKS5nZXROaWdodHMoKSk7CiAgICBhc3NlcnRFcXVhbHMoMzIuMjU4MDYsIHByaWNlSXRlbS5nZXQoMSkuZ2V0QW1vdW50TGlzdGluZygpLCBFUFNJTE9OKTsKICAgIGFzc2VydEVxdWFscygyLCBwcmljZUl0ZW0uZ2V0KDEpLmdldE5pZ2h0cygpKTsKICAgIGZpbmFsIExpc3Q8TGluZUl0ZW0+IGd1ZXN0RmVlSXRlbSA9CiAgICAgICAgcGVyaW9kCiAgICAgICAgICAgIC5nZXRMaW5lSXRlbXMoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0VHlwZSgpLmVxdWFscyhMaW5lSXRlbS5MaW5lSXRlbVR5cGUuQUlSQk5CX0dVRVNUX0ZFRSkpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgYXNzZXJ0RXF1YWxzKDMxLjg3NTk3LCBndWVzdEZlZUl0ZW0uZ2V0KDApLmdldEFtb3VudExpc3RpbmcoKSwgRVBTSUxPTik7CiAgICBmaW5hbCBMaXN0PExpbmVJdGVtPiBjbGVhbmluZ0ZlZUl0ZW0gPQogICAgICAgIHBlcmlvZAogICAgICAgICAgICAuZ2V0TGluZUl0ZW1zKCkKICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5maWx0ZXIoaXRlbSAtPiBpdGVtLmdldFR5cGUoKS5lcXVhbHMoTGluZUl0ZW0uTGluZUl0ZW1UeXBlLkNMRUFOSU5HX0ZFRSkpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgYXNzZXJ0RXF1YWxzKDAuMCwgY2xlYW5pbmdGZWVJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0Q2FuY2VsT250cmlwKCkgewogICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIEhIOm1tIik7CiAgICBmaW5hbCBMb2NhbERhdGVUaW1lIGNhbmNlbGxhdGlvblRpbWUgPSBMb2NhbERhdGVUaW1lLnBhcnNlKCIyMDE0LTExLTA0IDEyOjMwIiwgZm9ybWF0dGVyKTsKICAgIGZpbmFsIExvY2FsRGF0ZSBjaGVja2luVGltZSA9IExvY2FsRGF0ZS5wYXJzZSgiMjAxNC0xMS0wMyIpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZyBzZXR0aW5nID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5kZWZhdWx0Q2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZ0J1aWxkZXIoKQogICAgICAgICAgICAuY2FuY2VsbGF0aW9uVGltZShjYW5jZWxsYXRpb25UaW1lKQogICAgICAgICAgICAubG9jYWxDaGVja2luSG91cihPcHRpb25hbC5vZigxNikpCiAgICAgICAgICAgIC5jaGVja2luRGF0ZShjaGVja2luVGltZSkKICAgICAgICAgICAgLnRvdGFsTmlnaHRzKGV4aXN0aW5nUmVzcG9uc2UuZ2V0TmlnaHRzKCkpCiAgICAgICAgICAgIC5idWlsZCgpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUgY2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUgPQogICAgICAgIG5ldyBDYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZShzZXR0aW5nKTsKICAgIGZpbmFsIExpc3Q8UGF5bWVudFBlcmlvZD4gcGF5bWVudFBlcmlvZHMgPQogICAgICAgIGNhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlLmFwcGx5KGV4aXN0aW5nUmVzcG9uc2UpOwoKICAgIGFzc2VydEVxdWFscygyLCBwYXltZW50UGVyaW9kcy5zaXplKCkpOwogICAgZmluYWwgUGF5bWVudFBlcmlvZCBwZXJpb2QgPSBwYXltZW50UGVyaW9kcy5nZXQoMCk7CiAgICBhc3NlcnRFcXVhbHMoMCwgcGVyaW9kLmdldFBheW1lbnRJbmRleCgpKTsKICAgIGFzc2VydEVxdWFscyhMb2NhbERhdGUucGFyc2UoIjIwMTQtMTEtMDMiKSwgcGVyaW9kLmdldFN0YXJ0RGF0ZSgpLmdldCgpKTsKICAgIGFzc2VydEVxdWFscygzMCwgcGVyaW9kLmdldE5pZ2h0cygpKTsKICAgIGZpbmFsIExpc3Q8TGluZUl0ZW0+IHByaWNlSXRlbSA9CiAgICAgICAgcGVyaW9kCiAgICAgICAgICAgIC5nZXRMaW5lSXRlbXMoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0VHlwZSgpLmVxdWFscyhMaW5lSXRlbS5MaW5lSXRlbVR5cGUuTU9OVEhMWV9QUklDRSkpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgYXNzZXJ0RXF1YWxzKDI4MC4wLCBwcmljZUl0ZW0uZ2V0KDApLmdldEFtb3VudExpc3RpbmcoKSwgRVBTSUxPTik7CiAgICBhc3NlcnRFcXVhbHMoMjgsIHByaWNlSXRlbS5nZXQoMCkuZ2V0TmlnaHRzKCkpOwogICAgYXNzZXJ0RXF1YWxzKDMyLjI1ODA2LCBwcmljZUl0ZW0uZ2V0KDEpLmdldEFtb3VudExpc3RpbmcoKSwgRVBTSUxPTik7CiAgICBhc3NlcnRFcXVhbHMoMiwgcHJpY2VJdGVtLmdldCgxKS5nZXROaWdodHMoKSk7CiAgICBmaW5hbCBMaXN0PExpbmVJdGVtPiBndWVzdEZlZUl0ZW0gPQogICAgICAgIHBlcmlvZAogICAgICAgICAgICAuZ2V0TGluZUl0ZW1zKCkKICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5maWx0ZXIoaXRlbSAtPiBpdGVtLmdldFR5cGUoKS5lcXVhbHMoTGluZUl0ZW0uTGluZUl0ZW1UeXBlLkFJUkJOQl9HVUVTVF9GRUUpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIGFzc2VydEVxdWFscygzMS44NzU5NywgZ3Vlc3RGZWVJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogICAgZmluYWwgTGlzdDxMaW5lSXRlbT4gY2xlYW5pbmdGZWVJdGVtID0KICAgICAgICBwZXJpb2QKICAgICAgICAgICAgLmdldExpbmVJdGVtcygpCiAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAuZmlsdGVyKGl0ZW0gLT4gaXRlbS5nZXRUeXBlKCkuZXF1YWxzKExpbmVJdGVtLkxpbmVJdGVtVHlwZS5DTEVBTklOR19GRUUpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIGFzc2VydEVxdWFscyg5LjM3NSwgY2xlYW5pbmdGZWVJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0Q2FuY2VsUHJldHJpcEJlZm9yZUN1dG9mZldpdGhDb3Vwb24oKSB7CiAgICBEYXRlVGltZUZvcm1hdHRlciBmb3JtYXR0ZXIgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQgSEg6bW0iKTsKICAgIGZpbmFsIExvY2FsRGF0ZVRpbWUgY2FuY2VsbGF0aW9uVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UoIjIwMTQtMDgtMDEgMTI6MzAiLCBmb3JtYXR0ZXIpOwogICAgZmluYWwgTG9jYWxEYXRlIGNoZWNraW5UaW1lID0gTG9jYWxEYXRlLnBhcnNlKCIyMDE0LTExLTAzIik7CiAgICBmaW5hbCBDYW5jZWxsYXRpb25Qb2xpY3lTZXR0aW5nIHNldHRpbmcgPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmRlZmF1bHRDYW5jZWxsYXRpb25Qb2xpY3lTZXR0aW5nQnVpbGRlcigpCiAgICAgICAgICAgIC5jYW5jZWxsYXRpb25UaW1lKGNhbmNlbGxhdGlvblRpbWUpCiAgICAgICAgICAgIC5sb2NhbENoZWNraW5Ib3VyKE9wdGlvbmFsLm9mKDE2KSkKICAgICAgICAgICAgLmNoZWNraW5EYXRlKGNoZWNraW5UaW1lKQogICAgICAgICAgICAudG90YWxOaWdodHMoZXhpc3RpbmdSZXNwb25zZS5nZXROaWdodHMoKSkKICAgICAgICAgICAgLmNvdXBvblNhdmluZ3NMaXN0aW5nKE9wdGlvbmFsLm9mKDEwLjApKQogICAgICAgICAgICAuYnVpbGQoKTsKICAgIGZpbmFsIENhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlIGNhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlID0KICAgICAgICBuZXcgQ2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUoc2V0dGluZyk7CiAgICBmaW5hbCBMaXN0PFBheW1lbnRQZXJpb2Q+IHBheW1lbnRQZXJpb2RzID0KICAgICAgICBjYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZS5hcHBseShleGlzdGluZ1Jlc3BvbnNlKTsKCiAgICBhc3NlcnRFcXVhbHMoMiwgcGF5bWVudFBlcmlvZHMuc2l6ZSgpKTsKICAgIExpc3Q8TGluZUl0ZW0+IGNvdXBvblNhdmluZ3NJdGVtID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5nZXRDb3Vwb25TYXZpbmdzSXRlbXNGcm9tUGF5bWVudFBlcmlvZChwYXltZW50UGVyaW9kcy5nZXQoMCkpOwogICAgYXNzZXJ0RXF1YWxzKDAsIGNvdXBvblNhdmluZ3NJdGVtLnNpemUoKSk7CgogICAgY291cG9uU2F2aW5nc0l0ZW0gPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmdldENvdXBvblNhdmluZ3NJdGVtc0Zyb21QYXltZW50UGVyaW9kKHBheW1lbnRQZXJpb2RzLmdldCgxKSk7CiAgICBhc3NlcnRFcXVhbHMoLTEwLjAsIGNvdXBvblNhdmluZ3NJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogICAgYXNzZXJ0RXF1YWxzKC0xMC4wLCBjb3Vwb25TYXZpbmdzSXRlbS5nZXQoMCkuZ2V0QW1vdW50VVNEKCksIEVQU0lMT04pOwogIH0KCiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0Q2FuY2VsUHJldHJpcEFmdGVyQ3V0b2ZmV2l0aENvdXBvbigpIHsKICAgIERhdGVUaW1lRm9ybWF0dGVyIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbSIpOwogICAgZmluYWwgTG9jYWxEYXRlVGltZSBjYW5jZWxsYXRpb25UaW1lID0gTG9jYWxEYXRlVGltZS5wYXJzZSgiMjAxNC0wOC0wMSAxMjozMCIsIGZvcm1hdHRlcik7CiAgICBmaW5hbCBMb2NhbERhdGUgY2hlY2tpblRpbWUgPSBMb2NhbERhdGUucGFyc2UoIjIwMTQtMTEtMDMiKTsKICAgIGZpbmFsIENhbmNlbGxhdGlvblBvbGljeVNldHRpbmcgc2V0dGluZyA9CiAgICAgICAgQ2FuY2VsbGF0aW9uVGVzdFV0aWwuZGVmYXVsdENhbmNlbGxhdGlvblBvbGljeVNldHRpbmdCdWlsZGVyKCkKICAgICAgICAgICAgLmNhbmNlbGxhdGlvblRpbWUoY2FuY2VsbGF0aW9uVGltZSkKICAgICAgICAgICAgLmxvY2FsQ2hlY2tpbkhvdXIoT3B0aW9uYWwub2YoMTYpKQogICAgICAgICAgICAuY2hlY2tpbkRhdGUoY2hlY2tpblRpbWUpCgogICAgICAgICAgICAuY291cG9uU2F2aW5nc0xpc3RpbmcoT3B0aW9uYWwub2YoMTAuMCkpCiAgICAgICAgICAgIC5idWlsZCgpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUgY2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUgPQogICAgICAgIG5ldyBDYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZShzZXR0aW5nKTsKICAgIGZpbmFsIExpc3Q8UGF5bWVudFBlcmlvZD4gcGF5bWVudFBlcmlvZHMgPQogICAgICAgIGNhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlLmFwcGx5KGV4aXN0aW5nUmVzcG9uc2UpOwoKICAgIGFzc2VydEVxdWFscygyLCBwYXltZW50UGVyaW9kcy5zaXplKCkpOwogICAgTGlzdDxMaW5lSXRlbT4gY291cG9uU2F2aW5nc0l0ZW0gPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmdldENvdXBvblNhdmluZ3NJdGVtc0Zyb21QYXltZW50UGVyaW9kKHBheW1lbnRQZXJpb2RzLmdldCgwKSk7CiAgICBhc3NlcnRFcXVhbHMoMCwgY291cG9uU2F2aW5nc0l0ZW0uc2l6ZSgpKTsKCiAgICBjb3Vwb25TYXZpbmdzSXRlbSA9CiAgICAgICAgQ2FuY2VsbGF0aW9uVGVzdFV0aWwuZ2V0Q291cG9uU2F2aW5nc0l0ZW1zRnJvbVBheW1lbnRQZXJpb2QocGF5bWVudFBlcmlvZHMuZ2V0KDEpKTsKICAgIGFzc2VydEVxdWFscygtMTAuMCwgY291cG9uU2F2aW5nc0l0ZW0uZ2V0KDApLmdldEFtb3VudExpc3RpbmcoKSwgRVBTSUxPTik7CiAgICBhc3NlcnRFcXVhbHMoLTEwLjAsIGNvdXBvblNhdmluZ3NJdGVtLmdldCgwKS5nZXRBbW91bnRVU0QoKSwgRVBTSUxPTik7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RDYW5jZWxPbnRyaXBXaXRoQ291cG9uKCkgewogICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIEhIOm1tIik7CiAgICBmaW5hbCBMb2NhbERhdGVUaW1lIGNhbmNlbGxhdGlvblRpbWUgPSBMb2NhbERhdGVUaW1lLnBhcnNlKCIyMDE0LTExLTA0IDEyOjMwIiwgZm9ybWF0dGVyKTsKICAgIGZpbmFsIExvY2FsRGF0ZSBjaGVja2luVGltZSA9IExvY2FsRGF0ZS5wYXJzZSgiMjAxNC0xMS0wMyIpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZyBzZXR0aW5nID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5kZWZhdWx0Q2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZ0J1aWxkZXIoKQogICAgICAgICAgICAuY2FuY2VsbGF0aW9uVGltZShjYW5jZWxsYXRpb25UaW1lKQogICAgICAgICAgICAubG9jYWxDaGVja2luSG91cihPcHRpb25hbC5vZigxNikpCiAgICAgICAgICAgIC5jaGVja2luRGF0ZShjaGVja2luVGltZSkKICAgICAgICAgICAgLnRvdGFsTmlnaHRzKGV4aXN0aW5nUmVzcG9uc2UuZ2V0TmlnaHRzKCkpCiAgICAgICAgICAgIC5jb3Vwb25TYXZpbmdzTGlzdGluZyhPcHRpb25hbC5vZigxMC4wKSkKICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICBmaW5hbCBDYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZSBjYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZSA9CiAgICAgICAgbmV3IENhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlKHNldHRpbmcpOwogICAgZmluYWwgTGlzdDxQYXltZW50UGVyaW9kPiBwYXltZW50UGVyaW9kcyA9CiAgICAgICAgY2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUuYXBwbHkoZXhpc3RpbmdSZXNwb25zZSk7CgogICAgYXNzZXJ0RXF1YWxzKDIsIHBheW1lbnRQZXJpb2RzLnNpemUoKSk7CiAgICBMaXN0PExpbmVJdGVtPiBjb3Vwb25TYXZpbmdzSXRlbSA9CiAgICAgICAgQ2FuY2VsbGF0aW9uVGVzdFV0aWwuZ2V0Q291cG9uU2F2aW5nc0l0ZW1zRnJvbVBheW1lbnRQZXJpb2QocGF5bWVudFBlcmlvZHMuZ2V0KDApKTsKICAgIGFzc2VydEVxdWFscygwLCBjb3Vwb25TYXZpbmdzSXRlbS5zaXplKCkpOwoKICAgIGNvdXBvblNhdmluZ3NJdGVtID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5nZXRDb3Vwb25TYXZpbmdzSXRlbXNGcm9tUGF5bWVudFBlcmlvZChwYXltZW50UGVyaW9kcy5nZXQoMSkpOwogICAgYXNzZXJ0RXF1YWxzKC0xMC4wLCBjb3Vwb25TYXZpbmdzSXRlbS5nZXQoMCkuZ2V0QW1vdW50TGlzdGluZygpLCBFUFNJTE9OKTsKICAgIGFzc2VydEVxdWFscygtMTAuMCwgY291cG9uU2F2aW5nc0l0ZW0uZ2V0KDApLmdldEFtb3VudFVTRCgpLCBFUFNJTE9OKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDQU5DRUxfTFVYVVJZX01PREVSQVRFXzk1OgogICAgICAgIHJldHVybiAidGl0bGVfbHV4dXJ5X3N1cGVyX3N0cmljdF85NSI7CiAgICAgIGNhc2UgQ0FOQ0VMX0xVWFVSWV9TVVBFUl9TVFJJQ1RfOTU6CiAgICAgIGNhc2UgQ0FOQ0VMX0xVWFVSWV9TVVBFUl9TVFJJQ1RfMTI1OgogICAgICBjYXNlIENBTkNFTF9MVVhVUllfTk9fUkVGVU5EOgogICAgICAgIHJldHVybiAidGl0bGVfbHV4dXJ5X25vbl9yZWZ1bmRhYmxlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGlzTmV3UG9saWN5KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBkb3VibGUgRVBTSUxPTiA9IDFlLTU7CiAgcHJpdmF0ZSBHb2JsaW4gZ29ibGluOwogIHByaXZhdGUgR29ibGluU2V0dGluZ3MgZ29ibGluU2V0dGluZ3M7CiAgcHJpdmF0ZSBQYXltZW50UHJpY2luZ1Jlc3BvbnNlIGV4aXN0aW5nUmVzcG9uc2U7CgogIEBCZWZvcmUKICBwdWJsaWMgdm9pZCBzZXRVcCgpIHsKICAgIGdvYmxpbiA9IG5ldyBUZXN0R29ibGluSW1wbCgpOwogICAgZ29ibGluU2V0dGluZ3MgPSBuZXcgR29ibGluU2V0dGluZ3MoZmFsc2UsIGZhbHNlKTsKICAgIGV4aXN0aW5nUmVzcG9uc2UgPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmdlbmVyYXRlUGF5bWVudFByaWNpbmdSZXNwb25zZVdpdGhTb2NpYWxJbXBhY3QoCiAgICAgICAgICAgIGdvYmxpbiwKICAgICAgICAgICAgZ29ibGluU2V0dGluZ3MsCiAgICAgICAgICAgIFRlc3RHb2JsaW5JbXBsLlRFU1RfTElTVElOR19XSVRIX01PTlRITFlfRkFDVE9SLAogICAgICAgICAgICBuZXcgQ2FsZW5kYXJEYXRlKDIwMTQsIDExLCAwMyksCiAgICAgICAgICAgIG5ldyBDYWxlbmRhckRhdGUoMjAxNCwgMTIsIDA1KSwKICAgICAgICAgICAgMC4wMSk7CiAgfQoKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RDYW5jZWxQcmV0cmlwQmVmb3JlQ3V0b2ZmKCkgewogICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIEhIOm1tIik7CiAgICBmaW5hbCBMb2NhbERhdGVUaW1lIGNhbmNlbGxhdGlvblRpbWUgPSBMb2NhbERhdGVUaW1lLnBhcnNlKCIyMDE0LTA3LTMwIDEwOjMwIiwgZm9ybWF0dGVyKTsKICAgIGZpbmFsIExvY2FsRGF0ZSBjaGVja2luVGltZSA9IExvY2FsRGF0ZS5wYXJzZSgiMjAxNS0wMS0wMyIpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZyBzZXR0aW5nID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5kZWZhdWx0Q2FuY2VsbGF0aW9uUG9saWN5U2V0dGluZ0J1aWxkZXIoKQogICAgICAgICAgICAuY2FuY2VsbGF0aW9uVGltZShjYW5jZWxsYXRpb25UaW1lKQogICAgICAgICAgICAubG9jYWxDaGVja2luSG91cihPcHRpb25hbC5vZigxNikpCiAgICAgICAgICAgIC5jaGVja2luRGF0ZShjaGVja2luVGltZSkKICAgICAgICAgICAgLnRvdGFsTmlnaHRzKGV4aXN0aW5nUmVzcG9uc2UuZ2V0TmlnaHRzKCkpCiAgICAgICAgICAgIC5idWlsZCgpOwogICAgZmluYWwgQ2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE9uZVR3ZW50eUZpdmUgY2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE9uZVR3ZW50eUZpdmUgPQogICAgICAgIG5ldyBDYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0T25lVHdlbnR5Rml2ZShzZXR0aW5nKTsKICAgIGZpbmFsIExpc3Q8UGF5bWVudFBlcmlvZD4gcGF5bWVudFBlcmlvZHMgPQogICAgICAgIGNhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3RPbmVUd2VudHlGaXZlLmFwcGx5KGV4aXN0aW5nUmVzcG9uc2UpOwoKICAgIGFzc2VydEVxdWFscygyLCBwYXltZW50UGVyaW9kcy5zaXplKCkpOwogICAgZmluYWwgUGF5bWVudFBlcmlvZCBwZXJpb2QgPSBwYXltZW50UGVyaW9kcy5nZXQoMCk7CiAgICBhc3NlcnRFcXVhbHMoMCwgcGVyaW9kLmdldFBheW1lbnRJbmRleCgpKTsKICAgIGFzc2VydEVxdWFscyhMb2NhbERhdGUucGFyc2UoIjIwMTQtMTEtMDMiKSwgcGVyaW9kLmdldFN0YXJ0RGF0ZSgpLmdldCgpKTsKICAgIGFzc2VydEVxdWFscygzMCwgcGVyaW9kLmdldE5pZ2h0cygpKTsKICAgIGZpbmFsIExpc3Q8TGluZUl0ZW0+IHByaWNlSXRlbSA9CiAgICAgICAgcGVyaW9kCiAgICAgICAgICAgIC5nZXRMaW5lSXRlbXMoKQogICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0VHlwZSgpLmVxdWFscyhMaW5lSXRlbS5MaW5lSXRlbVR5cGUuTU9OVEhMWV9QUklDRSkpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgIGFzc2VydEVxdWFscygxNDAuMCwgcHJpY2VJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogICAgYXNzZXJ0RXF1YWxzKDI4LCBwcmljZUl0ZW0uZ2V0KDApLmdldE5pZ2h0cygpKTsKICAgIGFzc2VydEVxdWFscygxNi4xMjkwMzIzLCBwcmljZUl0ZW0uZ2V0KDEpLmdldEFtb3VudExpc3RpbmcoKSwgRVBTSUxPTik7CiAgICBhc3NlcnRFcXVhbHMoMiwgcHJpY2VJdGVtLmdldCgxKS5nZXROaWdodHMoKSk7CiAgICBmaW5hbCBMaXN0PExpbmVJdGVtPiBndWVzdEZlZUl0ZW0gPQogICAgICAgIHBlcmlvZAogICAgICAgICAgICAuZ2V0TGluZUl0ZW1zKCkKICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5maWx0ZXIoaXRlbSAtPiBpdGVtLmdldFR5cGUoKS5lcXVhbHMoTGluZUl0ZW0uTGluZUl0ZW1UeXBlLkFJUkJOQl9HVUVTVF9GRUUpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIGFzc2VydEVxdWFscygzMS44NzU5NywgZ3Vlc3RGZWVJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogIH0K</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDQU5DRUxfRkxFWElCTEVfOTU6CiAgICAgIGNhc2UgQ0FOQ0VMX1NVUEVSX1NUUklDVF85NToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUXzEyNToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUX0ZVTExfUEFZTUVOVDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygyLCBwYXltZW50UGVyaW9kcy5zaXplKCkpOwogICAgTGlzdDxMaW5lSXRlbT4gY291cG9uU2F2aW5nc0l0ZW0gPQogICAgICAgIENhbmNlbGxhdGlvblRlc3RVdGlsLmdldENvdXBvblNhdmluZ3NJdGVtc0Zyb21QYXltZW50UGVyaW9kKHBheW1lbnRQZXJpb2RzLmdldCgwKSk7CiAgICBhc3NlcnRFcXVhbHMoLTYuMDU0MDMsIGNvdXBvblNhdmluZ3NJdGVtLmdldCgwKS5nZXRBbW91bnRMaXN0aW5nKCksIEVQU0lMT04pOwogICAgYXNzZXJ0RXF1YWxzKC02LjA1NDAzLCBjb3Vwb25TYXZpbmdzSXRlbS5nZXQoMCkuZ2V0QW1vdW50VVNEKCksIEVQU0lMT04pOwoKICAgIGNvdXBvblNhdmluZ3NJdGVtID0KICAgICAgICBDYW5jZWxsYXRpb25UZXN0VXRpbC5nZXRDb3Vwb25TYXZpbmdzSXRlbXNGcm9tUGF5bWVudFBlcmlvZChwYXltZW50UGVyaW9kcy5nZXQoMSkpOwogICAgYXNzZXJ0RXF1YWxzKC0zLjk0NTk2LCBjb3Vwb25TYXZpbmdzSXRlbS5nZXQoMCkuZ2V0QW1vdW50TGlzdGluZygpLCBFUFNJTE9OKTsKICAgIGFzc2VydEVxdWFscygtMy45NDU5NiwgY291cG9uU2F2aW5nc0l0ZW0uZ2V0KDApLmdldEFtb3VudFVTRCgpLCBFUFNJTE9OKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInRpdGxlX2x1eHVyeV9zdXBlcl9zdHJpY3RfOTUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RDYW5jZWxQcmV0cmlwQmVmb3JlQ3V0b2ZmV2l0aENvdXBvbkNvdmVyaW5nTGFzdFBlcmlvZCgpIHsKICAgIERhdGVUaW1lRm9ybWF0dGVyIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbSIpOwogICAgZmluYWwgTG9jYWxEYXRlVGltZSBjYW5jZWxsYXRpb25UaW1lID0gTG9jYWxEYXRlVGltZS5wYXJzZSgiMjAxNC0wNy0zMCAxMDozMCIsIGZvcm1hdHRlcik7CiAgICBmaW5hbCBMb2NhbERhdGUgY2hlY2tpblRpbWUgPSBMb2NhbERhdGUucGFyc2UoIjIwMTQtMTEtMDMiKTsKICAgIGZpbmFsIENhbmNlbGxhdGlvblBvbGljeVNldHRpbmcgc2V0dGluZyA9CiAgICAgICAgQ2FuY2VsbGF0aW9uVGVzdFV0aWwuZGVmYXVsdENhbmNlbGxhdGlvblBvbGljeVNldHRpbmdCdWlsZGVyKCkKICAgICAgICAgICAgLmNhbmNlbGxhdGlvblRpbWUoY2FuY2VsbGF0aW9uVGltZSkKICAgICAgICAgICAgLmNoZWNraW5EYXRlKGNoZWNraW5UaW1lKQogICAgICAgICAgICAudG90YWxOaWdodHMoZXhpc3RpbmdSZXNwb25zZS5nZXROaWdodHMoKSkKICAgICAgICAgICAgLmNvdXBvblNhdmluZ3NMaXN0aW5nKE9wdGlvbmFsLm9mKDEwLjApKQogICAgICAgICAgICAuYnVpbGQoKTsKICAgIGZpbmFsIENhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlIGNhbmNlbGxhdGlvbkd1ZXN0THV4dXJ5U3VwZXJTdHJpY3ROaW5ldHlGaXZlID0KICAgICAgICBuZXcgQ2FuY2VsbGF0aW9uR3Vlc3RMdXh1cnlTdXBlclN0cmljdE5pbmV0eUZpdmUoc2V0dGluZyk7CiAgICBmaW5hbCBMaXN0PFBheW1lbnRQZXJpb2Q+IHBheW1lbnRQZXJpb2RzID0KICAgICAgICBjYW5jZWxsYXRpb25HdWVzdEx1eHVyeVN1cGVyU3RyaWN0TmluZXR5Rml2ZS5hcHBseShleGlzdGluZ1Jlc3BvbnNlKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBhID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGFjdHVhbGx5IG1hcHMgdG8gdXNlci1mYWNpbmcgcG9saWN5IG5hbWVzLCByYXRoZXIgdGhhbiB3aGF0IG1ha2VzIHRoZSBtb3N0IHNlbnNlCiAgICAgICAgLy8gaW4gdGhlIGJhY2tlbmQuIFRoaXMgaXMgZHVlIHRvIHRoZSBzcGxpdCBwYXktaW4gbmF0dXJlIG9mIEx1eHVyeSBib29raW5ncy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBhID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGFjdHVhbGx5IG1hcHMgdG8gdXNlci1mYWNpbmcgcG9saWN5IG5hbWVzLCByYXRoZXIgdGhhbiB3aGF0IG1ha2VzIHRoZSBtb3N0IHNlbnNlCiAgICAgICAgLy8gaW4gdGhlIGJhY2tlbmQuIFRoaXMgaXMgZHVlIHRvIHRoZSBzcGxpdCBwYXktaW4gbmF0dXJlIG9mIEx1eHVyeSBib29raW5ncy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgaW50IGEgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>2014-07-</last-search>
+      <last-search encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</last-search>
       <last-offset />
-      <last-pattern>2014-07-</last-pattern>
+      <last-pattern encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</last-pattern>
       <last-replace>2014-06-30</last-replace>
       <last-substitute>2014-07-30</last-substitute>
       <last-dir>1</last-dir>
@@ -998,16 +1007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cancellationguestluxury</entry>
-        <entry>apply</entry>
-        <entry>isBefore</entry>
-        <entry>beforecutoff</entry>
-        <entry>amountListing</entry>
-        <entry>onetwentyfive</entry>
-        <entry>ninetyfive</entry>
-        <entry encoding="base64">XDxDYW5jZWxsYXRpb25HdWVzdEx1eHVyeU1vZGVyYXRlTmluZXR5Rml2ZVw+</entry>
-        <entry>cancelOnTrip</entry>
-        <entry encoding="base64">XDx0ZXN0Q2FuY2VsUHJldHJpcEJlZm9yZUN1dG9mZldpdGhDb3Vwb25Db3ZlcmluZ0xhc3RQZXJpb2RcPg==</entry>
         <entry encoding="base64">XDx0ZXN0Q2FuY2VsUHJldHJpcEFmdGVyQ3V0b2ZmV2l0aENvdXBvblw+</entry>
         <entry>testCancelOntripWithCoupon</entry>
         <entry>testCancelPretripBeforeCutoffWithCouponCoveringLastPeriod</entry>
@@ -1018,6 +1017,16 @@
         <entry>2014-11-03</entry>
         <entry>2014-07-30</entry>
         <entry>2014-07-</entry>
+        <entry>leaning</entry>
+        <entry encoding="base64">XDwxNVw+</entry>
+        <entry>NO_REFUNDS</entry>
+        <entry>cancel_super_strict</entry>
+        <entry>40</entry>
+        <entry>no_refund</entry>
+        <entry encoding="base64">XDx0aXRsZV9mbGV4aWJsZV85NVw+</entry>
+        <entry encoding="base64">XDxnZXRUaXRsZVw+</entry>
+        <entry>NO_REFUND</entry>
+        <entry encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g/contactId</entry>
@@ -1036,9 +1045,9 @@
         <entry encoding="base64">JzwsJz4lcy8vMjAxNC0xMi0zMC9n</entry>
         <entry>%s/2014-11-03/2014-12-30/gc</entry>
         <entry>%s/2014-07-30/2014-06-30/gc</entry>
-        <entry>nohl</entry>
-        <entry>q</entry>
         <entry>240</entry>
+        <entry>q</entry>
+        <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
