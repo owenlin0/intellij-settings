@@ -589,19 +589,19 @@
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508352920648">
-        <mark key="'" line="253" column="13" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="243" column="18" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508359604096">
+        <mark key="'" line="111" column="6" />
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="24" />
+        <mark key="^" line="65" column="24" />
+        <mark key="." line="65" column="24" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" timestamp="1508351489785">
-        <mark key="'" line="34" column="31" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="26" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" timestamp="1508358701548">
+        <mark key="'" line="34" column="24" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1491255509781">
         <mark key="'" line="3373" column="35" />
@@ -845,35 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="21" column="47" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="191" column="88" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="219" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="132" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="133" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="220" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="162" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="270" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="186" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="207" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="192" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="191" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="238" column="14" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="267" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="194" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
-      <jump line="258" column="4" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="182" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="176" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="243" column="8" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="264" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="87" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="103" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="135" column="59" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
@@ -893,24 +864,17 @@
       <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="39" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
-      <jump line="241" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="15" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="239" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="240" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="242" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="190" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="3" column="53" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationGuestFeePolicyId.java" />
       <jump line="24" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationPolicyContent.java" />
-      <jump line="5" column="45" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="14" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/build/generated/thrift-gen/main/java/com/airbnb/orca/api/CancellationPolicyId.java" />
       <jump line="86" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="38" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" />
       <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleOld.java" />
       <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="82" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
-      <jump line="30" column="27" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
-      <jump line="80" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="29" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
       <jump line="35" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="38" column="11" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
@@ -921,30 +885,66 @@
       <jump line="77" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="31" column="33" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
-      <jump line="32" column="37" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="33" column="38" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
       <jump line="34" column="31" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
-      <jump line="59" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="44" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="40" column="10" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="42" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/P3CancellationContentLoader.java" />
       <jump line="98" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="66" column="28" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="61" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="72" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="101" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="102" column="43" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="62" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="63" column="78" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="65" column="65" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="64" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="118" column="2" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="105" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="76" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
-      <jump line="106" column="7" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="107" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="243" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="253" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="251" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="202" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="199" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="252" column="13" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="16" column="15" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="30" column="21" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="80" column="4" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="32" column="33" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="36" column="24" filename="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" />
+      <jump line="112" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="246" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="65" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="108" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="238" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="239" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="67" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="110" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="240" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="68" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="241" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="69" column="11" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="111" column="6" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -957,86 +957,81 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;title_luxury_non_refundable&quot;</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</text>
+        <text encoding="base64">XDxDQU5DRUxfTk9OX1JFRlVOREFCTEVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBDQU5DRUxfTFVYVVJZX01PREVSQVRFXzk1OgogICAgICAgIHJldHVybiAidGl0bGVfbHV4dXJ5X3N1cGVyX3N0cmljdF85NSI7CiAgICAgIGNhc2UgQ0FOQ0VMX0xVWFVSWV9TVVBFUl9TVFJJQ1RfOTU6CiAgICAgIGNhc2UgQ0FOQ0VMX0xVWFVSWV9TVVBFUl9TVFJJQ1RfMTI1OgogICAgICBjYXNlIENBTkNFTF9MVVhVUllfTk9fUkVGVU5EOgogICAgICAgIHJldHVybiAidGl0bGVfbHV4dXJ5X25vbl9yZWZ1bmRhYmxlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAvLyBUT0RPKHZpY3Rvci1jaGVuKTogdXBkYXRlIHRoaXMgbGluayB0byBuZXcgbHV4dXJ5IGNhbmNlbGxhdGlvbiBwb2xpY3kgcGFnZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>LUXURY_
+LUXURY_
+LUXURY_
+LUXURY_</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBDQU5DRUxfRkxFWElCTEVfOTU6CiAgICAgIGNhc2UgQ0FOQ0VMX1NVUEVSX1NUUklDVF85NToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUXzEyNToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUX0ZVTExfUEFZTUVOVDoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInRpdGxlX2x1eHVyeV9zdXBlcl9zdHJpY3RfOTUiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDQU5DRUxfRkxFWElCTEVfOTU6CiAgICAgIGNhc2UgQ0FOQ0VMX1NVUEVSX1NUUklDVF85NToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUXzEyNToKICAgICAgY2FzZSBDQU5DRUxfU1VQRVJfU1RSSUNUX0ZVTExfUEFZTUVOVDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInRpdGxlX2x1eHVyeV9zdXBlcl9zdHJpY3RfOTUiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGFjdHVhbGx5IG1hcHMgdG8gdXNlci1mYWNpbmcgcG9saWN5IG5hbWVzLCByYXRoZXIgdGhhbiB3aGF0IG1ha2VzIHRoZSBtb3N0IHNlbnNlCiAgICAgICAgLy8gaW4gdGhlIGJhY2tlbmQuIFRoaXMgaXMgZHVlIHRvIHRoZSBzcGxpdCBwYXktaW4gbmF0dXJlIG9mIEx1eHVyeSBib29raW5ncy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGFjdHVhbGx5IG1hcHMgdG8gdXNlci1mYWNpbmcgcG9saWN5IG5hbWVzLCByYXRoZXIgdGhhbiB3aGF0IG1ha2VzIHRoZSBtb3N0IHNlbnNlCiAgICAgICAgLy8gaW4gdGhlIGJhY2tlbmQuIFRoaXMgaXMgZHVlIHRvIHRoZSBzcGxpdCBwYXktaW4gbmF0dXJlIG9mIEx1eHVyeSBib29raW5ncy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGFjdHVhbGx5IG1hcHMgdG8gdXNlci1mYWNpbmcgcG9saWN5IG5hbWVzLCByYXRoZXIgdGhhbiB3aGF0IG1ha2VzIHRoZSBtb3N0IHNlbnNlCiAgICAgICAgLy8gaW4gdGhlIGJhY2tlbmQuIFRoaXMgaXMgZHVlIHRvIHRoZSBzcGxpdCBwYXktaW4gbmF0dXJlIG9mIEx1eHVyeSBib29raW5ncy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</last-search>
+      <last-search encoding="base64">XDxDQU5DRUxfTk9OX1JFRlVOREFCTEVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</last-pattern>
-      <last-replace>2014-06-30</last-replace>
-      <last-substitute>2014-07-30</last-substitute>
+      <last-pattern encoding="base64">XDxDQU5DRUxfTk9OX1JFRlVOREFCTEVcPg==</last-pattern>
+      <last-replace>CANCEL_LUXURY_NO_REFUND</last-replace>
+      <last-substitute encoding="base64">XDxDQU5DRUxfTk9OX1JFRlVOREFCTEVcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0Q2FuY2VsUHJldHJpcEFmdGVyQ3V0b2ZmV2l0aENvdXBvblw+</entry>
-        <entry>testCancelOntripWithCoupon</entry>
-        <entry>testCancelPretripBeforeCutoffWithCouponCoveringLastPeriod</entry>
-        <entry>140</entry>
-        <entry encoding="base64">XDwiXD4=</entry>
-        <entry encoding="base64">XDwwM1w+</entry>
-        <entry>2014-1-03</entry>
-        <entry>2014-11-03</entry>
-        <entry>2014-07-30</entry>
-        <entry>2014-07-</entry>
-        <entry>leaning</entry>
-        <entry encoding="base64">XDwxNVw+</entry>
-        <entry>NO_REFUNDS</entry>
-        <entry>cancel_super_strict</entry>
-        <entry>40</entry>
         <entry>no_refund</entry>
         <entry encoding="base64">XDx0aXRsZV9mbGV4aWJsZV85NVw+</entry>
         <entry encoding="base64">XDxnZXRUaXRsZVw+</entry>
-        <entry>NO_REFUND</entry>
         <entry encoding="base64">XDxMVVhVUllfUE9MSUNZX1BBR0VfVVJMXD4=</entry>
+        <entry>LUXURY_</entry>
+        <entry>_LUXURY_</entry>
+        <entry>luxury</entry>
+        <entry>title_luxury</entry>
+        <entry>non_refundable</entry>
+        <entry>USUPER_STRICT</entry>
+        <entry>SUPER_STRICT</entry>
+        <entry>luxury_</entry>
+        <entry>NO_)REFUND</entry>
+        <entry>NO_REFUND</entry>
+        <entry encoding="base64">XDxDQU5DRUxfTk9fUkVGVU5EXD4=</entry>
+        <entry>NON_REFUNDABLE</entry>
+        <entry encoding="base64">XDxDQU5DRUxfTU9ERVJBVEVfOTVcPg==</entry>
+        <entry encoding="base64">XDxDQU5DRUxfU1VQRVJfU1RSSUNUXzk1XD4=</entry>
+        <entry encoding="base64">XDxDQU5DRUxfU1VQRVJfU1RSSUNUXzEyNVw+</entry>
+        <entry encoding="base64">XDxDQU5DRUxfTk9OX1JFRlVOREFCTEVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>g/contactId</entry>
-        <entry>g/contactId/d</entry>
-        <entry>%g/contactId/d</entry>
-        <entry>329</entry>
-        <entry>152</entry>
-        <entry>81=</entry>
-        <entry>81</entry>
-        <entry>s</entry>
         <entry>%s//CancellationGuestLuxurySuperStrictNinetyFive/gc</entry>
         <entry>%s//cancellationGuestLuxurySuperStrictNinetyFive/gc</entry>
         <entry>%s//CancellationGuestLuxurySuperStrictOneTwentyFiveTest/gc</entry>
@@ -1047,6 +1042,14 @@
         <entry>%s/2014-07-30/2014-06-30/gc</entry>
         <entry>240</entry>
         <entry>q</entry>
+        <entry>%s/LUXURY_//g</entry>
+        <entry>%s/_LUXURY_/_/gc</entry>
+        <entry encoding="base64">JzwsJz4lcy8vQ0FOQ0VMX05PTl9SRUZVTkRBQkxFL2dj</entry>
+        <entry>%s//CANCEL_NON_REFUNDABLE/gc</entry>
+        <entry>%s//CANCEL_LUXURY_MODERATE_95/gc</entry>
+        <entry>%s//CANCEL_LUXURY_SUPER_STRICT_95/g</entry>
+        <entry>%s//CANCEL_LUXURY_SUPER_STRICT_125/g</entry>
+        <entry>%s//CANCEL_LUXURY_NO_REFUND/g</entry>
         <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
