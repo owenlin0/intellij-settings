@@ -455,9 +455,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/airstream/airstream-lib/src/main/scala/com/airbnb/di/AirOLAPRealtimeSink.scala" timestamp="1495158182640">
         <mark key="'" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" timestamp="1508372250804">
-        <mark key="'" line="307" column="39" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/datasources/fraudredis/FraudRedisSource.scala" timestamp="1494990581954">
         <mark key="'" line="19" column="16" />
       </file>
@@ -695,8 +692,8 @@
         <mark key="." line="151" column="33" />
         <mark key="^" line="151" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508361426276">
-        <mark key="'" line="112" column="18" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" timestamp="1508434554810">
+        <mark key="'" line="217" column="0" />
         <mark key="[" line="113" column="41" />
         <mark key="]" line="113" column="41" />
         <mark key="^" line="65" column="24" />
@@ -840,8 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
       <jump line="45" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="44" column="64" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
@@ -940,6 +935,8 @@
       <jump line="291" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/calculator/PaymentTripCalculator.java" />
       <jump line="15" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
       <jump line="80" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/api/src/main/java/com/airbnb/gringott/api/request/PaymentPricingRequest.java" />
+      <jump line="215" column="25" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
