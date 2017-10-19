@@ -6,21 +6,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/formats/ContactsFormat.java" timestamp="1502743760223">
         <mark key="'" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/jackson/src/main/java/com/airbnb/common/jackson/Java8ObjectMapperFactory.java" timestamp="1491603281974">
-        <mark key="'" line="21" column="50" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1497327012277">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="74" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.8/2fd87e8ef9e3be1a28da1d6eaa98847a6b35906d/lombok-1.16.8-sources.jar!/lombok/Builder.java" timestamp="1491588135697">
         <mark key="'" line="108" column="18" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" timestamp="1491848506922">
-        <mark key="'" line="29" column="2" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" timestamp="1497328227399">
         <mark key="'" line="113" column="0" />
@@ -28,16 +15,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="106" column="86" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" timestamp="1508278564877">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="42" column="35" />
-        <mark key="^" line="42" column="35" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
-        <mark key="'" line="27" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1508262904859">
         <mark key="'" line="0" column="13" />
@@ -48,12 +25,6 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1491608825807">
         <mark key="'" line="1074" column="17" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/paid-growth/smart-bidder/src/main/scala/com/airbnb/paidgrowth/smartbidder/util/Utility.scala" timestamp="1495525035324">
-        <mark key="'" line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/airstream/airstream-lib/src/main/scala/com/airbnb/di/AirOLAPRealtimeSink.scala" timestamp="1495158182640">
-        <mark key="'" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.194.2/e34ec9af3187b7de47745d1bffb84078dc77729e/jitney-schemas-3.194.2.jar!/com/airbnb/jitney/event/logging/Rolodex/v3/RolodexMobileContactBatchUploadEvent.class" timestamp="1490993929188">
         <mark key="'" line="75" column="96" />
@@ -92,26 +63,11 @@
         <mark key="." line="24" column="63" />
         <mark key="^" line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/datasources/fraudredis/FraudRedisSource.scala" timestamp="1494990581954">
-        <mark key="'" line="19" column="16" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/mutators/DekuMutator.java" timestamp="1491943233343">
-        <mark key="'" line="2" column="33" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/PropertyNamingStrategy.java" timestamp="1491589865468">
         <mark key="'" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BookingPermissionCreateOrUpdateEventHandler.java" timestamp="1491848115393">
-        <mark key="'" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jackson/0.7.1/72ce3fa086e23400e1f1252fc54a9deaac63cbd7/dropwizard-jackson-0.7.1-sources.jar!/io/dropwizard/jackson/Jackson.java" timestamp="1494990480781">
-        <mark key="'" line="23" column="47" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFiveTest.java" timestamp="1508284267468">
         <mark key="'" line="53" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
-        <mark key="'" line="3290" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandlerTest.java" timestamp="1496636230972">
         <mark key="'" line="52" column="0" />
@@ -123,22 +79,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/logging/Contact/v1/Contact.class" timestamp="1491355971109">
         <mark key="'" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1496876165182">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="56" column="46" />
-        <mark key="." line="56" column="53" />
-        <mark key="^" line="56" column="53" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTestV2.java" timestamp="1491849293643">
         <mark key="'" line="62" column="25" />
         <mark key="[" line="62" column="19" />
         <mark key="]" line="62" column="25" />
         <mark key="^" line="62" column="25" />
         <mark key="." line="62" column="25" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1049.0/a7ffc5eefaf6541c22fd1ed0d02109488dec2ee9/jitney-schemas-3.1049.0.jar!/com/airbnb/jitney/event/rolodex/v8/RolodexAddEvent.class" timestamp="1502748901562">
-        <mark key="'" line="55" column="18" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/job/LowerSmartPricingMinPriceExpandedJob.scala" timestamp="1495069040684">
         <mark key="'" line="10" column="20" />
@@ -150,14 +96,8 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/user_intent/UserIntentTrainingData.scala" timestamp="1493956942305">
-        <mark key="'" line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/json/package.scala" timestamp="1495151331542">
         <mark key="'" line="182" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1498257163070">
-        <mark key="'" line="887" column="18" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/H2StorageTest.java" timestamp="1499396104745">
         <mark key="'" line="24" column="13" />
@@ -166,11 +106,8 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
-        <mark key="'" line="4" column="57" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508351346422">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" timestamp="1508372254421">
+        <mark key="'" line="15" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
@@ -180,21 +117,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.195.3/1043f87566f77fb878213336d73262d745a1050/jitney-schemas-3.195.3.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" timestamp="1491609235371">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1496636305334">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="40" column="32" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/resources/MediaResourceTest.java" timestamp="1491947040234">
-        <mark key="'" line="50" column="82" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/satori/coordinator/service-tls/src/main/java/com/airbnb/satori/coordinator/service/tls/coordinators/ContactsCoordinator.java" timestamp="1502744295873">
         <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" timestamp="1502749007050">
-        <mark key="'" line="117" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1496786868036">
         <mark key="'" line="296" column="18" />
@@ -208,21 +132,11 @@
         <mark key="^" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/security/cipher/src/main/java/com/airbnb/cipher/handler/CipherHandler.java" timestamp="1491848125110">
-        <mark key="'" line="29" column="19" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/paid-growth/smart-bidder/src/main/scala/com/airbnb/paidgrowth/smartbidder/util/WithResourceProd.scala" timestamp="1495525033956">
         <mark key="'" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/H2StorageProducer.java" timestamp="1496633058650">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/Contact.java" timestamp="1497147925063">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="65" column="2" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="39" column="11" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/medusa/service/src/main/java/com/airbnb/medusa/consumer/MicasaMutationHandler.java" timestamp="1491956466561">
         <mark key="'" line="28" column="45" />
@@ -240,23 +154,8 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/StreamUtils.java" timestamp="1496255151931">
-        <mark key="'" line="26" column="34" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" timestamp="1501624872997">
-        <mark key="'" line="79" column="39" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/satori/data/src/main/java/com/airbnb/satori/data/DataParsingUtils.java" timestamp="1494989356118">
-        <mark key="'" line="12" column="26" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/Handler.java" timestamp="1491848013446">
         <mark key="'" line="23" column="3" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
-        <mark key="'" line="81" column="4" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/HiveToS3.scala" timestamp="1494979978198">
         <mark key="'" line="18" column="0" />
@@ -274,30 +173,11 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationFeeFactors.java" timestamp="1508275041601">
         <mark key="'" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/create_duplicate_contact_books.sql" timestamp="1496710664381">
-        <mark key="'" line="5" column="13" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationPolicySetting.java" timestamp="1508272836853">
-        <mark key="'" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/tardis/src/main/java/com/airbnb/tardis/TardisApplication.java" timestamp="1491942896772">
         <mark key="'" line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1027.0/bdd1e60ba27752675d0e433de126368106ec2ce0/jitney-schemas-3.1027.0.jar!/com/airbnb/jitney/event/rolodex/v8/RolodexRemoveAllEvent.class" timestamp="1501125332386">
-        <mark key="'" line="64" column="9" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/api/src/test/java/com/airbnb/ebert/api/request/filters/LongFilterTest.java" timestamp="1491604838409">
         <mark key="'" line="13" column="64" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.4/59908ab93978c1f546d3db5e05b42994b63ad515/scala-library-2.10.4-sources.jar!/scala/collection/immutable/StringLike.scala" timestamp="1495139926755">
-        <mark key="'" line="229" column="6" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1501125256054">
-        <mark key="'" line="85" column="35" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" timestamp="1491589195323">
         <mark key="'" line="33" column="63" />
@@ -309,52 +189,13 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="257" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEventTest.java" timestamp="1496280863988">
-        <mark key="'" line="12" column="40" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="70" />
-        <mark key="^" line="18" column="71" />
-        <mark key="." line="18" column="71" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1491941969487">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="28" column="70" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508351029035">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495525206165">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="10" column="70" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOldTest.java" timestamp="1508275580323">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-afterburner/2.3.3/99357785cea33480962c64f511d2f11de4cb57ee/jackson-module-afterburner-2.3.3-sources.jar!/com/fasterxml/jackson/module/afterburner/AfterburnerModule.java" timestamp="1494990488738">
-        <mark key="'" line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/AbstractAeonSpinalTapMutationHandler.java" timestamp="1491848150339">
         <mark key="'" line="162" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" timestamp="1497328683411">
-        <mark key="'" line="68" column="38" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="103" column="75" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/Long.scala" timestamp="1495138657729">
-        <mark key="'" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/ebert/service/build.gradle" timestamp="1491603445091">
         <mark key="'" line="38" column="27" />
@@ -365,9 +206,6 @@
         <mark key="]" line="19" column="3" />
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
-        <mark key="'" line="57" column="13" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/email-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1502130757139">
         <mark key="'" line="62" column="6" />
@@ -383,34 +221,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/ContactTest.java" timestamp="1497148518712">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="74" column="2" />
-        <mark key="." line="73" column="20" />
-        <mark key="^" line="71" column="20" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactMetadataFormat.java" timestamp="1491606509460">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="24" column="1" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1491942974540">
-        <mark key="'" line="26" column="22" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1501630391374">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hermes/src/main/java/com/airbnb/discover/hermes/lib/FileUtils.java" timestamp="1495744435454">
-        <mark key="'" line="93" column="4" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/baloo/src/test/java/com/airbnb/baloo/api/BalooResourceTest.java" timestamp="1490737756062">
         <mark key="'" line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/job/PricingNotificationJobFactory.scala" timestamp="1495069045256">
-        <mark key="'" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/build.gradle" timestamp="1496701459643">
         <mark key="'" line="4" column="0" />
@@ -422,12 +237,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-jobs/src/main/scala/com/airbnb/marketplace/pricing/label/GetBookingRequestLabelJob.scala" timestamp="1494355888123">
-        <mark key="'" line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/scripts/run_spark.py" timestamp="1495059303080">
-        <mark key="'" line="40" column="6" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/connections/connections-server/src/main/java/com/airbnb/connections/api/ConnectionPresenter.java" timestamp="1491942070712">
         <mark key="'" line="2" column="34" />
       </file>
@@ -437,24 +246,12 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/decisions/LoggingStructures.scala" timestamp="1495146344804">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-db/0.7.1/362803d298a839a88b8f52055d5da09309ced4f1/dropwizard-db-0.7.1-sources.jar!/io/dropwizard/db/DataSourceFactory.java" timestamp="1491952398910">
-        <mark key="'" line="249" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/datasources/sitar/SitarCache.scala" timestamp="1494991031406">
-        <mark key="'" line="24" column="61" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1492733615316">
         <mark key="'" line="48" column="2" />
         <mark key="[" line="155" column="21" />
         <mark key="]" line="155" column="21" />
         <mark key="^" line="155" column="21" />
         <mark key="." line="155" column="21" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1501643668266">
-        <mark key="'" line="100" column="8" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
-        <mark key="'" line="26" column="61" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/TestStorage.java" timestamp="1491943488252">
         <mark key="'" line="50" column="4" />
@@ -465,13 +262,6 @@
         <mark key="]" line="26" column="53" />
         <mark key="." line="34" column="81" />
         <mark key="^" line="34" column="81" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEventUtils.java" timestamp="1496633973985">
-        <mark key="'" line="12" column="67" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="71" />
-        <mark key="." line="14" column="71" />
-        <mark key="^" line="14" column="71" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.10.26/f495214de655a980d6fc5810b4e1c56ddddf2401/aws-java-sdk-s3-1.10.26-sources.jar!/com/amazonaws/services/s3/AmazonS3.java" timestamp="1495592694886">
         <mark key="'" line="184" column="0" />
@@ -499,9 +289,6 @@
         <mark key="." line="472" column="0" />
         <mark key="^" line="476" column="3" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" timestamp="1508283237181">
-        <mark key="'" line="277" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestModerateOld.java" timestamp="1508280292901">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="44" column="32" />
@@ -512,6 +299,349 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/aeon/service/src/main/java/com/airbnb/aeon/service/consumer/BroadgaugeAeonSpinalTapMutationHandler.java" timestamp="1491848191834">
         <mark key="'" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormatTest.java" timestamp="1497146265483">
+        <mark key="'" line="50" column="17" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="51" column="21" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" timestamp="1495761867238">
+        <mark key="'" line="7" column="62" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" timestamp="1502749119446">
+        <mark key="'" line="72" column="4" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.230.4/4313e1b5224d3d25a72dd29c1426622303eb4d15/jitney-schemas-3.230.4.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" timestamp="1496636090267">
+        <mark key="'" line="56" column="18" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/DekuService.java" timestamp="1491603842057">
+        <mark key="'" line="73" column="84" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" timestamp="1496967717066">
+        <mark key="'" line="64" column="26" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" timestamp="1496636401680">
+        <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormatForSatori.java" timestamp="1491606781245">
+        <mark key="'" line="15" column="49" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="88" />
+        <mark key="." line="15" column="80" />
+        <mark key="^" line="15" column="80" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1502742807826">
+        <mark key="'" line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" timestamp="1495524747263">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/src/test/java/com/airbnb/judi/core/BatchTestBase.java" timestamp="1491943283028">
+        <mark key="'" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-client/build.gradle" timestamp="1491943336996">
+        <mark key="'" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" timestamp="1496274770820">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1007.5/368978dd9cd43e28ab6f04d15c02497626491d57/jitney-schemas-3.1007.5.jar!/com/airbnb/jitney/event/rolodex/v8/Person.class" timestamp="1499396620362">
+        <mark key="'" line="154" column="22" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFive.java" timestamp="1508283240014">
+        <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-api/src/main/java/com/airbnb/rolodex/api/RolodexContactAttributesResponse.java" timestamp="1502744279213">
+        <mark key="'" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" timestamp="1508186772878">
+        <mark key="'" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1496781020055">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="53" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/tasks/DuplicateContactBooksCleanupTask.java" timestamp="1496706912124">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.215.1/3852f4de30a30046dceeb1fd26f9dc80ec0d160d/jitney-schemas-3.215.1.jar!/com/airbnb/jitney/event/rolodex/v5/RolodexExportEvent.class" timestamp="1493956713042">
+        <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.5/8176652b0ade481ff1ceb1bec03c70e2eb6f1c37/jackson-databind-2.6.5-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1494990357502">
+        <mark key="'" line="541" column="8" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1497328262809">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="57" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="112" column="54" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
+        <mark key="'" line="48" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508351544736">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.4/2b4edfb6d6bad1710951837b4911eddd1415228f/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1494991047431">
+        <mark key="'" line="2098" column="20" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/GetContactBooksFormat.java" timestamp="1496945474546">
+        <mark key="'" line="19" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1508282407677">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/jackson/src/main/java/com/airbnb/common/jackson/Java8ObjectMapperFactory.java" timestamp="1491603281974">
+        <mark key="'" line="21" column="50" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/MobileContactBatchUploadHandler.java" timestamp="1497327012277">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/AbortableHandler.java" timestamp="1491848506922">
+        <mark key="'" line="29" column="2" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictNinetyFive.java" timestamp="1508278564877">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/java/com/airbnb/rolodex/utils/JsonParsingUtils.java" timestamp="1494989707752">
+        <mark key="'" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/paid-growth/smart-bidder/src/main/scala/com/airbnb/paidgrowth/smartbidder/util/Utility.scala" timestamp="1495525035324">
+        <mark key="'" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/airstream/airstream-lib/src/main/scala/com/airbnb/di/AirOLAPRealtimeSink.scala" timestamp="1495158182640">
+        <mark key="'" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" timestamp="1508372250804">
+        <mark key="'" line="307" column="39" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/datasources/fraudredis/FraudRedisSource.scala" timestamp="1494990581954">
+        <mark key="'" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/mutators/DekuMutator.java" timestamp="1491943233343">
+        <mark key="'" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/business-travel/apollo/src/main/java/com/airbnb/businesstravel/apollo/jitney/eventhandlers/BookingPermissionCreateOrUpdateEventHandler.java" timestamp="1491848115393">
+        <mark key="'" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jackson/0.7.1/72ce3fa086e23400e1f1252fc54a9deaac63cbd7/dropwizard-jackson-0.7.1-sources.jar!/io/dropwizard/jackson/Jackson.java" timestamp="1494990480781">
+        <mark key="'" line="23" column="47" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Files.java" timestamp="1495749467909">
+        <mark key="'" line="3290" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/build.gradle" timestamp="1496876165182">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1049.0/a7ffc5eefaf6541c22fd1ed0d02109488dec2ee9/jitney-schemas-3.1049.0.jar!/com/airbnb/jitney/event/rolodex/v8/RolodexAddEvent.class" timestamp="1502748901562">
+        <mark key="'" line="55" column="18" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/user_intent/UserIntentTrainingData.scala" timestamp="1493956942305">
+        <mark key="'" line="106" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1498257163070">
+        <mark key="'" line="887" column="18" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonNaming.java" timestamp="1491601764975">
+        <mark key="'" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeContactBatchUploadHandlerTest.java" timestamp="1496636305334">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="40" column="32" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/resources/MediaResourceTest.java" timestamp="1491947040234">
+        <mark key="'" line="50" column="82" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/omnes/utils/OmnesPublishRolodexEventsHelper.java" timestamp="1502749007050">
+        <mark key="'" line="117" column="78" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/security/cipher/src/main/java/com/airbnb/cipher/handler/CipherHandler.java" timestamp="1491848125110">
+        <mark key="'" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/Contact.java" timestamp="1497147925063">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="65" column="2" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/utils/StreamUtils.java" timestamp="1496255151931">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/db/pojos/ContactHandle.java" timestamp="1501624872997">
+        <mark key="'" line="79" column="39" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/satori/data/src/main/java/com/airbnb/satori/data/DataParsingUtils.java" timestamp="1494989356118">
+        <mark key="'" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/resources/ContactBooksResourceTest.java" timestamp="1491943994294">
+        <mark key="'" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/resources/com.airbnb.rolodex.common/create_duplicate_contact_books.sql" timestamp="1496710664381">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricing/CancellationPolicySetting.java" timestamp="1508272836853">
+        <mark key="'" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1027.0/bdd1e60ba27752675d0e433de126368106ec2ce0/jitney-schemas-3.1027.0.jar!/com/airbnb/jitney/event/rolodex/v8/RolodexRemoveAllEvent.class" timestamp="1501125332386">
+        <mark key="'" line="64" column="9" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.4/59908ab93978c1f546d3db5e05b42994b63ad515/scala-library-2.10.4-sources.jar!/scala/collection/immutable/StringLike.scala" timestamp="1495139926755">
+        <mark key="'" line="229" column="6" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactBooksResource.java" timestamp="1501125256054">
+        <mark key="'" line="85" column="35" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEventTest.java" timestamp="1496280863988">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="70" />
+        <mark key="^" line="18" column="71" />
+        <mark key="." line="18" column="71" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/CloudspongeContactBookUploadHandler.java" timestamp="1491941969487">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="28" column="70" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestSuperStrictSixtyOld.java" timestamp="1508351029035">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/build.gradle" timestamp="1495525206165">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="70" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-afterburner/2.3.3/99357785cea33480962c64f511d2f11de4cb57ee/jackson-module-afterburner-2.3.3-sources.jar!/com/fasterxml/jackson/module/afterburner/AfterburnerModule.java" timestamp="1494990488738">
+        <mark key="'" line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" timestamp="1497328683411">
+        <mark key="'" line="68" column="38" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="103" column="75" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/59a2c8e455540a16432725d6a1a1579dd952a476/scala-library-2.10.6-sources.jar!/scala/Long.scala" timestamp="1495138657729">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/datasources/sitar/SitarCacheTest.scala" timestamp="1494990640015">
+        <mark key="'" line="57" column="13" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/ContactTest.java" timestamp="1497148518712">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="74" column="2" />
+        <mark key="." line="73" column="20" />
+        <mark key="^" line="71" column="20" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactMetadataFormat.java" timestamp="1491606509460">
+        <mark key="'" line="22" column="2" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="24" column="1" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/common/metrics/src/main/java/com/airbnb/common/metrics/TaggedMetricRegistry.java" timestamp="1491942974540">
+        <mark key="'" line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/discover/hermes/src/main/java/com/airbnb/discover/hermes/lib/FileUtils.java" timestamp="1495744435454">
+        <mark key="'" line="93" column="4" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-notification/src/main/scala/com/airbnb/marketplace/pricing/notification/job/PricingNotificationJobFactory.scala" timestamp="1495069045256">
+        <mark key="'" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/marketplace/pricing/pricing-jobs/src/main/scala/com/airbnb/marketplace/pricing/label/GetBookingRequestLabelJob.scala" timestamp="1494355888123">
+        <mark key="'" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/scripts/run_spark.py" timestamp="1495059303080">
+        <mark key="'" line="40" column="6" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-db/0.7.1/362803d298a839a88b8f52055d5da09309ced4f1/dropwizard-db-0.7.1-sources.jar!/io/dropwizard/db/DataSourceFactory.java" timestamp="1491952398910">
+        <mark key="'" line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/datasources/sitar/SitarCache.scala" timestamp="1494991031406">
+        <mark key="'" line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/export-contacts-job/src/main/scala/com/airbnb/rolodex/hive/EmailContactsHiveToS3.scala" timestamp="1501643668266">
+        <mark key="'" line="100" column="8" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/omnes/omnes-clients/src/main/java/com/airbnb/omnes/consumer/handler/MessageHandler.java" timestamp="1491848005859">
+        <mark key="'" line="26" column="61" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEventUtils.java" timestamp="1496633973985">
+        <mark key="'" line="12" column="67" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="71" />
+        <mark key="." line="14" column="71" />
+        <mark key="^" line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationPricing.java" timestamp="1508283237181">
+        <mark key="'" line="277" column="0" />
+      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormat.java" timestamp="1491606669755">
         <mark key="'" line="41" column="1" />
         <mark key="[" line="18" column="0" />
@@ -521,13 +651,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/common/spark-utils/src/main/scala/com/airbnb/common/sparkutils/HFileReader.scala" timestamp="1495489045763">
         <mark key="'" line="21" column="19" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/formats/metadata/ContactAddressFormatTest.java" timestamp="1497146265483">
-        <mark key="'" line="50" column="17" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="51" column="21" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/c2b49a585e2f433c95cec359a75e0ee4366a1e35/slf4j-api-1.7.9-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1495586794259">
         <mark key="'" line="263" column="6" />
@@ -542,16 +665,6 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/ActionExecutionHandlerSerializationTest.scala" timestamp="1495146342948">
         <mark key="'" line="60" column="70" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/run.sh" timestamp="1495761867238">
-        <mark key="'" line="7" column="62" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="62" />
-        <mark key="." line="7" column="62" />
-        <mark key="^" line="7" column="62" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/test/java/com/airbnb/rolodex/db/AbstractStorageTest.java" timestamp="1502749119446">
-        <mark key="'" line="72" column="4" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/MysqlStorage.java" timestamp="1496877553850">
         <mark key="'" line="15" column="24" />
         <mark key="[" line="27" column="31" />
@@ -561,12 +674,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/main/scala/com/airbnb/kyoo/decisions/Module.scala" timestamp="1494990026290">
         <mark key="'" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.230.4/4313e1b5224d3d25a72dd29c1426622303eb4d15/jitney-schemas-3.230.4.jar!/com/airbnb/jitney/event/rolodex/cloudsponge/v1/Contact.class" timestamp="1496636090267">
-        <mark key="'" line="56" column="18" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/deku/service/src/main/java/com/airbnb/deku/DekuService.java" timestamp="1491603842057">
-        <mark key="'" line="73" column="84" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/search/training/data-pipeline/src/main/scala/com/airbnb/search/hive/Autocomplete.scala" timestamp="1495226495944">
         <mark key="'" line="150" column="34" />
@@ -595,13 +702,6 @@
         <mark key="^" line="65" column="24" />
         <mark key="." line="113" column="41" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/schemas/orca/src/orca_data.thrift" timestamp="1508358701548">
-        <mark key="'" line="34" column="24" />
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/f547023ac7ea86457b61505e03ff320811529805/jackson-databind-2.5.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1491255509781">
         <mark key="'" line="3373" column="35" />
       </file>
@@ -612,35 +712,8 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/H2Storage.java" timestamp="1496967717066">
-        <mark key="'" line="64" column="26" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/config/RolodexConfiguration.java" timestamp="1496877582265">
         <mark key="'" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/MobileEventTestUtils.java" timestamp="1496636401680">
-        <mark key="'" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactsFormatForSatori.java" timestamp="1491606781245">
-        <mark key="'" line="15" column="49" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="88" />
-        <mark key="." line="15" column="80" />
-        <mark key="^" line="15" column="80" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-service/src/main/java/com/airbnb/rolodex/resources/ContactsToJson.java" timestamp="1502742807826">
-        <mark key="'" line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run.sh" timestamp="1495524747263">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/test/java/com/airbnb/rolodex/omnes/CloudspongeEventTestUtils.java" timestamp="1496794513887">
         <mark key="'" line="74" column="2" />
@@ -651,12 +724,6 @@
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/micasa/service-common/src/main/java/com/airbnb/micasa/fielddescriptors/sanitizers/Sanitizers.java" timestamp="1490856751117">
         <mark key="'" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-server/src/test/java/com/airbnb/judi/core/BatchTestBase.java" timestamp="1491943283028">
-        <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/judi-client/build.gradle" timestamp="1491943336996">
-        <mark key="'" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/src/main/scala/com/airbnb/rolodex/hive/FileUtils.scala" timestamp="1495226634987">
         <mark key="'" line="4" column="0" />
@@ -690,24 +757,8 @@
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/omnes/common/RolodexContactBatchUploadEvent.java" timestamp="1497328047317">
         <mark key="'" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/utils/MysqlSanitizationUtils.java" timestamp="1496274770820">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1007.5/368978dd9cd43e28ab6f04d15c02497626491d57/jitney-schemas-3.1007.5.jar!/com/airbnb/jitney/event/rolodex/v8/Person.class" timestamp="1499396620362">
-        <mark key="'" line="154" column="22" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestFlexibleOld.java" timestamp="1508351239570">
         <mark key="'" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFive.java" timestamp="1508283240014">
-        <mark key="'" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/rolodex-api/src/main/java/com/airbnb/rolodex/api/RolodexContactAttributesResponse.java" timestamp="1502744279213">
-        <mark key="'" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/scripts/run-nebula.sh" timestamp="1494266439792">
         <mark key="'" line="16" column="43" />
@@ -728,28 +779,11 @@
         <mark key="]" line="270" column="0" />
         <mark key="." line="270" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationNoRefund.java" timestamp="1508186772878">
-        <mark key="'" line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/model/pricingresponse/lineitem/LineItem.java" timestamp="1508281491846">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/ContactBook.java" timestamp="1496781020055">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="37" column="5" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/Contacts.java" timestamp="1497148126955">
         <mark key="'" line="113" column="13" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/tasks/DuplicateContactBooksCleanupTask.java" timestamp="1496706912124">
-        <mark key="'" line="10" column="42" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/ContactBook.java" timestamp="1491606722258">
         <mark key="'" line="18" column="37" />
@@ -758,42 +792,14 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.215.1/3852f4de30a30046dceeb1fd26f9dc80ec0d160d/jitney-schemas-3.215.1.jar!/com/airbnb/jitney/event/rolodex/v5/RolodexExportEvent.class" timestamp="1493956713042">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.5/8176652b0ade481ff1ceb1bec03c70e2eb6f1c37/jackson-databind-2.6.5-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1494990357502">
-        <mark key="'" line="541" column="8" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/pojos/Contact.java" timestamp="1497328262809">
-        <mark key="'" line="83" column="11" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="57" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="112" column="54" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/db/generated/tables/pojos/ContactBooks.java" timestamp="1491413164851">
-        <mark key="'" line="48" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508351544736">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/controller/src/main/java/com/airbnb/nebula/controller/jobs/search/listingindex/OmnesOffsetHandler.java" timestamp="1495749197952">
         <mark key="'" line="90" column="84" />
-      </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/oyster/streaming/src/main/java/com/airbnb/oyster/streaming/handler/MysqlMutationHandler.java" timestamp="1491848245370">
-        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/nebula/offline/signals/src/main/scala/com/airbnb/nebula/signals/SignalConverter.scala" timestamp="1494989978106">
         <mark key="'" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/sundance/server/src/test/java/com/airbnb/sundance/test/TestHelper.java" timestamp="1491947084578">
         <mark key="'" line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.4/2b4edfb6d6bad1710951837b4911eddd1415228f/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1494991047431">
-        <mark key="'" line="2098" column="20" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/judi/build.gradle" timestamp="1491943311334">
         <mark key="'" line="2" column="0" />
@@ -812,21 +818,11 @@
         <mark key="." line="12" column="88" />
         <mark key="^" line="12" column="88" />
       </file>
-      <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex/src/main/java/com/airbnb/rolodex/formats/GetContactBooksFormat.java" timestamp="1496945474546">
-        <mark key="'" line="19" column="9" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb/jitney-schemas/3.1049.0/a7ffc5eefaf6541c22fd1ed0d02109488dec2ee9/jitney-schemas-3.1049.0.jar!/com/airbnb/jitney/event/rolodex/v8/Person.class" timestamp="1502748905748">
         <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/tns/kyoo/src/test/scala/com/airbnb/kyoo/decisions/RuleEvaluationEventHandlerTest.scala" timestamp="1494989987284">
         <mark key="'" line="94" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1508282407677">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-        <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/airlab/repos/treehouse/projects/rolodex-data-pipeline/omnes-offset-job/scripts/sideload.sh" timestamp="1495753917150">
         <mark key="'" line="7" column="29" />
@@ -844,10 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="42" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="183" column="51" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="8" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="61" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxurySuperStrictOneTwentyFiveTest.java" />
       <jump line="99" column="0" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/test/java/com/airbnb/goblin/lib/pricing/pricingstrategy/cancellation/CancellationGuestLuxuryModerateNinetyFiveTest.java" />
@@ -944,6 +936,10 @@
       <jump line="110" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="111" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
       <jump line="112" column="18" filename="$USER_HOME$/airlab/repos/treehouse/projects/orca/src/main/java/com/airbnb/orca/dataloader/content/BaseContentLoader.java" />
+      <jump line="307" column="39" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/pricingstrategy/PricingStrategyFactory.java" />
+      <jump line="291" column="31" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/lib/src/main/java/com/airbnb/goblin/lib/pricing/calculator/PaymentTripCalculator.java" />
+      <jump line="15" column="17" filename="$USER_HOME$/airlab/repos/treehouse/projects/goblin/api/src/main/java/com/airbnb/goblin/api/CancellationData.java" />
+      <jump line="80" column="30" filename="$USER_HOME$/airlab/repos/treehouse/projects/gringott/api/src/main/java/com/airbnb/gringott/api/request/PaymentPricingRequest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
